@@ -1,0 +1,186 @@
+{
+ "id": "c505ba55-bc72-4b59-8927-870ff0a7dae6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "1e32c5db-5579-4116-8260-63157b1daa96",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0d22efb3-aa2a-4966-a8e4-46dbc5f1ebdd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "5827dd05-4337-4e9e-873e-f634c0fb0147",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          4565,
+          4570
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "84a6caf3-b3dd-4cec-8d1a-8e0061c5dfdd",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3dafdf4b-54b9-4fae-b9f5-b4807b530f05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4570,
+        4571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "825a7ee7-140b-4af0-abb7-67e010e2750b",
+       "type": "word",
+       "value": "завмер",
+       "textRange": [
+        4571,
+        4577
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Данко завмер",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8f92d664-041b-46ec-99db-6143e07d8f85",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4577,
+      4578
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "188ae6bc-e017-45aa-b102-6e0870a2e732",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c447b154-f7a0-4408-aeda-709dd1b100e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4578,
+        4579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30f0d387-d092-4e11-b04a-e23c73e86df3",
+       "type": "word",
+       "value": "дивився",
+       "textRange": [
+        4579,
+        4586
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80b6350f-d739-4b04-b3f1-c05d5ed73186",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4586,
+        4587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34c58705-4b22-436b-a09d-16c789aa2061",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4587,
+        4589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55fdac4f-b50f-444d-a3c5-655c207c99bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4589,
+        4590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3ab4adfc-98e2-4590-ab1b-22e8e2209daa",
+         "type": "word",
+         "value": "Дору",
+         "textRange": [
+          4590,
+          4594
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3c91c71f-943c-4018-b62f-f742bb95654c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d2136489-a518-4e57-be88-2a995901fbd8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4594,
+        4595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61fe184f-ffe1-417a-989d-3c2345bcfc85",
+       "type": "word",
+       "value": "захоплено",
+       "textRange": [
+        4595,
+        4604
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дивився на Дору захоплено",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b614d2ea-b1dc-4cf2-9456-b611a30d4b2e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4604,
+      4605
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0973a62f-6869-46f5-9e41-9758c2fd6884",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4605,
+      4606
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Данко завмер, дивився на Дору захоплено.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Данко завмер, дивився на Дору захоплено.",
+ "concept": "SYNTAX"
+}

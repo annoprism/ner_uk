@@ -1,0 +1,274 @@
+{
+ "id": "3a443a12-ebc1-451d-b578-a8521bcd5df8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5f1bb725-078b-4bc2-aef3-0553138c0651",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "324ff635-1725-4cd3-9cd4-d132de71a6a0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b64a180f-1790-4551-abba-6f25fdae8bc7",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        2082,
+        2083
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bcd3251-5c92-4862-9cad-09772d55b29e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2083,
+        2084
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37724ae6-cff0-4b55-b3b2-5e6840078979",
+       "type": "word",
+       "value": "темряві",
+       "textRange": [
+        2084,
+        2091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eaf16b61-7bf4-4b29-84f7-27c61d2d19ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2091,
+        2092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f21138de-0e75-43b1-b3a8-ac8a941021c8",
+       "type": "word",
+       "value": "клацнула",
+       "textRange": [
+        2092,
+        2100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "154497e2-6e29-4717-b486-92a7ba974719",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2100,
+        2101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77a21add-1c80-4a8b-ba51-078cc5d9f616",
+       "type": "word",
+       "value": "запальничка",
+       "textRange": [
+        2101,
+        2112
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У темряві клацнула запальничка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ee815313-aa8c-4fc6-9d91-bf844c792195",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2112,
+      2113
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У темряві клацнула запальничка",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3ce9523c-601f-4c73-8794-fdd17ad81f28",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1369cfdb-c6af-45bc-b0d1-2a62ba30716f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8c1e535a-b92e-4616-a5ba-81ff54c1a8c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2113,
+        2114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "83ed48af-caa2-4b52-beaf-feaba742e73a",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          2114,
+          2119
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "67dd527c-6bcc-4075-9252-da6cfd1ca037",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "201dc64b-0409-4b2f-a746-ed88517a75b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2119,
+        2120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c28c3dfd-097c-4cc5-a45c-0d73e04956f5",
+       "type": "word",
+       "value": "стояв",
+       "textRange": [
+        2120,
+        2125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fb3b265-7ed1-4dd9-8843-27436bf2eae1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2125,
+        2126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b66d9b7d-54b2-45ab-a573-be4da048396a",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        2126,
+        2128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "034f4dda-b960-491b-99ee-d9cfecf358f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2128,
+        2129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5363d3bd-f991-4620-8f77-bffc595b4f6a",
+       "type": "word",
+       "value": "метр",
+       "textRange": [
+        2129,
+        2133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b69c4b19-c8ab-4941-9938-3cecef93d80b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2133,
+        2134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e4bdbd8-6c44-40f2-9681-a794479d7be7",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        2134,
+        2137
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72957947-04bc-4f8d-8adc-8c2fb0f2e9b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2137,
+        2138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "754944dd-e30c-443a-bc49-ce3ccf531bbd",
+         "type": "word",
+         "value": "Дори",
+         "textRange": [
+          2138,
+          2142
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7c0539b4-da00-4d19-8127-9cd8b9affea2",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Данко стояв за метр від Дори",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3a3fe452-6db7-426e-b805-6bb6c1b70783",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2142,
+      2143
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "494ce1c9-4464-4ba5-82e0-9d1283d6a6ed",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2143,
+      2144
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Данко стояв за метр від Дори.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У темряві клацнула запальничка Данко стояв за метр від Дори.",
+ "concept": "SYNTAX"
+}

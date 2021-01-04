@@ -1,0 +1,1440 @@
+{
+ "id": "522e297b-ec6b-4e52-a99c-7f885c3311e0",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3aa57f7c-f51f-4dca-a381-11ebf236aefa",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b2a9dd46-3f73-4a2e-b1b0-129321ab52b9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6cf3c47a-709c-43c2-97e5-5c53cbf7fda4",
+       "type": "word",
+       "value": "Загалом",
+       "textRange": [
+        2313,
+        2320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65b8a2f2-0f70-41a6-9d54-68013082f828",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2320,
+        2321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95cc6e91-8566-48af-890e-c8460253d1c7",
+       "type": "word",
+       "value": "клімат",
+       "textRange": [
+        2321,
+        2327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7738cf82-42b2-4224-bf5e-d9bcb8de771e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2327,
+        2328
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "46ece1ea-4d02-4b65-97f4-5edd3bffec44",
+         "type": "word",
+         "value": "Львова",
+         "textRange": [
+          2328,
+          2334
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "58f1fe1e-97b6-4553-ac1c-9a29f51a1118",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "584a909f-92bd-4299-904e-09432ada163b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2334,
+        2335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38df4f32-4463-495f-bcd5-12f757031dea",
+       "type": "word",
+       "value": "вологіший",
+       "textRange": [
+        2335,
+        2344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "befb1b05-8a5d-4eec-a16f-125c0ed14eaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2344,
+        2345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ef0e932-4d5e-47d4-8d6f-5c1ad1edc80f",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2345,
+        2346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04e6a815-f936-432e-bc19-909581d12bdd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2346,
+        2347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0248367-6c82-4af2-9fc4-8c140be7d9dc",
+       "type": "word",
+       "value": "тепліший",
+       "textRange": [
+        2347,
+        2355
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Загалом клімат Львова вологіший і тепліший",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f51c9348-0af8-4717-9c1a-21365db63ff8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2355,
+      2356
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1901a9d2-ecfa-4c0d-95b5-1db6852d2b7b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bcba3b69-e4c4-4085-acb1-cd933443f9f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2356,
+        2357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e644e17a-3948-49d2-adb1-b6957d985858",
+       "type": "word",
+       "value": "аніж",
+       "textRange": [
+        2357,
+        2361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66fbe524-fb25-4bd3-a8d8-e1f076c10263",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2361,
+        2362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05c061d8-3f45-42ba-8fad-dd363c92051d",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        2362,
+        2364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8bf6c09f-2181-4660-a8d0-3d214018a4fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2364,
+        2365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "20e14d63-bf06-47cf-8d2b-38845d6a3ecc",
+         "type": "word",
+         "value": "Збручем",
+         "textRange": [
+          2365,
+          2372
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8cb6a5bf-a961-474d-af16-47bf77aedb73",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " аніж за Збручем",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "978b584f-8462-46ce-b48b-7cb39ce00da1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2372,
+      2373
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2ff473c0-68cf-4d18-83e4-1fc788121692",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "add90333-d607-4704-bf22-b5fac8234b4d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2373,
+        2374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6f533b8-71ad-4151-aaa0-3f29a1063c19",
+       "type": "word",
+       "value": "хоча",
+       "textRange": [
+        2374,
+        2378
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d5a6830-0f41-4a1b-93c5-ca583f502d65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2378,
+        2379
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf5e4ba6-02fe-446a-86ed-fd55d8f01726",
+       "type": "word",
+       "value": "порівняно",
+       "textRange": [
+        2379,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9619cedb-718e-4ae6-9eb0-4b0e6f345301",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2388,
+        2389
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa8a5491-c61d-4561-9d11-c06ffa14d9c8",
+       "type": "word",
+       "value": "зі",
+       "textRange": [
+        2389,
+        2391
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "500c3392-ae7e-4608-ac1e-2903d2306a14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2391,
+        2392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "905e6bbd-b58c-48af-8d75-a34ce3231b65",
+         "type": "word",
+         "value": "Західною",
+         "textRange": [
+          2392,
+          2400
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0647eaab-1e97-43c2-9170-69cd3194849b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2400,
+          2401
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "20203b1b-297a-43d6-95e1-f6041158f6d7",
+         "type": "word",
+         "value": "Галичиною",
+         "textRange": [
+          2401,
+          2410
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8fb93128-99e3-4133-93d9-c3a702b90205",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "cb73df81-a11a-4717-b9a7-41d97f72b250",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2410,
+        2411
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58aac00b-406b-4869-b168-bb42a260f7c7",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2411,
+        2412
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7239539-a485-4ca4-b9c9-811ddf4a9a75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2412,
+        2413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4ea2d7b-9edd-435c-bca2-234af9ef4722",
+       "type": "word",
+       "value": "суворіший",
+       "textRange": [
+        2413,
+        2422
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хоча порівняно зі Західною Галичиною — суворіший",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d0f77af-4e7f-4c1c-b565-ed3e7e801a44",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2422,
+      2423
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c41aefab-876c-479d-bc5f-ba960c1e7a1e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "33ef800d-0e1e-48f4-bd6a-615d3e310b23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2423,
+        2424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "766433a2-dbf3-42e7-b2e8-a156ccb55b08",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        2424,
+        2426
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1af801d6-faa8-4799-af26-731db83cfd79",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2426,
+      2427
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0bd7942a-353c-4569-9629-00f2acc01238",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "97cfb029-408d-4577-8cd3-cf997f555ee7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2427,
+        2428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8961e8fd-cb9a-4ab1-92ba-efb578da7287",
+       "type": "word",
+       "value": "наприклад",
+       "textRange": [
+        2428,
+        2437
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наприклад",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b45dc74a-195a-45aa-82fe-d25c4de6fe9c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2437,
+      2438
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ac2c885b-da91-4723-b984-f17b0de89f21",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d32db777-8b06-4e87-abee-5bd2ba77d52f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2438,
+        2439
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fa5b7db-244a-4e97-948b-b38a86e9fc3b",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2439,
+        2440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbcf92c9-d219-41df-9833-28c7ca3860bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2440,
+        2441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "12337ee4-ae39-48f2-a229-a2780c91b47f",
+         "type": "word",
+         "value": "Кракові",
+         "textRange": [
+          2441,
+          2448
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3eaeff80-8fed-4a1f-ae2f-37fe7778e393",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "875194e7-e0dd-4c42-8a6d-955a5e83d5a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2448,
+        2449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c99d9f7-5d4a-4b14-84a9-e34b77769203",
+       "type": "word",
+       "value": "цвітіння",
+       "textRange": [
+        2449,
+        2457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "765014ab-1a48-487e-bbdc-a1a6e69c1698",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2457,
+        2458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0a0d0af-5b08-4420-81aa-81259036b272",
+       "type": "word",
+       "value": "дерев",
+       "textRange": [
+        2458,
+        2463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a830351-378e-4bd5-8ea8-269c57210d42",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2463,
+        2464
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48f54a3e-789d-4702-820e-f19b259ea200",
+       "type": "word",
+       "value": "починається",
+       "textRange": [
+        2464,
+        2475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8be7f64-9aab-4300-95b4-75ac21c2ae95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2475,
+        2476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c09a3ca1-e33e-4f83-9684-ab7d9ea2e665",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2476,
+        2478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f742835-4165-4f1c-9b3d-65881abd9d90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2478,
+        2479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44998e4a-49b6-403f-bbd7-a72997487ed5",
+       "type": "word",
+       "value": "два",
+       "textRange": [
+        2479,
+        2482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d40ac756-6704-4d74-b9b9-c82cac8b4f8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2482,
+        2483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3968b300-bcf9-45aa-85df-0dcfbd054df8",
+       "type": "word",
+       "value": "тижні",
+       "textRange": [
+        2483,
+        2488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ecbdf2e-7219-4100-8fdf-18f71ddae3f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2488,
+        2489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c23cd98-c890-4d0f-a92f-e8d93aac4b0e",
+       "type": "word",
+       "value": "раніше",
+       "textRange": [
+        2489,
+        2495
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у Кракові цвітіння дерев починається на два тижні раніше",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9d28ceb3-7eb2-496a-8a7c-79b4269cc24d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2495,
+      2496
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a785d00-907f-4f74-ab15-4ec9932d757f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "559ec6ca-8a83-458f-be5d-630868fd1fb1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2496,
+        2497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c819c69f-1b20-4508-8dcc-39a3e79f2339",
+       "type": "word",
+       "value": "аніж",
+       "textRange": [
+        2497,
+        2501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5641274f-000b-4031-ad8d-b028786d2b27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2501,
+        2502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "809cd9a8-a4b3-4831-94d7-6106a602cce3",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2502,
+        2503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c945bd7f-82a5-4bac-bdb2-24cc6e722183",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2503,
+        2504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "9162b82a-804d-43fe-9446-c39ad26a16ef",
+         "type": "word",
+         "value": "Львові",
+         "textRange": [
+          2504,
+          2510
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a16e89c6-c850-4bf9-9ed0-4164549d31cf",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " аніж у Львові",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "03bef283-f62f-4489-820c-1d5f2646c9e4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2510,
+      2511
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Загалом клімат Львова вологіший і тепліший, аніж за Збручем, хоча порівняно зі Західною Галичиною — суворіший, бо, наприклад, у Кракові цвітіння дерев починається на два тижні раніше, аніж у Львові",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fd5bd3a0-9ea4-4b71-83ff-3a50c09eed61",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "08a07433-d5fe-46a4-a323-2acef6daca61",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d630eb38-b118-459b-a7c4-6de5d551cde4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2511,
+        2512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26ab3f33-beb6-4024-aac4-e2d0252bfbf2",
+       "type": "word",
+       "value": "За",
+       "textRange": [
+        2512,
+        2514
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d102222-ba4c-44de-a8b2-3dc7d8eb6a7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2514,
+        2515
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e7bb7193-3fb5-4bc3-bf78-5b43ef74c3de",
+         "type": "word",
+         "value": "Фридериком",
+         "textRange": [
+          2515,
+          2525
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "923efc74-97d9-477a-b262-ba56256c6898",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2525,
+          2526
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "81205b3e-1816-420a-b2dc-fdb9756ca09d",
+         "type": "word",
+         "value": "Папе",
+         "textRange": [
+          2526,
+          2530
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f24bff8e-c2f5-420f-aed8-0587d72e0be8",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " За Фридериком Папе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "99d547fc-caca-4ecb-aaf6-7c11bcf30611",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2530,
+      2531
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43e8381e-35fa-4afd-a1f6-9787769c2c5d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fc468df9-c834-481d-993c-aec301c43de0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2531,
+        2532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da5267e9-404b-47c1-894f-e7de7cee01a0",
+       "type": "word",
+       "value": "найнижча",
+       "textRange": [
+        2532,
+        2540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d03eb04-12d2-4ab1-8d45-66a8c9c7bcdf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2540,
+        2541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7842d8b4-8c0e-4f02-ab4a-710a60f31fdb",
+       "type": "word",
+       "value": "температура",
+       "textRange": [
+        2541,
+        2552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0a04df8-e53b-418b-a8ce-817dfea56b23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2552,
+        2553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c788bb5-d093-4745-aad9-64f7ee72b3f5",
+       "type": "word",
+       "value": "була",
+       "textRange": [
+        2553,
+        2557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2784a3d7-7639-418d-86a9-31e48387dadc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2557,
+        2558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac90fd3b-69a3-45a4-8d4a-1224a35490ad",
+       "type": "word",
+       "value": "зафіксована",
+       "textRange": [
+        2558,
+        2569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de2997a5-9aea-44f9-a6b2-7766bb99719e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2569,
+        2570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ca00b14-d174-428f-9ff3-e1670e761a4c",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2570,
+        2571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15fc7bf8-e120-4263-91c3-61650d83f837",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2571,
+        2572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "d55b1293-0e35-4961-ba4b-c9c1253140ca",
+         "type": "word",
+         "value": "Львові",
+         "textRange": [
+          2572,
+          2578
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3d966c49-f180-4e7e-bc15-07a8ee9044ed",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "db5d2157-ece0-46cb-abb3-08ff6d723ada",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2578,
+        2579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a537790f-adb0-48c9-a605-e39931b6a1ae",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2579,
+        2580
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "828b9db5-1428-4afe-ade5-4c04c6ef97a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2580,
+        2581
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2ead978-3f11-4ef1-a417-61d252eed050",
+       "type": "word",
+       "value": "лютому",
+       "textRange": [
+        2581,
+        2587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54bc7fd4-32f2-45d9-b93e-04d0d63c4278",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2587,
+        2588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b38e35db-fd50-49f5-b289-9d7eac1531e8",
+       "type": "number",
+       "value": "1870",
+       "textRange": [
+        2588,
+        2592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "239ff0d9-c8c6-492c-8165-0a1d25fe6bdc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2592,
+        2593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c490bc4-b4dd-4e61-8da1-8280993c81ee",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        2593,
+        2597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc234311-454c-414a-828d-1dd8d5ca9aac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2597,
+        2598
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28340053-0969-4df5-b17f-b74052cf604b",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2598,
+        2599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3920c17-2be2-47d8-8384-e1dcc64bc5c8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2599,
+        2600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf4debaf-8277-476c-bd6b-57205511b7c3",
+       "type": "word",
+       "value": "мінус",
+       "textRange": [
+        2600,
+        2605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6f5a1bb-4b85-4ecd-8adc-179c8b2dcd1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2605,
+        2606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae4de8ad-a000-4756-af83-515a28751a36",
+       "type": "number",
+       "value": "30,5",
+       "textRange": [
+        2609,
+        2613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af0de61e-158c-441e-8a42-570f06344dbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2610,
+        2611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "461587e5-12ec-4c74-b076-8da5dec56650",
+       "type": "word",
+       "value": "градусів",
+       "textRange": [
+        2611,
+        2619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcac4103-f1a2-454d-87ee-fb39d08e1c7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2619,
+        2620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48a1e180-cc28-4c62-be3c-99cf2555a694",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        2620,
+        2622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca57bbc7-c827-42cc-9cd2-f330458bd5a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2622,
+        2623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "ba67f95f-4f17-40c7-9f0a-71c3ef478795",
+         "type": "word",
+         "value": "Цельсієм",
+         "textRange": [
+          2623,
+          2631
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "48416be1-8358-4270-b6a5-ea637f3dd20d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " найнижча температура була зафіксована у Львові в лютому 1870 року — мінус 30,5 градусів за Цельсієм",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a8f56095-1f04-4360-8228-7e5e531c218a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2631,
+      2632
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe18af44-eb8b-4e9e-b147-b8a029ad61c9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6bf011f2-e5e2-4401-8575-ed6e6fe35891",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2632,
+        2633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d3792e8-de3f-491b-9378-d3abfcf55880",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        2633,
+        2634
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "042cf012-6908-43d0-bfb0-95e8531addc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2634,
+        2635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96be400d-06c8-44ad-9ffd-d81472e7840e",
+       "type": "word",
+       "value": "найвища",
+       "textRange": [
+        2635,
+        2642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a8264cd-300f-49ec-907e-7f6029c7e543",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2642,
+        2643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0d26337-a245-4a05-bc3c-85fb962ec366",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2643,
+        2644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a102eab2-3e39-42c2-8fce-7388b712eb85",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2644,
+        2645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46f386db-157a-445d-9db6-553f27fcfbe4",
+       "type": "word",
+       "value": "плюс",
+       "textRange": [
+        2645,
+        2649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8afb2d44-ef38-47bd-a44e-19ef523ae8ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2649,
+        2650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84635983-f715-4a92-a642-7bc0dda71667",
+       "type": "number",
+       "value": "37",
+       "textRange": [
+        2650,
+        2652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45813754-1aac-47ca-a66b-35387b762522",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2652,
+        2653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73933e3e-76bf-41c1-aeab-eb6a5e46f007",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2653,
+        2654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ead5ec5c-a5a9-4f02-9725-2d35eb18b94e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2654,
+        2655
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ef79e0c-e04e-4506-a0f8-91c0c5f9afea",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2655,
+        2656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51bb0be8-431a-4c1a-bcbd-377b09214f0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2656,
+        2657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e178080-3f5a-4099-aba5-00526ec95173",
+       "type": "word",
+       "value": "серпні",
+       "textRange": [
+        2657,
+        2663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c7d84bf-97da-4fcd-910b-c598fa57f8c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2663,
+        2664
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae481913-9ab7-4e27-a999-23fee4ec1519",
+       "type": "number",
+       "value": "1921",
+       "textRange": [
+        2664,
+        2668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8648429e-8a80-41d0-a790-732443d3e304",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2668,
+        2669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ec61c62-325c-4168-90e8-9ffb29111355",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        2669,
+        2673
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а найвища — плюс 37 — у серпні 1921 року",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "21b0eb94-aae6-4a10-bf9c-4dae5e529e25",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2673,
+      2674
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "df1479f5-6abc-44a1-97b2-70a1976cef89",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2674,
+      2675
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " За Фридериком Папе, найнижча температура була зафіксована у Львові в лютому 1870 року — мінус 30,5 градусів за Цельсієм, а найвища — плюс 37 — у серпні 1921 року.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Загалом клімат Львова вологіший і тепліший, аніж за Збручем, хоча порівняно зі Західною Галичиною — суворіший, бо, наприклад, у Кракові цвітіння дерев починається на два тижні раніше, аніж у Львові За Фридериком Папе, найнижча температура була зафіксована у Львові в лютому 1870 року — мінус 30,5 градусів за Цельсієм, а найвища — плюс 37 — у серпні 1921 року.",
+ "concept": "SYNTAX"
+}

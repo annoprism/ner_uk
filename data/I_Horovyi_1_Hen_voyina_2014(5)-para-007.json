@@ -1,0 +1,411 @@
+{
+ "id": "32d70d94-c4d9-4fd3-86e8-15c269c1f50f",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "784b6f8b-7c52-4e76-96ab-81135291ca68",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3d5f7173-89fe-4c74-a670-8e841a21130b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fc998268-fe79-4008-90af-ac91d6b8f96d",
+       "type": "word",
+       "value": "Від",
+       "textRange": [
+        2410,
+        2413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b30b516a-cf21-44a4-bf08-2a28dd3b97cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2413,
+        2414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5146ca1-8455-4370-8d92-515e761b129e",
+       "type": "word",
+       "value": "несподіванки",
+       "textRange": [
+        2414,
+        2426
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cc1de6b-6e58-467a-9c8f-4404c5a4d771",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2426,
+        2427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9f2ae952-87cc-44ce-a847-922d8d79c6ce",
+         "type": "word",
+         "value": "Андрій",
+         "textRange": [
+          2427,
+          2433
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "53f04d14-b682-4bda-834c-e792963230ba",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5484fe7b-1d05-4fb7-9007-d260f5b5671f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2433,
+        2434
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40885b43-fc63-4adf-b13d-863b3a07e6c2",
+       "type": "word",
+       "value": "кліпнув",
+       "textRange": [
+        2434,
+        2441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "888db5dd-d459-4cb4-b565-510e24223da8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2441,
+        2442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02ae965c-baf2-4290-b5b4-5a715dbbd58d",
+       "type": "word",
+       "value": "очима",
+       "textRange": [
+        2442,
+        2447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d7bcaf0-b8d9-47a7-9d93-cab90d3736db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2447,
+        2448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a251df30-7c8f-4e88-9c94-598309d6169a",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2448,
+        2449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcf682b1-2d86-428d-9d48-ef9cf78a7f72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2449,
+        2450
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94d91e17-14c7-4fc6-a1da-ef6c5620e377",
+       "type": "word",
+       "value": "прокинувся",
+       "textRange": [
+        2450,
+        2460
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Від несподіванки Андрій кліпнув очима і прокинувся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "418864db-94f8-40ab-9cf0-d079c756de95",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2460,
+      2461
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Від несподіванки Андрій кліпнув очима і прокинувся",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a608b875-2a8b-46f8-9032-0d0bcc46e67e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "335ea0b6-20f3-4c30-99e8-a587d0d4667b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "76a51dbb-7dc1-48d3-b80d-6483568f5398",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2461,
+        2462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7aba07c8-12e7-4d3a-9562-72e4271d0fe4",
+       "type": "word",
+       "value": "Виявилося",
+       "textRange": [
+        2462,
+        2471
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Виявилося",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7cbbe741-4069-4ed5-ad8f-c2ef06c10d9d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2471,
+      2472
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba3ae314-af5f-4e3d-a73a-f9dad68dde25",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1e98cd94-8cf5-4b24-aa5b-f16e4fbe6c42",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2472,
+        2473
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41ae93ac-0b71-4299-adff-d55f0cb517e5",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2473,
+        2475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef371ca2-e6f6-4e2d-9951-022ef799cea5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2475,
+        2476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e03be93-f5dd-4c2e-870b-a2a8bff265bf",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        2476,
+        2478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b0c833b-4bc6-46ff-b270-95d7a5ca6fe7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2478,
+        2479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "072d8bf6-842e-4a3e-928d-3af659303c09",
+       "type": "word",
+       "value": "сіпнувся",
+       "textRange": [
+        2479,
+        2487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76608ab0-dc44-48cd-8a13-b4ddac15317a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2487,
+        2488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f03e2cc8-04f7-4840-a3a7-4269f6516a69",
+       "type": "word",
+       "value": "бус",
+       "textRange": [
+        2488,
+        2491
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що це сіпнувся бус",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f5bd7696-a923-49ad-8dda-5d0eb99792cc",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2491,
+      2492
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Виявилося, що це сіпнувся бус",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "44f59c07-bf55-4ffa-ad78-08cb7a344d5a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "08ce6c9f-7b35-40bd-8d17-e1e2262803a0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3e7bf7f1-7d89-4850-8aeb-81e89d5ab75d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2492,
+        2493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8ad8654-01bf-492c-a081-f64d4ec3db78",
+       "type": "word",
+       "value": "Сіпнувся",
+       "textRange": [
+        2493,
+        2501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d78d1d3-2d8d-4ac7-bb1f-e953ae491b73",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2501,
+        2502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a755807-6175-4823-adb6-f9bd45a758b5",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2502,
+        2503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43f45680-95a5-42a6-bd3d-1948b7057ee4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2503,
+        2504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "725637d3-00af-4f1e-ae55-3568d2dfaed6",
+       "type": "word",
+       "value": "спинився",
+       "textRange": [
+        2504,
+        2512
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Сіпнувся і спинився",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3553d82a-9c24-425c-b42a-d1c5607b3865",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2512,
+      2513
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4790d0de-5d18-478f-a0c8-a1804fb42f73",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2513,
+      2514
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Сіпнувся і спинився.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Від несподіванки Андрій кліпнув очима і прокинувся Виявилося, що це сіпнувся бус Сіпнувся і спинився.",
+ "concept": "SYNTAX"
+}

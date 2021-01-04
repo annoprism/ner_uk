@@ -1,0 +1,622 @@
+{
+ "id": "ac6d67d2-31bd-4e31-b7c2-cf01d127ba95",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "615ae8d6-7f8f-4da4-a938-6bed976182d3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "67dee5dc-dfad-4d55-a6d0-76ad6081f786",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8b5c7465-48b4-4f4e-9921-4190a4eda2d4",
+       "type": "number",
+       "value": "10",
+       "textRange": [
+        1669,
+        1671
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "10",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a1becaae-247c-4692-ae22-77bb97f9ef59",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1671,
+      1672
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "10",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d2f104ed-e16d-480f-a023-7ca6a3835448",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fef47770-cedf-4d3a-8eac-14519c108196",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d472c340-67cc-4656-9b21-c659b27aff93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1672,
+        1673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1336aa77-a793-4ff3-abe7-6921c360b597",
+       "type": "word",
+       "value": "Поцілунки",
+       "textRange": [
+        1673,
+        1682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40b5ccbc-cdfd-4ebc-89e8-a4526d671d61",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1682,
+        1683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab046bb4-6666-4d08-9f53-7384e5f8428c",
+       "type": "word",
+       "value": "заспокоюють",
+       "textRange": [
+        1683,
+        1694
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Поцілунки заспокоюють",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4eed97b2-3feb-44c4-a5d7-cf50a2192d71",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1694,
+      1695
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "85ed4b68-4e81-4c5a-810b-22d219cc8489",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "358734f6-d4e2-4ed3-bd55-7616a94f241b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1695,
+        1696
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9d124a7-505b-4126-aae7-1b58e2569218",
+       "type": "word",
+       "value": "знімають",
+       "textRange": [
+        1696,
+        1704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b611d6c3-ee4c-45f9-babc-2e4c0f1ccc14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1704,
+        1705
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71e336b3-63c1-482f-8ade-46877542945a",
+       "type": "word",
+       "value": "стрес",
+       "textRange": [
+        1705,
+        1710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b71890e-5ab1-4989-9f13-8b7bb9527340",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1710,
+        1711
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b266146f-712b-4dc5-b973-50ac5125b358",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1711,
+        1712
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb037044-3b88-4baa-9211-5a25d61775d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1712,
+        1713
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "adf273da-a57f-457e-8ae2-3c62689c51a9",
+       "type": "word",
+       "value": "відключають",
+       "textRange": [
+        1713,
+        1724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b89e7164-03df-42fd-a3f2-387cf7d914b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1724,
+        1725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41ec197e-7b36-4ddf-b97b-59ab20c04d7e",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1725,
+        1726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd4ce779-ff3c-414b-8dfe-f2184f77837b",
+       "type": "word",
+       "value": "шуми",
+       "textRange": [
+        1726,
+        1730
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98513ea2-a580-426a-9d1b-cc1c31b055fb",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1730,
+        1731
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b142f16c-ddbb-4893-a43a-a3c3735fe9b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1731,
+        1732
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec182172-289b-4aa6-810b-a1e28950eb71",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1732,
+        1733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba95f2f1-9d60-477f-a319-47738b1e4d68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1733,
+        1734
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d5b4556-d941-481c-9380-f4cd2d09b497",
+       "type": "word",
+       "value": "голові",
+       "textRange": [
+        1734,
+        1740
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " знімають стрес і відключають «шуми» в голові",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4e57413f-2c76-41d8-bd00-bd85d5daeacd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1740,
+      1741
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Поцілунки заспокоюють, знімають стрес і відключають «шуми» в голові",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "aec9bf11-3203-4341-bd25-ef71dc96695a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "aa0fa269-7766-4161-bfc0-c09fe4845c2c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "accfdaa2-90b6-4836-9c05-e795869e67f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1741,
+        1742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5006059-1c4e-45af-aec8-d3b23b48a0ca",
+       "type": "word",
+       "value": "Під",
+       "textRange": [
+        1742,
+        1745
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1901f754-719d-4c42-bcda-038a17468fef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1745,
+        1746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd5202c0-7027-4e7b-9713-274fa7ef545c",
+       "type": "word",
+       "value": "час",
+       "textRange": [
+        1746,
+        1749
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fab0b999-6b1a-4271-b973-5dd125feb091",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1749,
+        1750
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89182db2-692a-49cb-ba6b-250d989b9a4f",
+       "type": "word",
+       "value": "поцілунків",
+       "textRange": [
+        1750,
+        1760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "973498f8-150f-4e7c-bd8c-0b7f62675758",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1760,
+        1761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a15da4d9-4de8-4f42-9d43-b09ed129d98c",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1761,
+        1762
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "334f3a17-53bd-4475-a290-2adaede48527",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1762,
+        1763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5ca8820-a50f-4e46-94a8-71047aa6adc7",
+       "type": "word",
+       "value": "крові",
+       "textRange": [
+        1763,
+        1768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66752524-9d40-433d-9701-b6a7a65b782a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1768,
+        1769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "384527a2-6d41-4336-9e95-265790ec3ab9",
+       "type": "word",
+       "value": "підвищується",
+       "textRange": [
+        1769,
+        1781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86253956-39ca-4574-b709-936e17af13de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1781,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d676d27a-09d5-46b0-b015-7fd5f814a139",
+       "type": "word",
+       "value": "рівень",
+       "textRange": [
+        1782,
+        1788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96497002-73a0-4f42-9dc7-4ada5ec92be0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1788,
+        1789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "955a4421-94b6-4ac4-910c-8a8334d1ae15",
+       "type": "word",
+       "value": "окситоцину",
+       "textRange": [
+        1789,
+        1799
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de64f98a-3587-42ab-8396-54abe9ea5c4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1799,
+        1800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "895e5a18-f821-4f68-9f7e-6836cb55f068",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1800,
+        1801
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3795b166-531a-40be-b4b0-274a86ef2ab8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1801,
+        1802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05d5570f-b784-42e0-9c59-14b43f4fe3e4",
+       "type": "word",
+       "value": "гормону",
+       "textRange": [
+        1802,
+        1809
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Під час поцілунків у крові підвищується рівень окситоцину - гормону",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ec044226-91f0-4324-8dc6-b7f16312618f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1809,
+      1810
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6f4f8164-628c-4dab-bfac-8cb4ae23c704",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a18fa97b-99e3-4e70-bb4b-3a48eb43ce6c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1810,
+        1811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38b74f86-9d90-4fc4-aea3-e34522204f3b",
+       "type": "word",
+       "value": "який",
+       "textRange": [
+        1811,
+        1815
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "198ca555-133f-4f73-9396-728f51355388",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1815,
+        1816
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4392ab1a-4d6c-468d-9d33-f2a0fe96beae",
+       "type": "word",
+       "value": "відповідає",
+       "textRange": [
+        1816,
+        1826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c8b3940-2835-4893-b4b5-7da7889a9627",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1826,
+        1827
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dd68ccf-32b4-47bc-93bc-1dd0f9b4e5f7",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1827,
+        1829
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baea3249-0519-405a-82b1-18ffe2d6fce8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1829,
+        1830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64cbc9e1-a5fc-4be1-b32f-0ef4f53957bf",
+       "type": "word",
+       "value": "спокій",
+       "textRange": [
+        1830,
+        1836
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " який відповідає за спокій",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e052b93f-6042-4123-8603-936d6cd7de38",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1836,
+      1837
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "edee2235-9042-440e-a4d9-e118c6b8997a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1837,
+      1838
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Під час поцілунків у крові підвищується рівень окситоцину - гормону, який відповідає за спокій.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "10 Поцілунки заспокоюють, знімають стрес і відключають «шуми» в голові Під час поцілунків у крові підвищується рівень окситоцину - гормону, який відповідає за спокій.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,810 @@
+{
+ "id": "ba77a84b-b964-4781-b117-c05bdef68f7d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d7726737-b0c9-4158-8389-e18bc2d49900",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "825d3d4c-7910-4085-92f0-97f4a59f62eb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "61bbfcd4-6878-4299-88e8-22bbe4d5a9fd",
+       "type": "word",
+       "value": "Моторні",
+       "textRange": [
+        0,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc6ea477-b00f-488c-b446-62ce3ac530ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bea61ef5-21a4-4430-a514-3432bb238751",
+       "type": "word",
+       "value": "оливи",
+       "textRange": [
+        8,
+        13
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Моторні оливи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb2149f1-9b75-4191-ae15-c6988416aba5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      13,
+      14
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "82d1b369-7a77-4688-869a-1588f91700fe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b328b290-33f1-44e8-88ec-439f00520d5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        14,
+        15
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26ee0ec9-6a5f-4565-8dd3-3226cf2b2d0a",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        15,
+        17
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7e3b17a-4ca8-42b4-8af5-52669ed4259f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        17,
+        18
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c52dede8-50be-4b36-9da0-5589460ac3d1",
+       "type": "word",
+       "value": "містять",
+       "textRange": [
+        18,
+        25
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "707ce5c7-df6b-44bf-b1cb-e8deab8b698f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        25,
+        26
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c52b8f1-bebd-42aa-900c-fc1e8b42392e",
+       "type": "word",
+       "value": "забруднювальні",
+       "textRange": [
+        26,
+        40
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffbd841f-fecb-4284-8f80-65adf83e8bf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        40,
+        41
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53cbd840-6b78-403c-adc8-ca60cd447291",
+       "type": "word",
+       "value": "домішки",
+       "textRange": [
+        41,
+        48
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що містять забруднювальні домішки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "adc5f6b1-4212-45c7-91a9-7ddfebf0501e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      48,
+      49
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9c2f20e8-e96f-4d13-b5b1-2768c80b8a96",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "17cf8ff7-915b-47e1-ac48-fe5be5ea2385",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        49,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcc8d710-9b04-4dfe-ab37-ca20b8ec5d16",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        50,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f59e33af-3082-4905-a4e2-441c35415f39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        52,
+        53
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bacbfdbb-4e5a-4539-95ca-5fda82302160",
+       "type": "word",
+       "value": "можуть",
+       "textRange": [
+        53,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42753f1e-8245-499e-b703-4cb03d686d40",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        59,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52353d06-f3b3-44b3-aefd-dae58d72e6d7",
+       "type": "word",
+       "value": "задовольняти",
+       "textRange": [
+        60,
+        72
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f93b19a-8c9d-4f50-89f1-5fcab50bd837",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        72,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6d48af9-38a2-4e5f-8db3-2fa41af0702b",
+       "type": "word",
+       "value": "поставлені",
+       "textRange": [
+        73,
+        83
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06ba0edb-8720-4e07-b999-d2c710b46f0e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        83,
+        84
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59dbfa80-0c99-4466-80e5-714e2aae9dfb",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        84,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47bce159-0d59-4122-a0ff-206030dffc89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        86,
+        87
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29fdfe0d-e4be-43d5-af1d-dc3afdfcf80b",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        87,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "912db75d-9811-41a7-ac9e-b494961d8c56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c7cb096-668d-41bd-94d0-6e02d681dc63",
+       "type": "word",
+       "value": "вимоги",
+       "textRange": [
+        91,
+        97
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не можуть задовольняти поставлені до них вимоги",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b36def01-cb2a-490a-825b-a77f00751ba5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      97,
+      98
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf0bf58c-9598-41c6-a8ff-6cf12bff3367",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3e9ebb29-8696-46fd-bf85-cd174f8f945c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        98,
+        99
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b34b5634-71db-4a04-a642-4545632a10df",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        99,
+        103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99808b32-083e-4081-97fa-6cb59eff7849",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        103,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69b72496-56f1-413a-b9c7-b4af6c36d2b7",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        104,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "465ca47a-a1e6-4298-b6a3-b424e21746c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        106,
+        107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc2a07d3-2e52-407e-959c-2e07a513a0ad",
+       "type": "word",
+       "value": "потрібно",
+       "textRange": [
+        107,
+        115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ec1c929-acd2-4bb1-9f98-d94589baae8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        115,
+        116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9b51d94-3e77-4708-b542-06ac425755e9",
+       "type": "word",
+       "value": "замінювати",
+       "textRange": [
+        116,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "494f4945-f12a-4933-8a4e-848f622c960f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        126,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "778be41f-be8d-4802-af01-75191bbfdedb",
+       "type": "word",
+       "value": "свіжими",
+       "textRange": [
+        127,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f06be25-a453-42ea-a12d-45364ff087ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce1b224f-ef45-482f-a2fc-524baa6425b0",
+       "type": "word",
+       "value": "оливами",
+       "textRange": [
+        135,
+        142
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тому їх потрібно замінювати свіжими оливами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fcd79d62-8823-47ff-862b-1b12f9d684e7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      142,
+      143
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Моторні оливи, що містять забруднювальні домішки, не можуть задовольняти поставлені до них вимоги, тому їх потрібно замінювати свіжими оливами",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "74c87946-e1ed-4197-bfdf-22f5afab64e5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5bbbc4e7-1357-4a4d-8054-8b2e249d2ac4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "66e30623-ca31-4593-8b19-f770803ecc4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9992c2c-58fc-4646-a30f-98ee206500a0",
+       "type": "word",
+       "value": "Аби",
+       "textRange": [
+        144,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "974b0c62-b85a-4bb8-b3f5-d0be26b76023",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        147,
+        148
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6b75973-1d64-4ef8-b550-a45a47d8fdde",
+       "type": "word",
+       "value": "зберегти",
+       "textRange": [
+        148,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ecee7dd-8513-43ec-9f64-26ad67a0a8d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        156,
+        157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "083c233a-35c5-48a9-a412-d768421eb37f",
+       "type": "word",
+       "value": "цінну",
+       "textRange": [
+        157,
+        162
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40942044-f246-4d0d-aba5-5499ede36bb7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        162,
+        163
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2feefe17-bdf4-48f6-9fbc-4f5e9492f4d3",
+       "type": "word",
+       "value": "сировину",
+       "textRange": [
+        163,
+        171
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Аби зберегти цінну сировину",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "228ac077-0e78-4fb2-a790-39df505b400f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      171,
+      172
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "16fc32a5-4ad7-4aaa-a7c2-568d14604699",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1eba8e90-7242-4614-8c21-d2d3f5991f6c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        172,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "068d9426-63af-4755-b7fa-82fb001a005b",
+       "type": "word",
+       "value": "відпрацьовані",
+       "textRange": [
+        173,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90d7675e-de65-40d4-8a2a-837245f4b9ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        186,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c09222e-413c-4dfa-a78c-52b5fd599dcf",
+       "type": "word",
+       "value": "оливи",
+       "textRange": [
+        187,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "506029b8-1ec6-41a1-af05-5549ae6d6cf8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        192,
+        193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8b1ab9c-ef05-4526-a311-cfb499d46230",
+       "type": "word",
+       "value": "збирають",
+       "textRange": [
+        193,
+        201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e71e272-d78f-4ca4-a909-552033f5e1b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        201,
+        202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c9caead-5f8a-4af2-8186-80ff70682f69",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        202,
+        203
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c59817b-40c9-4aa9-aafc-70fa8dce97ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        203,
+        204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8cfc0489-1d78-4e42-966c-fbc14060d4a5",
+       "type": "word",
+       "value": "піддають",
+       "textRange": [
+        204,
+        212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a502e5b2-9c4d-42f0-af6c-f4826b14daa7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        212,
+        213
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec28a39e-a46b-4e5c-8f2b-a6662761d525",
+       "type": "word",
+       "value": "регенерації",
+       "textRange": [
+        213,
+        224
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " відпрацьовані оливи збирають і піддають регенерації",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f420e91e-a08b-462c-b010-4ada04506d6e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      224,
+      225
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d1941d77-99b0-4dd1-abae-a0613f85961a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "be76e224-66c8-41ba-9890-e82e76452b66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7d1306c-5a20-4e9f-a72c-afb75cad1267",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        226,
+        228
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d713321-1e4b-41d7-9b98-d870b80783d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        228,
+        229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e233a2d-6b65-41b8-b99b-9eca378a4047",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        229,
+        230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15c0d569-397a-4ed5-aa55-96207726736f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        230,
+        231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37f1cfa8-4438-448f-8be1-3a59c284eb3d",
+       "type": "word",
+       "value": "економічно",
+       "textRange": [
+        231,
+        241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f11351c-4d8d-458d-9afe-fc07054d525b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        241,
+        242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2aeb8fc-3b58-4706-80f4-14dfd6a5e2b2",
+       "type": "word",
+       "value": "вигідним",
+       "textRange": [
+        242,
+        250
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що є економічно вигідним",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1f3871dd-8926-4b36-a160-98e850810e10",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      250,
+      251
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d1b7746b-9e94-4840-a2b5-f213f42f071b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      251,
+      252
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Аби зберегти цінну сировину, відпрацьовані оливи збирають і піддають регенерації, що є економічно вигідним.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Моторні оливи, що містять забруднювальні домішки, не можуть задовольняти поставлені до них вимоги, тому їх потрібно замінювати свіжими оливами Аби зберегти цінну сировину, відпрацьовані оливи збирають і піддають регенерації, що є економічно вигідним.",
+ "concept": "SYNTAX"
+}

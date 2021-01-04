@@ -1,0 +1,745 @@
+{
+ "id": "7cffd4d8-efc2-4d8e-a40d-115810be6775",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f693bba0-494a-4355-a75e-0f485005cf07",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a27959c8-6761-401f-b681-ebf9bbd706ae",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8b51d95a-2018-4f38-a09d-d67e9953ea19",
+       "type": "word",
+       "value": "Надвечір",
+       "textRange": [
+        7532,
+        7540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "349b7e9a-2608-46fc-b204-98c0f5f19892",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7540,
+        7541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15f2f415-2771-4cd9-9c9c-7d02f23c8c88",
+       "type": "word",
+       "value": "середи",
+       "textRange": [
+        7541,
+        7547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a309ed7-99ea-458f-8a19-e0a64f1e5167",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7547,
+        7548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "580c01ff-9453-4a5e-9465-f2b2d6a52eb4",
+       "type": "word",
+       "value": "після",
+       "textRange": [
+        7548,
+        7553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a71c055-a024-41b9-9d03-a2c35381eb11",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7553,
+        7554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "2eea813a-5f46-47fd-bf43-9d9e226d4a1f",
+         "type": "word",
+         "value": "Великодня",
+         "textRange": [
+          7554,
+          7563
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c3b6cd18-59f1-4078-a7fb-7fe34b807df9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e7fcc5a0-d8e8-4544-ae9e-b3cd5ec824d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7563,
+        7564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2122c728-4433-40c4-936e-3eb18c83b86e",
+       "type": "word",
+       "value": "уже",
+       "textRange": [
+        7564,
+        7567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "845cff43-caf4-43e4-ac16-0c16bf61a794",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7567,
+        7568
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26d9afcd-521d-482a-96ce-ebacf009ad0b",
+       "type": "word",
+       "value": "виглядала",
+       "textRange": [
+        7568,
+        7577
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "528296a7-8cfe-41b9-bb49-6b551c707b35",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7577,
+        7578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "298c109f-2f3e-46dc-9f7c-b0beee18dc53",
+         "type": "word",
+         "value": "Толю",
+         "textRange": [
+          7578,
+          7582
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "98e45b4a-e41a-4f8f-9b7b-3da23a10a625",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "13105432-dfc2-45a1-83d1-8d6bdcb96fad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7582,
+        7583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dac1feba-fa76-4feb-a61f-4e4b7505dcd0",
+       "type": "word",
+       "value": "біля",
+       "textRange": [
+        7583,
+        7587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "396500a1-fd27-4db7-80b9-4cd5be8453e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7587,
+        7588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0dc90257-0d6f-4770-8c72-9ce7282a185f",
+       "type": "word",
+       "value": "хвіртки",
+       "textRange": [
+        7588,
+        7595
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Надвечір середи після Великодня уже виглядала Толю біля хвіртки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f6b3bec-2f9b-427d-be4f-8e3ec644a8f1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7595,
+      7596
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "51fc42a0-7739-4d06-84f0-97fe2c108b32",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "668e4195-9438-4460-a908-688f07d36835",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7596,
+        7597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0310999-1721-4a5a-949a-4fac6ea3852b",
+       "type": "word",
+       "value": "наче",
+       "textRange": [
+        7597,
+        7601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78e134d1-4f2a-4f79-8f85-26c6cc3eab45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7601,
+        7602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "f7185e59-2f81-46e3-a739-0d1e1e20635d",
+         "type": "word",
+         "value": "Соломія",
+         "textRange": [
+          7602,
+          7609
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3a7f336c-4a81-4cf8-897d-5dbe54fd8b6c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4a840d72-198a-490f-8a7e-46a3c78992b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7609,
+        7610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f0ef762-810d-49e6-8a42-3c55c0d87f59",
+       "type": "word",
+       "value": "мала",
+       "textRange": [
+        7610,
+        7614
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b5e63df-a743-4fd0-9374-3827e00c295b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7614,
+        7615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56111532-8b8c-4e29-9cfe-3ba060af0654",
+       "type": "word",
+       "value": "швидко",
+       "textRange": [
+        7615,
+        7621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "569e420b-433a-426b-82cf-148e5a4782d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7621,
+        7622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ad69de3-a8c4-4d8b-bca1-1854e9c999a2",
+       "type": "word",
+       "value": "насититися",
+       "textRange": [
+        7622,
+        7632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fe26896-02c9-437c-97fc-d6a07db19103",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7632,
+        7633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6eaacc8-0cf6-446f-a723-99ccaf131119",
+       "type": "word",
+       "value": "любов’ю",
+       "textRange": [
+        7633,
+        7640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6101533-e608-46d3-9f1d-3bbe9977da50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7640,
+        7641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1eff9956-cde6-477d-b920-05cac0d6022f",
+       "type": "word",
+       "value": "кульгавого",
+       "textRange": [
+        7641,
+        7651
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наче Соломія мала швидко насититися любов’ю кульгавого",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74430aaa-1857-4154-a54a-aa5c795a35fb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7651,
+      7652
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "40caa786-ae59-4ebb-8a37-1a51c34babb6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d170d5ca-e5c6-4b3b-97e2-0c6095d17602",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7652,
+        7653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75cabfe7-0cbe-4858-941e-5967cd900da8",
+       "type": "word",
+       "value": "уже",
+       "textRange": [
+        7653,
+        7656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e163d6c-d7b9-49af-adeb-ea6e2f6afd4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7656,
+        7657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea1bf85f-4dfa-46ba-8784-53521bd4ccf5",
+       "type": "word",
+       "value": "відпустити",
+       "textRange": [
+        7657,
+        7667
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " уже відпустити",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d3dce28c-dca6-436d-9787-5fbd5f681612",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7667,
+      7668
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c93da07f-9346-4347-b771-630e8358c33a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "717102fc-026d-4823-ae03-41520333e86f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7668,
+        7669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd7db160-1c31-4c56-82e2-6a6aca34ef31",
+       "type": "word",
+       "value": "щоби",
+       "textRange": [
+        7669,
+        7673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b948615-9921-4fa9-9b8e-c522b60d7116",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7673,
+        7674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc07b083-1238-4647-b865-783d1a42bdaa",
+       "type": "word",
+       "value": "той",
+       "textRange": [
+        7674,
+        7677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "897d6d62-0cf3-45ea-97f2-57459de9197a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7677,
+        7678
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6739a8b9-1783-4575-8eb3-58a87dd13a44",
+       "type": "word",
+       "value": "знову",
+       "textRange": [
+        7678,
+        7683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ad05056-f4a1-4403-8b3a-4e30abfa1a6d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7683,
+        7684
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c61af83-0ad5-4915-9011-19332b6fc685",
+       "type": "word",
+       "value": "рани",
+       "textRange": [
+        7684,
+        7688
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e39cb10-a5f1-4611-9678-37ea583c1e8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7688,
+        7689
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdfc358b-5dba-460c-a8b3-74f64c965ee0",
+       "type": "word",
+       "value": "зализував",
+       "textRange": [
+        7689,
+        7698
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " щоби той знову рани зализував",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54f45048-bd47-4f10-a971-7e8ca5b68fe4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7698,
+      7699
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0c9c8aa5-26ac-448a-84bb-96c49eacfefe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5769bc06-7531-4934-8734-152b7dbd8c03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7699,
+        7700
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "863db16d-99ec-4088-8465-1a8a7bb4b0dc",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        7700,
+        7702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b32374c9-6cc8-41ea-8554-5c9ba6945f1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7702,
+        7703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9bd1f74-14f5-4430-812b-8c53e0341768",
+       "type": "word",
+       "value": "забував",
+       "textRange": [
+        7703,
+        7710
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не забував",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f16c6f35-5d27-46bb-a101-b9f1c43afe32",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7710,
+      7711
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "596f3336-66be-45ec-b0a6-551031d29c41",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8ffb775e-307e-4752-abf5-dcc269dbf540",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7711,
+        7712
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31644c11-6600-43b4-a810-f80b54e8b3e9",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        7712,
+        7716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95011e58-f7ec-4451-a48e-709202407fe8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7716,
+        7717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "428a6c2f-9a31-4ddc-af61-5532fbb3582d",
+       "type": "word",
+       "value": "забувався",
+       "textRange": [
+        7717,
+        7726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79613797-755b-4a4b-bf46-2df2816c43ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7726,
+        7727
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70d8605a-44ab-4fdb-94ed-d6ceb2fea071",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        7727,
+        7728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "539e1bd0-ff1b-4c26-b286-c579d4fc6b5b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7728,
+        7729
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c2b9bca-771d-4fd3-9b68-40ab7c01329d",
+       "type": "word",
+       "value": "Маниних",
+       "textRange": [
+        7729,
+        7736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42aaeefd-dfcb-47e1-9c2b-ea245e4b0e3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7736,
+        7737
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cd312b7-3680-4d88-96ad-73fc02d6d8b0",
+       "type": "word",
+       "value": "обіймах",
+       "textRange": [
+        7737,
+        7744
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " лише забувався в Маниних обіймах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d238487a-1d88-4a94-b4b2-3838266cbae7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7744,
+      7745
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8bcd42b-4227-4b5b-af98-b5d8bc21c957",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7745,
+      7746
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Надвечір середи після Великодня уже виглядала Толю біля хвіртки, наче Соломія мала швидко насититися любов’ю кульгавого, уже відпустити, щоби той знову рани зализував, не забував, лише забувався в Маниних обіймах.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Надвечір середи після Великодня уже виглядала Толю біля хвіртки, наче Соломія мала швидко насититися любов’ю кульгавого, уже відпустити, щоби той знову рани зализував, не забував, лише забувався в Маниних обіймах.",
+ "concept": "SYNTAX"
+}

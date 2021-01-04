@@ -1,0 +1,102 @@
+{
+ "id": "bda7f8b0-1ca1-4616-b7f0-a1c70f87f1c3",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7a1f712c-6914-4485-bd91-fcd7f0411bc3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d29507d7-dec8-4f7e-83ed-0c5e41ef4b14",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e4d23950-a472-46ff-a64f-5f796e5a1ba1",
+       "type": "word",
+       "value": "просп.",
+       "textRange": [
+        2150,
+        2156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdecfdfa-f1e8-4715-aa3e-41dc32ac2f5d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2156,
+        2157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96cf8bb0-e3c0-4936-93ee-aa47ada0d5c0",
+       "type": "word",
+       "value": "Свободи",
+       "textRange": [
+        2157,
+        2164
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "просп. Свободи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6ab26af2-3273-4c2b-aaf5-8d68b13893a4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2164,
+      2165
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0034b10-c904-4c5c-9c69-8e6150e47fee",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6644d4c2-ee6e-4b76-9ae4-5da089e96adc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2165,
+        2166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9a79894-389a-4fc5-ab3a-0955949bacb1",
+       "type": "number",
+       "value": "7",
+       "textRange": [
+        2166,
+        2167
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " 7",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8f24e12a-7917-446b-b0df-b4798862d356",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2167,
+      2168
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "просп. Свободи, 7",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "просп. Свободи, 7",
+ "concept": "SYNTAX"
+}

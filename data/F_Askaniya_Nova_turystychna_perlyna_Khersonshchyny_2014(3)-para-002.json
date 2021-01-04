@@ -1,0 +1,605 @@
+{
+ "id": "2f42ecb1-d950-4fb8-8ff4-ee67d29458ba",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7d5544e3-08b1-4067-85cd-e25adf60bacc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4ac80bbf-7dd2-4d7a-835d-cc45829bba5c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e215a03b-a270-4cf9-9af8-99cd03c971ab",
+       "type": "word",
+       "value": "Заповідний",
+       "textRange": [
+        437,
+        447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b00ff75-e065-4e64-a8b2-d905143cc921",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        447,
+        448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11ccde25-df8e-4d66-a353-c6d3e861d1ce",
+       "type": "word",
+       "value": "степ",
+       "textRange": [
+        448,
+        452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4028790f-bc05-46b1-bf5c-53f30d87e43a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        452,
+        453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89a549da-97a9-47d2-bd9a-9d024f66dac6",
+       "type": "word",
+       "value": "складається",
+       "textRange": [
+        453,
+        464
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfbec136-a817-499f-b6a3-041f5b790215",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        464,
+        465
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32f94bdc-a611-4b00-adf9-c6ec62dc209e",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        465,
+        466
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c01c47da-aa1d-4fca-abbf-9316856614fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        466,
+        467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d21cb50-0f1f-4f62-956c-58d9ef5617a2",
+       "type": "word",
+       "value": "трьох",
+       "textRange": [
+        467,
+        472
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e86dcb25-80b2-449a-8602-48323d9a1a38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        472,
+        473
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8edeabef-c331-4605-a23b-99605a04c248",
+       "type": "word",
+       "value": "масивів",
+       "textRange": [
+        473,
+        480
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Заповідний степ складається з трьох масивів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "964abf92-3fd6-4b76-93a3-c1176689ad04",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      480,
+      481
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "166ffdd3-59bc-4de3-9d04-ddc5d79a7ebd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "56819375-eaa2-4a55-a93c-b90640154f4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        481,
+        482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "482ea147-f655-46d5-90ee-890fcfeff5a2",
+         "type": "word",
+         "value": "Північний",
+         "textRange": [
+          482,
+          491
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a7c7c176-cee2-4f0f-b126-98bf7d83ae24",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Північний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "02d0c4be-1d1d-41c5-b768-71426980cf21",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      491,
+      492
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f65b9d30-d727-4b6f-8191-8d67d672cb15",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bcd06104-917d-4735-82ba-5ed85f9e3ad0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        492,
+        493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "6cbcccb6-b625-4269-89f1-beb7feb19119",
+         "type": "word",
+         "value": "Південний",
+         "textRange": [
+          493,
+          502
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "16a42ec0-5791-4dc1-8520-9e588f223b1b",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Південний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba473755-38a1-448f-bb06-94606515b082",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      502,
+      503
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "214ef44d-1db9-4e8b-bbb0-ea5befc44623",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d2b68f5b-e54e-429f-bcce-bffc5212513d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        503,
+        504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "3210a1e8-0f9d-423e-9134-ff1ef6a0859d",
+         "type": "word",
+         "value": "Великий",
+         "textRange": [
+          504,
+          511
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0214282b-87da-48bf-b50d-d4b209a2e6ef",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          511,
+          512
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c7db1416-4d0c-4c6b-934d-dd0f88cc9272",
+         "type": "word",
+         "value": "Чапельський",
+         "textRange": [
+          512,
+          523
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d74fa07c-68b2-46e0-9610-c43a4115ce2c",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          523,
+          524
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "12b0a30f-ea53-427c-8011-9c315babac03",
+         "type": "word",
+         "value": "під",
+         "textRange": [
+          524,
+          527
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "eed78271-9f0f-4d33-b0b9-b94583917fa7",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Великий Чапельський під",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "585111a1-d8c7-4abb-9d69-1a7c594b09ea",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      527,
+      528
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7b6bfd8b-f573-44b4-b33e-c924df79aba4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6c34ddf7-ac63-4487-bc5d-75bdd5f04462",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        528,
+        529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93584fd8-515e-4728-9c85-b6991e772e92",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        529,
+        530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9719d65-0171-4c48-85fe-ad2dfb57d2bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        530,
+        531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6424cd86-3438-42b6-9690-b4a5a2bfadb7",
+       "type": "word",
+       "value": "також",
+       "textRange": [
+        531,
+        536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dd9db74-01b1-43ca-9092-fee7986b5395",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        536,
+        537
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52495d13-645d-4776-813e-18f298de328d",
+       "type": "word",
+       "value": "перелогів",
+       "textRange": [
+        537,
+        546
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а також перелогів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "985881d4-86ec-4933-975a-239d4ca4d2c5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      546,
+      547
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "de54b808-ad0e-4267-9f90-968ecf30a33d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c98d977c-fa1d-41a6-a0d2-5250cd94650c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        547,
+        548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0a7a329-14d3-4926-bd40-6317eae77848",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        548,
+        550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1b264f6-bb78-4f81-b89e-d15667a30646",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        550,
+        551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b042f0d8-81c3-4ad3-b832-2bc406510c91",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        551,
+        552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a706b781-0215-4150-a5ad-37680bf118e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        552,
+        553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57867588-a306-4e93-b222-6e9c3ec1e0d2",
+       "type": "number",
+       "value": "1966",
+       "textRange": [
+        553,
+        557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7d7c2ee-604c-4532-b9f4-29e3ddcd805f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        557,
+        558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6d8458e-f0c2-4f31-8a5d-a143ba5f0c83",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        558,
+        562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c00d686f-6bf4-4992-bde6-f2beaef2eb12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        562,
+        563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f4e5893-d962-4820-8314-15f19b6e0393",
+       "type": "word",
+       "value": "вивчаються",
+       "textRange": [
+        563,
+        573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a33292ca-0a46-4928-8c32-876db3f1863e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        573,
+        574
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "befce7ee-350a-4fd1-9706-5501ec0356d9",
+       "type": "word",
+       "value": "процеси",
+       "textRange": [
+        574,
+        581
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "112027f7-c910-4a71-932c-15e9c0771e1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        581,
+        582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e10a970c-4c89-4fb5-881b-024c47970ab0",
+       "type": "word",
+       "value": "відновлення",
+       "textRange": [
+        582,
+        593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1abf712-a5a5-40fa-9652-8a6d8fbe85eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        593,
+        594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "836cf8d5-53f8-446e-8f74-93a55e9e73e6",
+       "type": "word",
+       "value": "природної",
+       "textRange": [
+        594,
+        603
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "855173f4-3748-45cf-b951-36b4ae66695c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        603,
+        604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b73c454-cd64-4d9d-8632-e8406bf08f02",
+       "type": "word",
+       "value": "рослинності",
+       "textRange": [
+        604,
+        615
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де з 1966 року вивчаються процеси відновлення природної рослинності",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e073fc99-179b-4f84-9af4-0e7ccff1bbf3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      615,
+      616
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f376a36b-6165-4ac6-aea8-d1e48ef61c04",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      616,
+      617
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Заповідний степ складається з трьох масивів: Північний, Південний, Великий Чапельський під, а також перелогів, де з 1966 року вивчаються процеси відновлення природної рослинності.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Заповідний степ складається з трьох масивів: Північний, Південний, Великий Чапельський під, а також перелогів, де з 1966 року вивчаються процеси відновлення природної рослинності.",
+ "concept": "SYNTAX"
+}

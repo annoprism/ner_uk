@@ -1,0 +1,826 @@
+{
+ "id": "fb789bde-4d14-49b6-a3e2-949f88eec22b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9a4724d9-925f-4998-8d68-d3cf43bcfc52",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9d1d69bc-87ff-462f-9caf-5123df1657c7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "78ce0946-b0a1-40b3-a53a-6f93dfe8258a",
+       "type": "word",
+       "value": "Погашення",
+       "textRange": [
+        7460,
+        7469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9bb432e-79a6-4481-a7f5-b33322ca59a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7469,
+        7470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "744d601b-a0d2-4271-ba06-0c5b0c937b18",
+       "type": "word",
+       "value": "іменних",
+       "textRange": [
+        7470,
+        7477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98e077d2-7bbe-443f-b96b-5da6323d9025",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7477,
+        7478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ea7cf91-c1bd-43f7-8627-c06d4df484b2",
+       "type": "word",
+       "value": "ощадних",
+       "textRange": [
+        7478,
+        7485
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "993e2b80-49b2-400c-b9db-a7f339207960",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7485,
+        7486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6a5c63c-9154-4111-acc8-377fecb3801d",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        7486,
+        7487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b9cd19e-65ad-4761-bf64-b922210bc50c",
+       "type": "word",
+       "value": "депозитних",
+       "textRange": [
+        7487,
+        7497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "826907d9-d733-43aa-a635-261f3a3fbc20",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        7497,
+        7498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dae06299-9301-428c-b4f5-87099e00e641",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7498,
+        7499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f201ae5d-0ebf-4c15-9700-eb8aae3519b0",
+       "type": "word",
+       "value": "сертифікатів",
+       "textRange": [
+        7499,
+        7511
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Погашення іменних ощадних (депозитних) сертифікатів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "28e5e8d5-499e-408f-9df9-4cd8c8230d7b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7511,
+      7512
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4cd0fa11-476f-4c9f-893e-5e54fa67a050",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9ea65062-545a-457c-b608-e23011ef73fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7512,
+        7513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b362539-ffd0-4093-acd8-e67eaa0f66d2",
+       "type": "word",
+       "value": "номінованих",
+       "textRange": [
+        7513,
+        7524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94368d79-85be-4ed9-94d3-afff30ff03ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7524,
+        7525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0ba1505-2ed6-4560-a0dd-0976a5a677ab",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        7525,
+        7527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ad35faa-3dce-4187-ba92-214316e805ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7527,
+        7528
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3925606c-b2fc-4e39-b9ea-71f4c318a531",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        7528,
+        7529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "976662ac-e59c-4468-9f02-cd9d74904df7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7529,
+        7530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "435ba79f-e267-4cea-a462-b4025f956c0f",
+       "type": "word",
+       "value": "національній",
+       "textRange": [
+        7530,
+        7542
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " номінованих як у національній",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3eb654c2-2a2e-4d28-89a1-779d55cf7f23",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7542,
+      7543
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "98e26068-bce3-4d08-b36f-209ff85426b2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2001aa77-23ab-45cb-ab41-0a123bf1cbf7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7543,
+        7544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eef060f6-d684-4475-b356-c71ba95ab9fe",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        7544,
+        7547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcf33a24-2857-4aad-945f-8389a9c088ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7547,
+        7548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee4a5a56-48a5-4da1-82b2-b5c4bda6322a",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        7548,
+        7549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d488414c-e788-4c86-83f9-9218f4f28f39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7549,
+        7550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4651884-1b78-4f9b-aa77-a90d4acc986a",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        7550,
+        7551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3145e0f-c05a-4f78-b2ee-807b8d960823",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7551,
+        7552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11bd9398-53f4-4ff0-af0c-0cfe116fe518",
+       "type": "word",
+       "value": "іноземній",
+       "textRange": [
+        7552,
+        7561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59d5c2ab-7f6b-4e37-9f5c-8142dce505c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7561,
+        7562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad10225f-acea-4483-97f7-553719657e22",
+       "type": "word",
+       "value": "валютах",
+       "textRange": [
+        7562,
+        7569
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " так і в іноземній валютах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fa4a2aab-b1e7-464e-8bcd-80686c13cb85",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7569,
+      7570
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "025c64f5-8f8d-4785-b20e-9380e0511def",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f9926e4c-19a7-4ed0-a0c6-f6d6695ef34d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7570,
+        7571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0aff263-b951-4f2a-ab2a-49cfef791d39",
+       "type": "word",
+       "value": "зі",
+       "textRange": [
+        7571,
+        7573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6ddbd90-7970-4d71-b00b-c9b1f1a3c147",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7573,
+        7574
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "690ba4a9-d715-4370-afcd-95c1d96a45cc",
+       "type": "word",
+       "value": "строком",
+       "textRange": [
+        7574,
+        7581
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0600b130-c67f-4b03-9c54-7177bfd6b5fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7581,
+        7582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e351420a-79ba-48a7-b279-bba2f3436157",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        7582,
+        7584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "850adf59-2025-4d74-aa93-486472522c70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7584,
+        7585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de554d9c-22a9-48bd-9229-3c72ba96c0ad",
+       "type": "word",
+       "value": "обігу",
+       "textRange": [
+        7585,
+        7590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d74bb50-6827-4716-9602-e7f2b8a9bd93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7590,
+        7591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b028c2f-71b9-4aff-ac7c-5324cac19313",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        7591,
+        7593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f5cb874-6ed6-4aae-bde4-610892ccc3be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7593,
+        7594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9dc5a82c-c40b-4f18-aa87-9c2ba95edaad",
+       "type": "word",
+       "value": "менше",
+       "textRange": [
+        7594,
+        7599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e68328c-2c21-4f31-bba8-0fb2fb071eec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7599,
+        7600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "405069e8-262f-4290-99e8-261f26be8eb1",
+       "type": "word",
+       "value": "шести",
+       "textRange": [
+        7600,
+        7605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8bf6604-9d80-4710-9f66-5a2b89f56c77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7605,
+        7606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "caad56bc-b78d-4f21-9886-0b83637c36ee",
+       "type": "word",
+       "value": "місяців",
+       "textRange": [
+        7606,
+        7613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43aea3c8-bfcf-4006-94d8-d312440c3608",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7613,
+        7614
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86b06cf0-8c6f-46dc-8b90-0b88a673d61d",
+       "type": "word",
+       "value": "здійснюється",
+       "textRange": [
+        7614,
+        7626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33e53e62-8b38-466c-a110-3b94c69cd07c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7626,
+        7627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1e08a68-f11f-4a35-9874-6188cbbfdec7",
+       "type": "word",
+       "value": "банками",
+       "textRange": [
+        7627,
+        7634
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fd1cbd3-697a-4aff-a883-b130bcfcda76",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7634,
+        7635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef3d8d83-d451-491a-b79b-a284bf7897f6",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        7635,
+        7638
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7db74ae0-46ca-48ea-94cb-ab5c4a88b500",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7638,
+        7639
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad305db7-abd5-4828-930f-6aadafdb5eb8",
+       "type": "word",
+       "value": "обмеження",
+       "textRange": [
+        7639,
+        7648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86cc1452-9ff0-4206-831a-2f45086f709b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7648,
+        7649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d388cac5-90c3-43a4-a30b-51305aab80e1",
+       "type": "word",
+       "value": "сум",
+       "textRange": [
+        7649,
+        7652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbd76998-bc4c-4f95-9bfb-65c411e519d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7652,
+        7653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d64b7670-0ec4-4ebd-9b87-9cfa271af4ef",
+       "type": "word",
+       "value": "тільки",
+       "textRange": [
+        7653,
+        7659
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c67fcc3-efb2-40ef-8a1c-d8d765517444",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7659,
+        7660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5b097e0-90ae-4a78-82c3-e1a914b0dfae",
+       "type": "word",
+       "value": "після",
+       "textRange": [
+        7660,
+        7665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4bc72a1b-8f8d-4fec-a81a-fc26d5a2cc13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7665,
+        7666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d46ca2e2-02e6-45fe-80b6-034838a9b10a",
+       "type": "word",
+       "value": "настання",
+       "textRange": [
+        7666,
+        7674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77aa8665-881b-4fc8-8fda-d9b048bcd4f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7674,
+        7675
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a5f37c7-6904-4383-bab6-1d0958fee10e",
+       "type": "word",
+       "value": "терміну",
+       "textRange": [
+        7675,
+        7682
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " зі строком їх обігу не менше шести місяців здійснюється банками без обмеження сум тільки після настання терміну",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "779fc9d5-26de-4b96-8fad-9f66a0d80471",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7682,
+      7683
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1437d72c-50fc-42f2-b043-a5e1e9e6ceef",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f13cb5a-0938-4240-9c60-e51fbefb6307",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7683,
+        7684
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecbe9795-b7fc-4c97-bf5a-cab3e8232515",
+       "type": "word",
+       "value": "зазначеного",
+       "textRange": [
+        7684,
+        7695
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "863aa07c-a152-43bc-add9-11a9117e358d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7695,
+        7696
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6640c64a-bd49-4bd9-a914-0851137d1590",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        7696,
+        7697
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cdb5e86-efae-4739-bbff-f52c639d9c03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7697,
+        7698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78a9cce8-ec24-48ea-92e3-ad16c60e4037",
+       "type": "word",
+       "value": "цьому",
+       "textRange": [
+        7698,
+        7703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "768d6f93-ff67-43c5-bc75-313912ee6ba5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7703,
+        7704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a2fa566-7b03-499b-9720-67264c8e3591",
+       "type": "word",
+       "value": "сертифікаті",
+       "textRange": [
+        7704,
+        7715
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " зазначеного в цьому сертифікаті",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d8541f9-5e0f-45c4-857e-dec8c4cd6c4d",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      7715,
+      7716
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8dd54bc9-1e90-42f9-a4f2-6190265e49d0",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7716,
+      7717
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Погашення іменних ощадних (депозитних) сертифікатів, номінованих як у національній, так і в іноземній валютах, зі строком їх обігу не менше шести місяців здійснюється банками без обмеження сум тільки після настання терміну, зазначеного в цьому сертифікаті;",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Погашення іменних ощадних (депозитних) сертифікатів, номінованих як у національній, так і в іноземній валютах, зі строком їх обігу не менше шести місяців здійснюється банками без обмеження сум тільки після настання терміну, зазначеного в цьому сертифікаті;",
+ "concept": "SYNTAX"
+}

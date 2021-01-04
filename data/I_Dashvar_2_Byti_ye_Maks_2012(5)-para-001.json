@@ -1,0 +1,166 @@
+{
+ "id": "4e167ec8-27c2-4ef8-b5f5-bda3d69b6fe5",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "343672f3-59dd-4a2b-a705-78348453efa1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ef554df3-bd26-48bb-8592-9aba6fab2267",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "a00e7f6b-5ef5-49ec-9585-01532de063bf",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          256,
+          261
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1c503ded-9459-422b-8156-fa9c419a144d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e9d302d6-f2b7-4365-ab49-3f1847cf5fca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        261,
+        262
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ab947c7-e7a4-4026-8a4f-3762576da544",
+       "type": "word",
+       "value": "побачив",
+       "textRange": [
+        262,
+        269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01084997-135d-44aa-b057-442113279264",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        269,
+        270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cfec21ad-0304-41b8-ae54-d42deab910e9",
+         "type": "word",
+         "value": "Дору",
+         "textRange": [
+          270,
+          274
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1a9e031e-35db-4534-9567-d0554cd543d4",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Данко побачив Дору",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5bb89cb5-dd18-47c2-bd48-981a57d256a1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      274,
+      275
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e7948ac-abb6-4e96-becb-3a85c70b368d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "be50e1b3-b8bc-4479-95b4-8dbae4738830",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        275,
+        276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a40e3d30-bfa3-4e05-ab9f-efd5c42471f9",
+       "type": "word",
+       "value": "заспішив",
+       "textRange": [
+        276,
+        284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0eea5122-aa7b-4353-a117-eb424c79a055",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        284,
+        285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da04d98c-ebda-4b24-be33-f392c251e8a0",
+       "type": "word",
+       "value": "назустріч",
+       "textRange": [
+        285,
+        294
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " заспішив назустріч",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8870c857-67f4-4ac4-b7ac-dd24435994ed",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      294,
+      295
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d826d307-f2cb-45ba-8e4d-5843902a2968",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      295,
+      296
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Данко побачив Дору, заспішив назустріч.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Данко побачив Дору, заспішив назустріч.",
+ "concept": "SYNTAX"
+}

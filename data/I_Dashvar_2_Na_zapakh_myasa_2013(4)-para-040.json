@@ -1,0 +1,159 @@
+{
+ "id": "b8c49d33-3360-422c-bc32-d1daf23f2c7d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a17fcc95-7fbf-4c1a-9f80-9917689d0ac2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9334204b-a2d2-4b00-99d4-549fc550e956",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "113defda-d03b-4c44-97f3-cef460496669",
+       "type": "word",
+       "value": "Випроводила",
+       "textRange": [
+        5519,
+        5530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "660b13ae-5327-4afb-9d28-31a5d43bc387",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5530,
+        5531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "54ebb8ba-7594-4e53-9df0-61a1a6bcd4b2",
+         "type": "word",
+         "value": "Санджива",
+         "textRange": [
+          5531,
+          5539
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1a79bfec-b274-4b57-b2d4-86ea6e791f1c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Випроводила Санджива",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2cc9b8b8-16fa-404c-bbf0-57ca683454bf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5539,
+      5540
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2cfe7dbd-dde2-4e8c-92c4-a254fd6fbc92",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2c87bd40-b7b1-465f-86de-99f0f050c632",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5540,
+        5541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7581766-1b64-4e5d-b1a2-189449a1cfa3",
+       "type": "word",
+       "value": "сіла",
+       "textRange": [
+        5541,
+        5545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd35e9ba-b023-47dc-b652-37ebb2fe0493",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5545,
+        5546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b22978f3-edf8-488f-8ee6-2ff9edc86651",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5546,
+        5548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bb8a0a7-88cb-4887-a30b-300684eeb227",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5548,
+        5549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b42e0510-5776-45d8-a942-8e9353f08f46",
+       "type": "word",
+       "value": "ґанку",
+       "textRange": [
+        5549,
+        5554
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сіла на ґанку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef50c0fb-1d12-4376-8940-98f0d0478284",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5554,
+      5555
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dd3407e6-8552-40c5-bc1c-3b9c992f81dd",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5555,
+      5556
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Випроводила Санджива, сіла на ґанку.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Випроводила Санджива, сіла на ґанку.",
+ "concept": "SYNTAX"
+}

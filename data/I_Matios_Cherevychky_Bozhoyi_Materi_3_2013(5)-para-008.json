@@ -1,0 +1,757 @@
+{
+ "id": "8037165b-b9a9-4fe3-a585-f381d29306a1",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9283324f-615b-4eb1-b5bd-3cb342807927",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2d91b8cd-1d01-4889-a549-86922f39c0ae",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bf528912-45bf-4a3e-a436-0899a2637398",
+       "type": "word",
+       "value": "Запахуще",
+       "textRange": [
+        1816,
+        1824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "709c2bb0-b967-4063-953d-bc7a783069eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1824,
+        1825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fc62b0c-a002-4660-8c7f-76b33e959d7c",
+       "type": "word",
+       "value": "повидло",
+       "textRange": [
+        1825,
+        1832
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d8c7388-cd7b-47bd-b4fa-951af562527a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1832,
+        1833
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdac07b3-0168-476d-93c3-88d32317930c",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1833,
+        1834
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b0b3795-ca12-48c4-b4e3-14e63278c69e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1834,
+        1835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5cb10716-89da-4c1e-aef3-dee6adc04010",
+       "type": "word",
+       "value": "двох",
+       "textRange": [
+        1835,
+        1839
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6c2089d-d89c-44d3-a162-c01cea720449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1839,
+        1840
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa3a89dc-8a91-43a6-bfef-4efb221d9f4f",
+       "type": "word",
+       "value": "чанів",
+       "textRange": [
+        1840,
+        1845
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9761778b-aa40-4ef1-b268-8d814de2e08f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1845,
+        1846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "103f7950-24e3-4c42-b37b-49c6a69fdace",
+       "type": "word",
+       "value": "іде",
+       "textRange": [
+        1846,
+        1849
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a73e1ecf-8c93-448c-a0b3-fea21da05797",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1849,
+        1850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "50cfa424-2d74-4867-acbd-1c0f9104a9cd",
+         "type": "word",
+         "value": "Корганам",
+         "textRange": [
+          1850,
+          1858
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2e7d68d7-3dfe-4515-9c22-388dcf7dff50",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Запахуще повидло з двох чанів іде Корганам",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae8cc57a-7adf-4cf8-9b81-cc2aa5be62fd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1858,
+      1859
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8bf0c1eb-41c6-4cbd-a663-26117cc20d06",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5d573135-1085-409b-8991-f3c69d7d3bdd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1859,
+        1860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3fee91a6-6dd6-41c7-8cdd-6080f9eb5e0b",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        1860,
+        1861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c65837f-3fce-4189-b946-4a963adab036",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1861,
+        1862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c0f82ee-b5e1-4fcf-b3ef-5f64d07bde09",
+       "type": "word",
+       "value": "один",
+       "textRange": [
+        1862,
+        1866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bfc265d-8b7d-48f0-ba0a-875bab300bcb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1866,
+        1867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a76bc4a-125a-45d9-8437-ebd4382803ad",
+       "type": "word",
+       "value": "чан",
+       "textRange": [
+        1867,
+        1870
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ffb6ce2-45ee-4881-a2cc-1730a87b3826",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1870,
+        1871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76efec38-5bd1-4a98-bfce-ff2402e4c1fb",
+       "type": "word",
+       "value": "густого",
+       "textRange": [
+        1871,
+        1878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a382480-e151-4cf7-bd8c-dbfef7cb7346",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1878,
+        1879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42b1bc87-207c-4c41-b818-a51108e40f61",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1879,
+        1880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78fde7a7-def5-4039-a4ac-9da4286b4146",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1880,
+        1881
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5abff55b-c974-4db6-ad74-c34c7d1eecd1",
+       "type": "word",
+       "value": "ножем",
+       "textRange": [
+        1881,
+        1886
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f784c0bf-387f-420a-a75e-f2cf87805cbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1886,
+        1887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee6da02f-cfb5-4974-ba3b-1bdaecfa3cf2",
+       "type": "word",
+       "value": "можна",
+       "textRange": [
+        1887,
+        1892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bfe01ed-cf3d-48de-8eee-51a8364ba5f2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1892,
+        1893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "178faa28-298a-4a42-8bc0-bac68dd35538",
+       "type": "word",
+       "value": "різати",
+       "textRange": [
+        1893,
+        1899
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а один чан густого – ножем можна різати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "644fe709-fcb5-440d-82c3-7313d5f9def2",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      1899,
+      1900
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Запахуще повидло з двох чанів іде Корганам, а один чан густого – ножем можна різати",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ef546a2b-647a-4ab1-952a-407e82de99b5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "080d0eb4-dc11-4808-bbca-d73e29a50558",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3250a991-f783-49d1-be9e-d4e4f0026831",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1900,
+        1901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57611055-3c85-45d1-a6f2-fbfaa4077e30",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1901,
+        1902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78cb4eb1-b003-4806-a282-8f0791d041dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1902,
+        1903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae34046d-dacf-4066-8c69-5d2bd5944ff4",
+       "type": "word",
+       "value": "чорного",
+       "textRange": [
+        1903,
+        1910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ddb70e41-31cf-49b1-8c10-a5a05f1e8afe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1910,
+        1911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2ddd59d-d5d4-4eb6-916b-ca22349d672d",
+       "type": "word",
+       "value": "варива",
+       "textRange": [
+        1911,
+        1917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39e25836-7c47-4185-8779-c23907841f87",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1917,
+        1918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "364e514f-1a89-44fb-a76c-d8c361596cf5",
+       "type": "word",
+       "value": "мама",
+       "textRange": [
+        1918,
+        1922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9407290-d1c5-447c-a2f6-7f79765e5a5d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1922,
+        1923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1dd45269-b886-4c39-b124-4a3e041a60e0",
+       "type": "word",
+       "value": "набиває",
+       "textRange": [
+        1923,
+        1930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1a3743c-feb5-4adb-9678-4773b8f67040",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1930,
+        1931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8798ca96-2f4b-4ec8-ab8b-1e54de4e0323",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1931,
+        1932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a9fe7c6-e7be-491c-a110-fe200904ba96",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1932,
+        1933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84f5680e-8d12-48ce-8174-a177b8751e25",
+       "type": "word",
+       "value": "дерев’яні",
+       "textRange": [
+        1933,
+        1942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25cb2ad1-c9fd-4101-bfb8-b1cf377825cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1942,
+        1943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77f83303-fcd5-452f-9ac4-a860dbf0a735",
+       "type": "word",
+       "value": "бодні",
+       "textRange": [
+        1943,
+        1948
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – чорного варива мама набиває у дерев’яні бодні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f035c442-ac63-486f-a6eb-07f39fc68185",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1948,
+      1949
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5cee1ff2-ef3d-46eb-8430-5b9ced09fa5a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f1c2f083-36a4-4fec-85c2-dcb0752ecec6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1949,
+        1950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d395a04-550c-42ac-9be8-94955934dcaf",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        1950,
+        1951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24adeb00-1121-45f7-b165-511af7a9772f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1951,
+        1952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70505d56-9d23-4868-82a5-1a3c9d8d66a3",
+       "type": "word",
+       "value": "тоді",
+       "textRange": [
+        1952,
+        1956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10f6025c-cba9-4710-9a5f-1930719a4117",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1956,
+        1957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "df983216-44a5-41e9-95ba-b3b53e822794",
+         "type": "word",
+         "value": "Семен",
+         "textRange": [
+          1957,
+          1962
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fe79ad25-c409-49eb-bc6f-080fca2cfc4c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "636c08a9-26de-45e5-a880-dafb86c7caf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1962,
+        1963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48250643-e7cd-4584-9edd-48937c471ad5",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        1963,
+        1965
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24888ec1-b84c-4094-a2ff-12b770965a4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1965,
+        1966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9c0cf156-e5f0-432a-8b4a-7e53413be6ec",
+         "type": "word",
+         "value": "Іванкою",
+         "textRange": [
+          1966,
+          1973
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6c3c0895-acf0-4202-92a6-21ee17e4eea6",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "cbf81459-1843-4e8e-afc4-2c71fffa5b81",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1973,
+        1974
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06cc4e99-9752-4d83-ae30-d17496fbda20",
+       "type": "word",
+       "value": "перекочують",
+       "textRange": [
+        1974,
+        1985
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5c3c23f-99cd-4b10-a2ce-2a72871091db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1985,
+        1986
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0ed7fd0-4ca2-4d8c-8b14-3dec186b1e45",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        1986,
+        1988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aaf24403-8f4a-48ea-a88d-0d7058b4bc92",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1988,
+        1989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58e9fa3f-3c17-4d44-be42-52d2d2cc1137",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1989,
+        1990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41db90a1-3bd7-481a-8146-d00573988e26",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1990,
+        1991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b830af5f-6d30-416d-8bbc-064f9c6f8288",
+       "type": "word",
+       "value": "пивницю",
+       "textRange": [
+        1991,
+        1998
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а тоді Семен із Іванкою перекочують їх у пивницю",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "26f4b33e-e701-4367-9a27-a230aa666e37",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1998,
+      1999
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c5e3b91-9a6d-47ad-bd26-85601c0c945a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1999,
+      2000
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " – чорного варива мама набиває у дерев’яні бодні, а тоді Семен із Іванкою перекочують їх у пивницю.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Запахуще повидло з двох чанів іде Корганам, а один чан густого – ножем можна різати – чорного варива мама набиває у дерев’яні бодні, а тоді Семен із Іванкою перекочують їх у пивницю.",
+ "concept": "SYNTAX"
+}

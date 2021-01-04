@@ -1,0 +1,227 @@
+{
+ "id": "935c3440-2ae2-4bcd-8d0a-5720436b7fdb",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e8c433c1-542c-4fec-965c-8ec63811edc1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fd773b39-8353-43e0-b03b-83201c3feb51",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6156c060-03c8-4917-9a18-964e29729d2a",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4241,
+        4242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4574bce-5209-45cf-9ec1-cc5a5f04c52f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4242,
+        4243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34b49cc5-b28d-4fa4-987a-95e62514fae5",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        4243,
+        4244
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36585258-3ddb-4a34-a07f-b2870a8a3286",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4244,
+        4245
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5658760d-81de-410d-ab16-f56c7883f1d5",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        4245,
+        4247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ded5a9a8-ca9d-4737-94b8-7db6c57940bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4247,
+        4248
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4e954ef-0bac-4daf-bd33-7d13b4533911",
+       "type": "word",
+       "value": "робитимеш",
+       "textRange": [
+        4248,
+        4257
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— А що робитимеш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "951d5b67-9121-4d1a-be4b-0e844f94477d",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      4257,
+      4258
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— А що робитимеш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ef6dea93-29ce-437a-96c5-e224ca4cf4f4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f8e1afb6-9fa6-4475-b0a7-9472f703488f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "57abf0d7-2c41-46e4-ab38-c25b20a18f0c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4258,
+        4259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f468834-4c20-45dd-93fa-3ca41889dc0d",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4259,
+        4260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4274977d-5af3-469d-9df7-df57d58f9cd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4260,
+        4261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22b60d7c-da3e-481b-a02e-003685fdf5ca",
+       "type": "word",
+       "value": "раптом",
+       "textRange": [
+        4261,
+        4267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d60e2b4-d424-4dfb-8a44-1d184832dfee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4267,
+        4268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a6158d8-2bbe-4c93-b2fc-fead92d64e68",
+       "type": "word",
+       "value": "зацікавилася",
+       "textRange": [
+        4268,
+        4280
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8805b21-6414-4e10-a40d-ad736eab6043",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4280,
+        4281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e31fb5ff-3367-43f0-ab93-c7c3cf5ef156",
+         "type": "word",
+         "value": "Майка",
+         "textRange": [
+          4281,
+          4286
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "94b264c6-b5e5-4f3c-b85a-1efa83910e31",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — раптом зацікавилася Майка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ad8bb83a-4fa2-438b-a3b7-9151f2d3ce3f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4286,
+      4287
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a4e5cc7-bd96-4029-84ff-8d0e1124978b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4287,
+      4288
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — раптом зацікавилася Майка.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— А що робитимеш — раптом зацікавилася Майка.",
+ "concept": "SYNTAX"
+}

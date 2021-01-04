@@ -1,0 +1,512 @@
+{
+ "id": "a3ec0881-13d3-428c-80f7-2869f8dd1e45",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f04b6fa9-be14-4406-8073-6b0cfc04ac5e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "958acdf5-5a5b-4bc6-b60f-51e8f0a853b3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e261b3e8-0ec2-4dda-8a79-0e893a2266ce",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "089293a3-786b-44ff-8514-cff40073c63f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4191c127-0fab-42d6-9849-cbf67e2efffc",
+       "type": "word",
+       "value": "Житомирській",
+       "textRange": [
+        2,
+        14
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64add1ee-bf20-4146-a15d-d085367c7eb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        14,
+        15
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10fa2d0b-cb7a-436c-a031-5553fc8f324b",
+       "type": "word",
+       "value": "області",
+       "textRange": [
+        15,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c971014d-d398-4f14-8dce-02bceb26ef4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        22,
+        23
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19a6989d-4816-4a3c-8320-f54e1b420e4b",
+       "type": "word",
+       "value": "через",
+       "textRange": [
+        23,
+        28
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24a87363-5967-49a0-89bb-f71e953a0ece",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        28,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89ddb410-ff9f-468e-8f3b-2ccf6e99ec4d",
+       "type": "word",
+       "value": "пожежі",
+       "textRange": [
+        29,
+        35
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "894de7dd-9bd4-4c5b-95e6-2685668cfd84",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        35,
+        36
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9479ba4d-b5b0-41cf-88a7-9bec3e94259d",
+       "type": "word",
+       "value": "лісових",
+       "textRange": [
+        36,
+        43
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b8de225-fcb0-4c83-934e-060d9b87a31b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        43,
+        44
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6998612f-d79c-441e-a3c2-d6ccb3734244",
+       "type": "word",
+       "value": "масивів",
+       "textRange": [
+        44,
+        51
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У Житомирській області через пожежі лісових масивів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "40555cae-c8a8-49af-893a-c2338aa9902b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      51,
+      52
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e962ccc4-b1bb-4d1e-98dd-56cbe0fc92ac",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dfa421f8-7b37-4274-8612-6223cbb16827",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        52,
+        53
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f8f3653-89bf-4e83-bbd3-b867e3d8e4f0",
+       "type": "word",
+       "value": "торфовищ",
+       "textRange": [
+        53,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b17280b2-77a5-4663-ab9e-516aa2f812af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        61,
+        62
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "339d422d-3ce6-45b1-93d5-3c7836db380a",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        62,
+        64
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23978f4d-f3e1-4751-b79c-a0c668385869",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        64,
+        65
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dec2d92-670e-40ec-b24e-217e894ba2f4",
+       "type": "word",
+       "value": "сухої",
+       "textRange": [
+        65,
+        70
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb8236b7-bddc-4f42-9528-b580aa6bd7ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        70,
+        71
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d081dc98-1f5e-4c08-a0dc-c3ded1ce7753",
+       "type": "word",
+       "value": "трав’яної",
+       "textRange": [
+        71,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c8acf2d-0a19-4559-bb0e-c03d0c8e2a56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        80,
+        81
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4caea8c4-8f9d-4ff7-9d9f-648e851faa32",
+       "type": "word",
+       "value": "рослинності",
+       "textRange": [
+        81,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b354ce8-82ee-4f98-a35b-dbab9552a27d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        92,
+        93
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b98c6265-b0b3-4596-9af5-bd177bff4444",
+       "type": "word",
+       "value": "фахівці",
+       "textRange": [
+        93,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3088820d-f8ca-4fe3-b41f-4102d0ebf384",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        100,
+        101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6020b929-55e9-46e2-a78c-17add79da348",
+       "type": "word",
+       "value": "Держсанепідслужби",
+       "textRange": [
+        101,
+        118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5889c486-ff28-41cc-8164-7bd5c7db5c72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        118,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32000f80-ed0d-40aa-99f0-e7a0aabfe9a6",
+       "type": "word",
+       "value": "здійснюють",
+       "textRange": [
+        119,
+        129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "620c147b-4918-4836-afd6-33b54f17d6c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        129,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c52a2bda-6195-463e-a226-4c7bf5bf7a32",
+       "type": "word",
+       "value": "щоденний",
+       "textRange": [
+        130,
+        138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de89dfc3-be36-42a8-985b-ad2a2ded734c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        138,
+        139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a4d84d4-a56a-40ee-b120-103627e724c8",
+       "type": "word",
+       "value": "моніторинг",
+       "textRange": [
+        139,
+        149
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55f708d2-c630-4ee6-821c-da04663938a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        149,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a26f0c95-3d76-4ee9-a470-66101ae2015a",
+       "type": "word",
+       "value": "стану",
+       "textRange": [
+        150,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80187831-f254-4525-b328-5e2d99465823",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        155,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1451daad-092a-49b7-bcbd-9e161d0148bc",
+       "type": "word",
+       "value": "забруднення",
+       "textRange": [
+        156,
+        167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83e43f87-1a1d-40bb-b45f-c8c1abddc549",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        167,
+        168
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9f88a19-78f4-4132-b760-8fbf92cb4d63",
+       "type": "word",
+       "value": "атмосферного",
+       "textRange": [
+        168,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80fd2a65-1fa7-40ad-91b1-cfa710cb4af2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        180,
+        181
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67fed587-9235-4938-ac61-4e627d73967b",
+       "type": "word",
+       "value": "повітря",
+       "textRange": [
+        181,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8bf770af-a78d-41e7-a21e-f7b371a787ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        188,
+        189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc323b18-f335-49a9-96a1-f317c371665c",
+       "type": "word",
+       "value": "населених",
+       "textRange": [
+        189,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a972b6c-3e13-4a40-ab07-94c0367ae15c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e02037a9-6f7a-41c8-829d-2ef3b9573711",
+       "type": "word",
+       "value": "пунктів",
+       "textRange": [
+        199,
+        206
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " торфовищ та сухої трав’яної рослинності фахівці Держсанепідслужби здійснюють щоденний моніторинг стану забруднення атмосферного повітря населених пунктів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78a750fc-1645-498e-842b-498d4abedd7e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      206,
+      207
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5e466b2e-a2dc-4b59-a980-b25b8df8a8a7",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      207,
+      208
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У Житомирській області через пожежі лісових масивів, торфовищ та сухої трав’яної рослинності фахівці Держсанепідслужби здійснюють щоденний моніторинг стану забруднення атмосферного повітря населених пунктів.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У Житомирській області через пожежі лісових масивів, торфовищ та сухої трав’яної рослинності фахівці Держсанепідслужби здійснюють щоденний моніторинг стану забруднення атмосферного повітря населених пунктів.",
+ "concept": "SYNTAX"
+}

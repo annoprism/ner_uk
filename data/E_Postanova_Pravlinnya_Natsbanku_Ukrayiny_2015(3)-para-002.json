@@ -1,0 +1,839 @@
+{
+ "id": "d4951efd-89b8-42ff-8f46-9c0910772c52",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6cf4e73b-1afa-4673-8cd2-77a88b5208c9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1c837580-4c1b-4eb8-9832-678c6c39ee84",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5ec50e29-9f1d-4bb5-98d0-b81b4833381f",
+       "type": "number",
+       "value": "5",
+       "textRange": [
+        463,
+        464
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "5",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "662ee51f-b9ea-42f4-88df-3e2130a88e40",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      464,
+      465
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "5",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "87888c28-b9fe-4339-8874-9ab6998c634b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "54aa0b6c-6b39-4eda-90a6-b65fe19e946e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "085bbbfe-6d41-4c95-b2f6-8b76b67f1c16",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        465,
+        466
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f15bb00-e460-44a2-95d1-f37418bb77a5",
+       "type": "word",
+       "value": "Після",
+       "textRange": [
+        466,
+        471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e850b9d1-63e4-485d-a2d8-f8582811e3c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        471,
+        472
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c9e55ae-3d4e-4226-8cc7-7996eae4108d",
+       "type": "word",
+       "value": "закінчення",
+       "textRange": [
+        472,
+        482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f32434c4-8787-41c1-9941-f95f8a895a2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        482,
+        483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f60512e2-1464-4768-87ed-46462c4b28e0",
+       "type": "word",
+       "value": "функціонування",
+       "textRange": [
+        483,
+        497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "822ee6e6-e2bb-4c2a-a85a-145ec1b47307",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        497,
+        498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "c695223b-152c-446c-a599-f358dbac648b",
+         "type": "word",
+         "value": "Системи",
+         "textRange": [
+          498,
+          505
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "fb91b986-cb4a-4844-a2a5-d72e24c53e51",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          505,
+          506
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "37f8a07f-2307-4b6d-9994-0b8e8c2bd57c",
+         "type": "word",
+         "value": "підтвердження",
+         "textRange": [
+          506,
+          519
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "26cd1f27-3a50-4552-af4f-6b1516c4324b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          519,
+          520
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7715ceb4-443d-47a4-838a-ad1f86a265f6",
+         "type": "word",
+         "value": "угод",
+         "textRange": [
+          520,
+          524
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e0a1c77c-a382-44be-84f4-077e60a303bf",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4aee7f1b-afa9-4deb-9d64-b2eef7f03942",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        524,
+        525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27990c35-5a61-4d8b-8fee-01a9f9d77ad5",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        525,
+        527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "033c6c6a-e41d-444a-af04-bfaf42e665c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        527,
+        528
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c98d0dab-73d6-42bb-8403-1da67a38fdaf",
+       "type": "word",
+       "value": "міжбанківському",
+       "textRange": [
+        528,
+        543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e337fcb-fb5c-4238-872f-c0b40883271a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        543,
+        544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f069800-6ec1-46ce-8268-01217e29365a",
+       "type": "word",
+       "value": "валютному",
+       "textRange": [
+        544,
+        553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6da8e27-ebfa-4e70-94e1-9ee0cd3e0a03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        553,
+        554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "780db423-6f89-4e03-a32d-d599c1a08ee7",
+       "type": "word",
+       "value": "ринку",
+       "textRange": [
+        554,
+        559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd5594a6-8bad-41df-947b-e6807fbcee3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        559,
+        560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "f5a1fb7d-4310-403b-a2b6-03363de4226c",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          560,
+          567
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "cedbdb49-22ee-4463-b431-2530a68fc579",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0d777ad2-74b7-4536-b1b8-a55daa0f3065",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        567,
+        568
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "2011d150-c2d5-443c-bdaf-6e555c631e7a",
+         "type": "word",
+         "value": "Національного",
+         "textRange": [
+          568,
+          581
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0c2e9b6d-11f3-4975-9eda-18f4c81eada3",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          581,
+          582
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7dba17e2-c6cb-485a-bd6d-bf87bb8ac84f",
+         "type": "word",
+         "value": "банку",
+         "textRange": [
+          582,
+          587
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "368cd642-7780-48c3-bfab-4b75b5f6e1b0",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          587,
+          588
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6135ed66-ecf7-449f-a870-72c20ab6ee7e",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          588,
+          595
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "54df791e-3037-4158-9431-d5ceeeb0031a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d206b340-de1c-4021-aa47-408152d2ed67",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        595,
+        596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "214ccfb8-94b4-4794-a5b6-bf73eb2f779b",
+       "type": "word",
+       "value": "банк",
+       "textRange": [
+        596,
+        600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9444208e-6e43-4a43-8b9d-3c4ccb6fee82",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        600,
+        601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "684a5546-7b51-43d3-90c9-fe556ec1ceac",
+       "type": "word",
+       "value": "протягом",
+       "textRange": [
+        601,
+        609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2907a22-55de-4321-a77f-928d6e57b776",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        609,
+        610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1059cca9-db0f-41f5-b08e-19c8c7b778d5",
+       "type": "word",
+       "value": "наступних",
+       "textRange": [
+        610,
+        619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1ed3fba-cb8f-4658-8378-3b4d095f776b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        619,
+        620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a79e50d3-0f78-4f3f-a0f0-1e9db36ba285",
+       "type": "word",
+       "value": "двох",
+       "textRange": [
+        620,
+        624
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d949c82e-b57d-42e6-b617-5901e087e190",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        624,
+        625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c716c2e-27b0-4403-8c3e-2754e1f75106",
+       "type": "word",
+       "value": "годин",
+       "textRange": [
+        625,
+        630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66cef714-532e-4242-99b7-64b56e3a6225",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        630,
+        631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fceb76ca-3859-4923-b7f7-83311353a750",
+       "type": "word",
+       "value": "поточного",
+       "textRange": [
+        631,
+        640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "493bec5b-ba8c-402b-9671-72fc138c7560",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        640,
+        641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f4a32c9-a095-42b9-a607-d00f669baa43",
+       "type": "word",
+       "value": "дня",
+       "textRange": [
+        641,
+        644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fe35f8e-b941-479a-bdfd-25aa34987bac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        644,
+        645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3989fdd6-045a-41e7-bb7a-d626bd50ba7f",
+       "type": "word",
+       "value": "подає",
+       "textRange": [
+        645,
+        650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ca9fd77-1f0d-4a4a-b1bf-11fc51d9be3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        650,
+        651
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b078e6fb-c063-4d87-a204-c0d9700e575f",
+       "type": "word",
+       "value": "розгорнуту",
+       "textRange": [
+        651,
+        661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45b5282f-ba70-4997-93c0-33e470f7df7c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        661,
+        662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bca5d863-2a74-4999-86da-98b3de2c1098",
+       "type": "word",
+       "value": "заявку",
+       "textRange": [
+        662,
+        668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4dfe9f8d-7301-443a-b55d-c269af3b0b8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        668,
+        669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80c904ef-4467-4f6c-a0d7-b9d9b95b22a2",
+       "type": "word",
+       "value": "щодо",
+       "textRange": [
+        669,
+        673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff32e7f0-800f-4f12-a149-f5a5c2ad5128",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        673,
+        674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbe02775-b8fa-4718-82c0-745b031fd54c",
+       "type": "word",
+       "value": "загального",
+       "textRange": [
+        674,
+        684
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b191ae85-e696-487a-bf00-0ea3b871d92b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        684,
+        685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f41c2a7-bbd9-4c83-b5d8-efedebc5c806",
+       "type": "word",
+       "value": "обсягу",
+       "textRange": [
+        685,
+        691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2dff259c-e35c-48c4-9d61-b9de5fb266a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        691,
+        692
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62a331c7-a24c-4c72-afb6-0238bf43112a",
+       "type": "word",
+       "value": "обов’язкового",
+       "textRange": [
+        692,
+        705
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f69a6b9-3eb3-4826-9ecd-0aa9b6caebfd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        705,
+        706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59ebfa47-9d96-4beb-96cf-02dc19dc700a",
+       "type": "word",
+       "value": "продажу",
+       "textRange": [
+        706,
+        713
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8903a91-975f-471a-9192-78139b31f708",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        713,
+        714
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d515101-b1f1-422a-a033-cf4633e719e9",
+       "type": "word",
+       "value": "іноземної",
+       "textRange": [
+        714,
+        723
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1e2e008-1395-4313-959b-5a0b5b275354",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        723,
+        724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce78bce5-0d82-47d7-88a7-aebbf88f015a",
+       "type": "word",
+       "value": "валюти",
+       "textRange": [
+        724,
+        730
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Після закінчення функціонування Системи підтвердження угод на міжбанківському валютному ринку України Національного банку України банк протягом наступних двох годин поточного дня подає розгорнуту заявку щодо загального обсягу обов’язкового продажу іноземної валюти",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "16fac5e9-8289-4969-a3ff-2eddf42c13f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      730,
+      731
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f4941714-fee9-4fa7-82d3-fda120a07698",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9fb86d30-5b37-4f2d-9feb-78239b7bce47",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        731,
+        732
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e7563d9-1496-4525-b2b6-c52a78df0170",
+       "type": "word",
+       "value": "запланованого",
+       "textRange": [
+        732,
+        745
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1badbad-cd3a-4b9b-84cc-7bb22f1f7045",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        745,
+        746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31090189-a113-44f5-956a-2d4c6eb87c46",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        746,
+        748
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85af4e64-b594-4262-9b57-7d78abe72e94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        748,
+        749
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6415c12c-58c3-4d7d-af3b-2bb896dbafa5",
+       "type": "word",
+       "value": "наступний",
+       "textRange": [
+        749,
+        758
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3f29c39-8106-4268-8056-2cc39a04b83b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        758,
+        759
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23ded20e-8114-4c1f-a10a-2560d4de6abd",
+       "type": "word",
+       "value": "робочий",
+       "textRange": [
+        759,
+        766
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74719901-2e2f-418c-bede-cb3ecb4e527e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        766,
+        767
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2265f9f5-5488-47e2-b408-b62f8140e351",
+       "type": "word",
+       "value": "день",
+       "textRange": [
+        767,
+        771
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " запланованого на наступний робочий день",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c080c6ca-9a80-4d1b-9f01-94cf3038557e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      771,
+      772
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "be7f1cb8-40e6-43a6-88da-415933b89b10",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      772,
+      773
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Після закінчення функціонування Системи підтвердження угод на міжбанківському валютному ринку України Національного банку України банк протягом наступних двох годин поточного дня подає розгорнуту заявку щодо загального обсягу обов’язкового продажу іноземної валюти, запланованого на наступний робочий день.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "5 Після закінчення функціонування Системи підтвердження угод на міжбанківському валютному ринку України Національного банку України банк протягом наступних двох годин поточного дня подає розгорнуту заявку щодо загального обсягу обов’язкового продажу іноземної валюти, запланованого на наступний робочий день.",
+ "concept": "SYNTAX"
+}

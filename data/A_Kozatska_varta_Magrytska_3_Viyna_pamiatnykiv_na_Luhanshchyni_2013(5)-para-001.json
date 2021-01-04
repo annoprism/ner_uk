@@ -1,0 +1,219 @@
+{
+ "id": "723a7dee-e14b-4762-8b8e-1f8ab6ea8bf4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2d1610f3-2721-4131-a3dd-72f9db507e0d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "54e28c4a-22ac-4665-8c71-dfe30a185ab5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d5c38a7f-c409-4d31-8ba3-6f786dca705f",
+       "type": "word",
+       "value": "Хто",
+       "textRange": [
+        184,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "677be9e0-7a45-4f01-b5b2-e92e62cbb722",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        187,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37d28950-72c7-44b6-a894-7c3f4d0213be",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        188,
+        189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2eed2206-c484-4d21-a1c8-6078f33be267",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        189,
+        190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84ebfbcd-dddc-40df-bcf9-d7f48b263c3a",
+       "type": "word",
+       "value": "стане",
+       "textRange": [
+        190,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d9d410b-ad4e-4f94-8eaa-73f76de4fd23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        195,
+        196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5205a58b-7d43-417a-94a6-692f174cfbd2",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        196,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90bfc956-dd0a-4ad4-91b4-24834a1cbbca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe1fd5be-f52b-477f-a64a-109628f4c11a",
+       "type": "word",
+       "value": "постамент",
+       "textRange": [
+        199,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96d0e11a-3f08-4f73-acb8-fab99e950339",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        208,
+        209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3ffb2f2-c398-4c1f-941f-a78063084504",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        209,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad7562b7-1cf5-4ffd-b2f5-fa949f4e1db3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        210,
+        211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "b4a52aa2-8cd8-4cf1-8053-4c22acb60f65",
+         "type": "word",
+         "value": "сквері",
+         "textRange": [
+          211,
+          217
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "80eaade5-b028-47f2-93c8-f7db7ef105d6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          217,
+          218
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f30776fc-9f08-4f14-8f0e-1e106076c01a",
+         "type": "word",
+         "value": "Пам’яті",
+         "textRange": [
+          218,
+          225
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d32b5654-5d4d-43f4-b56d-2f9f0f1e1d2c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Хто ж стане на постамент у сквері Пам’яті",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3520caf6-1cb5-412e-aedc-002d0c105d17",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      225,
+      226
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Хто ж стане на постамент у сквері Пам’яті",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "be59b66b-fbfb-4d6b-8e0e-d7f7ec76d639",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b7ac7d10-8fa5-43ab-a10d-7a423eed91ba",
+     "type": "whitespace",
+     "value": " ",
+     "textRange": [
+      226,
+      227
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb5ff933-799e-4ef3-a97b-41b6b2e511d7",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      227,
+      228
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " ",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Хто ж стане на постамент у сквері Пам’яті ",
+ "concept": "SYNTAX"
+}

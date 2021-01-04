@@ -1,0 +1,81 @@
+{
+ "id": "b6c66772-3084-42b9-8427-40f8a0305033",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "66b9dca1-fdcf-44bf-81ba-3f6f3bf1c456",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f4af25d9-b2f5-4ce2-8cf7-4e4bba05b675",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4e016459-e2ed-45d3-b2e2-a2454e4b1b02",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        7514,
+        7515
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f44e8ef-3aba-4fe9-bbe8-a9ac1a724182",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7515,
+        7516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cd09930e-494d-47b3-83ec-ad9564971db3",
+         "type": "word",
+         "value": "Болеславо",
+         "textRange": [
+          7516,
+          7525
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1f622312-a822-4db4-ade9-ab1156ce4ec1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "— Болеславо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dec3855a-2c6e-42d5-b4fa-df7139d4a94c",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      7525,
+      7526
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "245c156b-0f79-45de-bfaa-9b39c3dc6c04",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7526,
+      7527
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Болеславо!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Болеславо!",
+ "concept": "SYNTAX"
+}

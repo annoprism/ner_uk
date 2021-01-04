@@ -1,0 +1,749 @@
+{
+ "id": "d96424b7-f9d1-4ebe-ba13-f2c383058f93",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3cad00ee-acbc-410e-813f-d113c49d5187",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2ee9a9e3-d6e6-4238-b129-16810d7bab56",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "972888d7-03e4-4baa-8f9e-be14604a1c7b",
+       "type": "word",
+       "value": "Усі",
+       "textRange": [
+        4169,
+        4172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d1fe6fb-cad5-4bae-940e-65e1eb026c1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4172,
+        4173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0aad7f94-1a62-484c-8cc6-9f7b4d9139cb",
+       "type": "word",
+       "value": "зауваження",
+       "textRange": [
+        4173,
+        4183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87ff110b-2879-4df7-a16e-ef435e974aa6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4183,
+        4184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf4aa67e-35b0-4937-a5c8-0de1ce1ca93c",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        4184,
+        4185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41c35705-42d1-4cb3-968a-3493ea883acb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4185,
+        4186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91dce59d-90a7-48ee-8d60-939e8561861e",
+       "type": "word",
+       "value": "побажання",
+       "textRange": [
+        4186,
+        4195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0359cc03-6f87-4ea7-82c7-55a58187be95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4195,
+        4196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "679be453-4baf-4717-9e68-6f78603770d8",
+       "type": "word",
+       "value": "просимо",
+       "textRange": [
+        4196,
+        4203
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e64fa008-3f12-40a8-87fc-76cba0c0c326",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4203,
+        4204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff95797e-e519-43a2-9c02-6d8566080907",
+       "type": "word",
+       "value": "надсилати",
+       "textRange": [
+        4204,
+        4213
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "605bc6f8-4ee6-4e0d-9c5b-d2e3f2275e80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4213,
+        4214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4602b53f-54d9-4915-aaca-19cdb84abefd",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4214,
+        4216
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76c303db-8a59-419d-aa68-63dbcd0b84f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4216,
+        4217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf9434d4-a6ab-4653-9956-d559616b60af",
+       "type": "word",
+       "value": "адресою",
+       "textRange": [
+        4217,
+        4224
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Усі зауваження й побажання просимо надсилати на адресою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d947aabd-330f-475d-a3ef-a649717f7959",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      4224,
+      4225
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06754001-e9f0-4ab6-827d-1e62ab4368ab",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e0777f9a-d3e4-4e65-8390-ea0186b1f838",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4225,
+        4226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "b9d240cb-3b5d-41ca-b3f0-f7aedea86703",
+         "type": "word",
+         "value": "Київ",
+         "textRange": [
+          4226,
+          4230
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e9aa8d4f-3ac8-4857-bf4b-85e1b04c990d",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          4230,
+          4231
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ab8dd009-f669-454c-9b3e-d49cc517feac",
+         "type": "number",
+         "value": "1",
+         "textRange": [
+          4231,
+          4232
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f9db4b92-55d5-42af-b758-65a322c9c10f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Київ-1",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b5bd37e8-76e6-4752-aa71-87003abb7b39",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4232,
+      4233
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "23a1e88e-b707-446a-9b4a-b7dd6eebbf17",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "24bb1d11-386c-4693-8ebc-6b4361e0941e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4233,
+        4234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3832e38a-29eb-46a2-8308-6c46ed4e9d37",
+       "type": "word",
+       "value": "вул.",
+       "textRange": [
+        4234,
+        4238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f355262d-4b05-4ed9-b95b-57e27f7e47ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4238,
+        4239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4f479fd-abe4-4c6d-a947-568666983333",
+       "type": "word",
+       "value": "Грушевського",
+       "textRange": [
+        4239,
+        4251
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вул. Грушевського",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "69bbcae7-3253-427a-becd-2ad8014e11ab",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4251,
+      4252
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c62812a-cb50-4c7d-9d65-76fefe052006",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d2f20c50-13ae-4661-874e-4b68ccb96b81",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4252,
+        4253
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3af3b1a-229e-46aa-8999-d6ae7a286d61",
+       "type": "number",
+       "value": "4",
+       "textRange": [
+        4253,
+        4254
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " 4",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "804dc9d3-d003-42e1-87da-7e6222f8f567",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4254,
+      4255
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7eafca0f-dae1-4898-8c7e-d61680bd693a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c70ef524-2591-4fc4-8ee7-1bd42c1634d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4255,
+        4256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "f5079df4-8893-4c61-bea8-e2c6140ef1b2",
+         "type": "word",
+         "value": "Інститут",
+         "textRange": [
+          4256,
+          4264
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "197dd578-a9e3-4c4c-81e1-7be41aba9fa2",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4264,
+          4265
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "9090a4fe-c5f3-4666-8b48-f2f7915c9f7d",
+         "type": "word",
+         "value": "української",
+         "textRange": [
+          4265,
+          4276
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3df9b0e5-6a33-4470-aef9-2fd03af6a33f",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4276,
+          4277
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e0082afa-2910-48ff-90b8-4b358d4d0a7f",
+         "type": "word",
+         "value": "мови",
+         "textRange": [
+          4277,
+          4281
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "671c3c1d-3e91-4296-9f78-104c147636fb",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4281,
+          4282
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c0e6d14e-25c2-435b-820d-83d54b8a65c7",
+         "type": "word",
+         "value": "НАН",
+         "textRange": [
+          4282,
+          4285
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cb7cbf1b-20a4-484b-8f3f-2ad808c3fa65",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4285,
+          4286
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "48988ef3-af41-4328-a4c6-2a9b0c3ee7fd",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          4286,
+          4293
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3a561581-eb31-409c-ac16-7550756b5d0c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Інститут української мови НАН України",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9d97e636-7d67-45ea-b59a-bb7641a98a0e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4293,
+      4294
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1dcbd11e-da25-4bdd-b2c9-6d6e9893e2dc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a82092dc-fcce-41db-835c-3a1ac35e1beb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4294,
+        4295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "fe21b8a4-50cc-4054-83b7-aa8ce8741ce3",
+         "type": "word",
+         "value": "Відділ",
+         "textRange": [
+          4295,
+          4301
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b678dcc9-33b6-4ddd-9069-ccea0d22bc98",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4301,
+          4302
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "369ec10c-aa9b-4b8f-9fc8-e373058381bb",
+         "type": "word",
+         "value": "структурно",
+         "textRange": [
+          4302,
+          4312
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "06de4774-0a1f-4979-89be-5effc01f26e1",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          4312,
+          4313
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "635720be-e09a-4626-9f4d-7845c23850da",
+         "type": "word",
+         "value": "математичної",
+         "textRange": [
+          4313,
+          4325
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4474a2ea-79c8-410b-b9f1-f8604738f6b5",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4325,
+          4326
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2ec2a910-369f-4c54-8681-c839a1b94de8",
+         "type": "word",
+         "value": "лінгвістики",
+         "textRange": [
+          4326,
+          4337
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bbac9f61-d820-4963-9912-35e6974f4590",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Відділ структурно-математичної лінгвістики",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "33536664-4c61-438c-81dd-4387c8bbf191",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4337,
+      4338
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "83a48a87-c5e7-433d-b84e-10265a20b3b9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "869d990c-bd8b-4359-bf48-ba256087c9ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4338,
+        4339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d878507e-8883-4234-8884-ee09d2aef5e4",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        4339,
+        4342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c237c22-c6cf-4cbb-b7c8-195dba484e65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4342,
+        4343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8b7b9a4-b279-44bc-a1c6-d067b8d04087",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4343,
+        4345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b58b6d3-39e0-439b-ab7d-9339cffbbc8c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4345,
+        4346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac9b20dc-75ac-4b99-b984-47eaf7c137e8",
+       "type": "word",
+       "value": "e",
+       "textRange": [
+        4346,
+        4347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b571328-a1a7-4f45-95c1-829f872b3e0a",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4347,
+        4348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba71e7ba-cce0-4716-8203-529f62c20efc",
+       "type": "word",
+       "value": "mail",
+       "textRange": [
+        4348,
+        4352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb9767f0-bba4-4471-b174-a1ed5f8434f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4352,
+        4353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a69879d9-2825-4299-8012-b77beafb87b2",
+       "type": "word",
+       "value": "grslovnyk",
+       "textRange": [
+        4353,
+        4362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23c8e19e-3ec8-4ccb-a09f-04b303e9cfdf",
+       "type": "whitespace",
+       "value": "@",
+       "textRange": [
+        4362,
+        4363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67f9647f-27ad-4da8-952e-359ccd3b8411",
+       "type": "word",
+       "value": "i",
+       "textRange": [
+        4363,
+        4364
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " або на e-mail grslovnyk@i",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "896530d9-f04b-4005-854e-1afafd9c48ac",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4364,
+      4365
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Усі зауваження й побажання просимо надсилати на адресою: Київ-1, вул. Грушевського, 4, Інститут української мови НАН України, Відділ структурно-математичної лінгвістики, або на e-mail grslovnyk@i",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e84aeaf8-0547-4499-ba8a-02855cb6abd2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e1e43b57-2155-4d54-9445-5893e0769ee1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0e1e2c8c-4469-4d06-9b3e-330f75a2d71c",
+       "type": "word",
+       "value": "ua",
+       "textRange": [
+        4365,
+        4367
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "ua",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "77659c2f-520a-4d89-bf31-65bb1ee6a3be",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4367,
+      4368
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "ua",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Усі зауваження й побажання просимо надсилати на адресою: Київ-1, вул. Грушевського, 4, Інститут української мови НАН України, Відділ структурно-математичної лінгвістики, або на e-mail grslovnyk@iua",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "e6144f3c-d51a-4503-b92c-9e7442ba7429",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f077662b-f2f0-4203-9f7c-e4a2cf26e8fd",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9fa90ab5-2f9a-4aeb-9ed4-9d9ebfc61e27",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2d9e03e4-a0d7-4b42-8430-27ca67f56e3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2306,
+        2307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "ecfbf2b6-90f7-4106-862a-35037986a375",
+         "type": "word",
+         "value": "Іван",
+         "textRange": [
+          2307,
+          2311
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "30aea493-f744-40c2-a319-79d1db0ca52e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2311,
+          2312
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "913ef27b-b6c2-4611-8f9b-0d8ea713930e",
+         "type": "word",
+         "value": "Кочерга",
+         "textRange": [
+          2312,
+          2319
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "76e68ab6-764b-4814-bb33-ba8dba892509",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Іван Кочерга",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "48abbfdc-02ed-4b2f-90c4-95778fca348f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2319,
+      2320
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Іван Кочерга",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": " Іван Кочерга",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "8d001d43-f75f-4bc2-97b8-d775741acb80",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "506ede47-3f8c-47c1-b2ae-8fbccd180cc1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a36af0da-888f-4ff8-92c2-fa76e9a6c3fc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "3d8acf92-53b2-4a21-ba39-934db8f8a7d7",
+         "type": "word",
+         "value": "Dudko",
+         "textRange": [
+          11590,
+          11595
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "9693af7b-5416-4857-a68f-d9ea1c1a775e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          11595,
+          11596
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8cd1acfd-3085-409a-99b8-742c8b1f6600",
+         "type": "word",
+         "value": "Quintet",
+         "textRange": [
+          11596,
+          11603
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e94c6852-584f-4e40-a14d-601f7d7a639e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "c1b59d6b-8e12-49f3-9844-4093a006979f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11603,
+        11604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70e5f712-870c-481f-b092-91a5435810ed",
+       "type": "word",
+       "value": "наживо",
+       "textRange": [
+        11604,
+        11610
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Dudko Quintet наживо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "216c9b94-6e90-4ed0-9441-bcdc9b53f015",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      11610,
+      11611
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Dudko Quintet наживо",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Dudko Quintet наживо",
+ "concept": "SYNTAX"
+}

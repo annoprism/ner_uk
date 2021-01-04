@@ -1,0 +1,237 @@
+{
+ "id": "4c68afac-3d5d-4e1b-b1e1-e9b721fe0da8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "542b6f5c-b7ce-47a9-aea4-5da3716fbb42",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7fb9eecd-5c0c-4ba7-bd1f-b6a9fa0e0a30",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "78c1e06a-7998-4322-9424-2d9f2f2e30e1",
+       "type": "word",
+       "value": "Одного",
+       "textRange": [
+        613,
+        619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a78f8c6e-b519-4144-8498-4ceb5dd2868c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        619,
+        620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf698221-cf46-408f-b9cd-94dbf8ba8058",
+       "type": "word",
+       "value": "вечора",
+       "textRange": [
+        620,
+        626
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Одного вечора",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8df3c02-9bab-4f65-9c6d-4ded5a7d7fdb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      626,
+      627
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "610442de-e82c-41fb-8490-36d97a724b1c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ff8e5e8e-9c68-4872-856b-abd56ad54b58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        627,
+        628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9a67a02-eb6f-44c3-8076-1ddcdb6edb2e",
+       "type": "word",
+       "value": "лягаючи",
+       "textRange": [
+        628,
+        635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86078e09-f063-496b-a4bb-694afca2cc30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        635,
+        636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "030f3c54-37f8-42f3-96fb-ce52b7ab3753",
+       "type": "word",
+       "value": "спати",
+       "textRange": [
+        636,
+        641
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " лягаючи спати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f5eee687-84d8-47fe-9cb8-efd2c8fe93d5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      641,
+      642
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "05f00c63-a20c-46ed-ba18-d3321f02a307",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f77bd769-1ca2-41e5-b1ff-209d62453434",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        642,
+        643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "755a0741-3852-489c-a147-e6462d092628",
+         "type": "word",
+         "value": "Кошенятко",
+         "textRange": [
+          643,
+          652
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8a83655a-49fc-4c7b-825e-da883f95ca2d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ef2cef05-1c54-41bc-bdc3-f76c0fd2be36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        652,
+        653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "839ad9bf-1c01-438b-b581-cc164b8aca79",
+       "type": "word",
+       "value": "спитало",
+       "textRange": [
+        653,
+        660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bd5ce14-f7b6-4c5c-9a32-0e7fa3db9e4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        660,
+        661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c73eba18-1104-4453-82b0-6ff9d3f39746",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        661,
+        662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad6e4943-28bd-49f3-81ac-059a8b664c9c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        662,
+        663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "476677db-8a49-4014-909e-6f58193b7dd7",
+       "type": "word",
+       "value": "мами",
+       "textRange": [
+        663,
+        667
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Кошенятко спитало у мами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a06b361-243b-46a4-9eb3-a427c644b725",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      667,
+      668
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "602422cc-dbf9-4163-ac25-5cd3f0cc3c46",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      668,
+      669
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Одного вечора, лягаючи спати, Кошенятко спитало у мами:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Одного вечора, лягаючи спати, Кошенятко спитало у мами:",
+ "concept": "SYNTAX"
+}

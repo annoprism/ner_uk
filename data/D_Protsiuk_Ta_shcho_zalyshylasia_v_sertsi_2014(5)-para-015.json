@@ -1,0 +1,930 @@
+{
+ "id": "81210665-7cee-4374-9f2f-6e3149d14149",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b2cdde1a-459a-41fa-bb75-9df3932db59e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "675417f1-3ae9-4560-b6ce-7ebc8ea1f40e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7ef553c1-2a2e-42f7-8e47-095dcb91f234",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        2871,
+        2872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83f30c79-1ff6-41d0-9dfd-d9be19944a72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2872,
+        2873
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2eae8f56-aaae-46da-bc47-d98554129b01",
+       "type": "word",
+       "value": "селі",
+       "textRange": [
+        2873,
+        2877
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aea5cd54-4531-4ed6-bfed-0ad9b516ac08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2877,
+        2878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "e93e9e11-1bea-4137-9e9b-fbc2905ff112",
+         "type": "word",
+         "value": "Кутах",
+         "textRange": [
+          2878,
+          2883
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "189bbe9a-3117-441f-b126-3c6e0467a02c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "У селі Кутах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f88d66f9-837d-4b32-9c0e-dd9269d6c586",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2883,
+      2884
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "71707d52-9dfc-49e8-9948-85494846104d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fddc267c-982a-461a-97c6-572712c179cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2884,
+        2885
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da543f7c-845f-40c4-a1ea-835dcd499f62",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2885,
+        2887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f73930b1-910f-43eb-aeef-07a0b0e19570",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2887,
+        2888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da8db9d7-5206-4356-9323-ea695e333e20",
+       "type": "word",
+       "value": "біля",
+       "textRange": [
+        2888,
+        2892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7675a2ef-5ba5-42d4-9e2f-124d3f83e404",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2892,
+        2893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "3efd368e-843f-4bbc-a82e-4fad60ecfd1f",
+         "type": "word",
+         "value": "Олеського",
+         "textRange": [
+          2893,
+          2902
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5d5d060d-8d0e-4af0-8c67-aff90bb50865",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2902,
+          2903
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f94c0b28-144a-48df-8153-aea809f6311e",
+         "type": "word",
+         "value": "замку",
+         "textRange": [
+          2903,
+          2908
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "71e3790a-09b8-4c82-8caa-5a418642d791",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що біля Олеського замку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "83f400f5-0542-4777-9a26-4534aaa439b9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2908,
+      2909
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "73bf770a-157b-4c95-8f18-f66146df4959",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "748ff778-496d-40e3-ac2d-603c8d684d2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2909,
+        2910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85a1d394-e5e2-44d3-9d34-ad7d92221c38",
+       "type": "word",
+       "value": "звідки",
+       "textRange": [
+        2910,
+        2916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f39cbabb-fc6d-4572-9a72-11afa04d68f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2916,
+        2917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4d9428e-f11f-443b-9309-1b499144d110",
+       "type": "word",
+       "value": "родом",
+       "textRange": [
+        2917,
+        2922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3c0045c-d6f8-42be-81a6-13be1b3ab745",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2922,
+        2923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4498c20-7ede-4c78-aa7a-cde2d015c72a",
+       "type": "word",
+       "value": "мати",
+       "textRange": [
+        2923,
+        2927
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " звідки родом мати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a435428-403d-40c7-a365-bf177296a58c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2927,
+      2928
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0a310a4d-5b1d-47a0-9592-e3e5134c8090",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f146a3cc-798b-4299-b882-9de3b416ad37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2928,
+        2929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "553fb563-c303-4133-a4ab-09f653c60b6c",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        2929,
+        2930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12c5e8dc-e483-400d-aae0-7d7de6c74e99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2930,
+        2931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78e6d1e6-9210-4ac7-a0c3-175cac50a650",
+       "type": "word",
+       "value": "поки",
+       "textRange": [
+        2931,
+        2935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fa767a5-cb8e-4f89-b0fb-315210f46937",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2935,
+        2936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d80eefd-c3f5-4ea9-b4a1-49914a3153d9",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2936,
+        2938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af4c34a6-7ed5-45a1-9bc6-b2e7ca39a6b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2938,
+        2939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a580e132-6754-4e12-bf79-08f8ca4cfaf6",
+       "type": "word",
+       "value": "побував",
+       "textRange": [
+        2939,
+        2946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "caf4fc40-3bd7-4113-8ee1-9c41ca4f535b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2946,
+        2947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "138d4f26-de22-4f93-bc94-97202d97ee1f",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        2947,
+        2951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f258645f-77dd-42fd-bfcb-39d7a0e553fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2951,
+        2952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e0bbd53-276f-400f-96bb-a146aa66802a",
+       "type": "word",
+       "value": "раз",
+       "textRange": [
+        2952,
+        2955
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " я поки що побував лише раз",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0f593743-7fd1-4944-81f7-ef73090a353e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2955,
+      2956
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "feb002c6-8266-4850-8096-fdc40df2b55b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "41dd87cc-ab9e-4d69-b351-a5446aba2b99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2956,
+        2957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c25c7de0-5411-445c-af48-4cb6d1918f56",
+       "type": "word",
+       "value": "дев'ятикласником",
+       "textRange": [
+        2957,
+        2973
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дев'ятикласником",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c06df57-760f-4114-9fdb-b2b46cb44b32",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2973,
+      2974
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У селі Кутах, що біля Олеського замку, звідки родом мати, я поки що побував лише раз, дев'ятикласником",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e3dc7ccb-b6e3-4b0b-8160-eb7429c36b81",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e121f8af-152f-4fdc-9f69-eb2e5f67ebc7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "52caa1f4-a54a-402b-bc3e-6ce6e9ecd439",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2974,
+        2975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cafdc85c-3de6-423a-aa68-4f735071e49e",
+       "type": "word",
+       "value": "Мене",
+       "textRange": [
+        2975,
+        2979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "593ade9c-55e1-4943-8798-459f9e0cf4bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2979,
+        2980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af919a96-e23a-4d3d-9e39-184681a83d78",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        2980,
+        2982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d995efaa-21f7-4667-8793-fcff977097d9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2982,
+        2983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6d7e907-606a-4b41-97b6-e673addb26ad",
+       "type": "word",
+       "value": "чекає",
+       "textRange": [
+        2983,
+        2988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3d42218-0de1-4003-9fb8-9bb072180b75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2988,
+        2989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "471cd1cd-fefd-4ddf-b21b-cf4da886af16",
+       "type": "word",
+       "value": "дорога",
+       "textRange": [
+        2989,
+        2995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "231b0090-02b2-48e9-948f-402b194ad0a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2995,
+        2996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d74aa19a-8908-44f8-8a09-54e4a981130a",
+       "type": "word",
+       "value": "туди",
+       "textRange": [
+        2996,
+        3000
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Мене ще чекає дорога туди",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "11ffa977-912e-4425-b37e-7fe632d74904",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3000,
+      3001
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc978774-5643-47c4-b7c5-94c2c6660908",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e4142d0c-07e0-49db-8f0e-564f50baa0d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3001,
+        3002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fedeafee-6d8c-4813-bb5a-d6491b3999a4",
+       "type": "word",
+       "value": "пішки",
+       "textRange": [
+        3002,
+        3007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb92597a-bc22-4f0a-8ba1-a17f995c3e14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3007,
+        3008
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "144f066c-5a91-4185-b22a-255a7894e45f",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        3008,
+        3009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0ea1403-0187-4a35-9b3d-614d11d2581a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3009,
+        3010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea39503a-c973-40e3-8da0-ff8c8f0b7454",
+       "type": "word",
+       "value": "самого",
+       "textRange": [
+        3010,
+        3016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56ac2701-9b22-4b66-9232-37341d357094",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3016,
+        3017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a218503-d7a9-49f8-9046-5d09e31e28fc",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        3017,
+        3020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d30086a-22ea-412e-ac20-4a5e4bd8fe06",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3020,
+        3021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45a1310f-cc1b-40f5-a1c5-fc83c5d0782c",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3021,
+        3022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab6917a6-8cc8-4c07-8e63-083b45147c20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3022,
+        3023
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a64ed95b-d384-451a-b5ef-582e87e096a4",
+       "type": "word",
+       "value": "синами",
+       "textRange": [
+        3023,
+        3029
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " пішки – самого або з синами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f662765b-e557-4c82-9cf6-c24c3be34c9f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3029,
+      3030
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Мене ще чекає дорога туди, пішки – самого або з синами",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ba109c2f-bdc6-4002-9223-259d7b7e124a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "51b3072d-3002-4e72-8d52-1a25fdf1577a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dce695c3-84eb-4e94-ab7f-48036adc53a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3030,
+        3031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c5b731b-68c3-4111-ba0c-012a40b630fb",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        3031,
+        3032
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91928e7d-f986-41a7-9dd3-eddfbd39c158",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3032,
+        3033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58c8a7d0-ac02-435d-b1ac-7e466293e7e3",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        3033,
+        3035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51eb3627-6532-4a94-9fe1-fc546d4a77e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3035,
+        3036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e969e1e1-ef95-45ec-a127-4974438b092a",
+       "type": "word",
+       "value": "повинен",
+       "textRange": [
+        3036,
+        3043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5af6f206-637f-4569-9756-eed8c25c816b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3043,
+        3044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9bbac56-02df-4cb0-9c68-93ff4a21907f",
+       "type": "word",
+       "value": "глянути",
+       "textRange": [
+        3044,
+        3051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87de3a1b-3231-4a2a-9d5d-4f2aafffa412",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3051,
+        3052
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7293929a-28eb-477f-ab83-5dde341eaa23",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        3052,
+        3054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ddb6113e-15a1-473d-b742-5d934d37386d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3054,
+        3055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ab4e7bd-8b0e-4d9b-bfe3-405693f09a21",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        3055,
+        3057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b285af05-c7ea-4c4c-9126-61ab31dd81d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3057,
+        3058
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "987eec04-0c69-41cc-a322-953212c7fd97",
+       "type": "word",
+       "value": "село",
+       "textRange": [
+        3058,
+        3062
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee8c1fb0-f883-4dc8-a3ed-994022c557b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3062,
+        3063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4264c7af-e523-4c6a-913a-c74b5808d53f",
+       "type": "word",
+       "value": "теперішніми",
+       "textRange": [
+        3063,
+        3074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e591b0ef-7168-40c9-a2db-026669eb8282",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3074,
+        3075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d786bdb-0103-4a66-807c-3c86b455ddf8",
+       "type": "word",
+       "value": "очима",
+       "textRange": [
+        3075,
+        3080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45535134-d0f6-48ed-ba1e-333682103b95",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        3080,
+        3083
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Я ще повинен глянути на це село теперішніми очима...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf7c8a71-d072-485c-88f0-bc1bc5b0e1a6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3083,
+      3084
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Я ще повинен глянути на це село теперішніми очима...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У селі Кутах, що біля Олеського замку, звідки родом мати, я поки що побував лише раз, дев'ятикласником Мене ще чекає дорога туди, пішки – самого або з синами Я ще повинен глянути на це село теперішніми очима...",
+ "concept": "SYNTAX"
+}

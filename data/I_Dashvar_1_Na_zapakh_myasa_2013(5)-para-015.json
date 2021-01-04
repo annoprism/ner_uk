@@ -1,0 +1,101 @@
+{
+ "id": "d8163ea6-61ad-466c-b58a-9e1a38942fc2",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d8f4c0c7-484b-4d3e-9ea2-f67a33b957e9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3788a712-738f-42d8-818c-d21c67f66492",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "31316348-a1b4-4b01-a608-022abca1b4a7",
+         "type": "word",
+         "value": "Горох",
+         "textRange": [
+          4649,
+          4654
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e7eb78cb-cea2-4a87-8916-07fd84177878",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "02dda394-f5c7-4e7f-b9bc-3050f1ef4895",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4654,
+        4655
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebff0d72-2bfd-4bb8-a52f-bb81388e39f3",
+       "type": "word",
+       "value": "усміхнувся",
+       "textRange": [
+        4655,
+        4665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bc3c33e-4a0c-4704-86b6-382d618f052f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4665,
+        4666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cf4c4b1-3bea-4476-8583-54d008099432",
+       "type": "word",
+       "value": "поблажливо",
+       "textRange": [
+        4666,
+        4676
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Горох усміхнувся поблажливо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bd345068-bb79-49c2-9a31-66a454dc5745",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4676,
+      4677
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "011e533e-af41-48d3-a4c9-5851d52950fc",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4677,
+      4678
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Горох усміхнувся поблажливо.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Горох усміхнувся поблажливо.",
+ "concept": "SYNTAX"
+}

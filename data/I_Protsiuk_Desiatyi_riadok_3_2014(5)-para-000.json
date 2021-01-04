@@ -1,0 +1,1339 @@
+{
+ "id": "d7263dab-b8d1-4932-b956-fc583a3969b1",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "00b95a26-889a-4d7a-8c15-c5e5b71006a1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "13f9452d-ba85-4f4d-85f0-328f040ec0e1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1cfda667-52f4-4aaa-91f3-d8e392d80918",
+       "type": "word",
+       "value": "Гроші",
+       "textRange": [
+        0,
+        5
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "153b8e0b-bc10-4a9d-8150-0b78e36ef59a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8af98730-ded6-410c-a264-4f87dd5e5c85",
+       "type": "word",
+       "value": "нині",
+       "textRange": [
+        6,
+        10
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78d2ba81-55dc-4ee7-9257-639af6758ba1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10,
+        11
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c840b2c-9462-4469-b509-9045dbac70ba",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        11,
+        12
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f14f0ea-d62c-45b0-a2c6-363e0f6597b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d968203-245a-456a-9e55-151a6147c995",
+       "type": "word",
+       "value": "еквівалентом",
+       "textRange": [
+        13,
+        25
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8f1bd51-61c0-478d-abda-fa5f3a88d593",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        25,
+        26
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65326d47-2d4b-45fa-b056-86c456308a72",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        26,
+        31
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Гроші нині є еквівалентом життя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4c72a460-7541-4534-ac2f-317f9517a475",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      31,
+      32
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0b5875aa-e745-4cc1-bfd5-d30bd0f34a2f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "28c3e42e-f078-42e2-9116-a108acbd5e08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        32,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "420b93a1-e4d5-4f46-877b-624b01d8a0fb",
+       "type": "word",
+       "value": "скаже",
+       "textRange": [
+        33,
+        38
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6121a308-b7ae-4bed-9f3e-edcfabf6daef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        38,
+        39
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a01cd20-2c5a-4228-ab16-0f93a5c6989a",
+       "type": "word",
+       "value": "кожна",
+       "textRange": [
+        39,
+        44
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03399ec1-f2f2-476c-8dcb-3924cf10a12b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        44,
+        45
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "189696b3-03b1-485c-b351-8c7dca03235e",
+         "type": "word",
+         "value": "Офісна",
+         "textRange": [
+          45,
+          51
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7a554c73-ce34-40d9-8647-65b30e3e8f70",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          51,
+          52
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "166478f8-d672-448b-a525-14b15592c881",
+         "type": "word",
+         "value": "Людина",
+         "textRange": [
+          52,
+          58
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9fdb8207-522b-40a5-b3ed-b5a8976b12e1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " скаже кожна Офісна Людина",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a69fe1d3-4b41-47ba-856c-ff09a97f2d67",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      58,
+      59
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Гроші нині є еквівалентом життя, скаже кожна Офісна Людина",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ea0f6b29-da6c-4128-b544-f5798e1bb46a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b2533289-7057-4c23-b383-94ec91d2a160",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5a167c86-5385-49e5-b049-cd0163e33d91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        59,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cbbf6e0-4816-4646-9279-fa50ab6e8543",
+       "type": "word",
+       "value": "Маєш",
+       "textRange": [
+        60,
+        64
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de3ea7e7-3191-4a50-8ad6-1f4025e2f6c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        64,
+        65
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51b2a30b-f969-4e30-8848-4fcaf1755110",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        65,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74d98a78-ca31-4e50-b95c-677c7d65145a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        67,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75d793da-5a86-44d1-9014-b24402caa196",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        68,
+        69
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a13098f9-8ba8-4532-8f78-5863a6fbe2e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        69,
+        70
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "462280a6-a5f6-445e-9ed6-2b1ffc8c1040",
+       "type": "word",
+       "value": "ти",
+       "textRange": [
+        70,
+        72
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fe9a126-4b10-4220-8be3-31d60c91b965",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        72,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "726e7162-e525-4c46-808b-f23af7c24d5f",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        73,
+        75
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76bd3402-58cc-4449-89c0-58521f01f78e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        75,
+        76
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b2633af-65e4-4570-be5a-03714d8fd966",
+       "type": "word",
+       "value": "коні",
+       "textRange": [
+        76,
+        80
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Маєш їх — ти на коні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93e5f693-e471-48c1-95b1-ca128fcfc986",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      80,
+      81
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7a9319e4-f705-4efb-9c9d-1c37a4e41f8f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bae25842-742b-46c1-a3df-f1d04dcfef57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        81,
+        82
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c37d365-6e31-47b1-a1e4-adaa94321af5",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        82,
+        84
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd287abc-8bd2-444f-b152-33e87909a758",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        84,
+        85
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cefcd4a3-ecc1-4b16-a3ff-f6bdf6bdf8b1",
+       "type": "word",
+       "value": "маєш",
+       "textRange": [
+        85,
+        89
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed51fe47-4989-4e00-8d27-9c0b9e145d7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        89,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd36740b-bef9-4e67-b6c4-ce2a9ecd606f",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96379a74-a5ff-4391-a786-8cca094011c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdd578b8-b37c-4317-9a9d-7154d2d13c80",
+       "type": "word",
+       "value": "тебе",
+       "textRange": [
+        92,
+        96
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ca58818-4aba-4ab2-a3f5-6181b78c218c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        96,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6a9dfba-2a48-41c2-9bb9-5fd0489bc55d",
+       "type": "word",
+       "value": "затопчуть",
+       "textRange": [
+        97,
+        106
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не маєш — тебе затопчуть",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "923a3d17-325a-4762-8366-9aaf09c284ae",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      106,
+      107
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Маєш їх — ти на коні, не маєш — тебе затопчуть",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "89607c81-c161-4ab2-a58d-74c28741c49d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "51a729fe-b146-4fbb-872e-3f9d4f34d13f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f0acfe7-b3b1-4170-9257-e5adbdf128c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        107,
+        108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5ca39ee-3216-4798-bb74-78c0b4eddf65",
+       "type": "word",
+       "value": "Грошові",
+       "textRange": [
+        108,
+        115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5adf7c4-b51e-40c0-a307-96d2204bbae3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        115,
+        116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8109f2da-2790-466c-9e91-8c69fbd74881",
+       "type": "word",
+       "value": "відзнаки",
+       "textRange": [
+        116,
+        124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59319da1-7b8d-4177-b2fa-20eb25fc991f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        124,
+        125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2354332-9e17-4fde-b4ac-6d5e55075cd2",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        125,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccba4c3e-2b3f-4689-822f-1b1e29c6ccfb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        126,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "675cad1d-1f82-401d-bec2-28c729ca07ac",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        127,
+        129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8d354bc-7480-4ef5-ad22-d2d3e9410217",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        129,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "401a58a3-f7a2-4741-b36a-aa5c097db166",
+       "type": "word",
+       "value": "кров",
+       "textRange": [
+        130,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "450fd902-817c-42b7-9d95-f58668928190",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5b49da1-c2f3-4089-8fc4-61e5497b714d",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        135,
+        140
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Грошові відзнаки — це кров життя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a6f90677-1760-4a0e-8dd6-9570dc69ec88",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      140,
+      141
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2a0568a8-9d63-4c71-a3ee-25dde7b4bbf4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6b2c7654-32fe-4aa5-82c4-2ca148ac70af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        141,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3c4509a-2ada-42b5-a6ed-5d4906cae08c",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        142,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b715527-5018-4e53-83e1-3fdb180f2a2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        146,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d280e160-abe1-4c9c-b461-7969df01ac7f",
+       "type": "word",
+       "value": "їм",
+       "textRange": [
+        147,
+        149
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b8691e7-3f52-4273-add0-ae623aefa9c7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        149,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59a504e6-ac44-45da-90f8-b64870880a80",
+       "type": "word",
+       "value": "варто",
+       "textRange": [
+        150,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a85273f-425a-4430-8b80-d764c37807ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        155,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a0feb9a-6664-4b69-91af-b75d009a54eb",
+       "type": "word",
+       "value": "молитися",
+       "textRange": [
+        156,
+        164
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " лише їм варто молитися",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "88ac7c25-048c-442b-b1eb-8210c5dfaff4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      164,
+      165
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dfe8947b-0437-42fa-9b8e-d438671cd9e9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ce86dce4-737a-4549-a112-2ecb05ecafaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        165,
+        166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff774eb6-72ee-43ee-ad1b-ec73f522f987",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        166,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24af23ca-1b7b-4e5c-a165-81688b591d17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        170,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b8ae43f-3e5b-4713-833b-1938ad9c05bf",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        171,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2bb3302-7856-4e6b-94dd-e71c51d3512b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        174,
+        175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "481103bf-80a1-4b78-a7a4-3c11203c917d",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        175,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72198e42-ed39-4b53-89e1-abb71bc965af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        178,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8132d33-3d96-45d7-88c9-c2b6d53a362a",
+       "type": "word",
+       "value": "треба",
+       "textRange": [
+        179,
+        184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "acfdfd70-9a28-4830-a806-c887a1fa607d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        184,
+        185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "047c17a1-ced4-4ad4-92fa-6bd826f63116",
+       "type": "word",
+       "value": "створювати",
+       "textRange": [
+        185,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa6d9407-1c0f-4f9c-8ab7-ef7dbbf7dfd7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        195,
+        196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad87f8a9-b722-4b01-9121-d3e2d79c4b02",
+       "type": "word",
+       "value": "культові",
+       "textRange": [
+        196,
+        204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76fd5963-9527-4835-b0f9-c470977eefdd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        204,
+        205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bff81381-849c-409d-ba4f-d11724e9375c",
+       "type": "word",
+       "value": "споруди",
+       "textRange": [
+        205,
+        212
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " лише для них треба створювати культові споруди",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eba572a9-8d9a-41df-8e15-be9c3b8acda0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      212,
+      213
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8bf459f6-98cf-4cca-a2da-f5b5673df08d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6a4d53c3-da9a-4ec7-bbd8-12b4041e504a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        213,
+        214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "369775f6-cac0-49c3-8d48-d244e65ab2f5",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        214,
+        216
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8b807bc-40d4-42da-87a4-bcf742a773b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        216,
+        217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bab86cb-d5fa-4f49-ae03-054a27fc2415",
+       "type": "word",
+       "value": "має",
+       "textRange": [
+        217,
+        220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5173b39d-298a-4507-abbb-25b9c991c741",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        220,
+        221
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2288ca94-51af-4c66-aa25-df7dbdb8d4b3",
+       "type": "word",
+       "value": "бути",
+       "textRange": [
+        221,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa7f651f-3fcf-4635-be42-b88e669d4785",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55121b71-aa7f-4e99-8949-7ef1100ce4da",
+       "type": "word",
+       "value": "поєднана",
+       "textRange": [
+        226,
+        234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8da8ac86-1423-447f-8882-ce19867067bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        234,
+        235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa19780c-10c6-4f88-a3cc-42f688856ef0",
+       "type": "word",
+       "value": "мудрість",
+       "textRange": [
+        235,
+        243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "444c558e-1684-4511-973c-f40637a7bc36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        243,
+        244
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d22e1030-971d-4438-a8dc-37ea888b8f3e",
+       "type": "word",
+       "value": "різних",
+       "textRange": [
+        244,
+        250
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01b6b073-3786-4a58-9cfe-98975bf0e8f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        250,
+        251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5698219d-4748-4e5e-8847-8c16559d19bb",
+       "type": "word",
+       "value": "релігій",
+       "textRange": [
+        251,
+        258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec65252c-1aa0-4edb-9c31-95fa89c25336",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        258,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8a11791-9169-4c41-92c3-6b7aa8e22d0d",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        259,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35e5acd9-06df-411c-aab4-2c7bebe4771d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        260,
+        261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cf2bdb8-9649-4646-8850-8f7d9ea4a203",
+       "type": "word",
+       "value": "ставленні",
+       "textRange": [
+        261,
+        270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "201c3eb0-eb0c-4677-a8d4-c68bcc40bd80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        270,
+        271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae16cf5b-e977-4524-9f93-8ee874f0a27d",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        271,
+        273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f95a3aaf-f15f-4561-87fe-f1b6ce6d18ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        273,
+        274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e81593e5-c2bf-46f7-aac4-9cbd81579f75",
+       "type": "word",
+       "value": "матеріального",
+       "textRange": [
+        274,
+        287
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де має бути поєднана мудрість різних релігій у ставленні до матеріального",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9bb77c97-feb0-4724-a0ba-e54d8d9ef8bb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      287,
+      288
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8adea634-538e-4bcb-8c50-43bc9aaffcf2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "05a424d5-93c8-46ba-9d7d-8d01466ab00b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        288,
+        289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d61ec8b2-f6ee-4846-963b-00395927af70",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        289,
+        291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66d4d1e1-891c-4df7-b21f-31a2adb66ed6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        291,
+        292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78c08830-de24-4105-b153-b3024aa6cf69",
+       "type": "word",
+       "value": "кесар",
+       "textRange": [
+        292,
+        297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00647609-2fb5-42f5-be95-7a8c5a190a2d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        297,
+        298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edf6434b-1a90-4615-b6b3-b988855ca001",
+       "type": "word",
+       "value": "завжди",
+       "textRange": [
+        298,
+        304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69539565-159f-4ffa-9d81-7e24c79e4ae7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        304,
+        305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed678081-1e0a-46df-b6b5-014beb2519c3",
+       "type": "word",
+       "value": "хоче",
+       "textRange": [
+        305,
+        309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32e8e91a-be13-47b6-9e65-0285e9ef2784",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        309,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3524037f-5812-434d-a652-4addafbbadec",
+       "type": "word",
+       "value": "кесаревого",
+       "textRange": [
+        310,
+        320
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо кесар завжди хоче кесаревого",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ec66e55-48be-4a5c-957b-756f2f7a6e86",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      320,
+      321
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "09623c7e-e5f9-4ac6-b799-7f2dfbe97559",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a97b1607-1df6-4305-8e81-a019bf41eccb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        321,
+        322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c27ad8ee-de9b-426b-971d-9a06a75c679f",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        322,
+        323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "635d1cc0-6a47-4da8-91b7-fd4da2bbff5b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        323,
+        324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c275b4d-5158-423a-b6ee-e5af6224bce3",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        324,
+        326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f5a54ad-3b80-47a6-a4dd-14c3e7dd667f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        326,
+        327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6dc3e87-d1e0-4b04-8a72-c1e38910e4d4",
+       "type": "word",
+       "value": "духовного",
+       "textRange": [
+        327,
+        336
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а не духовного",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "20bcb8a6-01f5-4505-a922-afbeccb0feb8",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      336,
+      337
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7e701ec0-edf3-4d28-bdd5-d3f525d17b33",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      337,
+      338
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Грошові відзнаки — це кров життя, лише їм варто молитися, лише для них треба створювати культові споруди, де має бути поєднана мудрість різних релігій у ставленні до матеріального, бо кесар завжди хоче кесаревого, а не духовного.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Гроші нині є еквівалентом життя, скаже кожна Офісна Людина Маєш їх — ти на коні, не маєш — тебе затопчуть Грошові відзнаки — це кров життя, лише їм варто молитися, лише для них треба створювати культові споруди, де має бути поєднана мудрість різних релігій у ставленні до матеріального, бо кесар завжди хоче кесаревого, а не духовного.",
+ "concept": "SYNTAX"
+}

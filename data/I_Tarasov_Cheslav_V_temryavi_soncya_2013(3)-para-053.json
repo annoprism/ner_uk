@@ -1,0 +1,435 @@
+{
+ "id": "bb9e7025-30a8-4783-a016-85d172d51daf",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "c5712ec4-d12a-452f-b9ab-61324461c3eb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "09c09f1a-6041-4b1c-b742-5940d697b1e2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cde96b9d-617b-4049-8240-a69236a2dd89",
+       "type": "word",
+       "value": "Щоб",
+       "textRange": [
+        8639,
+        8642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f4e34ac-71d0-4925-837c-e4bd0f90c5ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8642,
+        8643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b29f410d-22cc-4d96-af91-0d50a0d041e6",
+       "type": "word",
+       "value": "краще",
+       "textRange": [
+        8643,
+        8648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1b19eb7-7aad-40c3-98c7-92d49dabea91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8648,
+        8649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42db3f0c-dc2a-4a06-aeee-f426e4eb33ae",
+       "type": "word",
+       "value": "чути",
+       "textRange": [
+        8649,
+        8653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10852e16-0b50-401b-b480-d24babd4dcd9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8653,
+        8654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "8685de04-bcfa-4926-a837-1a65520d071e",
+         "type": "word",
+         "value": "Болеславу",
+         "textRange": [
+          8654,
+          8663
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4d23813d-a075-42ec-abd8-b5798c4df868",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Щоб краще чути Болеславу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ccfa36f-3632-4b29-98e9-3b3b55e02e3b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8663,
+      8664
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3fdb2b7a-cb04-4414-9923-9619d4a1d2fc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "221c106e-e869-405f-b6b8-c48eea2b7c5c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8664,
+        8665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c3d3276-1bbc-4768-bafd-015c6cca1703",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        8665,
+        8668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34e7e3b1-451f-4c3d-b44c-05bd629ac6d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8668,
+        8669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "645b88df-97fd-40ec-a9d8-33d528cb97b8",
+       "type": "word",
+       "value": "подався",
+       "textRange": [
+        8669,
+        8676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "123f1cca-5676-4fa5-a27b-11e2f0bd25f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8676,
+        8677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68ad92a8-fc9c-49c6-80a2-6edbc7db800b",
+       "type": "word",
+       "value": "вперед",
+       "textRange": [
+        8677,
+        8683
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " він подався вперед",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a82a26d9-1a8a-4ce9-acc3-2dd8a7b7e54d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8683,
+      8684
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52ce25e9-4254-4129-9570-0aa02d2a6ee3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b25d8988-cc6d-466f-9545-6d7e0983e7fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8684,
+        8685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cd9e0f9-eea7-46ef-b1e3-327ba03d2b8f",
+       "type": "word",
+       "value": "продираючись",
+       "textRange": [
+        8685,
+        8697
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "353340a9-86ea-4934-9660-b4b9b4678bc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8697,
+        8698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92f4211d-0ad4-497e-ad9e-ca5fe105882a",
+       "type": "word",
+       "value": "крізь",
+       "textRange": [
+        8698,
+        8703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0230d17a-0fc2-428f-8e01-fc783bd2e9ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8703,
+        8704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb795bcc-fb15-42d5-ae1f-fddd88fbcb02",
+       "type": "word",
+       "value": "кущі",
+       "textRange": [
+        8704,
+        8708
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " продираючись крізь кущі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1a1a0562-8079-4925-af79-e95b7dcc97f1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8708,
+      8709
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6774c472-ebf3-4233-9e8a-152120acdd29",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "762858d3-c4cc-4211-9241-630dc1411bd4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8709,
+        8710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2f18f7f-2e73-408d-a2e0-d1f5c42bfd76",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        8710,
+        8713
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e735f2a0-3491-4a19-8ee1-4089787dbf10",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8713,
+        8714
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d22d903a-63ba-4d59-bb10-b82a26d400cc",
+       "type": "word",
+       "value": "хвилювання",
+       "textRange": [
+        8714,
+        8724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f74ef510-c2ec-4f60-bc96-81f80504eab2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8724,
+        8725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f4e9686-1daf-42b6-a86f-c2f9a701209c",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8725,
+        8727
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e78265e-8a2c-4acc-aabf-23a5b725c887",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8727,
+        8728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2696877e-bc3c-4d4d-a451-67a5947d08ab",
+       "type": "word",
+       "value": "звертаючи",
+       "textRange": [
+        8728,
+        8737
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b3a76d6-4556-4d8a-9732-6caa4b3b76f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8737,
+        8738
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8612a85f-c582-430b-8436-988e209a5226",
+       "type": "word",
+       "value": "увагу",
+       "textRange": [
+        8738,
+        8743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "767927aa-bc13-4516-a68b-9e871ff39d5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8743,
+        8744
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51fa8490-bfaf-4855-a61a-f12d342b7049",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        8744,
+        8746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffd6efff-dde0-46c4-9ce5-8206716db633",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8746,
+        8747
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2dcda540-7373-4b29-9b9c-185ce56844b7",
+       "type": "word",
+       "value": "подряпини",
+       "textRange": [
+        8747,
+        8756
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " від хвилювання не звертаючи увагу на подряпини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "399f3706-bbf9-4457-a96d-69fce16047b7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8756,
+      8757
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2bcecee7-1f0b-4780-bf7f-9f351160a012",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8757,
+      8758
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Щоб краще чути Болеславу, він подався вперед, продираючись крізь кущі, від хвилювання не звертаючи увагу на подряпини.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Щоб краще чути Болеславу, він подався вперед, продираючись крізь кущі, від хвилювання не звертаючи увагу на подряпини.",
+ "concept": "SYNTAX"
+}

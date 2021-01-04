@@ -1,0 +1,829 @@
+{
+ "id": "3499a0e4-9733-4b21-9cd6-13173fed3bf0",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "22bf7e67-21f2-417f-bb2d-307dd9008f4b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1b471fba-dd23-4b1a-9cd2-3e53c79da154",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "306c0399-8bb0-4ddc-ab5a-8c310d0e91e1",
+       "type": "word",
+       "value": "Так",
+       "textRange": [
+        1385,
+        1388
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Так",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "45fe54bf-1200-4a55-bd9e-c9aced2ddec3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1388,
+      1389
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0f269927-e5c8-48e3-baf0-b4129d3c2cb1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c18935ee-2bba-455b-b488-5874f31a4c57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1389,
+        1390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "819adcce-fd19-46dd-80a0-641c5ba72a1d",
+         "type": "word",
+         "value": "Офісна",
+         "textRange": [
+          1390,
+          1396
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a0f0ca27-9a7d-4361-963e-5904e2752c22",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1396,
+          1397
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c590ad04-5148-47c4-8d46-249169deb703",
+         "type": "word",
+         "value": "Людина",
+         "textRange": [
+          1397,
+          1403
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "21ed106b-87aa-4f01-9c38-ba4274df153f",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1e7373d8-ad9d-49bb-9ecf-408b4439b3bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1403,
+        1404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d05b3ce-53d0-453d-92f9-79fb0a599617",
+       "type": "word",
+       "value": "направду",
+       "textRange": [
+        1404,
+        1412
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c1bffa6-ae9f-479d-9dba-b5adeaf51ae2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1412,
+        1413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e819c3e-584e-4923-b17a-5ae92aa1ca43",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1413,
+        1415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f856a0fa-2cce-437f-81a1-b4cfbcf49d2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1415,
+        1416
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec20c8eb-4aed-4697-9d1b-0d522d402d29",
+       "type": "word",
+       "value": "пам'ятає",
+       "textRange": [
+        1416,
+        1424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee6e4fed-bfe7-4b50-8ba0-64b88aad5b51",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1424,
+        1425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1982fcb9-180b-47a3-a042-2b159a5748f3",
+       "type": "word",
+       "value": "дотиків",
+       "textRange": [
+        1425,
+        1432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c0814c0-3759-4206-9ca6-29ada0c8cabe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1432,
+        1433
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "941fec5b-ea1d-42f6-ba13-487c4dd89b55",
+       "type": "word",
+       "value": "світла",
+       "textRange": [
+        1433,
+        1439
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Офісна Людина направду не пам'ятає дотиків світла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aff94319-131e-48ec-ad9e-a68cd1706a89",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1439,
+      1440
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Так, Офісна Людина направду не пам'ятає дотиків світла",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5599faa0-4a29-48c5-a388-b798297db3d4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3e81a7a3-a5ef-456d-8c36-d537e4c16c28",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c98409d9-357d-4e89-a486-fe6eacbd48c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1440,
+        1441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39a1402a-a622-48e2-a0d9-c806268b747a",
+       "type": "word",
+       "value": "Або",
+       "textRange": [
+        1441,
+        1444
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Або",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "94c67ef3-55e1-4a47-8969-96c5a0fc1084",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1444,
+      1445
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed9d08a0-f235-4740-aa5f-dd24357b5f38",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c0545f91-14c7-4628-9e44-9ecd5f91fb77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1445,
+        1446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "807fa5e2-bbb7-41c0-b416-61c1555eeb5a",
+       "type": "word",
+       "value": "пригадуючи",
+       "textRange": [
+        1446,
+        1456
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " пригадуючи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3bc5764f-3561-439e-b42f-e51478f04553",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1456,
+      1457
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ea2ba170-16ac-4b4b-9e3f-217ec4903ef1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "908cd33f-bbad-4c25-906c-592a1b6a530e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1457,
+        1458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "086465f3-ff6d-483c-9c84-7a087e5ec91e",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        1458,
+        1460
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4bea3ec8-3c1e-4a33-a67b-f81347f9c635",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1460,
+        1461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ece2fd9b-1ce3-4d66-b848-1d5215702ecc",
+       "type": "word",
+       "value": "кров'ю",
+       "textRange": [
+        1461,
+        1467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a447f466-1215-4ef7-9bb6-08b8bcc454b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1467,
+        1468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "481f6989-19b3-4132-8d8c-c6ab3075b5dc",
+       "type": "word",
+       "value": "відриває",
+       "textRange": [
+        1468,
+        1476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b005349-9497-41e8-a569-a242a58ab090",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1476,
+        1477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2eaf5e7-ec93-4e5a-a03b-bd2700d6c2d3",
+       "type": "word",
+       "value": "свою",
+       "textRange": [
+        1477,
+        1481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ad49953-af83-4edc-adac-8c12a47b8951",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1481,
+        1482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e14cb18-7f54-44cf-ac53-2e0b216139fe",
+       "type": "word",
+       "value": "маску",
+       "textRange": [
+        1482,
+        1487
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " із кров'ю відриває свою маску",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fec89cc3-a8ea-4f32-980f-e866658d1448",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1487,
+      1488
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Або, пригадуючи, із кров'ю відриває свою маску",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9ae64083-ca35-4556-9c7f-36da3f500aa5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f6740d99-9c1d-4f66-8b9b-cc4bab52bcf0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ede5b7d0-7b78-43f4-b371-339cca276fad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1488,
+        1489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d9b79f5-e883-401f-9b61-1ee34e0b84b3",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        1489,
+        1490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "427d1e00-fad9-4007-9726-9eae7c0c34ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1490,
+        1491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "423fdef3-7d39-4351-bac0-1588512f4212",
+       "type": "word",
+       "value": "далі",
+       "textRange": [
+        1491,
+        1495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d71458f9-12b2-4fa5-b23f-67ed6ccdd650",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1495,
+        1496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "006af5a8-2526-424c-bcac-da3d0c83ccb4",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1496,
+        1498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba8bb406-c658-4886-b9b8-452371f1262a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1498,
+        1499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6cfca83-8344-4526-b320-a6017fa4e437",
+       "type": "word",
+       "value": "неї",
+       "textRange": [
+        1499,
+        1502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b7f51b8-75e9-4c08-b316-fbddbd1fefa0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1502,
+        1503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9a28790-6522-4c87-af4b-9e55e937aa86",
+       "type": "word",
+       "value": "чигає",
+       "textRange": [
+        1503,
+        1508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed11a7a8-c10c-47bf-877a-f3c94e301468",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1508,
+        1509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73322f66-fdbf-4d2e-8f88-d702e18173ca",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        1509,
+        1512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c492686-fde6-4796-9bbd-6644e7435f8e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1512,
+        1513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51f7cc15-adb9-4137-b0eb-2af7e76a858a",
+       "type": "word",
+       "value": "переродження",
+       "textRange": [
+        1513,
+        1525
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " А далі на неї чигає або переродження",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2b286b95-44d8-43a8-881b-24ac53256534",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1525,
+      1526
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4fbf3908-4571-4dbd-96ca-0b8806f53662",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d70fb09c-fd27-46f1-8ed4-1760a67b7548",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1526,
+        1527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b091feb8-6ce1-49b2-badc-26887f65bf35",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        1527,
+        1530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3b58419-8e19-494d-b5f8-149aa309b8de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1530,
+        1531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd101119-30af-4d66-8f43-0f3f9554c8b5",
+       "type": "word",
+       "value": "конання",
+       "textRange": [
+        1531,
+        1538
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " або конання",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a8ef051e-1177-4cc9-ab64-88159cfceee8",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1538,
+      1539
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " А далі на неї чигає або переродження, або конання",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "1b154942-0000-492f-8dec-b828ab670f0c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0b734947-77d9-4ac5-a449-1827ef486121",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bdba6ad8-680d-428c-9213-49f8877210a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1539,
+        1540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4055ef3a-89cf-47f1-828c-904a66098d34",
+       "type": "word",
+       "value": "Зрештою",
+       "textRange": [
+        1540,
+        1547
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Зрештою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0c076a5-1150-4f4c-95d1-a534f84a7726",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1547,
+      1548
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "da39e650-54f9-432b-a6c8-677a5b3dd716",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1fd40155-aa03-4bfe-8641-314b3a3e10b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1548,
+        1549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "440bffd8-4e2d-4fb0-895c-89847777aa9c",
+       "type": "word",
+       "value": "переродження",
+       "textRange": [
+        1549,
+        1561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3261710f-b2a1-4284-8f48-c51d2a51d6d9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1561,
+        1562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1819e571-ac56-40d8-970a-cdd5b57f0e9c",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        1562,
+        1565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb119ae5-7c6c-436c-be41-422ffa6dd764",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1565,
+        1566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "578bb034-60b4-4bde-b985-04425c09708f",
+       "type": "word",
+       "value": "конання",
+       "textRange": [
+        1566,
+        1573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cce45291-62b8-416e-adce-b5ab1f3e1068",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1573,
+        1574
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b8082f9-4386-48c4-87ec-0f303cf399b9",
+       "type": "word",
+       "value": "чигають",
+       "textRange": [
+        1574,
+        1581
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fb95880-8659-4cb7-9c13-d6dd7fa4d4c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1581,
+        1582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6904c715-0d26-4774-89ea-2978b0b2f841",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1582,
+        1584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd335ec6-53a1-40b2-800d-e84aea2bad45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1584,
+        1585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18ed78b7-3b3a-4e59-a61c-36e489f0201e",
+       "type": "word",
+       "value": "всіх",
+       "textRange": [
+        1585,
+        1589
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " переродження або конання чигають на всіх",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "33bd184e-e0a9-4f49-a706-0fc143d59088",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1589,
+      1590
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c8a11362-6bf0-45d9-b0d5-c1caa0af68a9",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1590,
+      1591
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Зрештою, переродження або конання чигають на всіх.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Так, Офісна Людина направду не пам'ятає дотиків світла Або, пригадуючи, із кров'ю відриває свою маску А далі на неї чигає або переродження, або конання Зрештою, переродження або конання чигають на всіх.",
+ "concept": "SYNTAX"
+}

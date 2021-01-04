@@ -1,0 +1,284 @@
+{
+ "id": "55b609bf-2aed-423b-8098-fb8afcddd15e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "74e62e51-47a1-402e-84ce-6de669f0a2bc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e8f9fd3f-e695-49c4-95c0-243c9dc90b71",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6a2a62dd-d273-4e61-8120-dd8695a45b2b",
+       "type": "word",
+       "value": "Зупинилися",
+       "textRange": [
+        849,
+        859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72809054-99af-45ab-901e-a8754f724562",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        859,
+        860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcdfec96-e11d-456a-80fb-a2626b829c8b",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        860,
+        861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09e13bd2-185b-40cf-be70-2feadaae257c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        861,
+        862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df0fe5d6-3e36-4456-95d8-b25f52dc0702",
+       "type": "word",
+       "value": "похмурому",
+       "textRange": [
+        862,
+        871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88db73a0-b9b6-47b8-8573-8ca730544337",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        871,
+        872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c616992-06b9-4f8b-a742-b4681f247fe7",
+       "type": "word",
+       "value": "провулку",
+       "textRange": [
+        872,
+        880
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Зупинилися у похмурому провулку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "868fe5b2-db3a-40a9-97ab-469819e2f84f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      880,
+      881
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64d1a690-addc-4b42-aff7-b062be84d41d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c8d1331a-7214-4982-b205-080e0fa6aeb7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        881,
+        882
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "30ebaeef-3199-4288-9bf3-717fb8815058",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          882,
+          887
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "06699d05-81f7-4f2f-a3c7-884e790a01da",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f590fa26-a553-496b-b8cd-ff9c86f8fccf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        887,
+        888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "807ccbb7-fccc-49ec-bb94-e2c6d811cc7e",
+       "type": "word",
+       "value": "розплатився",
+       "textRange": [
+        888,
+        899
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Данко розплатився",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a7ccb17-1da2-4e15-853a-034515453fd8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      899,
+      900
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6ece848b-d199-4c85-a22f-0d7f1326cf1f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ef24b37e-92a0-4f22-872c-855b3e946695",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        900,
+        901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6b22a04-31c1-4271-8e9e-f05225c5e05e",
+       "type": "word",
+       "value": "взяв",
+       "textRange": [
+        901,
+        905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "612dcb9a-9b70-4d73-8e50-03d7864619f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        905,
+        906
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "46794f70-8806-498c-9029-0db309fb77b4",
+         "type": "word",
+         "value": "Дору",
+         "textRange": [
+          906,
+          910
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4380eb85-c2ed-4b4c-a42e-11252c1f3857",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a1228a6b-f1dd-4fa5-a518-b2db4426ceca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        910,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecf0e0d8-f499-44bd-8483-c4a0b10407e3",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        911,
+        913
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72bc411c-10b6-445c-9295-7d3e7f6deb7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        913,
+        914
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f642e46c-f6b7-439d-8e8f-d5bd6829fad0",
+       "type": "word",
+       "value": "руку",
+       "textRange": [
+        914,
+        918
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " взяв Дору за руку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4fc4187b-b21a-4634-9d0f-a00338781fa6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      918,
+      919
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0350ea21-7f8b-451d-b185-7ba19d5390f5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      919,
+      920
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Зупинилися у похмурому провулку, Данко розплатився, взяв Дору за руку.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Зупинилися у похмурому провулку, Данко розплатився, взяв Дору за руку.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,1130 @@
+{
+ "id": "148364b8-1a1a-4d60-8d78-1ca5c633ca67",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "df41f031-31bf-46b9-8d96-05fc29270af6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "24f00adb-10a6-460f-8cd9-e2e71f3e08b2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e9fd56ef-895b-444a-8ee2-f773725bdfe1",
+       "type": "word",
+       "value": "Тут",
+       "textRange": [
+        2444,
+        2447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7663fe9a-820d-4c0d-be53-16906886731e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2447,
+        2448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb0a1810-1851-4411-afc6-a828c17c0200",
+       "type": "word",
+       "value": "варто",
+       "textRange": [
+        2448,
+        2453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84ff68da-7f77-4cf8-bc0f-7d399f3a5b05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2453,
+        2454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0692dae6-5517-4a18-b0da-9e49d10a51c1",
+       "type": "word",
+       "value": "навести",
+       "textRange": [
+        2454,
+        2461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5d1d2e0-26fa-4f7f-9ff2-49872d89bc31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2461,
+        2462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf149e8a-11b7-4dad-91ba-2cfbe6ac0f00",
+       "type": "word",
+       "value": "цитату",
+       "textRange": [
+        2462,
+        2468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b433df40-1a8b-4f9e-bc45-6be44ed5a9a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2468,
+        2469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6a1c182e-110f-4fbc-b17a-3873b006fea5",
+         "type": "word",
+         "value": "Сергія",
+         "textRange": [
+          2469,
+          2475
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "31b26f1e-4011-4728-9714-a4b2449cd46b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2475,
+          2476
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "12447f62-b41d-44c4-a30d-5267bbd8e34e",
+         "type": "word",
+         "value": "Дорохова",
+         "textRange": [
+          2476,
+          2484
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2002c05b-189d-4d06-ba0c-071db4c06de0",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Тут варто навести цитату Сергія Дорохова",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fa688232-4774-4119-af38-405a63e90652",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2484,
+      2485
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf523890-696b-4768-af5c-765a3b0f2639",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a2629e2b-346a-4c6c-ad1d-59d05e919945",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2485,
+        2486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26fd98d3-0203-4795-9d6c-b77c29632785",
+       "type": "word",
+       "value": "координатора",
+       "textRange": [
+        2486,
+        2498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "883581ae-c0f3-4258-810f-8e240399f673",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2498,
+        2499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "bdb2b157-834d-4739-b3c9-e3647ff447ad",
+         "type": "word",
+         "value": "SCAE",
+         "textRange": [
+          2499,
+          2503
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "29e2ca85-446c-4c1f-a377-b8235ec995e1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "014211b7-ac9f-438e-9419-69e2ed62a41a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2503,
+        2504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a200f95a-b6f2-4e48-914a-d8f737497c64",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        2504,
+        2505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "c1d34ddf-5b8e-4f55-b9b4-cff80cc42495",
+         "type": "word",
+         "value": "Speciality",
+         "textRange": [
+          2505,
+          2515
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b0ec8f32-d671-440f-b1c8-6aec1ab4c017",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2515,
+          2516
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a044206b-cb12-455a-9406-b5a962cb752d",
+         "type": "word",
+         "value": "Coffee",
+         "textRange": [
+          2516,
+          2522
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ebb43f5e-3e4c-4480-8626-db94088158a1",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2522,
+          2523
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1a009691-9240-4eb6-ab77-2aa6cbd35290",
+         "type": "word",
+         "value": "Association",
+         "textRange": [
+          2523,
+          2534
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "699531d2-96b5-4f6e-915f-b3a629f64b99",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2534,
+          2535
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "15413563-31a8-4053-917c-8bf66eaebe99",
+         "type": "word",
+         "value": "of",
+         "textRange": [
+          2535,
+          2537
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d580a661-d4f2-44c6-b0f6-ff9d2a65a394",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2537,
+          2538
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e769c67b-51e2-48e3-9885-27e961744640",
+         "type": "word",
+         "value": "Europe",
+         "textRange": [
+          2538,
+          2544
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "423aeceb-b93b-453c-9fe2-296975d70a56",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "04a4cac4-bdec-4f13-80a7-9c4a64e66395",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        2544,
+        2545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55205e6c-9c14-4071-9125-50ae8d48319c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2545,
+        2546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b16d8dd-8b1f-44ca-a67a-b47f55299e78",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2546,
+        2547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcfe59f5-8bc7-46fc-93b9-b870afd5ba6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2547,
+        2548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "c084cee5-a949-4e23-894c-a200ba2c1039",
+         "type": "word",
+         "value": "Україні",
+         "textRange": [
+          2548,
+          2555
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bafa4dad-7f9a-4e03-a3fd-216e5d0fa80f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " координатора SCAE (Speciality Coffee Association of Europe) в Україні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5b604aa9-ea2a-44b6-a7d0-b0bba2a26411",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2555,
+      2556
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3fd435ab-70f0-4892-8501-dfc26d5ef721",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "64150249-d468-4a0a-9694-68c065573ff4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2556,
+        2557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5859d1c5-5d34-4fc8-80cb-a98eb54933ec",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2557,
+        2558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "419105fd-267f-4fd0-8111-0fe34e38a671",
+       "type": "word",
+       "value": "Є",
+       "textRange": [
+        2558,
+        2559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1359e4c1-edfa-4bb1-be37-feade57e9091",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2559,
+        2560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76f444ca-fd74-4fa3-9a43-e2f2517c412d",
+       "type": "word",
+       "value": "американо",
+       "textRange": [
+        2560,
+        2569
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Є американо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2555ce4-19a2-47ab-b229-8e5af5b00ae8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2569,
+      2570
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c3800c2c-2130-4c02-9120-8466fac63264",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d50b61b5-e658-454d-a647-002de0749661",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2570,
+        2571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b4babcd-a9a2-460c-8ff3-359c4644e69e",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        2571,
+        2572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7df36c67-606a-464d-96bd-efbc6523ec74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2572,
+        2573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5244743c-2d34-4691-a12f-dbd532cf566e",
+       "type": "word",
+       "value": "капучино",
+       "textRange": [
+        2573,
+        2581
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " є капучино",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cdaa64f5-b4b0-4f19-b8bd-98094439900a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2581,
+      2582
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Тут варто навести цитату Сергія Дорохова, координатора SCAE (Speciality Coffee Association of Europe) в Україні: «Є американо, є капучино",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ff864af1-a1fe-4033-8fae-0e0719f2f027",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d75a969d-a0cc-41cb-9452-a655926d4bec",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b623eb46-a374-4f54-a575-ccf598275611",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2582,
+        2583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83c463c4-a113-4139-a7ff-d6e6d42a8d61",
+       "type": "word",
+       "value": "Хочете",
+       "textRange": [
+        2583,
+        2589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44612caa-ef5e-4282-a601-088ba8488dda",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2589,
+        2590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3d6571e-bc7e-4f49-8466-8ba54c6cbe45",
+       "type": "word",
+       "value": "пити",
+       "textRange": [
+        2590,
+        2594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66453c96-7ff7-413f-96b7-829955fc6de8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2594,
+        2595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b64f92b8-a4a1-4a6d-86a8-dff809204ff7",
+       "type": "word",
+       "value": "каву",
+       "textRange": [
+        2595,
+        2599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "554ee72b-046c-4790-adb5-a8dd0885119e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2599,
+        2600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45a6c31e-ce88-4c95-b15d-e887ba36884e",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        2600,
+        2601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30b1eeed-e4b2-4a32-ae73-1648ca48c880",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2601,
+        2602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d031e2a5-049b-482d-a771-92bcd5c8b5fe",
+       "type": "word",
+       "value": "молоком",
+       "textRange": [
+        2602,
+        2609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52a53651-6cb6-40b8-b974-e0ae9e40afe7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2609,
+        2610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09dd655e-e22a-46ad-b608-0d08b032e5d5",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2610,
+        2611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01256b38-8aa6-458e-990f-fca99ceda92f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2611,
+        2612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e65dd25d-b8f9-4ce7-bff0-93364df24ff2",
+       "type": "word",
+       "value": "пийте",
+       "textRange": [
+        2612,
+        2617
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bd0df47-9499-4d39-a3be-68b1169b46a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2617,
+        2618
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8c0f173-2b64-4521-824c-a4a88e0e2359",
+       "type": "word",
+       "value": "капучино",
+       "textRange": [
+        2618,
+        2626
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хочете пити каву з молоком — пийте капучино",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8511414e-0d9e-4d4f-a7c1-8cca14c41690",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2626,
+      2627
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хочете пити каву з молоком — пийте капучино",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "117e2a72-7136-4112-996e-affa679bbbaa",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1fa78954-f0ab-4e93-99f8-cc3328447f66",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b5e8e9b1-aa6b-4fc9-9b5e-27289d6aea2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2627,
+        2628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09e86a5c-0a6b-43fb-bcbc-cc4ec5abdc65",
+       "type": "word",
+       "value": "Розбавити",
+       "textRange": [
+        2628,
+        2637
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd8d0ec6-f652-4558-a433-55828dd22f45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2637,
+        2638
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a56e428b-0797-48fd-bcee-f1df07282997",
+       "type": "word",
+       "value": "еспресо",
+       "textRange": [
+        2638,
+        2645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "550b5e88-7e66-4168-b5fd-bb0ce52f6e4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2645,
+        2646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c765c173-f058-45bd-b36c-79ce0960f7b5",
+       "type": "word",
+       "value": "водою",
+       "textRange": [
+        2646,
+        2651
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e279acf4-3dd5-4c9f-9522-6dc0441be905",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2651,
+        2652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b40ecfa-44d8-4944-a32e-c6b79c7a51b9",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2652,
+        2653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24f7ab98-97b3-4508-846d-80466c966a80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2653,
+        2654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "629a26e6-c2c3-403d-94ff-260e1664c2f0",
+       "type": "word",
+       "value": "пийте",
+       "textRange": [
+        2654,
+        2659
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6102fbd-b940-40b2-83c8-b79268d80175",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2659,
+        2660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6cc4369-7db0-4fbb-846d-ec0e7a304942",
+       "type": "word",
+       "value": "американо",
+       "textRange": [
+        2660,
+        2669
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Розбавити еспресо водою — пийте американо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b042d1aa-dc82-41fc-80d5-78c83160f97e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2669,
+      2670
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Розбавити еспресо водою — пийте американо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8effb848-6c1d-43d7-8f81-71d99e60100f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1ac03489-292c-453c-a592-647c51802af1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "51fabd6c-9596-443f-bdef-85b556644a58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2670,
+        2671
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8eae50a9-3922-462c-aea5-a5a456dd6c7e",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        2671,
+        2673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba830c9e-964e-408c-be41-cc910c33a276",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2673,
+        2674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da7f5139-176a-4695-bdc9-38c1f978a534",
+       "type": "word",
+       "value": "розумію",
+       "textRange": [
+        2674,
+        2681
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Не розумію",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "177ce603-5f56-4f5e-ab15-ea29e91af632",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2681,
+      2682
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64f7f36f-ddab-465d-b31b-8e71686b3c3c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4ae1316d-41c0-47a6-811d-3c788ed0ec36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2682,
+        2683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd2b3451-4b95-478e-b947-1f89c462ce10",
+       "type": "word",
+       "value": "навіщо",
+       "textRange": [
+        2683,
+        2689
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02bcda15-bbca-43b3-9c5e-7ba4ed22c938",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2689,
+        2690
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af767efb-6775-4695-bb9d-31bae04dec68",
+       "type": "word",
+       "value": "потрібно",
+       "textRange": [
+        2690,
+        2698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "710956bc-d161-4534-80a2-99ae21b66aa0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2698,
+        2699
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62839878-f5ef-4acf-be39-2cde10cc1c77",
+       "type": "word",
+       "value": "розводити",
+       "textRange": [
+        2699,
+        2708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdf37856-74b7-42fb-a30c-92f4b656b2d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2708,
+        2709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4b4e93d-dd13-4f13-afa8-34a0c66b2ea1",
+       "type": "word",
+       "value": "еспресо",
+       "textRange": [
+        2709,
+        2716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46e6a364-d98e-4992-9ec4-0bc9b826b0b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2716,
+        2717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "581b1f60-a9c0-48ab-adbc-234fb67d208b",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2717,
+        2718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17be0603-8764-468d-93b8-2a006d8eb5e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2718,
+        2719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be32d203-cf2c-4eb9-a13f-0f523cb25dee",
+       "type": "word",
+       "value": "молоком",
+       "textRange": [
+        2719,
+        2726
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " навіщо потрібно розводити еспресо і молоком",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7e77e5d8-ccaa-45ae-bebe-9770ac80ae94",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2726,
+      2727
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cfeb39e8-d325-4802-9037-829c7ffb2793",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "116d1d8a-6b38-444e-86f1-a8af3db15a50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2727,
+        2728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bab7b275-33b9-4c66-a1cb-0b3cd7556347",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2728,
+        2729
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "497e50f8-001b-499c-987e-6afd12bef5f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2729,
+        2730
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d910efa-dc4c-4d7f-b3d5-06df97284f6c",
+       "type": "word",
+       "value": "водою",
+       "textRange": [
+        2730,
+        2735
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17a31b1f-4235-4534-a603-180cc312f333",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2735,
+        2736
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і водою»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fd30d1f5-7d7b-42b9-ba53-b3f6f73002db",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2736,
+      2737
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "126ef825-06e9-4d6a-9a49-4cb2026127cb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2737,
+      2738
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Не розумію, навіщо потрібно розводити еспресо і молоком, і водою».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Тут варто навести цитату Сергія Дорохова, координатора SCAE (Speciality Coffee Association of Europe) в Україні: «Є американо, є капучино Хочете пити каву з молоком — пийте капучино Розбавити еспресо водою — пийте американо Не розумію, навіщо потрібно розводити еспресо і молоком, і водою».",
+ "concept": "SYNTAX"
+}

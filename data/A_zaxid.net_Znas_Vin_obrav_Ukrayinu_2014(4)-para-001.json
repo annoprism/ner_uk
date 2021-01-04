@@ -1,0 +1,1746 @@
+{
+ "id": "a03188ad-7545-4e59-813f-b0db20ec5725",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "82d05591-816c-4d3c-a12d-6e7de4ef3bdf",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fd06d49e-5732-4610-ae80-363f1bffcfc6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dae19480-0e03-4e53-9b49-830a8f0dc529",
+       "type": "word",
+       "value": "Британський",
+       "textRange": [
+        75,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b50c2f94-f1bd-4476-b467-76d000857b56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        86,
+        87
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a3b55d2-5121-4a73-a9e5-7419f11bff78",
+       "type": "word",
+       "value": "мандрівник",
+       "textRange": [
+        87,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25f7775c-67d2-44ec-874b-75a0ed405df4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18c3cf31-71af-4686-8ca5-4ae799e3c844",
+       "type": "word",
+       "value": "Фред",
+       "textRange": [
+        98,
+        102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dab88dc2-87f5-4253-82c4-857d727a039e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        102,
+        103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ba22590-7de5-4d0a-b75a-cd34e11ea57d",
+       "type": "word",
+       "value": "Фінн",
+       "textRange": [
+        103,
+        107
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Британський мандрівник Фред Фінн",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ee120383-49b6-48c6-806d-6223472f126e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      107,
+      108
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "38476e3d-e50b-42ad-bbd1-effbdfd191bb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "63c162e6-8018-4809-97f5-bd2e7325c720",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        108,
+        109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a22892f-5f8c-4a11-8b28-6e155d13c378",
+       "type": "word",
+       "value": "рекордсмен",
+       "textRange": [
+        109,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "054204a6-cf2f-40a7-a952-2c69b92bbda3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef2418b5-e353-481b-8ad2-669b75bfad07",
+       "type": "word",
+       "value": "Книги",
+       "textRange": [
+        120,
+        125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9414a2f-be88-4ae4-943f-6e8bfa27cf58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        125,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c545672-f161-4da2-beb2-4af3d1aabfa0",
+       "type": "word",
+       "value": "рекордів",
+       "textRange": [
+        126,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa21fd5f-2ae3-4ec5-bed4-9207afd3a886",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53ae795c-2f75-49b9-9a39-94eb22cdd85f",
+       "type": "word",
+       "value": "Гіннеса",
+       "textRange": [
+        135,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e65856a3-e76c-4e03-ab9a-ff8c7bb26307",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        142,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7440caf8-c820-4ad9-94d3-e80a3f239c25",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        143,
+        145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3da46bd1-dfc7-401f-aa03-09643ee34416",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        145,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ead08e9-9488-4038-ac23-70b491678f70",
+       "type": "word",
+       "value": "кількістю",
+       "textRange": [
+        146,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0918c68-33f1-4be0-a9cf-cc274b47f7a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        155,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4dcb39bf-6545-4502-9733-f5ce9810ce8d",
+       "type": "word",
+       "value": "польотів",
+       "textRange": [
+        156,
+        164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a8f80cc-0b64-4e96-9733-3080cdc4f7ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        164,
+        165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84d62610-4126-4f69-bb27-8ca70def0615",
+       "type": "word",
+       "value": "літаками",
+       "textRange": [
+        165,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb6b986c-5cfe-47d6-8875-009f369feb49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        173,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3c8ab01-74d6-4188-a132-6b67b9baa6a4",
+       "type": "word",
+       "value": "серед",
+       "textRange": [
+        174,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df28a005-4563-4907-9ac0-90929a710a01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        179,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebbddc72-a55d-4c3f-b546-2f796a2da02e",
+       "type": "word",
+       "value": "пасажирів",
+       "textRange": [
+        180,
+        189
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " рекордсмен Книги рекордів Гіннеса за кількістю польотів літаками серед пасажирів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8d1fe303-b247-429a-8ed6-5d54b91c36fb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      189,
+      190
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "026c2a97-a4e4-47f1-b509-b35ac8b9cd59",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3de3821c-e9b2-4720-bd9c-2aa49d142fd7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        190,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e719b8ea-2ccf-4429-8471-fc1931f2f45d",
+       "type": "word",
+       "value": "приїхав",
+       "textRange": [
+        191,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a352365d-66d3-44b7-a3e8-232081b14dd4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fbbe6e7-6a92-40f1-8db5-867cd25723a1",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        199,
+        201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9379de2e-65e2-491c-9a72-83e9bf6d8cb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        201,
+        202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a92dad83-f710-4600-ae60-0077ece7c8ee",
+       "type": "word",
+       "value": "Львова",
+       "textRange": [
+        202,
+        208
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " приїхав до Львова",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "222e770b-4dd1-4719-ace5-c59b490b18db",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      208,
+      209
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Британський мандрівник Фред Фінн, рекордсмен Книги рекордів Гіннеса за кількістю польотів літаками серед пасажирів, приїхав до Львова",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fcfc987b-864c-4b93-a121-6885a79cb8ab",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4b34c626-0f70-4122-bfef-dbe002c00831",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2f080be0-d8a0-48de-80f9-e59449611473",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        209,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f16f0ea-3cdb-4ed0-acc6-38f6027a14b9",
+       "type": "word",
+       "value": "Це",
+       "textRange": [
+        210,
+        212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "702ac527-9fdf-49c6-a6e5-3278109ae224",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        212,
+        213
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8966079-8c7a-497a-bec8-123d3c26845d",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        213,
+        216
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "995f2bd0-9631-46ac-870f-b5b79e89d97d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        216,
+        217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93a892f9-52ed-43af-9a0e-199575c57acc",
+       "type": "word",
+       "value": "четверта",
+       "textRange": [
+        217,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e4c3bde-fd5b-49ac-9327-831ec3b1df18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7533316-4953-467f-937f-f610f11a53ea",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        226,
+        230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "584bb8ed-a5dd-4a18-9882-f81a90bb3f2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        230,
+        231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "256b59e6-2f4f-4772-904d-79569692da08",
+       "type": "word",
+       "value": "подорож",
+       "textRange": [
+        231,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4e4a66e-741c-4185-8153-9a017455ece5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        238,
+        239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2ff340b-0388-49e0-8adb-acb955703e6d",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        239,
+        241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5aade18-1cfe-4095-bc67-ff4b8c15b1f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        241,
+        242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b98f232-122d-4f41-917a-7f9875b6ecd9",
+       "type": "word",
+       "value": "міста",
+       "textRange": [
+        242,
+        247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8b45880-fe45-450f-a547-a82057bed98a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        247,
+        248
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cb2a907-9542-4cad-939b-c2605c964e54",
+       "type": "word",
+       "value": "Лева",
+       "textRange": [
+        248,
+        252
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Це вже четверта його подорож до міста Лева",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "324187e3-776a-42c0-b0d8-93e4b4c08bfa",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      252,
+      253
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Це вже четверта його подорож до міста Лева",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "104d31c1-389b-4c2a-86a9-d672e4e67521",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "895aa2a7-a085-44f4-822c-f4e237931687",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a6044887-b029-457c-9052-f41ec891c968",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        253,
+        254
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08e0738e-4229-42a1-9fe1-f1cc3368e954",
+       "type": "word",
+       "value": "Вперше",
+       "textRange": [
+        254,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3596cf9f-9c81-44b5-9ab4-cc14e99fc3ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        260,
+        261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e19894bd-544e-4802-b433-ace4a28d8e35",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        261,
+        264
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f44bcf9a-2eef-4256-8c56-be8df662a98c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        264,
+        265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9725406-1a76-4565-9e9d-fab0aca832db",
+       "type": "word",
+       "value": "завітав",
+       "textRange": [
+        265,
+        272
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b75a7dbb-9337-4259-9694-074e1eb13b8c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        272,
+        273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e907d990-a4b7-4b1b-b2a9-93f38ee4416a",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        273,
+        274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1dcf183-19ef-43ee-b906-319614e0b201",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        274,
+        275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4082d298-0cda-46b6-bea9-aabd3ea6b391",
+       "type": "word",
+       "value": "Україну",
+       "textRange": [
+        275,
+        282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dbd1975-7aae-4b41-b45f-f640e0b6e5be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        282,
+        283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12d7913b-58ba-4373-b1ac-df6dbe72879b",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        283,
+        284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40fa5a92-8f0a-4f84-af32-7a4fa644d8da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        284,
+        285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69429265-0ba5-4f9c-95d4-4c57ccf2c90e",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        285,
+        287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9117a497-d772-4354-b561-5c8165d29261",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        287,
+        288
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ac9e470-1912-4de9-b514-0c519f4b9903",
+       "type": "word",
+       "value": "Львова",
+       "textRange": [
+        288,
+        294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15e0cb54-af5a-40f6-8d4e-162b8bd54314",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        294,
+        295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "062b1c2f-0455-49a6-89b2-85fe6da248cf",
+       "type": "word",
+       "value": "зокрема",
+       "textRange": [
+        295,
+        302
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84bb2721-5f10-4eee-90c5-42d70e0d2efb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        302,
+        303
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab661de3-4335-412b-b785-200ab3ead1f6",
+       "type": "number",
+       "value": "1992",
+       "textRange": [
+        303,
+        307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f3316fd-335e-466e-9e69-f50af4013435",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        307,
+        308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3267266b-2182-4a6a-8fb1-2b7ad161ed9d",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        308,
+        312
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вперше він завітав в Україну і до Львова зокрема 1992 року",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1ba70fef-6fc8-4e2a-984e-3492fe89185a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      312,
+      313
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1aa41379-eb14-445a-ae9e-e069092e171f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "43be0532-3308-42ab-a8da-255c1488481c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        313,
+        314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90a09e51-287a-4bdc-be12-cc38f7335ce9",
+       "type": "word",
+       "value": "разом",
+       "textRange": [
+        314,
+        319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1773d017-c8a7-4a71-912a-488126b6b503",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        319,
+        320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fcc4a22-e421-43eb-8708-e01826832b5e",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        320,
+        322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d836085-2294-4c07-84e0-8e69271782e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        322,
+        323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c19b9c1-825e-4200-92d4-eb67cd48588d",
+       "type": "word",
+       "value": "знімальною",
+       "textRange": [
+        323,
+        333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f502625-5e07-4bad-806a-353faccfc401",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        333,
+        334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bda8b7ec-5f4c-431e-be3e-3cec4d4534ef",
+       "type": "word",
+       "value": "групою",
+       "textRange": [
+        334,
+        340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd6a9f82-bc17-4366-a785-2b3ef13fe309",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        340,
+        341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78e1076d-0d6f-4962-b26c-625b41bccd16",
+       "type": "word",
+       "value": "каналу",
+       "textRange": [
+        341,
+        347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8872d753-bb18-4e81-8e81-636418104b21",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        347,
+        348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4338479-8156-4770-9c49-719592917675",
+       "type": "word",
+       "value": "Discovery",
+       "textRange": [
+        348,
+        357
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " разом із знімальною групою каналу Discovery",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d97ef912-6057-4878-8365-c0298301c4d4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      357,
+      358
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вперше він завітав в Україну і до Львова зокрема 1992 року, разом із знімальною групою каналу Discovery",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "97e07166-b257-4ec5-8b6f-0c9c1e892f64",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "95cd494d-9863-4597-b99b-1dd8472cfdff",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0a54df3b-a00d-461c-a381-3ff92ad878e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        358,
+        359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbdeba17-c953-451c-a5d5-2d895ff22878",
+       "type": "word",
+       "value": "Відтоді",
+       "textRange": [
+        359,
+        366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f879ca73-aeae-4404-8730-adbf4487a99b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        366,
+        367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20508f42-dd0a-4f81-babe-b38a3e4e4b0f",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        367,
+        370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f9404e1-1fec-4f64-9ed1-54f352ccacf7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        370,
+        371
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe926aeb-40b8-4e07-9e8f-528aea58e66d",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        371,
+        373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a7fbbb3-9df3-414a-b41f-a484d907af5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        373,
+        374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "518e6734-4ca6-4cae-958c-3d61c87da7ed",
+       "type": "word",
+       "value": "просто",
+       "textRange": [
+        374,
+        380
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f424327-321c-4237-a97e-0d789b0a0ed8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        380,
+        381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f024acab-720e-4b72-a0b4-e7b36f1f59eb",
+       "type": "word",
+       "value": "встиг",
+       "textRange": [
+        381,
+        386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44cb0c21-b29c-4b58-9845-964c3076549f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        386,
+        387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a72cedeb-0bf2-4ec9-b8e1-bf651900da78",
+       "type": "word",
+       "value": "полюбити",
+       "textRange": [
+        387,
+        395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23aa3d8d-7c8b-46f6-8517-5de44663a1a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        395,
+        396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d52669b0-669e-4a53-8279-02eb657ae625",
+       "type": "word",
+       "value": "Україну",
+       "textRange": [
+        396,
+        403
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Відтоді він не просто встиг полюбити Україну",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f453f38-fe26-4dc8-bc54-8d5b7cc8aecd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      403,
+      404
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ec6f41cc-3a9f-4b55-b4c2-da4dce9b38c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "28ac4aff-f294-4139-a0df-bcc6fee18f59",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        404,
+        405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ae65191-9008-4010-9fc5-790d2d833e47",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        405,
+        406
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "309f66b0-9dba-47b8-acfa-e9e97564ada5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        406,
+        407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4f41d9d-38dd-40ff-9233-0d139e48f4c7",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        407,
+        408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a87862e1-5900-4a5f-877b-c1b01cd6bc3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        408,
+        409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4698f00-4ac4-4933-91a7-ef08f32f6e26",
+       "type": "word",
+       "value": "одружився",
+       "textRange": [
+        409,
+        418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac9406be-c066-4a22-af9f-79f7599ae317",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        418,
+        419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b983f9d5-5780-43b9-9011-6a3c30108c51",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        419,
+        420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbfce595-2f72-4dcc-8da3-f25533c0e885",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        420,
+        421
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4a30d2a-b4d7-4693-aa7f-0331088746aa",
+       "type": "word",
+       "value": "українкою",
+       "textRange": [
+        421,
+        430
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а й одружився з українкою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "47f9f194-2308-4d1a-9f68-46867e345a4c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      430,
+      431
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Відтоді він не просто встиг полюбити Україну, а й одружився з українкою",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d77b3df9-d253-4448-ba3d-ecfecf0fc0f2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2046cfe3-8d83-4380-b64c-6e5e0c88629b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0eb33909-f798-487b-afbc-d815b2bcaf0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        431,
+        432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23e8e724-f19e-4e13-930d-fff37a5f9ab3",
+       "type": "word",
+       "value": "Тепер",
+       "textRange": [
+        432,
+        437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f7bcc80-24fb-4941-8a34-0b7493fe091e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        437,
+        438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92b16a1e-868f-4436-94a2-445728d5a8ae",
+       "type": "word",
+       "value": "чоловік",
+       "textRange": [
+        438,
+        445
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45eae81d-8aa7-4eca-b4c3-cf2b7b25c312",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        445,
+        446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb735b36-c156-4c85-893f-6468e1f482dd",
+       "type": "word",
+       "value": "каже",
+       "textRange": [
+        446,
+        450
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Тепер чоловік каже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2644bfaf-05fc-4a9e-b77b-efb47cde1252",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      450,
+      451
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d26251cb-6b0b-417e-bd2d-4b2f32dc7856",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "49f60bda-c23a-4b98-8470-05fb99852b18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        451,
+        452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a8299df-3071-4ee7-b942-8264648ebfad",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        452,
+        454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40548fcd-c77d-48b6-8025-733822fd35ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        454,
+        455
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d269b3b-fbee-4a55-8b32-380b2d7541a1",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        455,
+        456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ba82cda-541c-493d-b867-df1e76cb43c8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        456,
+        457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "276a3078-6e12-42b3-8071-a1dece5dcfb8",
+       "type": "word",
+       "value": "нього",
+       "textRange": [
+        457,
+        462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c88dd91e-f3ed-4f5d-a130-8327dc952880",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        462,
+        463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b182d33-4e04-4450-8b9c-8e510c783fd8",
+       "type": "word",
+       "value": "дві",
+       "textRange": [
+        463,
+        466
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9051f582-35e5-45ae-8c1e-6ddf35f61d6b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        466,
+        467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32ae16c1-3eaa-47e6-adad-6dbb31739cc0",
+       "type": "word",
+       "value": "домівки",
+       "textRange": [
+        467,
+        474
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c32a2941-87a5-4eda-a340-89374c8ede6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        474,
+        475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5cfee94-da04-4dd5-9f21-05b2fe9a70ca",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        475,
+        476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5fcb66c-1ae8-466b-84d7-da1192b3410d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        476,
+        477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c08c7c6-f5c7-4aad-9cfa-37e8a4fe0f5f",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        477,
+        478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba953cea-b274-43fa-8300-dee774fcfedc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        478,
+        479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afe3f627-6bfa-4c09-816b-b53fbcc6db1c",
+       "type": "word",
+       "value": "рідному",
+       "textRange": [
+        479,
+        486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34ad9e35-819e-4d64-9e7a-e1c71525178a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        486,
+        487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aefcf9de-c27a-4702-a227-ca1539dd33ef",
+       "type": "word",
+       "value": "Лондоні",
+       "textRange": [
+        487,
+        494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ccab66a-6ac6-4972-aaed-c5f5e45c2933",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        494,
+        495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ea6ba64-5d40-4331-bf50-39ca6ab2a74a",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        495,
+        496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a123e455-fe1c-4b61-8539-befb871e9442",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        496,
+        497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f597b69-9c4f-4092-b440-28bb51a6ff21",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        497,
+        498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7847073-f0ae-4a13-9095-6f8eddf1e7e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        498,
+        499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1531c81-7948-499f-a814-e01a897c8095",
+       "type": "word",
+       "value": "Комсомольську",
+       "textRange": [
+        499,
+        512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96634465-7b5b-4ab3-929a-18fe2c50468c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        512,
+        513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43d7ccf3-8258-4ff5-af54-c76075f0e261",
+       "type": "word",
+       "value": "Полтавської",
+       "textRange": [
+        513,
+        524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "beee2c67-ff80-4d2c-bad1-9b9d1179158f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        524,
+        525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2eb7c6f-b32e-44b9-8c07-30cf1b475b2e",
+       "type": "word",
+       "value": "області",
+       "textRange": [
+        525,
+        532
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що у нього дві домівки – в рідному Лондоні і в Комсомольську Полтавської області",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9763c4f9-3beb-4278-9f45-b9b1cb443299",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      532,
+      533
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c917dae5-cd40-4dd2-be35-83e9b568024a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "54e99476-7241-490e-9125-fdcf058df331",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        533,
+        534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "396e235e-bf0d-46e1-bd1e-a69ce7dc1bcb",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        534,
+        536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7cfdca5-0ed6-4aa1-9aaa-5dd1d0041359",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        536,
+        537
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "802c9bce-2511-46be-9c24-22abb07c1dd3",
+       "type": "word",
+       "value": "живе",
+       "textRange": [
+        537,
+        541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5666cd37-558b-4760-858c-09c50bcebe01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        541,
+        542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c2b6300-ba76-45d2-bca0-d7dbaaab775c",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        542,
+        546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6e698c9-2465-4778-a4f4-cef1a4361b96",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        546,
+        547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "acbb57b5-53ba-43f6-800c-c602a406855c",
+       "type": "word",
+       "value": "сім’я",
+       "textRange": [
+        547,
+        552
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де живе його сім’я",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d36fec5-b21e-49ae-9c86-254f70b3a34f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      552,
+      553
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f219485f-3b3c-44ca-ae6a-3fcf74928d12",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      553,
+      554
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Тепер чоловік каже, що у нього дві домівки – в рідному Лондоні і в Комсомольську Полтавської області, де живе його сім’я.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Британський мандрівник Фред Фінн, рекордсмен Книги рекордів Гіннеса за кількістю польотів літаками серед пасажирів, приїхав до Львова Це вже четверта його подорож до міста Лева Вперше він завітав в Україну і до Львова зокрема 1992 року, разом із знімальною групою каналу Discovery Відтоді він не просто встиг полюбити Україну, а й одружився з українкою Тепер чоловік каже, що у нього дві домівки – в рідному Лондоні і в Комсомольську Полтавської області, де живе його сім’я.",
+ "concept": "SYNTAX"
+}

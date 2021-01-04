@@ -1,0 +1,214 @@
+{
+ "id": "8a5a6a5b-4b79-4a65-bfa9-0b7b3f28a4db",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e65ebe68-0740-4296-9285-3df06505a658",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9f99a663-2231-43e2-8ed1-c87a06ecd376",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5937ed2c-540f-4642-815e-a31a40714047",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        8194,
+        8195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c476ab32-d7ce-4c20-b6ec-d7c7736d44b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8195,
+        8196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "160a5c25-4ea9-49a2-a6ef-4ede06da83c4",
+         "type": "word",
+         "value": "Турову",
+         "textRange": [
+          8196,
+          8202
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e9ebb1cb-16ef-46f4-a7ca-c448d796a62e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          8202,
+          8203
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5ea600f2-ff0e-4929-835c-c0edd5e5e613",
+         "type": "word",
+         "value": "божницю",
+         "textRange": [
+          8203,
+          8210
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fb03064a-4119-4105-a930-005bc6d8aac1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "c1d7fbeb-e7a3-4d58-955c-3142039168fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8210,
+        8211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf788174-ee59-4612-90dc-67c1fd2dc58a",
+       "type": "word",
+       "value": "зруйнували",
+       "textRange": [
+        8211,
+        8221
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Турову божницю зруйнували",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7228cb3f-6a2f-4854-8810-ad20745a7042",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8221,
+      8222
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Турову божницю зруйнували",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5656a908-ff29-4eae-83cf-a44535b6c662",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "33b6167d-d48c-4fa6-a1f5-c19a06af6d5e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0bb8c186-b70f-4027-b359-4e0569b7b1db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8222,
+        8223
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "3c91865d-f3bb-49db-a62b-6f97111182f9",
+         "type": "word",
+         "value": "Перунове",
+         "textRange": [
+          8223,
+          8231
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2a333cbe-fef9-44f4-bb6a-1c15aefc30b6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          8231,
+          8232
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "376dbfaa-5554-42e8-80d1-db299739dd7b",
+         "type": "word",
+         "value": "капище",
+         "textRange": [
+          8232,
+          8238
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "21b8b00f-4c08-4589-aaa6-511eebfa1017",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "75d575c6-377a-4e5b-ba01-2d178db95cbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8238,
+        8239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "faa6b357-6b5c-4ee5-bd5a-dfa9bc04a80b",
+       "type": "word",
+       "value": "занедбали",
+       "textRange": [
+        8239,
+        8248
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f655e7b-13ce-49c7-ad18-c20c6ccd19ae",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        8248,
+        8251
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Перунове капище занедбали...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "12ea939e-e8f9-45b1-b263-bf76a7ddccce",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8251,
+      8252
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Перунове капище занедбали...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Турову божницю зруйнували Перунове капище занедбали...",
+ "concept": "SYNTAX"
+}

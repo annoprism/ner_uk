@@ -1,0 +1,879 @@
+{
+ "id": "05226d58-dc73-4eb7-a012-0ffdfaff4d88",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d014126f-f347-4e78-89b8-a17645b341ef",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2a5bef6a-5f02-4d9b-b202-555226c03971",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3b337a2e-8560-45e0-8165-9be97c046952",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        885,
+        887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39ffe70a-6e32-4bb4-8e7c-c39f2a113efd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        887,
+        888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa7a9969-9873-45b7-96d7-e04e7249aad0",
+       "type": "word",
+       "value": "прикладу",
+       "textRange": [
+        888,
+        896
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "До прикладу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf6ba204-57ae-4157-ad7d-af4b47add68a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      896,
+      897
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "be18ffb1-e547-4198-acef-d2881d58c114",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "00895f95-bdb4-4e63-90d4-2311e25c7eff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        897,
+        898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64ede725-2985-446c-ad88-f4b79f33fd7b",
+       "type": "word",
+       "value": "законовчитель",
+       "textRange": [
+        898,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41ec31b8-1011-42dc-bc77-ad622620d519",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        911,
+        912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce1c39bf-2b71-4b6c-8e6d-cfb48382ff43",
+       "type": "word",
+       "value": "запитує",
+       "textRange": [
+        912,
+        919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be6babe0-746a-4774-954d-4e8bec967d7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        919,
+        920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ab11f0b-9807-4cb2-885c-51e7a8105649",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        920,
+        921
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "717e8f33-bd70-4bd7-be5c-7a2a4c5f13e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        921,
+        922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9a47b6e9-6fbe-40f0-9001-3c0fdd373bb3",
+         "type": "word",
+         "value": "Учителя",
+         "textRange": [
+          922,
+          929
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5c0e97a7-a078-48c7-a07f-820ffb1be1c8",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          929,
+          930
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "58cdcba9-69ef-40da-be3c-46538ea01a3d",
+         "type": "word",
+         "value": "з",
+         "textRange": [
+          930,
+          931
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "88b01f6c-db46-4ab7-85ca-c4d919070ea3",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          931,
+          932
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c6bc50b7-a495-4ad7-84f0-b489b7804484",
+         "type": "word",
+         "value": "Назарету",
+         "textRange": [
+          932,
+          940
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "af5fa5ff-7603-4d92-8868-aa9d9c41650c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "6df04190-52f9-4c23-97c5-20c2ff8811cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        940,
+        941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35736e6c-5e82-4874-b85d-140e4f43478d",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        941,
+        944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a8c4f3b-8b67-45cd-9cbf-73157b0606bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        944,
+        945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34372317-bb14-4838-b8a3-b8ab271e1e13",
+       "type": "word",
+       "value": "те",
+       "textRange": [
+        945,
+        947
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " законовчитель запитує в Учителя з Назарету про те",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "15e4549d-23e0-46ee-9adf-4ce37f86c857",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      947,
+      948
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1bb0f0b2-e34a-4938-bd2d-762ece4dd092",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bb52dbcc-0a82-4600-8e7f-37c5c6c7dc31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        948,
+        949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b06e7738-a27d-4866-a344-83b2abca64ce",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        949,
+        951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86edc13b-ae38-4d8a-b0f6-03afa89266df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        951,
+        952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "903bee12-e8f8-413d-8ca4-f8661e0d3160",
+       "type": "word",
+       "value": "мав",
+       "textRange": [
+        952,
+        955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2782c524-06a7-4a5b-b0c5-3adfdc4ae2bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        955,
+        956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9078ee8-9aa6-441a-bfd8-ac9f76932f86",
+       "type": "word",
+       "value": "би",
+       "textRange": [
+        956,
+        958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ad9151c-e3a5-47df-8da2-699a5b47b4e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        958,
+        959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3801e04b-75be-42a8-b303-85c28af06a8a",
+       "type": "word",
+       "value": "сам",
+       "textRange": [
+        959,
+        962
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "741ba325-609f-4fb5-9eff-c26ba3ad7f17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        962,
+        963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dc02575-03c5-4ed9-ae67-29904990f8b1",
+       "type": "word",
+       "value": "знати",
+       "textRange": [
+        963,
+        968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fa470cb-783f-47bd-b2ed-e6eb35681abb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        968,
+        969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6767077-ac43-4f45-a9d7-c281bc04b890",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        969,
+        970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45593ac9-6e41-4669-80c6-17809624574f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        970,
+        971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e6ae57f-7842-4fca-9664-d4cd2a94006e",
+       "type": "word",
+       "value": "пояснювати",
+       "textRange": [
+        971,
+        981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08b8da64-ebf8-4293-bb2f-be9f1fd3ee92",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        981,
+        982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6d41fc5-48f3-442f-ac9c-818afc2f0eb9",
+       "type": "word",
+       "value": "людям",
+       "textRange": [
+        982,
+        987
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що мав би сам знати і пояснювати людям",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "869ccbf8-198e-4abc-9f46-d0d7c636951a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      987,
+      988
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ddbe9e8-b381-4291-a0b5-e1d9e2b96bce",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7e0fc010-e8f8-46dc-bd14-f3042891b83e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        988,
+        989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74b9dcc5-1c80-4871-a3ca-ed7fea57a89d",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        989,
+        992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "842ccbb6-059d-4841-81d1-0696a97ff440",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        992,
+        993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "219d684e-326c-46b9-aafe-146e4a7f8714",
+       "type": "word",
+       "value": "насправді",
+       "textRange": [
+        993,
+        1002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa74f052-b631-4ccb-b592-21fcebe728a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1002,
+        1003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "708ca2e6-ce36-46d6-b97a-87b9d878cdd9",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1003,
+        1006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ca1147f-9efb-45e0-89d8-22b4a8ab9dc3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1006,
+        1007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18a9a245-3d65-4fe0-bcac-d85c4f499906",
+       "type": "word",
+       "value": "сам",
+       "textRange": [
+        1007,
+        1010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bea3d9b-2ce1-431c-93c0-cd85d9c9d451",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1010,
+        1011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ac14a25-fe0a-47c4-a1ff-289bbc37006c",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1011,
+        1013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc7b7b08-6c6d-457d-a734-5c418673c3e6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1013,
+        1014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b08902b-a2e2-4f54-938b-6c1e53c88a92",
+       "type": "word",
+       "value": "розуміє",
+       "textRange": [
+        1014,
+        1021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fae2d63-3818-447a-8a54-586c50e13040",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1021,
+        1022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c09d7b7-dfef-48af-b1fe-4ba2b190a579",
+       "type": "word",
+       "value": "терміну",
+       "textRange": [
+        1022,
+        1029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f411a570-45bd-492e-81e6-8074421de034",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1029,
+        1030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81cd275a-4a26-4037-b325-adc9c17274e2",
+       "type": "whitespace",
+       "value": "“",
+       "textRange": [
+        1030,
+        1031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ba8cf01-6b98-4cb9-8821-e1c8dca60398",
+       "type": "word",
+       "value": "ближній",
+       "textRange": [
+        1031,
+        1038
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20017b2f-f876-4f6e-91da-9aade55e3fc7",
+       "type": "whitespace",
+       "value": "”",
+       "textRange": [
+        1038,
+        1039
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але насправді він сам не розуміє терміну “ближній”",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "475dc366-c947-4233-bf13-dabb9cf775d6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1039,
+      1040
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "До прикладу, законовчитель запитує в Учителя з Назарету про те, що мав би сам знати і пояснювати людям, але насправді він сам не розуміє терміну “ближній”",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b86efc13-3dd4-42c6-ab6a-addf66f091e9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a3b993c5-ef2c-4424-b4fd-56236d0f70ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f8b30114-2c9c-4aea-bfb9-6399b4a8f706",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1040,
+        1041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ee2f1a8-5cf1-4f61-a7e2-2522fabde4af",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        1041,
+        1042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "006852b1-0972-44da-a897-991a0787be1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1042,
+        1043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14503703-f8f7-4663-bf83-2a8b675763cf",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        1043,
+        1045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0f3320a-94be-4d46-a936-7847abeb27c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1045,
+        1046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c53165d-d60a-4971-8c67-753fbe0656b3",
+       "type": "word",
+       "value": "же",
+       "textRange": [
+        1046,
+        1048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42ef6909-548f-4b7b-a617-05490d61502a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1048,
+        1049
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bdf1c92-2207-4752-9c39-9f1119bbf829",
+       "type": "word",
+       "value": "можна",
+       "textRange": [
+        1049,
+        1054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d5cebc2-9cc6-4b7f-bdab-092b29448c99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1054,
+        1055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "941089ba-f38a-4105-a413-ed994852d383",
+       "type": "word",
+       "value": "виконати",
+       "textRange": [
+        1055,
+        1063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ee896c2-2e8d-41c1-9399-793d8763966d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1063,
+        1064
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8adf60c-05a2-452f-ad4d-cdc5d0daeaf7",
+       "type": "word",
+       "value": "заповідь",
+       "textRange": [
+        1064,
+        1072
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " І як же можна виконати заповідь",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0fed55ec-88b6-4183-aae8-f9075b8a5c2e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1072,
+      1073
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d8632372-492d-443e-bc5a-86edde632cf9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "78de2682-f7f2-449b-948a-d850071bd05a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1073,
+        1074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1eda948f-0c0a-43cf-9975-dc4cb8e4e2b7",
+       "type": "word",
+       "value": "коли",
+       "textRange": [
+        1074,
+        1078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1307b62-e5db-4be0-8a33-a7eb66630069",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1078,
+        1079
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1dfe529-5459-4df1-86d4-edcd602d86f8",
+       "type": "word",
+       "value": "немає",
+       "textRange": [
+        1079,
+        1084
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16b07bf8-695a-42a5-920f-e3fc2da62089",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1084,
+        1085
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb67e1d2-2909-48fa-a2a9-c038e611354c",
+       "type": "word",
+       "value": "правильного",
+       "textRange": [
+        1085,
+        1096
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1a01d5a-77e9-480a-9139-0a2bdf603a82",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1096,
+        1097
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "042eff04-8335-4331-bdc2-e72c2f31ddcb",
+       "type": "word",
+       "value": "розуміння",
+       "textRange": [
+        1097,
+        1106
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коли немає правильного розуміння",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c09321fb-90bf-40fa-b7b6-6be853e12627",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      1106,
+      1107
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "34647f6f-41df-4a59-9e74-44338ada8d2a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1107,
+      1108
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " І як же можна виконати заповідь, коли немає правильного розуміння?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "До прикладу, законовчитель запитує в Учителя з Назарету про те, що мав би сам знати і пояснювати людям, але насправді він сам не розуміє терміну “ближній” І як же можна виконати заповідь, коли немає правильного розуміння?",
+ "concept": "SYNTAX"
+}

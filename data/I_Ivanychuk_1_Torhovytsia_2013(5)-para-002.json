@@ -1,0 +1,344 @@
+{
+ "id": "67030433-6829-494b-aa9d-fb474ce3626d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "88395b4c-bb92-4fea-ba97-52a41078126a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "53f578d6-48fc-4d26-be97-8394c9a72794",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2149b995-367d-41f4-9aa8-cb8cf4013546",
+       "type": "word",
+       "value": "Вийшов",
+       "textRange": [
+        216,
+        222
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7db02e9-241f-4aba-b2db-89024f33eec8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        222,
+        223
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2ab1a1e-945a-4cef-aca5-79942757e0cc",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        223,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13b24238-4cb8-4675-9efa-128c9667ef75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "577d0d42-79b2-4074-9de1-10697968fc87",
+         "type": "word",
+         "value": "Каштановий",
+         "textRange": [
+          226,
+          236
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1c41e574-c5a3-462b-a54b-b3f55dc7de4f",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          236,
+          237
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "75cdc7de-05aa-4059-b728-9787cb5ea696",
+         "type": "word",
+         "value": "провулок",
+         "textRange": [
+          237,
+          245
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5b1db134-17af-44a7-8a7f-9801a6b45b58",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0f105109-77fe-40c4-83f8-3f86136b2d83",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        245,
+        246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9db90669-82c8-4605-b647-d735c677af34",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        246,
+        247
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Вийшов на Каштановий провулок і",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "261ece19-561e-4b81-a25d-5255f5a2ba82",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      247,
+      248
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37ca1e63-563e-405a-80df-32c84bdc3d48",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae254633-62b8-487c-87a4-49e44287dbc9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        248,
+        249
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "959d0603-4d73-493b-87de-9102ee471518",
+       "type": "word",
+       "value": "ні",
+       "textRange": [
+        249,
+        251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19f6fab5-77f8-46f0-82e2-816caab35b25",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        251,
+        252
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e535217-2def-4c99-87ae-0c56f6222d78",
+       "type": "word",
+       "value": "миті",
+       "textRange": [
+        252,
+        256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d36a2d30-a5d2-4383-a155-06dabc8c2104",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        256,
+        257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "963917b7-62b3-48f7-84da-905f06bbc36a",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        257,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "109c02cc-9766-412c-ac7d-df47959260ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        259,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f4be126-66eb-496f-bcd5-4a736ead7c23",
+       "type": "word",
+       "value": "вагаючись",
+       "textRange": [
+        260,
+        269
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ні миті не вагаючись",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0febea47-8b62-40de-b413-02ab11bab966",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      269,
+      270
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "822d783a-199a-4bae-bc23-52aa1db3cdcb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d318b9cb-6be2-402d-864d-29cc93f9246c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        270,
+        271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3407acf3-b3c0-4e7a-932a-ef335fddb07e",
+       "type": "word",
+       "value": "завернув",
+       "textRange": [
+        271,
+        279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "421667cf-6a6c-4453-9e72-cde7beb3b2b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        279,
+        280
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88492470-5453-401f-a4c6-48b0467f4e06",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        280,
+        282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d174dc42-a52a-4f55-977d-3b3c9917c9c8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        282,
+        283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1bb47e3c-547f-47db-9af6-1c56537bdea5",
+         "type": "word",
+         "value": "Малгосиної",
+         "textRange": [
+          283,
+          293
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "88cd6ac1-b315-4d8c-b385-d9f1fb7f7c41",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0a14ec17-3baf-4146-b20c-d9f1961eff9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        293,
+        294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d8bbbe0-1a5e-40b4-92b9-9d81e7ab283a",
+       "type": "word",
+       "value": "кнайпи",
+       "textRange": [
+        294,
+        300
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " завернув до Малгосиної кнайпи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cbdad954-3466-4d11-9d32-3a333f16928e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      300,
+      301
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d7c3bbf6-3fb8-489a-91a6-786040677b27",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      301,
+      302
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Вийшов на Каштановий провулок і, ні миті не вагаючись, завернув до Малгосиної кнайпи.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Вийшов на Каштановий провулок і, ні миті не вагаючись, завернув до Малгосиної кнайпи.",
+ "concept": "SYNTAX"
+}

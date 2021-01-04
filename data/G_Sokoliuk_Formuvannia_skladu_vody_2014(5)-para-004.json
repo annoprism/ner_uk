@@ -1,0 +1,952 @@
+{
+ "id": "98bf5d9b-66f9-4d20-a995-7296973b365d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "465d9625-1c17-4146-ba9b-730a1d2227bf",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "27b0fead-2e24-4efa-8be1-4dffa6d2b385",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6555e30a-4c21-4654-8d60-2074d841d613",
+       "type": "word",
+       "value": "Слід",
+       "textRange": [
+        1520,
+        1524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3912748d-1e01-4563-ace6-a030f13d577a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1524,
+        1525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a60f30a5-cd92-4f51-b9e3-89c619f02bf0",
+       "type": "word",
+       "value": "також",
+       "textRange": [
+        1525,
+        1530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5fb5f25-d8c3-4f1b-a527-267b1c6b82d9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1530,
+        1531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "515b49c2-3807-4ffa-afca-88234222ea58",
+       "type": "word",
+       "value": "зазначити",
+       "textRange": [
+        1531,
+        1540
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Слід також зазначити",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "054c09ee-55b4-461e-b454-5f4e059f9261",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1540,
+      1541
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bdc32495-41e0-49b6-b079-8643fa1a89c7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "655511a6-4149-4966-8049-240ac6fb284a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1541,
+        1542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fc2f887-2673-46e6-8d66-010406e60dad",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1542,
+        1544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e87af5f-cd72-42b9-84ca-f1589598d98d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1544,
+        1545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90fb04dc-bcab-42f6-9f4f-81c2b1bdc8cc",
+       "type": "word",
+       "value": "ресурси",
+       "textRange": [
+        1545,
+        1552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6c4557b-4954-443b-8d97-a482479cbea7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1552,
+        1553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ef0f1d4-9ceb-482f-860d-ddf3c270889d",
+       "type": "word",
+       "value": "підземних",
+       "textRange": [
+        1553,
+        1562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1716544c-dd0c-4a74-a756-a042db2b0a83",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1562,
+        1563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "613162c7-8bf3-4d47-aaf5-faea83698a64",
+       "type": "word",
+       "value": "вод",
+       "textRange": [
+        1563,
+        1566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30a02499-a6e8-4b10-923f-84d4d3c4a777",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1566,
+        1567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9228b65b-146f-4b26-a2dc-2dff62bf22ab",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1567,
+        1569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b7e6316-7218-4481-8f06-1534ecfb51ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1569,
+        1570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2fbe94f3-684c-4cb5-80d2-5302baaa7e3e",
+       "type": "word",
+       "value": "території",
+       "textRange": [
+        1570,
+        1579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "089f3074-c00a-40e6-8d58-88bd6c96f2d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1579,
+        1580
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "9a99f99f-0a75-4bd9-b4ad-c2fb42e86b3c",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          1580,
+          1587
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5bd83dfd-f324-4ed6-b184-b13a67d0f7a8",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4d48a259-f5ca-41d5-8a8c-caebf8c0e1eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1587,
+        1588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ecb43dc-2b31-482c-8bf7-0ac1dfe46409",
+       "type": "word",
+       "value": "розміщені",
+       "textRange": [
+        1588,
+        1597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cead79c-5076-412e-99cf-08e574351a39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1597,
+        1598
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb93940f-0891-46a0-b832-d5578e36dccb",
+       "type": "word",
+       "value": "нерівномірно",
+       "textRange": [
+        1598,
+        1610
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що ресурси підземних вод на території України розміщені нерівномірно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bddc3078-56ac-4be3-8fcb-08d5db0694d6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1610,
+      1611
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Слід також зазначити, що ресурси підземних вод на території України розміщені нерівномірно",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a682f441-d59b-49ae-9d2a-0544e56ee63d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "88de5367-b005-4238-89fe-ecc6038b9b7b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cc79a342-d5c6-450e-80b5-cb9e4f7f6d13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1611,
+        1612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b015c13-e352-4742-b6cf-3d872a337972",
+       "type": "word",
+       "value": "Найбільше",
+       "textRange": [
+        1612,
+        1621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25e67e5b-bd78-4d26-9409-e5e0350eb871",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1621,
+        1622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c65f22d0-04bd-455a-808f-9e363da1552f",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        1622,
+        1624
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eda01764-90dd-4bf2-9d78-f526e7481c42",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1624,
+        1625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a6dbc05-1287-428c-811c-76cbda8ffbbb",
+       "type": "word",
+       "value": "зосереджено",
+       "textRange": [
+        1625,
+        1636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9d710b9-e0b7-4a9a-af05-30058dfa2a2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1636,
+        1637
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76ebc87b-3d28-4fb6-bd3b-9080bae9f1c6",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1637,
+        1638
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2eb6132c-2645-4def-867d-3e96cbde38d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1638,
+        1639
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70d61cfe-62bb-4c3c-b9f8-09e8e7371dac",
+       "type": "word",
+       "value": "північних",
+       "textRange": [
+        1639,
+        1648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b264058f-3dd5-424c-9e82-17ab3281d63f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1648,
+        1649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "495e32ba-6d6d-44e0-b4da-286a88b4a3df",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1649,
+        1651
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce520783-1149-474b-8709-35f34336707e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1651,
+        1652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0add858a-1ecd-4d49-8111-3d0e9dec934c",
+       "type": "word",
+       "value": "західних",
+       "textRange": [
+        1652,
+        1660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1faf8494-cb1c-4260-bea0-5dc2a2712873",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1660,
+        1661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7adca58-5f87-45ac-9751-cf13a92d56e9",
+       "type": "word",
+       "value": "областях",
+       "textRange": [
+        1661,
+        1669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1bbcb87-f5f9-40a8-be9b-e35f9ba80416",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1669,
+        1670
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "b1127a87-c3a4-48c0-817d-0b6a650b8c8f",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          1670,
+          1677
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2f80a112-89eb-413f-85fd-856d278dc4aa",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2b1bb5c2-305e-4b56-af04-799572842db5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1677,
+        1678
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0e23b5b-6f19-4ba5-b19f-06b796842f2f",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1678,
+        1679
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6815b832-67e0-4ee1-ae3d-a8514783fd56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1679,
+        1680
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "89ca0353-bdab-4c83-92f8-f4219a493428",
+         "type": "word",
+         "value": "Волинській",
+         "textRange": [
+          1680,
+          1690
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3b1be32b-c3d5-4834-b222-666b362ade7b",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Найбільше їх зосереджено в північних та західних областях України – Волинській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3299bd7c-a1cb-45f2-8f23-09cc8bf61890",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1690,
+      1691
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eb85233c-e4c8-4091-bbc4-e67ba7da0ffd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "79e6f479-f919-4453-9540-7ca92c6cb95c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1691,
+        1692
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "6d9ccfe6-e8d9-4067-963d-839a3c259894",
+         "type": "word",
+         "value": "Київській",
+         "textRange": [
+          1692,
+          1701
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a6a6e0c5-1a32-48f1-953a-a97a9e1dd8a9",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Київській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "80fb82e3-bdc5-45cd-98f6-6bee4ebeb7c4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1701,
+      1702
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "532c55f5-f333-4299-a1f0-f907e4dad216",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2435d058-7418-4e31-949a-ca13347e1461",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1702,
+        1703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "92105d5a-cc9d-4638-be5c-3e8b489dfe63",
+         "type": "word",
+         "value": "Львівській",
+         "textRange": [
+          1703,
+          1713
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7e508943-3c7e-478f-8178-becfd005fb5e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Львівській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ce597ae-5cfa-4383-a774-ad397bf7de81",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1713,
+      1714
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43ac4cb0-2d77-4030-a503-b4bdb2755046",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6f2e4794-b909-40dd-8b86-4f1d6aca1e57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1714,
+        1715
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "82533060-d38b-42f5-a99f-b8cc40fa6ebe",
+         "type": "word",
+         "value": "Рівненській",
+         "textRange": [
+          1715,
+          1726
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3600ab41-e727-4e3d-91b3-1fc9c61c995d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Рівненській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "afbba85f-f9f3-4782-bf5e-19739c797815",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1726,
+      1727
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2bef0469-0f31-4e0c-a144-023d17f5a73a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bf897047-32fc-40f2-bacf-01973aa82824",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1727,
+        1728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "92c0fb96-a599-49b8-aaf9-498edda55a37",
+         "type": "word",
+         "value": "Чернігівській",
+         "textRange": [
+          1728,
+          1741
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d1c79156-7101-4d19-be96-753e218aa63b",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Чернігівській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef86fd0e-73db-44d7-91db-3c85a286cf36",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1741,
+      1742
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Найбільше їх зосереджено в північних та західних областях України – Волинській, Київській, Львівській, Рівненській, Чернігівській",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ac1bf970-7c00-42ef-b628-b2a1008560b5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "03a5097e-ceaf-41b2-8da7-70e38d856fea",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6754b638-10cc-45e7-98dc-1594e5b88c12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1742,
+        1743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17c3c1e8-3c7b-4c85-ba4d-1e516c0f349f",
+       "type": "word",
+       "value": "Потужні",
+       "textRange": [
+        1743,
+        1750
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "956cf385-dd32-4cbf-84b3-1ab664a15758",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1750,
+        1751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "928e7c4a-1380-4ff8-8271-c8eaaebe3855",
+       "type": "word",
+       "value": "запаси",
+       "textRange": [
+        1751,
+        1757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c11f4d79-976e-43a4-a9f7-0af024c79630",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1757,
+        1758
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a00f3b3b-d384-4615-992b-c6d200a0fd1b",
+       "type": "word",
+       "value": "невикористаних",
+       "textRange": [
+        1758,
+        1772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a7dfd32-0b45-4461-8aed-7a7ed8a05b76",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1772,
+        1773
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9e91f0c-83d4-41b1-9ec4-4e13681a2df0",
+       "type": "word",
+       "value": "водних",
+       "textRange": [
+        1773,
+        1779
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04b2b6a0-a915-450e-add5-b1fe03339f7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1779,
+        1780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e1d7cbb-fe7a-416e-8504-60867e767063",
+       "type": "word",
+       "value": "ресурсів",
+       "textRange": [
+        1780,
+        1788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90bd4aa1-e58f-4879-8dc9-b45f2cbb21b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1788,
+        1789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a81ca0c-17aa-4636-8731-601ad5257d01",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        1789,
+        1790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "866aa223-5b51-412d-bf01-b8c2364e6645",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1790,
+        1791
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e406ba4-3b67-4d31-9952-06c9d460c900",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1791,
+        1792
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c027f579-4824-4d7c-8745-1e99b6552008",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1792,
+        1793
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "6156a6df-8cd0-452d-8b4c-c18eb76674f4",
+         "type": "word",
+         "value": "Харківській",
+         "textRange": [
+          1793,
+          1804
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1083cdf1-1930-4f48-b948-6a01e9bc98cf",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1804,
+          1805
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "46e72679-bf87-42a8-93ee-f65fe02b6eca",
+         "type": "word",
+         "value": "області",
+         "textRange": [
+          1805,
+          1812
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "aec54329-c0da-41cd-84c3-cc0caf660316",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Потужні запаси невикористаних водних ресурсів є в Харківській області",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ce6a8df-3bf7-4b93-8337-fcda7288d47b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1812,
+      1813
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93eb126d-383a-482b-aa9d-858956f1a816",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1813,
+      1814
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Потужні запаси невикористаних водних ресурсів є в Харківській області.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Слід також зазначити, що ресурси підземних вод на території України розміщені нерівномірно Найбільше їх зосереджено в північних та західних областях України – Волинській, Київській, Львівській, Рівненській, Чернігівській Потужні запаси невикористаних водних ресурсів є в Харківській області.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,442 @@
+{
+ "id": "91e1400c-e278-42dc-a549-d1086dc7e381",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3c5752fd-d41d-4337-ad06-de06a2c1ee17",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "efdb6977-573c-4d52-a903-977c7c906c41",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "03b0db2b-824f-4d37-9f80-96e807b3bd61",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        6767,
+        6768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4c9920d-308e-41f0-9a86-22e61e61afde",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6768,
+        6769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d65eb63-782f-413f-a070-51f64cc0c426",
+       "type": "word",
+       "value": "Це",
+       "textRange": [
+        6769,
+        6771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "716d5519-86b5-4031-9998-d902e1eacec3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6771,
+        6772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "c751933f-d8df-4b4f-90bd-ea021aaff03a",
+         "type": "word",
+         "value": "Київ",
+         "textRange": [
+          6772,
+          6776
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e032853f-ebba-48dc-8b56-e9a0a079d7cb",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "- Це Київ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "676b0941-a4a9-4d4f-b091-a53f22caffd6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6776,
+      6777
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae3fdc53-9d0d-46d2-ae37-2344ffb25917",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f0ba8d57-28ed-431e-b49e-8833b7d0fa00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6777,
+        6778
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87b3c10c-48b8-43f5-93a4-234fdcb7a9b6",
+       "type": "word",
+       "value": "ви",
+       "textRange": [
+        6778,
+        6780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08e86ef4-6869-4772-b439-d3859c8ef93f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6780,
+        6781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8bf70b2-c6b2-42c5-8450-641c5b557ef3",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        6781,
+        6783
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b60c43c-837e-4cbd-97bf-c79b1b551a78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6783,
+        6784
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92a66818-fd6b-44cf-a073-564524f493a9",
+       "type": "word",
+       "value": "помилилися",
+       "textRange": [
+        6784,
+        6794
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ви не помилилися",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1f3f80dd-168d-4215-9ff4-18a0c1f439df",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6794,
+      6795
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7fa69e47-196e-40b2-af64-bfdca0624b03",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2782e39c-0ff1-416a-a2c3-98b335ca13ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6795,
+        6796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80c18937-b76a-4b1c-bb13-e20f77cc2d95",
+       "type": "word",
+       "value": "гостинно",
+       "textRange": [
+        6796,
+        6804
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba8c9b42-f974-4fd7-8b4d-e6c9c1b45374",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6804,
+        6805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9a7715b-5bb2-4088-a4e6-81dd7b363aaa",
+       "type": "word",
+       "value": "просимо",
+       "textRange": [
+        6805,
+        6812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37b83af0-df5a-4073-8dac-4d93eb8b0eba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6812,
+        6813
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "625ea2d0-0bc9-4501-9597-9bae36550bcd",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        6813,
+        6815
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1269c594-066f-4ebf-b401-a0d6b57a05e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6815,
+        6816
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4dd1fed-29da-4bd3-830a-d6c2d1784ff2",
+       "type": "word",
+       "value": "свято",
+       "textRange": [
+        6816,
+        6821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e872ecca-bbed-4bda-a6fb-9ed96588853c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6821,
+        6822
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "1ae034a0-1c74-4ddb-845c-1eb521b1a41f",
+         "type": "word",
+         "value": "Києва",
+         "textRange": [
+          6822,
+          6827
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b8c2913d-826c-4d39-9b3c-8d3cb4c11cdd",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " гостинно просимо на свято Києва",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "686dedba-207b-4e0d-8e56-0228015afbd3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6827,
+      6828
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "31544c4f-ddcc-4388-9e2e-f1153611aa16",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9d81b49d-b9e0-4115-84b4-4c9d50095d10",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6828,
+        6829
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03858eb9-fa40-45b3-ad97-1f6c81be5498",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        6829,
+        6831
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57968b34-4eff-45b6-9127-43d2f2b9af36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6831,
+        6832
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d34c3fc-b52f-493d-ac6b-d80f5adb3a67",
+       "type": "word",
+       "value": "яке",
+       "textRange": [
+        6832,
+        6835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1976ccd8-6841-4e8c-aaf2-661f07cca5b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6835,
+        6836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd443573-b5e2-4772-bdc4-3b72e35b1c6d",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        6836,
+        6837
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb2c9641-63a4-47bd-ad9a-17622ad5ca09",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6837,
+        6838
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b879766-e74d-428c-bcbd-fd57e2a349fe",
+       "type": "word",
+       "value": "воно",
+       "textRange": [
+        6838,
+        6842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afb36bd2-f8d7-413f-87e4-9190d1152774",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6842,
+        6843
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ff1d3ce-4cd4-4348-bf56-959a97ef8cc1",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        6843,
+        6846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "601eb02d-e05a-4e44-8dfa-367880f2d648",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6846,
+        6847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "469c05d5-7a51-4254-8962-1486eead0ed6",
+       "type": "word",
+       "value": "вас",
+       "textRange": [
+        6847,
+        6850
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо яке ж воно без вас",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "397871c1-3be5-4649-beab-619da1df4ba8",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      6850,
+      6851
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff7bbf1a-11f9-4863-9f8f-1a29df5581ac",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6851,
+      6852
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Це Київ, ви не помилилися, гостинно просимо на свято Києва, бо яке ж воно без вас?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Це Київ, ви не помилилися, гостинно просимо на свято Києва, бо яке ж воно без вас?",
+ "concept": "SYNTAX"
+}

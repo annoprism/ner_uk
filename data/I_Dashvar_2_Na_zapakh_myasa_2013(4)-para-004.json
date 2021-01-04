@@ -1,0 +1,325 @@
+{
+ "id": "73068bfd-cb11-4da3-8ff7-f7783e4b23a2",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2a0c78d3-98db-4f43-8797-e20a1474ef0c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "73fd5a13-fa09-4a2f-8da1-c609b08372e3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d1bdc627-ed2e-4f04-a1ab-5733f200eab6",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        672,
+        673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce1b6b86-fa10-4ecc-8b69-324bc4e94892",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        673,
+        674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5dc90d9f-d9a6-47c3-a6f2-7453fe9e16a9",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        674,
+        675
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "376f169e-a251-4db1-a7c5-9f512511b0e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        675,
+        676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdb01161-1d99-4deb-b6a2-b8f916884878",
+       "type": "word",
+       "value": "грошей",
+       "textRange": [
+        676,
+        682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70e299c3-ab9f-46b3-be36-b867f3bec268",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        682,
+        683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01391ccf-1134-4d87-9f01-c8834a9e7f0d",
+       "type": "word",
+       "value": "дам",
+       "textRange": [
+        683,
+        686
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Я грошей дам",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e75552bc-4975-45ff-ac49-2c65d23fc763",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      686,
+      687
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a3c7ca58-64bc-4cf5-b65a-d91ea84e68bb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9615a3ce-8c50-4fd6-b125-f0121978e707",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        687,
+        688
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad7eeddc-4c15-4004-b997-1c6f8870d1a0",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        688,
+        689
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c9c90d0-10b6-4818-90e2-7a0feca079cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        689,
+        690
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9fa70ec-805c-4597-b184-952153bc078b",
+       "type": "word",
+       "value": "відказала",
+       "textRange": [
+        690,
+        699
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baa9c39d-f9b7-4e8a-a755-f5e2fe23a5ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        699,
+        700
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba02792c-b2cd-43b4-bc1c-748d6246b81a",
+       "type": "word",
+       "value": "од",
+       "textRange": [
+        700,
+        702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c54fda2-1655-4c62-93f0-9b8aeaf5a681",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        702,
+        703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed5eb73d-6ca4-4593-bbb9-72a3d91ff5e9",
+       "type": "word",
+       "value": "дверей",
+       "textRange": [
+        703,
+        709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7b9c931-4126-4573-bf12-9c8293476d86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        709,
+        710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9fe69cfd-a2c8-46d7-afdc-9042fef8ed5d",
+         "type": "word",
+         "value": "Уляна",
+         "textRange": [
+          710,
+          715
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ce1e3947-a492-49ba-9617-0abbf67cbf3f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — відказала од дверей Уляна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5caece21-d997-4db5-9232-41a25b44ef7d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      715,
+      716
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Я грошей дам, — відказала од дверей Уляна",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "072fb390-6947-4312-8b8d-bd06b4059f73",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "92da84de-92ee-4194-9605-92c9b404993f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "73b3e251-65a5-485f-8409-1573fccad2d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        716,
+        717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bf6b32c-50cf-4b9a-a5e5-0783127e3746",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        717,
+        718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcd1be4b-c4e5-4f02-9388-65aa0d30bd93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        718,
+        719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7eb09fe6-d8c7-48a1-b276-84f4c426b3a0",
+       "type": "word",
+       "value": "Скільки",
+       "textRange": [
+        719,
+        726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5100579f-46df-478b-b1e7-5c1b1418a473",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        726,
+        727
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1111b72-59bb-4808-a143-f4df2025d75b",
+       "type": "word",
+       "value": "треба",
+       "textRange": [
+        727,
+        732
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Скільки треба",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a42cf4e9-fc0d-489c-80ff-f79eff7da87a",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      732,
+      733
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1c8fc337-9760-4ab9-ba2c-6fb438cfb06b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      733,
+      734
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Скільки треба?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Я грошей дам, — відказала од дверей Уляна — Скільки треба?",
+ "concept": "SYNTAX"
+}

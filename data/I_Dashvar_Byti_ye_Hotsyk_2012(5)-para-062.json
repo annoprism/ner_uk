@@ -1,0 +1,217 @@
+{
+ "id": "fd59b1e3-c3ae-470f-a02a-e88ac67ac66e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "caa2fd79-ece5-4b43-a96c-a9e0fdb8b4b5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a90587d0-3ec2-4ec8-9685-bd31fdf29b57",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "44e718b1-34fe-41ba-a18f-13762273ed73",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6506,
+        6507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8542fa7-1792-4922-8fab-a3147c5cf380",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6507,
+        6508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "4c0cf2b3-f9a3-496f-8482-56df0b7f6cad",
+         "type": "word",
+         "value": "Горе",
+         "textRange": [
+          6508,
+          6512
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "086aeada-e766-49f4-a0da-4e6036acbd45",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ce77c1f6-cd31-4b66-8c54-ce934cf3d33d",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        6512,
+        6513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b28661c-b153-4f94-a505-c9ee24725647",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6513,
+        6514
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25626a1e-cdf0-49bb-9f61-a70fb56053d8",
+       "type": "word",
+       "value": "ти",
+       "textRange": [
+        6514,
+        6516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9726066-fc1f-456a-aa7d-3a44780e71a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6516,
+        6517
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c578db8-2491-4dc3-af5d-e104c373bac2",
+       "type": "word",
+       "value": "там",
+       "textRange": [
+        6517,
+        6520
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Горе… ти там",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4ec2867f-da32-40bf-811d-8e1324e3b1df",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      6520,
+      6521
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Горе… ти там",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c948d532-2bce-4b66-88a9-940d8164ab2c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b263010a-da3a-4287-bab8-c9db78f4e2d6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a9a7e534-43c6-4b3c-846f-dcd8842d86a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6521,
+        6522
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ffb56e5-bf19-439b-8825-2a76c4fcab04",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6522,
+        6523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a4fd52c-8b45-47b5-bfad-398164df3253",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6523,
+        6524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e09fd5a9-bf88-4a89-b98b-4c43e037c56d",
+       "type": "word",
+       "value": "запитав",
+       "textRange": [
+        6524,
+        6531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91854c05-6f1b-4927-92a0-638c09ff9bc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6531,
+        6532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8666bfe5-706b-4160-a1ec-ff0102cd459e",
+       "type": "word",
+       "value": "напружено",
+       "textRange": [
+        6532,
+        6541
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — запитав напружено",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6b9042c4-ca14-4801-a957-c393f1d11129",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6541,
+      6542
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54c643c8-a9f8-4fac-9c50-4bb529a5b187",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6542,
+      6543
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — запитав напружено.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Горе… ти там — запитав напружено.",
+ "concept": "SYNTAX"
+}

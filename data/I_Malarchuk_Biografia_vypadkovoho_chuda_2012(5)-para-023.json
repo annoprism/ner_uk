@@ -1,0 +1,285 @@
+{
+ "id": "05132dba-4bcf-4605-8dc3-fb29834c80bf",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2ef3dbe3-f0a6-4960-9b0d-d63e32b802a0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3d111fd0-0468-4993-ad97-eb623d447921",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e2545b89-6dfe-4a45-966b-a8ab79dbe4a9",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        3721,
+        3722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6698ae87-db71-4251-acfc-6b255ad60370",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3722,
+        3723
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef897741-4621-45ac-a601-5b590bde4bf4",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        3723,
+        3724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec76c094-e3ed-487b-8f0c-d6b9c9311168",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3724,
+        3725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4db4f9f9-271b-4e67-b6a9-8e5eea06c5cf",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        3725,
+        3727
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f6350f1-e9e3-4cb1-a224-d96cda4f4c95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3727,
+        3728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bff14a62-5cff-472d-8239-6a40bf292553",
+       "type": "word",
+       "value": "тобі",
+       "textRange": [
+        3728,
+        3732
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Я що тобі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ce59c87-3d7a-448b-a3c0-f70c4003b3f5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3732,
+      3733
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "31c9b193-daa7-4950-94d7-51fb266f74a6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "12880be2-6594-4823-8f4d-c7b0748a1da9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3733,
+        3734
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9cfe9d43-6c90-421a-a4d2-29a95f763891",
+         "type": "word",
+         "value": "Мирося",
+         "textRange": [
+          3734,
+          3740
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4a351ced-bc15-451b-8037-88335a46acea",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Мирося",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42adc42c-dc0d-4433-bd9f-7ac310c20a32",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3740,
+      3741
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Я що тобі, Мирося",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "f1e228e2-4f63-48c6-9972-45ba9ea58e52",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6fcc188a-fe50-4c0c-881d-566ad4df0585",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1ab94ccb-4832-404f-a042-1a6cc8f26453",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3741,
+        3742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba5f90e3-99c0-4476-83e3-29c8a3bbf388",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        3742,
+        3746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "888ca0af-ec8d-47eb-a2e8-48b0b887b845",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3746,
+        3747
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b118491c-05eb-48d7-b9c1-87269fabd8f3",
+       "type": "word",
+       "value": "там",
+       "textRange": [
+        3747,
+        3750
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2e58d62-4dd9-46a7-82bc-6023fc9f445d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3750,
+        3751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1778f958-3f13-40bd-bc6e-aeded1f59619",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        3751,
+        3753
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11e4460d-6209-4aa2-9b66-46823f54a240",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3753,
+        3754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "898b4e0a-54eb-4a9c-9e0d-fed0d1d677c1",
+       "type": "word",
+       "value": "руками",
+       "textRange": [
+        3754,
+        3760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cbc4a5b-80c9-46ba-8036-3bb33f77cd6c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3760,
+        3761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef831fbe-4a16-4a5d-b822-9a90fbef8c1d",
+       "type": "word",
+       "value": "заробляє",
+       "textRange": [
+        3761,
+        3769
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона там не руками заробляє",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a86ae092-2c6f-4abd-bb91-ff4637e5c3fc",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3769,
+      3770
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe6c5d6d-0f4f-4c3d-a20c-3494665bb109",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3770,
+      3771
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона там не руками заробляє.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Я що тобі, Мирося Вона там не руками заробляє.",
+ "concept": "SYNTAX"
+}

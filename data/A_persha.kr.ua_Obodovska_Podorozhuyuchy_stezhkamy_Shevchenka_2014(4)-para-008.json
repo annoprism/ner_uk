@@ -1,0 +1,1358 @@
+{
+ "id": "8997ddc8-ecfe-4703-b095-33c725b5d1cc",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5a4414f2-7a93-42a4-b9ce-9d724109e6f5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5e0f4d8c-1a9e-4d5a-a1e8-70c166f99b0d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "84b60095-f79d-4b6d-add3-6a27a8ce7b28",
+       "type": "word",
+       "value": "Сьогодні",
+       "textRange": [
+        2211,
+        2219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "753b0856-0a76-41ac-83e9-b7f3ed931077",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2219,
+        2220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6223087-4b41-4d64-9874-febb15f3acf8",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2220,
+        2221
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dadc59d5-5228-4875-8caf-c32c0cf9c3ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2221,
+        2222
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "cba6cf8a-ffa6-41e5-8b7b-17f39f8959ea",
+         "type": "word",
+         "value": "Знам’янці",
+         "textRange": [
+          2222,
+          2231
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e42e4bde-a6dd-46d3-852e-e58a00c8d25a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "69be2ef9-89c7-4263-8297-534aa0d1c092",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2231,
+        2232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f157020-351b-4114-9fd6-ccacd66b9f1d",
+       "type": "word",
+       "value": "проживають",
+       "textRange": [
+        2232,
+        2242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9252bbcd-e7d8-420b-a4bc-8d127a4689d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2242,
+        2243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7cd7374-7b4e-41b0-a888-5036dffc899d",
+       "type": "word",
+       "value": "нащадки",
+       "textRange": [
+        2243,
+        2250
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7afe2d6-cf7b-4ba2-b911-df22cc4a0509",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2250,
+        2251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27eac427-1829-40bb-a863-71ae0879caaf",
+       "type": "word",
+       "value": "поета",
+       "textRange": [
+        2251,
+        2256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f1016b0-4fae-4cfe-9f58-2cc7cbaef16d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2256,
+        2257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9823b88f-c43a-4755-acbd-768cc603e52f",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2257,
+        2258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "660b07cd-2d3f-41fa-9de1-d069e8f29a9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2258,
+        2259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27a4d5b2-cb0e-4f3d-935e-6b20d67b578d",
+       "type": "word",
+       "value": "родина",
+       "textRange": [
+        2259,
+        2265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70d6b32e-eae1-485c-92f7-d3efac1f5b8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2265,
+        2266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e0d2cd93-a60c-4b7a-9e7c-3b652f76a600",
+         "type": "word",
+         "value": "Шкоди",
+         "textRange": [
+          2266,
+          2271
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "379a78a6-0cb7-4f5e-a471-8a93936594b2",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Сьогодні в Знам’янці проживають нащадки поета — родина Шкоди",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e5f66cf2-870c-49c4-8be6-c793ca73a7ae",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2271,
+      2272
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Сьогодні в Знам’янці проживають нащадки поета — родина Шкоди",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "96cfd347-a0e7-46bb-be9f-cb9a5fe0521b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c503976c-27ed-40d3-85ad-c11e0d185539",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b3aed008-d04a-43ae-8582-b833376ef9b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2272,
+        2273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad041558-6d3e-45c3-8740-240ac05830da",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        2273,
+        2275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f557f04f-6245-40ee-9d01-b10f34793356",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2275,
+        2276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da1409f7-d93a-4713-b37c-febaef1eafee",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        2276,
+        2278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f2b6664-7de2-49dd-8cf3-67d25abcb366",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2278,
+        2279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52d3a239-f1ac-45c4-a36e-cbd730d05d96",
+       "type": "word",
+       "value": "честь",
+       "textRange": [
+        2279,
+        2284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af5f96fb-a9db-435a-be16-4a2e59319496",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2284,
+        2285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a874f230-9bd4-4f66-a1e6-b4d9b3a0f477",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2285,
+        2286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "921512cb-fefd-4dfe-abe4-93de5cffaa2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2286,
+        2287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16bbd425-c1f7-49af-ad08-0a7a5f79317e",
+       "type": "word",
+       "value": "краєзнавчому",
+       "textRange": [
+        2287,
+        2299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df7a39d5-8c79-4df8-b57d-19e2479d3b95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2299,
+        2300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03c409ef-56ab-4766-b492-93764995bf2a",
+       "type": "word",
+       "value": "музеї",
+       "textRange": [
+        2300,
+        2305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e252877-4c21-4c8d-8a61-78448d952faa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2305,
+        2306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4019c69-6af6-4893-a470-163c2367e78d",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2306,
+        2307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3f34367-97dc-4b18-b1a9-2904ef7c5fc0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2307,
+        2308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "055e8202-334f-4c55-aa4f-b025b16f3bd8",
+       "type": "word",
+       "value": "місті",
+       "textRange": [
+        2308,
+        2313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ff91c64-4d15-4026-94fb-61f284995f0d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2313,
+        2314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8504062-dd2f-4b2e-867a-f1a43aa5c3d1",
+       "type": "word",
+       "value": "облаштовано",
+       "textRange": [
+        2314,
+        2325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "995aeb00-a042-4666-86ee-2decca3a89fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2325,
+        2326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79163004-0317-4a7c-8d23-f62dcc68a34e",
+       "type": "word",
+       "value": "спеціальний",
+       "textRange": [
+        2326,
+        2337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd6b7efa-8f54-492e-8d65-d4e8b5e8c008",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2337,
+        2338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3fb65c5c-51e7-4ca1-b456-d6507639df46",
+       "type": "word",
+       "value": "тематичну",
+       "textRange": [
+        2338,
+        2347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a7eaaab-3c3b-458e-a5bd-2ab8a9b8ece4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2347,
+        2348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a37b30e-cf69-46c2-ac1b-61575054400b",
+       "type": "word",
+       "value": "філію",
+       "textRange": [
+        2348,
+        2353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81a1668b-127b-4fd7-9518-30850a389cb3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2353,
+        2354
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "147486f8-0c3c-4965-bc8d-f46ddae31ee1",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2354,
+        2355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "8086ed7d-18e3-4b1a-8caf-afb889df66d6",
+         "type": "word",
+         "value": "Кобзарева",
+         "textRange": [
+          2355,
+          2364
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "24facf6a-4b14-4837-bf37-a058c09b36ec",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2364,
+          2365
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0738fb17-f488-42ab-868c-ac3e2ed99559",
+         "type": "word",
+         "value": "світлиця",
+         "textRange": [
+          2365,
+          2373
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0142ea3f-a33c-407d-b374-a309ab9502bc",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1680e2de-2528-45f3-880b-de1de0743f4b",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2373,
+        2374
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " На їх честь у краєзнавчому музеї в місті облаштовано спеціальний тематичну філію «Кобзарева світлиця»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e78ccb86-fc78-4789-94c1-b6efe9d18712",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2374,
+      2375
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " На їх честь у краєзнавчому музеї в місті облаштовано спеціальний тематичну філію «Кобзарева світлиця»",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "92c53a97-4aa6-4310-b93e-9a72b30d67e0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3dba2a8f-031c-438a-b4ed-622d62bbfa29",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2fc14a56-f45b-49f8-8108-df94f2909975",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2375,
+        2376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "062d576d-3ced-472c-811e-2bfebd565126",
+       "type": "word",
+       "value": "Варто",
+       "textRange": [
+        2376,
+        2381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f53c5850-8e21-4abf-a64b-5bb053f60978",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2381,
+        2382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29fb2375-6466-4a9a-90b8-aaec9b18fa8f",
+       "type": "word",
+       "value": "зазначити",
+       "textRange": [
+        2382,
+        2391
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Варто зазначити",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8d35e49c-ac6e-4a17-b273-49a532ed3fb5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2391,
+      2392
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "82b54417-6740-4efe-b46d-11fc963cbad4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f97127e6-1edf-42d9-8ce7-d92d49a60973",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2392,
+        2393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "677ab372-ad81-44c4-9932-3b509b9859c5",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2393,
+        2395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06b28663-c230-4ef7-9524-cdaa16482748",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2395,
+        2396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "faa8590c-f67b-4069-9e8a-054f693bf385",
+       "type": "word",
+       "value": "нащадки",
+       "textRange": [
+        2396,
+        2403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a4a297a-b91f-4143-96dd-c3ce353afb67",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2403,
+        2404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d359803e-583e-4437-a697-736bc370851f",
+         "type": "word",
+         "value": "Кобзаря",
+         "textRange": [
+          2404,
+          2411
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1deb9496-399d-4e9b-a04e-492906af8c60",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що нащадки Кобзаря",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ed34f44-f6d2-45de-a168-15c112e0c477",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2411,
+      2412
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "079e558e-65d4-49ec-a0d0-8beff84b277a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "244147c4-04b8-4456-a315-71cf29faf617",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2412,
+        2413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94a929cc-bac9-410c-9d80-aca009cfd71c",
+       "type": "word",
+       "value": "зокрема",
+       "textRange": [
+        2413,
+        2420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a1cd7e9-053b-4db4-9e77-9dbbdd2fffe1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2420,
+        2421
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d03134e8-b806-4d11-9ab1-1e47c655bb76",
+         "type": "word",
+         "value": "В’ячеслав",
+         "textRange": [
+          2421,
+          2430
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cf1a0d52-1edb-44ab-ac45-49dab62910bb",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2430,
+          2431
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "43d41eeb-e6f4-4c92-91dc-688c8eb7cd99",
+         "type": "word",
+         "value": "і",
+         "textRange": [
+          2431,
+          2432
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "093d73ca-a9b3-491b-846d-9a420ad5353a",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2432,
+          2433
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4fb26482-cd7b-4fee-be7a-1378b24e9f5c",
+         "type": "word",
+         "value": "Євген",
+         "textRange": [
+          2433,
+          2438
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d1dc0d0f-9aa5-46d5-9802-96552f5e4929",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2438,
+          2439
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4b7f1a8a-4020-4c72-880e-127cd1ccdaa5",
+         "type": "word",
+         "value": "Шкода",
+         "textRange": [
+          2439,
+          2444
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "aca947a2-8dcb-41f5-8e75-290bcb27c487",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " зокрема В’ячеслав і Євген Шкода",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3310ffca-e1f0-4a1d-ac6e-06c0d56d1d7d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2444,
+      2445
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "db818ae9-2130-45df-81cd-20da41b96647",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3e9cb54b-5fb5-4274-92b4-8016fcd8feba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2445,
+        2446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ead23cf-59e6-4625-bc2a-1c8f28cfcfd8",
+       "type": "word",
+       "value": "долучилися",
+       "textRange": [
+        2446,
+        2456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44702fcc-05be-4f1c-aaae-2a9738fd4c15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2456,
+        2457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e18c902e-848e-4c89-8310-c76403869145",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2457,
+        2459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ec6f9e4-465a-4c50-8864-84eb687a4b8e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2459,
+        2460
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a87ae20-d5f4-4394-ba27-0c09d9b28ac8",
+       "type": "word",
+       "value": "створення",
+       "textRange": [
+        2460,
+        2469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8566cb64-2189-4f23-aa1c-705e841ac9d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2469,
+        2470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24ff1bb8-4212-42bb-8839-33754881104a",
+       "type": "word",
+       "value": "музейної",
+       "textRange": [
+        2470,
+        2478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "760435cb-7dbb-43e2-9905-fbad0acf6d6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2478,
+        2479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5ebe0d2-113c-4db9-ae48-3eccbe0a6a85",
+       "type": "word",
+       "value": "експозиції",
+       "textRange": [
+        2479,
+        2489
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " долучилися до створення музейної експозиції",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "40107c79-56cd-47f2-9ccf-da292421efab",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2489,
+      2490
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6bd57b12-fdd6-433c-b99b-14f86c4db7c2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f65d2b7a-0ab2-4344-bdbd-bc9105416b4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2490,
+        2491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb999f67-3139-4108-8e67-077e529a2050",
+       "type": "word",
+       "value": "допомігши",
+       "textRange": [
+        2491,
+        2500
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5930c750-0792-4b8c-baa0-1b3dae062628",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2500,
+        2501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8846ac59-8d19-4071-a81f-e0821f4f5238",
+       "type": "word",
+       "value": "музейникам",
+       "textRange": [
+        2501,
+        2511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52077032-ca84-4beb-b5e6-92cf03a91cf2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2511,
+        2512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1505cea2-5e55-4d20-96b7-7257bc84a8c1",
+       "type": "word",
+       "value": "створити",
+       "textRange": [
+        2512,
+        2520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6a9a16a-ccfb-41b7-9728-9467ea150e9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2520,
+        2521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b41ca20-2f2e-4fdf-a725-cc9ce58d12e8",
+       "type": "word",
+       "value": "генеалогічне",
+       "textRange": [
+        2521,
+        2533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f84ac35f-00d3-4411-a3ac-37891bf76f70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2533,
+        2534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "989de163-ef4a-4088-86f6-c8e6712c215f",
+       "type": "word",
+       "value": "дерево",
+       "textRange": [
+        2534,
+        2540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53f54608-95b3-4855-ad9a-708f4eff7db6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2540,
+        2541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "20ca9fce-cd93-443b-8b60-48459f4832cf",
+         "type": "word",
+         "value": "Тараса",
+         "textRange": [
+          2541,
+          2547
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "499ec8fc-6096-4bbc-91f8-247e24b4549b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2547,
+          2548
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "59573c35-04ea-4b01-baa4-1fb927017c83",
+         "type": "word",
+         "value": "Шевченка",
+         "textRange": [
+          2548,
+          2556
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "acc990dd-5f2c-4b01-bad4-f6eeb12ffbb0",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " допомігши музейникам створити генеалогічне дерево Тараса Шевченка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "125db317-d681-4529-9e43-43495a6c1ed2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2556,
+      2557
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9f35a040-4da1-4ef3-bec7-c2e93988977a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "18dcb175-a7c8-4309-a0ab-311429e8f856",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2557,
+        2558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d97eae57-15f7-4a54-9645-8a774d94eca5",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        2558,
+        2559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34d38b28-7c72-4b81-8778-06a0e1ea3082",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2559,
+        2560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64cab782-f4e3-43ab-9092-071fc71b736c",
+       "type": "word",
+       "value": "також",
+       "textRange": [
+        2560,
+        2565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec5508a5-5ab2-47f2-9081-cee74901d2c2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2565,
+        2566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36dd26a7-7360-420b-8bc8-4006b70708b6",
+       "type": "word",
+       "value": "передавши",
+       "textRange": [
+        2566,
+        2575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ac161ae-c1cf-410a-8726-dedc2394ac80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2575,
+        2576
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "632ea71a-8857-4473-a975-e7dde7032a12",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2576,
+        2578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67b14f6e-2ee4-4839-9d59-8be1b7049c9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2578,
+        2579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52933374-428e-4112-a1a3-2c7232ec8755",
+       "type": "word",
+       "value": "зберігання",
+       "textRange": [
+        2579,
+        2589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a115aa5-1f95-4da4-a539-dd8474a2b247",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2589,
+        2590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a26cab6-417c-4bbd-b554-ce17cf135cd1",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2590,
+        2592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0dc12273-037f-41d3-9a1d-c7750f8c1d77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2592,
+        2593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef55a42f-fa67-4a39-a97c-3b42873aed8b",
+       "type": "word",
+       "value": "фондів",
+       "textRange": [
+        2593,
+        2599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de8926e6-6d41-4579-8d09-cd5da7daa275",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2599,
+        2600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7664b332-98ee-4466-8d45-d53c6473bc06",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        2600,
+        2604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5112fd3a-ca7c-4366-ab61-ab4a2efbf2a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2604,
+        2605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdae0e6e-2c3f-4e38-9b16-ff01e111e5ee",
+       "type": "word",
+       "value": "книги",
+       "textRange": [
+        2605,
+        2610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "134e6e8a-71bf-4c85-bc04-94df6ff42b4e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2610,
+        2611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "881b08ca-6678-4934-a814-d3a7446c6671",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        2611,
+        2613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32917824-832e-4ac4-a967-30e9a1bb85f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2613,
+        2614
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15fe0a27-3c6c-451e-aa8a-9eb59b943e2c",
+       "type": "word",
+       "value": "картини",
+       "textRange": [
+        2614,
+        2621
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а також передавши на зберігання до фондів його книги та картини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "debaa77a-67dc-43d4-b1ac-12afbb4e1953",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2621,
+      2622
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ab364131-6ce1-4f46-bb18-7735bdf143af",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2622,
+      2623
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Варто зазначити, що нащадки Кобзаря, зокрема В’ячеслав і Євген Шкода, долучилися до створення музейної експозиції, допомігши музейникам створити генеалогічне дерево Тараса Шевченка, а також передавши на зберігання до фондів його книги та картини.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Сьогодні в Знам’янці проживають нащадки поета — родина Шкоди На їх честь у краєзнавчому музеї в місті облаштовано спеціальний тематичну філію «Кобзарева світлиця» Варто зазначити, що нащадки Кобзаря, зокрема В’ячеслав і Євген Шкода, долучилися до створення музейної експозиції, допомігши музейникам створити генеалогічне дерево Тараса Шевченка, а також передавши на зберігання до фондів його книги та картини.",
+ "concept": "SYNTAX"
+}

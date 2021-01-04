@@ -1,0 +1,193 @@
+{
+ "id": "5ab5ba7a-5e04-4dc6-923e-a733bf8c6823",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "61f0f6d0-1fc6-4661-8f6e-57ffe080cf9d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2b94bbc5-1be7-47d7-ae7e-f8ed50fa3f77",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2d2a3793-1bea-4701-a142-8069e5591dfa",
+       "type": "word",
+       "value": "Пабло",
+       "textRange": [
+        4631,
+        4636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4014e82a-9e73-435f-b8ad-c71d8582add1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4636,
+        4637
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a76eb7ea-2198-490f-8503-8ee68fe337aa",
+       "type": "word",
+       "value": "Пікассо",
+       "textRange": [
+        4637,
+        4644
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Пабло Пікассо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f1385a1b-9b74-40ff-a4af-2465d505b100",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4644,
+      4645
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Пабло Пікассо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0eaac6c0-a791-41a1-a597-25e5f09bb80d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3a447d99-5070-4357-afa9-7689f9a5fab4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9e3fa104-5478-4abd-9c4e-e57e746c03ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4645,
+        4646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "4e2042ed-529f-4b10-ad5c-b1873f004d95",
+         "type": "word",
+         "value": "Авіньйонські",
+         "textRange": [
+          4646,
+          4658
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "166f9c13-39c7-4ef7-83d6-ed7de0c457f4",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4658,
+          4659
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "9c1def4d-9cb2-4af0-ab17-642f4720d537",
+         "type": "word",
+         "value": "дівчата",
+         "textRange": [
+          4659,
+          4666
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5f95a501-f132-4424-b46f-cb9b065f5044",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Авіньйонські дівчата",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0dd1ba88-4451-4d6f-ae81-13ede42a0bd5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4666,
+      4667
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Авіньйонські дівчата",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3e14c3d7-e75a-4054-a79f-f5944709259a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d660c485-04f2-44d5-86be-10e10959903f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "90f15b19-ebff-4c49-b4d0-4b2fd79d99ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4667,
+        4668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "563ec133-4e85-45df-ae28-b466f62eb2b9",
+       "type": "number",
+       "value": "1907",
+       "textRange": [
+        4668,
+        4672
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " 1907",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "652c32a9-9b30-469a-b7da-447250b41c83",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4672,
+      4673
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f99584e-3f8a-4a74-8e3d-bed4c3a0aeb5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4673,
+      4674
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " 1907\n",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Пабло Пікассо Авіньйонські дівчата",
+ "concept": "SYNTAX"
+}

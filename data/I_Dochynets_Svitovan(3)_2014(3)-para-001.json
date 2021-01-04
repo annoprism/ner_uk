@@ -1,0 +1,940 @@
+{
+ "id": "8f883215-9f20-49f0-a738-94f3e32b25cf",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b61d9a6e-1f20-4765-b5f0-e09fc16fbe5c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8083869b-1f69-402a-8edf-078c53e9f61a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e016b53d-d980-4c5a-9361-54fa7b7a6d0c",
+       "type": "word",
+       "value": "Двоє",
+       "textRange": [
+        311,
+        315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad421763-ae26-47fe-ab43-ecfee5bdb2b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        315,
+        316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26762adc-0092-4f8e-9596-9a04b127e407",
+       "type": "word",
+       "value": "сиділи",
+       "textRange": [
+        316,
+        322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b39f8be6-9629-4464-a587-68eda74be45d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        322,
+        323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54eec1b0-23a9-47ce-843e-e6f1ab6a7249",
+       "type": "word",
+       "value": "по",
+       "textRange": [
+        323,
+        325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ed57461-8f4d-47e2-b62d-019f9998134b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        325,
+        326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb26a496-46c5-477a-9d74-842fae0be4da",
+       "type": "word",
+       "value": "пояс",
+       "textRange": [
+        326,
+        330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d127737-479e-4587-9e37-be5735866baa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        330,
+        331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3663999f-eb46-4489-a885-cb76438c419c",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        331,
+        332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eab0ec64-e36e-4bde-b83f-9cf6ac3455ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        332,
+        333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0791cb8a-c3da-4b32-bdbf-15fbe2abe34d",
+       "type": "word",
+       "value": "перегаченому",
+       "textRange": [
+        333,
+        345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "945f532a-9269-4bfe-b55b-2507e8dc7cd8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        345,
+        346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d44db34d-5d90-4ace-bcf8-5c61ce2eded7",
+       "type": "word",
+       "value": "мочилі",
+       "textRange": [
+        346,
+        352
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Двоє сиділи по пояс у перегаченому мочилі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "35e8ac72-514f-4150-aa57-dabd60946028",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      352,
+      353
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e144fd90-6789-4b9f-a967-97724b79966f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0023b832-9570-411d-bca0-66078bd828c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        353,
+        354
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8e113b3-8d0b-4ca1-9219-4e77b1265308",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        354,
+        355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8c8840b-7cc1-4917-92aa-f264f126890e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        355,
+        356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "564c0dbc-e35c-4457-8d5e-dfc3b698c951",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        356,
+        358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eaaa6224-4d2b-4826-8d1a-18c547c1b6c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        358,
+        359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8719ffb9-1757-4911-93ca-6d8c2b5f3afd",
+       "type": "word",
+       "value": "родичі",
+       "textRange": [
+        359,
+        365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbc0d040-2635-44e6-8035-15e9a9ae9aa2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        365,
+        366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1ec7088-4d75-44b7-827f-c3d746c99671",
+       "type": "word",
+       "value": "нагрівали",
+       "textRange": [
+        366,
+        375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f46fcd60-9ef4-4feb-ac3e-db6f383166a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        375,
+        376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbfb341a-97e3-4c85-8baf-a5119368ae0d",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        376,
+        377
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c878f1e4-4b02-4633-909e-2e76c22dd90a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        377,
+        378
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f65905c0-61b7-41c6-951e-7275ce962e35",
+       "type": "word",
+       "value": "паленищі",
+       "textRange": [
+        378,
+        386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a009721-ad51-4a5e-9a83-986bff998ea5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        386,
+        387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2ad9e4c-f3c4-4f96-b3a5-7c9f8bde3ace",
+       "type": "word",
+       "value": "каміння",
+       "textRange": [
+        387,
+        394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "436d52e3-f2e7-4477-ac8b-a0fbf16bc9cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        394,
+        395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9149805a-0c3b-4fcd-b1ec-7da10747e181",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        395,
+        396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27179367-41a5-4a3e-b165-3f61d75460e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        396,
+        397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d32a278-41fd-425e-9870-edc4ccd544c0",
+       "type": "word",
+       "value": "рогатинами",
+       "textRange": [
+        397,
+        407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83358ebb-87d7-4935-b6b0-d7d425093f3e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        407,
+        408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ea19271-a289-46ff-91e3-ce2f306d42fc",
+       "type": "word",
+       "value": "підкочували",
+       "textRange": [
+        408,
+        419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3307779-9b33-4a05-909c-566d3e5f9149",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        419,
+        420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff389e00-8a0e-4393-a112-366c394433ed",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        420,
+        422
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb4d370f-3938-4419-a368-42bc6ed3a17b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        422,
+        423
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6180988-9061-46b0-8576-3ec7c606109c",
+       "type": "word",
+       "value": "води",
+       "textRange": [
+        423,
+        427
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а їх родичі нагрівали в паленищі каміння й рогатинами підкочували до води",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0af0f82f-74f9-469a-9d8e-c92a842714f4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      427,
+      428
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Двоє сиділи по пояс у перегаченому мочилі, а їх родичі нагрівали в паленищі каміння й рогатинами підкочували до води",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c5bc0941-20a3-4009-816a-4acb15c8281b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3bd5176d-f161-4b14-ab45-54152b976b73",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c4074c33-999f-4ddb-b776-296df8c55769",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        428,
+        429
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c842f1f7-6400-43f0-a215-44416a50cf37",
+       "type": "word",
+       "value": "Кругляки",
+       "textRange": [
+        429,
+        437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdc21b71-cdfe-451f-b628-e74f761c12a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        437,
+        438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c126e9e-0ecf-46ed-b595-2bdd9d035ad2",
+       "type": "word",
+       "value": "шипіли",
+       "textRange": [
+        438,
+        444
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Кругляки шипіли",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3052bd1c-7463-465f-bcd9-2fdc0433f2a2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      444,
+      445
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "19808878-5f93-4dce-a0ae-0070b3867e92",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8f8fcbb6-7d38-40c9-9179-4416e03c8c5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        445,
+        446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bde1c3f7-4433-413e-807a-7ee21e2c3d3e",
+       "type": "word",
+       "value": "пускали",
+       "textRange": [
+        446,
+        453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "111e7d57-777b-4168-bae1-2a69ecf444ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        453,
+        454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "945dd8a1-7be2-44a3-aa93-d7c568a9209c",
+       "type": "word",
+       "value": "нурт",
+       "textRange": [
+        454,
+        458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8ab55fc-bb84-4bd3-b661-f492e8d96eac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        458,
+        459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b0d1e6d-3def-4899-a228-97737a45f9e7",
+       "type": "word",
+       "value": "бульок",
+       "textRange": [
+        459,
+        465
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " пускали нурт бульок",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "edf8a9b9-d900-4ae4-8a3e-eecd41b66f08",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      465,
+      466
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Кругляки шипіли, пускали нурт бульок",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a7b49db5-27a9-4cd0-8fcf-3756de5abc3c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "942b4ec2-a301-4115-8b24-08aed2ba5570",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4853315c-5533-4fec-9303-8d474fca4265",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        466,
+        467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4f54274-dbad-4889-9ed1-8bed49a16953",
+       "type": "word",
+       "value": "Вільні",
+       "textRange": [
+        467,
+        473
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdee9989-b1bf-4ef6-8004-58a7ac644ac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        473,
+        474
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54eb4b77-204d-482c-811a-294f78cb5455",
+       "type": "word",
+       "value": "руки",
+       "textRange": [
+        474,
+        478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3986bc7e-66fc-449e-ae7b-a5bf03ee9b78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        478,
+        479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3480a3cf-e09f-417a-98db-75f577ebcbf1",
+       "type": "word",
+       "value": "товкли",
+       "textRange": [
+        479,
+        485
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f57b87ad-96bc-4989-976c-83a47f1c4dda",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        485,
+        486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3b889e3-e335-4596-b501-c790d2e8055d",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        486,
+        487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89d77641-5877-4410-b401-34dc63c63dc3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        487,
+        488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee977f24-9c89-43b5-bc58-30f558397753",
+       "type": "word",
+       "value": "ступі",
+       "textRange": [
+        488,
+        493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "379bef1a-741b-458c-8511-152d5c5c978b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        493,
+        494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74cf1a81-ed64-4500-ac79-08b312e75739",
+       "type": "word",
+       "value": "насіння",
+       "textRange": [
+        494,
+        501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57600cf4-5ee0-4e73-a5d8-d99c615e6d15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        501,
+        502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "246d91fd-e31c-4483-a89d-9fe1a511d5ac",
+       "type": "word",
+       "value": "льону",
+       "textRange": [
+        502,
+        507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e71cfa84-c141-4d7d-a824-91baeec73a75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        507,
+        508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ac4db50-f862-47b3-940e-ec548ef9b55d",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        508,
+        509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b521df95-0c1d-4b8d-b2e7-43c008e54b8a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        509,
+        510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87a74f1c-b1f7-4718-aefb-429023e198d5",
+       "type": "word",
+       "value": "звіробій",
+       "textRange": [
+        510,
+        518
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вільні руки товкли у ступі насіння льону і звіробій",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10bde9df-cc9f-4abf-a774-59342992729c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      518,
+      519
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ecb995f-8861-48d8-a8c5-8e6ae3712556",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "57adb283-9259-4859-bbb9-b012cd01e04e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        519,
+        520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "786f56aa-46cc-4f1c-a364-381b0c7fe3b7",
+       "type": "word",
+       "value": "щоб",
+       "textRange": [
+        520,
+        523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ea32973-1a73-40ed-8c23-0738450689ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        523,
+        524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2734b5dc-a426-4463-9199-ec536649d3c0",
+       "type": "word",
+       "value": "накласти",
+       "textRange": [
+        524,
+        532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26b41136-94c5-4f4d-8397-56429c682bd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        532,
+        533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ffc13c1-1b12-46ba-81d5-2a1366986978",
+       "type": "word",
+       "value": "чоловікові",
+       "textRange": [
+        533,
+        543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60ee1b4e-29b5-4764-ae92-0fcbec703130",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        543,
+        544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fc35c2b-930f-439d-932a-9822f66ca4fd",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        544,
+        546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4303f3e5-6270-475a-9e93-91b65936d376",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        546,
+        547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8452fcff-4adb-4549-ac7e-730928b553c6",
+       "type": "word",
+       "value": "ошпарену",
+       "textRange": [
+        547,
+        555
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a61a93c-f9c3-41c9-b0ec-762faa5b2a74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        555,
+        556
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04e647ee-9b05-486c-988c-879c584350dc",
+       "type": "word",
+       "value": "окропом",
+       "textRange": [
+        556,
+        563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a6f4fb8-8e46-4a10-8d94-cb19e12c3915",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        563,
+        564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4eeebc36-afdf-4b74-9e10-3a1692f45b7c",
+       "type": "word",
+       "value": "ногу",
+       "textRange": [
+        564,
+        568
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " щоб накласти чоловікові на ошпарену окропом ногу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7efec99c-66e7-4b42-8b01-5c20f8994620",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      568,
+      569
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "76b18f2c-ddfc-4757-9abc-f1d802db9c2f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      569,
+      570
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вільні руки товкли у ступі насіння льону і звіробій, щоб накласти чоловікові на ошпарену окропом ногу.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Двоє сиділи по пояс у перегаченому мочилі, а їх родичі нагрівали в паленищі каміння й рогатинами підкочували до води Кругляки шипіли, пускали нурт бульок Вільні руки товкли у ступі насіння льону і звіробій, щоб накласти чоловікові на ошпарену окропом ногу.",
+ "concept": "SYNTAX"
+}

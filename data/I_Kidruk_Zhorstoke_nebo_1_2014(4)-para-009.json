@@ -1,0 +1,383 @@
+{
+ "id": "3d976850-bfd2-4389-9d14-1ffb9ad50778",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "74724e62-f1cc-4b00-bca4-aa32f61c6ae6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4410dda8-58d4-48e8-b882-c66ae0560686",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b7fc6718-29ae-4951-98e9-8230d650f114",
+       "type": "word",
+       "value": "З",
+       "textRange": [
+        3909,
+        3910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8eceda31-84a9-4ec5-beec-87125527463c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3910,
+        3911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32a78786-c7e3-4dca-be89-0e4e6dfaa38c",
+       "type": "word",
+       "value": "півночі",
+       "textRange": [
+        3911,
+        3918
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "З півночі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ca0685a-2547-44b7-8bca-539a8ace2483",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3918,
+      3919
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93e52c46-4a3c-4b51-b2f8-2721ffeac4fe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b402ac40-49c6-4de8-a08d-0ab3d9efe03d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3919,
+        3920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3869a912-6e7d-4037-9d67-14c5eb5b0258",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3920,
+        3921
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c563bc97-8852-4075-b69e-60383fb83910",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3921,
+        3922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d61b0c7-c9f3-42ac-9849-a25f444703d3",
+       "type": "word",
+       "value": "боку",
+       "textRange": [
+        3922,
+        3926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7c047aa-801e-43ed-bfbf-a14c59870cb4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3926,
+        3927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "d6243e66-65d3-455e-9e04-341a7ed49189",
+         "type": "word",
+         "value": "Протасового",
+         "textRange": [
+          3927,
+          3938
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "04d2d1c1-8d87-4b30-910c-7eee995ee0e0",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          3938,
+          3939
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6da456f7-7099-41fc-9f4a-02d15721f5ea",
+         "type": "word",
+         "value": "Яру",
+         "textRange": [
+          3939,
+          3942
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f4568bf3-eb6e-4bdb-971e-e026f74e0340",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " з боку Протасового Яру",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "634a040b-ef27-4220-939c-b912e6234bf4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3942,
+      3943
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "28b754f9-bf2a-4d61-8bc4-19d5c7fa62b0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3cc50319-c41a-46b1-b0c8-25a112790050",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3943,
+        3944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70cd004c-bee2-47bc-8601-9f363024c11f",
+       "type": "word",
+       "value": "війнуло",
+       "textRange": [
+        3944,
+        3951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37654073-3023-46cc-a14b-dc8af8eb32ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3951,
+        3952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "596f672b-87f3-4f32-9730-4072bb2f5d13",
+       "type": "word",
+       "value": "холодом",
+       "textRange": [
+        3952,
+        3959
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " війнуло холодом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "35998603-7b8f-47ea-a4ba-2a9dcc7c35df",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3959,
+      3960
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "З півночі, з боку Протасового Яру, війнуло холодом",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "df1c5362-b583-4089-a8d0-51e4e7d7703e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8c3d5fa1-7299-4c0a-86e2-85c2546a98bc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "48748000-9baf-4341-b9bf-5f09ad148cea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3960,
+        3961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07743736-ecf0-42aa-9523-e2f2809a37d1",
+       "type": "word",
+       "value": "Вітер",
+       "textRange": [
+        3961,
+        3966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52e31cc8-40e6-4367-8069-b0fb66ca0915",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3966,
+        3967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae43a6a2-1d3a-4a20-8cee-f3b240dca528",
+       "type": "word",
+       "value": "плутався",
+       "textRange": [
+        3967,
+        3975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7291ab77-2ac3-4731-8b37-5dc84fc30114",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3975,
+        3976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc098df9-537e-4200-910f-435bebe6b4a6",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        3976,
+        3977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4d4120d-7643-49b0-a6fc-b2b12673bc64",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3977,
+        3978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcab1b1b-17b9-46d9-8c25-cab4e0ff5983",
+       "type": "word",
+       "value": "тумані",
+       "textRange": [
+        3978,
+        3984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10430f8f-3ee6-4fed-bf94-8c7df6b531ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3984,
+        3985
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "930b4dbd-10a1-484c-a83e-37f9f1b8cbe0",
+       "type": "word",
+       "value": "поміж",
+       "textRange": [
+        3985,
+        3990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20480a1b-22a7-4c20-82b1-d70dc0768736",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3990,
+        3991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53df4419-03be-4e19-91f6-703fc6386a50",
+       "type": "word",
+       "value": "могил",
+       "textRange": [
+        3991,
+        3996
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вітер плутався в тумані поміж могил",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2304480c-ff30-4be4-9b87-f78053321e49",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3996,
+      3997
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "79fa597b-be82-420a-8e89-5329269d3f2c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3997,
+      3998
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вітер плутався в тумані поміж могил.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "З півночі, з боку Протасового Яру, війнуло холодом Вітер плутався в тумані поміж могил.",
+ "concept": "SYNTAX"
+}

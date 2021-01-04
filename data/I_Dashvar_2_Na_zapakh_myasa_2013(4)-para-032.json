@@ -1,0 +1,843 @@
+{
+ "id": "1ea0660c-d2d7-4381-b2b3-ddcc17613786",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b2d23b95-d7a2-4450-9e24-160e8aa01249",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8d56e567-92c8-4959-894c-cc3c150f8e54",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fef2c9a2-a421-43a4-80ae-617add8ee74f",
+       "type": "word",
+       "value": "Знайшла",
+       "textRange": [
+        4914,
+        4921
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "819eccc0-950b-4d85-82ba-37712e1f800f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4921,
+        4922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7cbbf13f-08d4-4c3c-a381-ccf488155329",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4922,
+        4924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba41058f-adf2-4f8e-8a18-a7694f7dc71c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4924,
+        4925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cca1804-367b-49d8-8b64-0cf82f1f244f",
+       "type": "word",
+       "value": "полиці",
+       "textRange": [
+        4925,
+        4931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ae32a7c-e981-4476-a195-b9b31b7f0128",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4931,
+        4932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "429448a7-a9a0-4b15-bcf3-de90d75aedf1",
+       "type": "word",
+       "value": "глиняний",
+       "textRange": [
+        4932,
+        4940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94983ee4-189b-48d4-b2ec-a664cc6d62ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4940,
+        4941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed21aac-7b37-4cb8-b405-80f4821c7087",
+       "type": "word",
+       "value": "горщичок",
+       "textRange": [
+        4941,
+        4949
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Знайшла на полиці глиняний горщичок",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a9cf150f-f90e-4a80-81c9-06b7ffcce5a2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4949,
+      4950
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6ba3498c-1b21-458f-bfbb-9fd436c15633",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4d38d370-ccfa-4366-bf1f-9b39ea94f174",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4950,
+        4951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca4a0207-3b73-4637-8331-d34d58288b57",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        4951,
+        4953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da89e465-656e-45ce-ab1a-1e273d3ba6b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4953,
+        4954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a687ef0-73ba-4891-a1e7-af3d116a4814",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        4954,
+        4957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f64e5be0-9957-4e63-ade4-a529bfb24edf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4957,
+        4958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34075fde-60d2-49d8-bcef-5a8c7e72964c",
+       "type": "word",
+       "value": "їм",
+       "textRange": [
+        4958,
+        4960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f7d8765-d9cb-44c4-982e-1ee210cec23b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4960,
+        4961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f2d2857-c007-4a94-9a84-cd30594ffb5c",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        4961,
+        4963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6768ede-e367-477a-bef9-2d16a4b4addc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4963,
+        4964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0ef95c9c-c5eb-4d1f-9e61-20a44de5f724",
+         "type": "word",
+         "value": "Толею",
+         "textRange": [
+          4964,
+          4969
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "919d642d-945a-4af9-8e3d-4ba3a4b2a8bf",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8d098dc3-297e-488b-be39-6182f60474e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4969,
+        4970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "653a2042-6ee9-454f-9246-f1e514e2fe1d",
+       "type": "word",
+       "value": "місцем",
+       "textRange": [
+        4970,
+        4976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b7679be-3f46-461d-b0bb-17f2d7f1471a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4976,
+        4977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5be7d08-0660-4896-b960-3a6d7d9d91a8",
+       "type": "word",
+       "value": "зберігання",
+       "textRange": [
+        4977,
+        4987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f97453d5-4f53-4048-8d3f-1ce6d825eab8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4987,
+        4988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03c56726-516e-46d3-9f19-30ea09ff3959",
+       "type": "word",
+       "value": "грошей",
+       "textRange": [
+        4988,
+        4994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fccfe24e-c168-4187-bfdd-da3e9c9686e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4994,
+        4995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e4c8749-c598-47b3-8013-78f315f01e82",
+       "type": "word",
+       "value": "слугував",
+       "textRange": [
+        4995,
+        5003
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що він їм із Толею місцем зберігання грошей слугував",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "590cc354-3a82-4df8-b442-c3550235178f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5003,
+      5004
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Знайшла на полиці глиняний горщичок, що він їм із Толею місцем зберігання грошей слугував",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "60489cee-759b-4504-8d96-883b09ddf564",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ce132883-7120-4778-9c27-de6c4a6a8886",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a8f8d440-47c7-4c44-a660-78539a319463",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5004,
+        5005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9404a85b-83e8-441e-8b70-ae214542c380",
+         "type": "word",
+         "value": "Горох",
+         "textRange": [
+          5005,
+          5010
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2fd4950a-e4f1-4ced-8b59-2a1cb985885f",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2cc15fcc-e74f-4622-9d58-3b967860b6c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5010,
+        5011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c569058-34db-4af2-b64a-b8a26e10ea0e",
+       "type": "word",
+       "value": "повертався",
+       "textRange": [
+        5011,
+        5021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c818e92-f0fd-4216-9115-9dcad5def756",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5021,
+        5022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a1d62b9-c102-4152-9d6d-3d369fa681dc",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        5022,
+        5024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "131e03be-9aa6-405a-abcd-7a58964a23b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5024,
+        5025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c019988d-165f-451c-809b-b904be42e5b0",
+       "type": "word",
+       "value": "заробітків",
+       "textRange": [
+        5025,
+        5035
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Горох повертався із заробітків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95c0f622-337d-48c7-acfe-630948a98d86",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5035,
+      5036
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "21896523-8cc1-4b51-a771-5b9d38263e31",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6858fec7-2900-44bf-85da-a538614848a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5036,
+        5037
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dec88fc-37c9-413b-95d3-eec6b6c0d1fa",
+       "type": "word",
+       "value": "вкидав",
+       "textRange": [
+        5037,
+        5043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09721eb0-671a-445b-9554-c57290933b6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5043,
+        5044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae00f745-5f26-4712-8839-b777d71efdc0",
+       "type": "word",
+       "value": "гривні",
+       "textRange": [
+        5044,
+        5050
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc82f96c-24f1-483c-b3cb-cf622daa5962",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5050,
+        5051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c34117e-1ecc-4a80-9d45-3fd5a90215fa",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        5051,
+        5053
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50dd7c7a-fc98-4e8a-9a53-3af46d062f1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5053,
+        5054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a313e6d0-8731-4c69-b08f-027fef1d6358",
+       "type": "word",
+       "value": "горщика",
+       "textRange": [
+        5054,
+        5061
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вкидав гривні до горщика",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "70eda7c7-c4d9-4119-a2d1-e10d6c5fdd3c",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      5061,
+      5062
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "01f0bbdf-dbfe-4d25-8794-9b582098cce5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4d66df6b-5ccb-45f9-bac0-5ab8818e14d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5062,
+        5063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5be87349-609c-4c12-aa49-7023284f2fa4",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        5063,
+        5064
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "90707569-8424-4950-8f57-3260d3c5ab3a",
+         "type": "word",
+         "value": "Маню",
+         "textRange": [
+          5064,
+          5068
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f75df7bf-4c46-4337-a284-349d2c050db3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "62d1f43c-82e0-4132-aa38-46ee7094275e",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        5068,
+        5069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c60e769-b3f8-4b5e-93da-69e85e52270f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5069,
+        5070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0aba44ed-d046-432f-871a-5ca2549facd4",
+       "type": "word",
+       "value": "Кришку",
+       "textRange": [
+        5070,
+        5076
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3867c6e4-c2f3-4d5a-9c2d-f73ac9fba955",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5076,
+        5077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06b3cdfb-03ba-4f16-a81d-4561680176e7",
+       "type": "word",
+       "value": "яку",
+       "textRange": [
+        5077,
+        5080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d75babc8-bdde-42b7-9257-1adea0cb4fc1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5080,
+        5081
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f66c8419-cf07-41a2-bc34-32504e2a0251",
+       "type": "word",
+       "value": "знайди",
+       "textRange": [
+        5081,
+        5087
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Маню… Кришку яку знайди",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c55788a-16ec-4cb1-acb0-ec3ff17eedf3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5087,
+      5088
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "32a3f2d5-0872-498f-a479-b88bcda15ea2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1a648ef2-2814-43c8-befe-220b353595a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5088,
+        5089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdbb0103-6138-43e1-8bd0-a0bc4bda6809",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        5089,
+        5091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fe1d3d4-598d-4735-81ab-4be7e280c37b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5091,
+        5092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e01028d6-304b-42b1-9562-dd4691e0de4c",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        5092,
+        5094
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd846eee-dd7d-4f8b-a834-803b774fa80f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5094,
+        5095
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff2e20cb-30cb-4ec1-9b6c-fe36fc378516",
+       "type": "word",
+       "value": "миші",
+       "textRange": [
+        5095,
+        5099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff5e2f2b-c5da-400a-ad34-a6886c02da07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5099,
+        5100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0103152e-5b65-4252-b5bf-a7294ed6531c",
+       "type": "word",
+       "value": "доберуться",
+       "textRange": [
+        5100,
+        5110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66ad4e40-c52c-4134-a331-df5f6b5bbdd9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5110,
+        5111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcf364b7-c7f9-48d1-8bbc-58cd5d1d756e",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        5111,
+        5112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d1acc7e-fca6-4d4c-9bb5-513e0a09d90b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5112,
+        5113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a52cdc36-ca58-4869-b34e-f22e0672abe3",
+       "type": "word",
+       "value": "погризуть",
+       "textRange": [
+        5113,
+        5122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3031ebc-25c6-48ff-a2d5-546f7cbde956",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5122,
+        5123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61ab1635-ed3f-4d25-a544-c5e378430d26",
+       "type": "word",
+       "value": "гроші",
+       "textRange": [
+        5123,
+        5128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8afbbd6d-d077-46e2-8d23-95b86daa4e01",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        5128,
+        5129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a1df156-724c-4871-bae5-ea3cf41866fd",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        5129,
+        5130
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо як миші доберуться — погризуть гроші…»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7cacc368-f329-4221-b2dd-ada3a0c06f6a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5130,
+      5131
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Горох повертався із заробітків, вкидав гривні до горщика: «Маню… Кришку яку знайди, бо як миші доберуться — погризуть гроші…»",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Знайшла на полиці глиняний горщичок, що він їм із Толею місцем зберігання грошей слугував Горох повертався із заробітків, вкидав гривні до горщика: «Маню… Кришку яку знайди, бо як миші доберуться — погризуть гроші…»",
+ "concept": "SYNTAX"
+}

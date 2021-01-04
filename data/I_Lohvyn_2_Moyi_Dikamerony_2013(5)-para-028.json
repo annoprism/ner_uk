@@ -1,0 +1,725 @@
+{
+ "id": "f487ec6a-f7b9-4314-a029-31944eca3c43",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0d2b1019-0591-4de6-839b-b707a3b672ee",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4cc01be9-706d-4ef0-90a7-b11eaf76f6aa",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "692a2b9f-e1fc-4b8d-b9a3-c99cfedf13e4",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4558,
+        4559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ad759fa-3c4f-456d-ae79-e534d9cb1e04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4559,
+        4560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2572352d-d124-469c-9448-d69d3e312bc5",
+       "type": "word",
+       "value": "Тепер",
+       "textRange": [
+        4560,
+        4565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e2893fe-79a5-472e-8574-a9a207d0f9a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4565,
+        4566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "19d8133c-476c-4ad9-aea2-2ef9e4bef595",
+         "type": "word",
+         "value": "Янку",
+         "textRange": [
+          4566,
+          4570
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0219d373-b01b-402a-bbd0-aba4aff894fe",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8c0dafea-4da2-46be-86d5-e000e6572371",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4570,
+        4571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8122d785-156b-41ee-980c-b6010df4fb18",
+       "type": "word",
+       "value": "змалюй",
+       "textRange": [
+        4571,
+        4577
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Тепер Янку змалюй",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "959ba2a8-dc3c-4d75-993f-e62265a881fe",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4577,
+      4578
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "306be362-3ad8-42c1-be3e-09427d61b18b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9f49f4a5-1a89-4c92-90d2-05014b09853f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4578,
+        4579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "842e6368-696e-4031-9f8f-68967d44754f",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4579,
+        4580
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cea22cf3-8395-4611-ac43-21838bcbbc4b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4580,
+        4581
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4462bf41-3258-4fa6-b069-3fc20d6313dc",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        4581,
+        4582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cf16bb5-2dfd-4793-abda-25df5788cba4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4582,
+        4583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37fdd74d-e472-4c63-bf24-e9cdebf713d8",
+       "type": "word",
+       "value": "показує",
+       "textRange": [
+        4583,
+        4590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b67ed619-ef2c-4f9d-b351-b21d2373859c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4590,
+        4591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afa07ce2-89a2-436d-a732-bc5b9bc14e63",
+       "type": "word",
+       "value": "мені",
+       "textRange": [
+        4591,
+        4595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61a83216-548c-4897-95ed-f58fddd22dfd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4595,
+        4596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7236fe71-7279-4b10-8130-42ae9cf9f97d",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4596,
+        4598
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d2e442e-e2ee-4d0f-befd-6a37ee49f8cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4598,
+        4599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8efeaf4f-a84d-4c76-8a37-0fb3d297df59",
+       "type": "word",
+       "value": "дебелу",
+       "textRange": [
+        4599,
+        4605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efa89d7b-75a1-4cd3-a1d2-99d5dc4d4016",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4605,
+        4606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c305164-3004-4cfd-8971-f798c18f49d7",
+       "type": "word",
+       "value": "дівчину",
+       "textRange": [
+        4606,
+        4613
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " - і показує мені на дебелу дівчину",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6fcf6adc-b931-430d-8895-a6f7cba069b1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4613,
+      4614
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Тепер Янку змалюй, - і показує мені на дебелу дівчину",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "dd5d826a-e7e2-4408-9934-a09567c94231",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "519db680-8bd1-40ff-9e87-28ea500d9274",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9f7cd397-eb5f-478e-a443-64b0c9ce03e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4614,
+        4615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aab12dbe-05a4-4e94-8aa3-9c7781f1131d",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        4615,
+        4619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6011e575-08a9-49da-9ecc-f53714121f29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4619,
+        4620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df3ca4d5-0a26-4a17-a13c-e7b8f13813c5",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4620,
+        4622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3cd5336-34d5-44c6-ac5b-edeba4c41ac5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4622,
+        4623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da4f6a6b-97e9-45f0-9869-9af81d444acd",
+       "type": "word",
+       "value": "голе",
+       "textRange": [
+        4623,
+        4627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1c2e2d0-8d6d-489b-b7f2-beb304a2811b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4627,
+        4628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73868306-b95b-44bb-be0c-cb4a38228a2b",
+       "type": "word",
+       "value": "тіло",
+       "textRange": [
+        4628,
+        4632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87390a52-36e8-4ed6-82c0-b52d49cc6a60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4632,
+        4633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26229a7e-ae6c-4ed5-9283-9f24df0da4e8",
+       "type": "word",
+       "value": "вдягла",
+       "textRange": [
+        4633,
+        4639
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4359aeb-2378-41a9-9cbc-9334e56d6988",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4639,
+        4640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea7cf529-a18d-4974-8f19-dce64a1fc4ff",
+       "type": "word",
+       "value": "благеньку",
+       "textRange": [
+        4640,
+        4649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb0089d9-bb66-44ff-a9a4-9ab84753a29a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4649,
+        4650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ca2e99c-596a-4b9f-855c-e4981ef7c1d0",
+       "type": "word",
+       "value": "ситцеву",
+       "textRange": [
+        4650,
+        4657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bf61344-1312-403f-8cfd-9a9d9ff807e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4657,
+        4658
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e39dcf74-4f54-4fe1-9526-84edede1649b",
+       "type": "word",
+       "value": "суконку",
+       "textRange": [
+        4658,
+        4665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f1ea3b0-9c3f-4d88-ac05-6c96de735d17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4665,
+        4666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "872874c8-d53e-46b0-b699-b33f12036ba4",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        4666,
+        4667
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f528d66-24ab-4032-987f-ea696910bc25",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4667,
+        4668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4fad629-7073-4c11-a733-5b88f4aeddef",
+       "type": "word",
+       "value": "розвішує",
+       "textRange": [
+        4668,
+        4676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdbc3f16-5e66-47d9-a7e5-5e5136d80304",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4676,
+        4677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01bfa686-2261-4035-9765-c25966d4779f",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4677,
+        4679
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85dcfe86-e97c-493e-a3d6-77d274b4bfe7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4679,
+        4680
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "641fca95-f0c3-4138-bbf5-56e5c0ca66f7",
+       "type": "word",
+       "value": "кущах",
+       "textRange": [
+        4680,
+        4685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2062838-3c6b-4d4a-ac55-b2a6fdee8309",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4685,
+        4686
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ac6d076-66d2-4b3a-aa23-84d15d923abc",
+       "type": "word",
+       "value": "чорні",
+       "textRange": [
+        4686,
+        4691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ec3d6cc-268b-4da4-8fbe-aa2014db688c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4691,
+        4692
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8db35c3a-ef04-4220-912d-71ec193f071c",
+       "type": "word",
+       "value": "величезні",
+       "textRange": [
+        4692,
+        4701
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a89ad51-f474-4b4b-9e3d-3a2cb5d6d3b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4701,
+        4702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "252ba000-ac71-42ae-b8ed-653174c3eb91",
+       "type": "word",
+       "value": "труси",
+       "textRange": [
+        4702,
+        4707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8206417-6132-49b4-bfb3-661f87909178",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4707,
+        4708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78c5ede5-eaf1-45e7-b8e2-2d034942a97d",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        4708,
+        4710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc198e3e-4547-43f1-b987-aca9a693846c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4710,
+        4711
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40ba9831-f973-4ded-95d6-23838bd58774",
+       "type": "word",
+       "value": "бюстгалтер",
+       "textRange": [
+        4711,
+        4721
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20c17767-4fef-4877-ba27-56bd27ecfd18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4721,
+        4722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b3b7968-d402-447f-ab87-f5d670f1c757",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        4722,
+        4724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb42ae1c-2e9e-4553-a157-cf2c7670c587",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4724,
+        4725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94e3809b-0332-4a09-ae61-f9936cc9a368",
+       "type": "word",
+       "value": "сірого",
+       "textRange": [
+        4725,
+        4731
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d727860-999d-4dd1-bf6a-a5e01b7fb326",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4731,
+        4732
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "522ab6ef-dfee-4fce-9b32-461f684169fa",
+       "type": "word",
+       "value": "цупкого",
+       "textRange": [
+        4732,
+        4739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d9d3b64-cd69-45ab-803b-b798eccf737d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4739,
+        4740
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4155f0dd-e8e0-497a-bf75-84bcdfce4fda",
+       "type": "word",
+       "value": "полотна",
+       "textRange": [
+        4740,
+        4747
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона на голе тіло вдягла благеньку ситцеву суконку й розвішує на кущах чорні величезні труси та бюстгалтер із сірого цупкого полотна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bc746b86-f3d5-465e-b6bf-326f64ccf165",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4747,
+      4748
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6e7940f1-b138-4468-a50f-e0afba3309d2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4748,
+      4749
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона на голе тіло вдягла благеньку ситцеву суконку й розвішує на кущах чорні величезні труси та бюстгалтер із сірого цупкого полотна.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Тепер Янку змалюй, - і показує мені на дебелу дівчину Вона на голе тіло вдягла благеньку ситцеву суконку й розвішує на кущах чорні величезні труси та бюстгалтер із сірого цупкого полотна.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,553 @@
+{
+ "id": "33405045-493f-4c45-aa1c-b61c0570d578",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "84025e2b-30a8-47a1-9c01-f025820d62c8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ceb37018-5d50-40b6-8eed-8ed50dbc2348",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fdc881e7-73ce-4892-8dc2-53ca971ff2e9",
+       "type": "word",
+       "value": "Дим",
+       "textRange": [
+        0,
+        3
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3054459-2403-4099-8d44-2c1ad5744ef6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3,
+        4
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30053b82-206e-4ad4-a131-c951edcfcf3c",
+       "type": "word",
+       "value": "заповнив",
+       "textRange": [
+        4,
+        12
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a861421-3ec0-429d-9843-8c9cb8e6a900",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8395a0f6-287f-4c0c-8bdc-5391c57e9861",
+       "type": "word",
+       "value": "салон",
+       "textRange": [
+        13,
+        18
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Дим заповнив салон",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "328026e8-fada-4a92-a124-edd26d9d2c56",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      18,
+      19
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Дим заповнив салон",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a97d9115-4a76-45ca-b99d-d71b4d74960a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "87cffb58-63cf-4c83-a7e9-0ad0bc805fff",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1ab252f6-a240-4105-958f-31d01ebccc79",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        19,
+        20
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "f29373c9-8397-490e-a360-57bccd232aa8",
+         "type": "word",
+         "value": "Славко",
+         "textRange": [
+          20,
+          26
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f97a3602-86d7-40fa-835b-b19ea9dc39f1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2c45347a-5a82-4080-acaf-356b393283cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        26,
+        27
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "393ee378-64f0-4287-8c19-37a3ee790f30",
+       "type": "word",
+       "value": "рвонув",
+       "textRange": [
+        27,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34f1694a-d977-42a2-a9ef-74ce5d7762f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        33,
+        34
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db9fe39d-78d7-4012-9a6a-596daad6635a",
+       "type": "word",
+       "value": "ручку",
+       "textRange": [
+        34,
+        39
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84277677-3a4d-4153-bc45-db10f1690fbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        39,
+        40
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d4ee94b-45b9-4e44-a536-367985f73c42",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        40,
+        41
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7be42ec8-fea2-4c27-9952-c1107846e3fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        41,
+        42
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12c76a22-183c-4e31-af3b-bd320edf7fc2",
+       "type": "word",
+       "value": "відчинив",
+       "textRange": [
+        42,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d1e6bc4-62da-43f3-8c9b-0762c336d876",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        50,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "004ce38f-21f8-49fe-8174-85bfb2545a64",
+       "type": "word",
+       "value": "дверцята",
+       "textRange": [
+        51,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b19ca2c4-2fcf-449b-9e64-521403f930f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        59,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0099e35a-8eac-4be0-a187-667f25efc759",
+       "type": "word",
+       "value": "кабіни",
+       "textRange": [
+        60,
+        66
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Славко рвонув ручку і відчинив дверцята кабіни",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "368fc5b7-2886-4b3e-b1e9-fd498f1f447a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      66,
+      67
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Славко рвонув ручку і відчинив дверцята кабіни",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9ad9c066-2563-430e-9fcf-f5fa75d144d7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e7e22c36-7a11-4c4d-98a2-6c4bf5dee3d7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7f03feec-5de8-4eb1-932f-a87812c8c17f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        67,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3cdb66e-c7ea-4a34-a338-cc1823cc1a86",
+       "type": "word",
+       "value": "Потік",
+       "textRange": [
+        68,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33a7a881-cda0-4f5e-909f-96561bb71818",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        73,
+        74
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ddea1f37-1e65-4804-b477-59a9f257f75e",
+       "type": "word",
+       "value": "повітря",
+       "textRange": [
+        74,
+        81
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e39ba708-4d3c-41bc-ae23-b36da08e211e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        81,
+        82
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6167e27-8058-4c0f-bece-d147d713c723",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        82,
+        84
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb9d1519-c9cb-40c6-ae02-47c885a63159",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        84,
+        85
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb8f6faf-2e5d-4551-999b-209ad9a1e1a9",
+       "type": "word",
+       "value": "мить",
+       "textRange": [
+        85,
+        89
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce976f19-ebab-4a0a-b3c9-e6e27ad5d02c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        89,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2fc44e63-9bc2-4403-814d-8ddeef12cbd9",
+       "type": "word",
+       "value": "розвіяв",
+       "textRange": [
+        90,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08987a36-34de-4cd1-9773-6e7b171a6565",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71487a49-a1c1-477e-9fcc-6354c1b6ed7b",
+       "type": "word",
+       "value": "димову",
+       "textRange": [
+        98,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62ac6415-16ed-4ae7-8762-91da41e9aa56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        104,
+        105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5ebab7f-fb28-4000-baab-8cfbd2fb2cf4",
+       "type": "word",
+       "value": "завісу",
+       "textRange": [
+        105,
+        111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "116d25c5-bc48-439b-9673-286682a9c633",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        111,
+        112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2fce5716-d067-41d5-8eeb-f11731672b9c",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        112,
+        113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "362f7140-6592-4816-b32c-5a1aa08ac333",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        113,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fafa24a7-339b-4010-b436-4c6f4e56091c",
+       "type": "word",
+       "value": "штурмана",
+       "textRange": [
+        114,
+        122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3496c4d1-4d7e-4fb5-8d12-6f49df56abaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        122,
+        123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4320291d-a386-4da3-991f-51daa89a9c36",
+       "type": "word",
+       "value": "попереду",
+       "textRange": [
+        123,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67f933cf-5912-4836-918b-b4b417987e2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        131,
+        132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a71973db-df04-4b51-97f7-4252c9b4c865",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        132,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc4117f0-cef2-44c9-ae68-2d68de248b48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        135,
+        136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b65ab7b-de3f-41e5-9b5d-02c88c2512e0",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        136,
+        138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ce64d57-e5ab-4e44-a53a-549730d3bfa4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        138,
+        139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "249b237c-08fc-450e-8f2b-5be04f663abd",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        139,
+        143
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Потік повітря на мить розвіяв димову завісу – штурмана попереду вже не було",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "13bb0755-bb36-4a4e-b876-1864108a02b6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      143,
+      144
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f8e7e7b0-75fa-476f-bed8-c642ed52db0c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      144,
+      145
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Потік повітря на мить розвіяв димову завісу – штурмана попереду вже не було.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Дим заповнив салон Славко рвонув ручку і відчинив дверцята кабіни Потік повітря на мить розвіяв димову завісу – штурмана попереду вже не було.",
+ "concept": "SYNTAX"
+}

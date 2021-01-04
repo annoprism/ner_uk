@@ -1,0 +1,934 @@
+{
+ "id": "6e9f951a-1154-4d9f-b337-52b6796e1f74",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "67fc2b32-08ac-4311-bac7-97c542591c96",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c12b8411-51c7-4689-b6e5-245be74d07a6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cd62fa2b-9fe6-4d41-b179-2b606d2fe08b",
+       "type": "word",
+       "value": "Одного",
+       "textRange": [
+        2328,
+        2334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "268c0668-c8e2-43e3-b43a-0bf549b98ac1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2334,
+        2335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97a38347-fd81-4cd0-baac-e12f1cb1fc93",
+       "type": "word",
+       "value": "разу",
+       "textRange": [
+        2335,
+        2339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3bb6956f-7a1c-45c6-a8df-7a926bcdfad8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2339,
+        2340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "8874ce5c-70dc-4c38-a3cc-df9ae4c77141",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          2340,
+          2344
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "cd2225f6-6163-4b43-868c-9f2b5399c203",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "520a2975-ffb8-4a36-8311-759904bba789",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2344,
+        2345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "397d4841-2156-42e6-93b6-eecefc06af35",
+       "type": "word",
+       "value": "прокинулася",
+       "textRange": [
+        2345,
+        2356
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Одного разу Киця прокинулася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ce6996e8-b924-42f5-9244-5adb69427f1f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2356,
+      2357
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7c64da19-27b3-4d15-b45d-3a873b94f445",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "90935d0e-bbbb-49ab-8c43-afe391c48258",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2357,
+        2358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9310c01-0317-4b02-baaf-75feb0ba1ca6",
+       "type": "word",
+       "value": "вийшла",
+       "textRange": [
+        2358,
+        2364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "303ff15e-1f19-4a5d-b7ff-672a6d7a4a3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2364,
+        2365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41041650-3761-4b03-8407-cf9ccffbd2c6",
+       "type": "word",
+       "value": "надвір",
+       "textRange": [
+        2365,
+        2371
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вийшла надвір",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "08f2b681-5f4b-4d9d-9b28-9b887266d951",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2371,
+      2372
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "30c4098b-7e27-4091-a7ca-2078b59fde01",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "757e38ce-e5c5-49f2-a4e8-04b6f3d3cf05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2372,
+        2373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bcd8835-893f-4454-baf9-65c8e58fd470",
+       "type": "word",
+       "value": "ступила",
+       "textRange": [
+        2373,
+        2380
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74f20e84-338b-4f44-ad34-bc40a4b3bc54",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2380,
+        2381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a08ecae5-818d-4d4e-aad4-d434e0cd26d4",
+       "type": "word",
+       "value": "кілька",
+       "textRange": [
+        2381,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33327dd3-918e-4e25-97d2-41221fa761d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ffff673-e626-4e7a-8317-1192f8a4f36e",
+       "type": "word",
+       "value": "кроків",
+       "textRange": [
+        2388,
+        2394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9da801c8-2c76-4982-88c6-36299eeef16a",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        2394,
+        2397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f8c64ee-9eec-4672-ac9d-c5d86508570e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2397,
+        2398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "107fd0f9-9fed-441a-b604-736cdee925ea",
+       "type": "word",
+       "value": "Якось",
+       "textRange": [
+        2398,
+        2403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad07a865-ec8e-4c9e-aa2c-7105fb10ed9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2403,
+        2404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "574ac05f-cd58-4fee-9da4-bb34f950a245",
+       "type": "word",
+       "value": "незвично",
+       "textRange": [
+        2404,
+        2412
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "998ab0ae-391c-493b-ad36-b32e5ab3bb0e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2412,
+        2413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40ba9989-4d19-494c-96b2-543a8d0a8008",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        2413,
+        2417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1cbb972-8ae5-4586-9000-bb864d8264cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2417,
+        2418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98dc7bbe-7f3b-4dd7-81af-c057909173d8",
+       "type": "word",
+       "value": "навколо",
+       "textRange": [
+        2418,
+        2425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13f8c0b6-35e6-46d9-bacb-583f6777a41c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2425,
+        2426
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de0212c8-b495-4fb1-930f-eb87d68c103c",
+       "type": "word",
+       "value": "Мерзли",
+       "textRange": [
+        2426,
+        2432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4b22e58-1387-40e1-af9b-ab0f11b6890a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2432,
+        2433
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c7563df-4740-4c89-98e6-6b6e1b4ede0e",
+       "type": "word",
+       "value": "лапки",
+       "textRange": [
+        2433,
+        2438
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ступила кілька кроків... Якось незвично було навколо Мерзли лапки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "753eecba-a9de-4d7e-a44f-6b88350901df",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2438,
+      2439
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2661991b-71ef-4cc9-9535-a55e72b6ac94",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7f581581-ba96-42d4-a3dc-6ea7def9d018",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2439,
+        2440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "115bce75-d4fd-456c-ba7c-4de864b5ac84",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        2440,
+        2441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4a653b9-ed3a-474e-9272-a4b4b696207f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2441,
+        2442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "626ac593-72f1-4d56-8c13-032e4c6d55cd",
+       "type": "word",
+       "value": "згори",
+       "textRange": [
+        2442,
+        2447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19dec81f-3b63-4980-a3b8-8995bb55b087",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2447,
+        2448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a516ef3b-bc60-4588-aacc-48f2579fc70b",
+       "type": "word",
+       "value": "падали",
+       "textRange": [
+        2448,
+        2454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ca08a1e-f468-4879-b649-1b86a8448eed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2454,
+        2455
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "364ffadb-c1f4-4e99-905a-19b7a9d236e8",
+       "type": "word",
+       "value": "маленькі",
+       "textRange": [
+        2455,
+        2463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d925b6d2-24ad-4e7d-bebe-ad7165f6b329",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2463,
+        2464
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e51712a9-93c7-48c3-8551-b7403263e90a",
+       "type": "word",
+       "value": "холодні",
+       "textRange": [
+        2464,
+        2471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "774900e5-3098-47c1-8d75-a666fdb9ee9a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2471,
+        2472
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4a3405e-9e7a-4ebf-8d51-3a125e707949",
+       "type": "word",
+       "value": "пір'їнки",
+       "textRange": [
+        2472,
+        2480
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а згори падали маленькі холодні пір'їнки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4ca2578e-c009-4292-a1bc-3c52e424664c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2480,
+      2481
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Одного разу Киця прокинулася, вийшла надвір, ступила кілька кроків... Якось незвично було навколо Мерзли лапки, а згори падали маленькі холодні пір'їнки",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3cad0315-c5a7-4dcf-b42b-055e8b78dfd4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "78bbb6ea-4291-4e15-9c3e-619bca4d8c7a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8f9c950a-c2e3-4198-b472-338957cbf864",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2481,
+        2482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89ef29f3-ec34-493f-bc43-ad523c0cae6e",
+       "type": "word",
+       "value": "Вони",
+       "textRange": [
+        2482,
+        2486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71e81978-213d-47dd-897e-a64de361b5a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2486,
+        2487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b14d96b1-5012-4e5d-8b62-496216942334",
+       "type": "word",
+       "value": "були",
+       "textRange": [
+        2487,
+        2491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58127403-1686-43a3-a86c-4399fc31149c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2491,
+        2492
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "823f51aa-1878-4333-a500-08ad45b28d49",
+       "type": "word",
+       "value": "такі",
+       "textRange": [
+        2492,
+        2496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79a9fff0-0448-4d81-841d-0a3bc0c25d39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2496,
+        2497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "337c692c-63a2-4e23-899e-2079180f978b",
+       "type": "word",
+       "value": "крихітні",
+       "textRange": [
+        2497,
+        2505
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вони були такі крихітні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "319ce87a-23cd-43a7-95f8-f049fa384051",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2505,
+      2506
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "de3fd166-e264-4f97-b66f-e90e39b38686",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "803f09aa-2a72-4ab1-b18c-5c26354491bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2506,
+        2507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8dfc898-f5fd-4459-827a-7bb3f8034e4e",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2507,
+        2509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87c54bd4-5124-4658-8aee-a762ea44b184",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2509,
+        2510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fd4df370-ff9e-46d3-a4d8-678865243835",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          2510,
+          2514
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0216ac2d-4ba8-40c9-91cc-2a759d6b29d9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1f806210-8531-47cb-879d-18d22c72cbb2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2514,
+        2515
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47ba9741-efbe-4931-923a-2fd1c2313004",
+       "type": "word",
+       "value": "спробувала",
+       "textRange": [
+        2515,
+        2525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ad9d717-8972-4a21-a955-c915abdfa93a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2525,
+        2526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e4a37e2-4100-4938-9e77-fd95aafca98d",
+       "type": "word",
+       "value": "ловити",
+       "textRange": [
+        2526,
+        2532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86c0427c-4f9f-4c4b-b19e-e22a101a5cf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2532,
+        2533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7428a37-4d09-4dda-9db0-d24e5953a21c",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        2533,
+        2535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "704f8607-ebf0-40ff-9fc6-39b72e7f6455",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2535,
+        2536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d90f99fd-4186-4639-b9ce-7e100d2b631c",
+       "type": "word",
+       "value": "язиком",
+       "textRange": [
+        2536,
+        2542
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що Киця спробувала ловити їх язиком",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "27eb0843-83f7-4b39-98ad-e44e2a5583fe",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2542,
+      2543
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8882348d-581f-400a-88a9-2839d9ae61ce",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dc6e6503-8f94-43e8-aa79-efd543496382",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2543,
+        2544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3b757a5-ffbd-4bb6-aeaa-19dc2350f7ab",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        2544,
+        2547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e52d5cd-ba2b-422f-b087-022e485d37af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2547,
+        2548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e52e691d-0b53-4e92-bbd4-697fb7616550",
+       "type": "word",
+       "value": "ті",
+       "textRange": [
+        2548,
+        2550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "589c7b56-1e91-42aa-baea-212b4586d41a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2550,
+        2551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24d5dffa-f967-409e-a8e0-25931d878361",
+       "type": "word",
+       "value": "щезали",
+       "textRange": [
+        2551,
+        2557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb760712-7ec9-4ba2-89b1-e77d00d68b9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2557,
+        2558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f5edd85-f01f-4eda-9590-37ab465dcb1a",
+       "type": "word",
+       "value": "перед",
+       "textRange": [
+        2558,
+        2563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6920fc86-ab86-436c-9797-de5ba6d0f226",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2563,
+        2564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69bbb9d1-9be9-420a-a2cd-6e6e2f05b247",
+       "type": "word",
+       "value": "самим",
+       "textRange": [
+        2564,
+        2569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90b6d03a-a2f9-4a77-a478-77d180f0165b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2569,
+        2570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6488e26e-0976-494f-b984-f7376a81ebf1",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        2570,
+        2572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8add5273-a8a1-44c7-9047-c6a95714d7e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2572,
+        2573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7811eca-a3cd-4a5e-845b-52667eb486b8",
+       "type": "word",
+       "value": "носом",
+       "textRange": [
+        2573,
+        2578
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але ті щезали перед самим її носом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "49f0daf3-1c1c-4b86-a248-51eda717da2a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2578,
+      2579
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b68f5129-6b6a-4f9b-878c-f885bec90b4a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2579,
+      2580
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вони були такі крихітні, що Киця спробувала ловити їх язиком, але ті щезали перед самим її носом.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Одного разу Киця прокинулася, вийшла надвір, ступила кілька кроків... Якось незвично було навколо Мерзли лапки, а згори падали маленькі холодні пір'їнки Вони були такі крихітні, що Киця спробувала ловити їх язиком, але ті щезали перед самим її носом.",
+ "concept": "SYNTAX"
+}

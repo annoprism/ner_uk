@@ -1,0 +1,127 @@
+{
+ "id": "ab04a7c0-f06b-4fe0-a34a-4abf4659bc91",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "dadf9f07-0f16-40e4-8480-2dc445c21eb1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bf3bd31e-7d25-446f-aeb4-b87566cc0d51",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f8679f6a-a7bb-4ab5-b6e2-78f0496104ba",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        3714,
+        3715
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "562c1c71-4b73-4f4b-a0ab-7de5595f57d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3715,
+        3716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "020b2590-95a1-47a0-8642-c044c1f9b9bd",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          3716,
+          3721
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0bec174b-96d7-4b90-aee8-2e8baf3c820e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "- Данко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "15d6fdf2-25f8-4f8b-ba54-b41f81d737b9",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      3721,
+      3722
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Данко",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fc6f43a8-04c3-40c5-8e72-5e70f199ffa4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e00b87e6-e9b7-4c86-b406-a2ef89c24c02",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f61baf7a-4e24-4aff-b1e8-ab8d25b6ff96",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3722,
+        3723
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fe9fa9e-cfcc-40cd-a0f1-9a3b353c518f",
+       "type": "word",
+       "value": "Йдемо",
+       "textRange": [
+        3723,
+        3728
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Йдемо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b189bc9e-7118-4a42-975d-a620aa7be86c",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3728,
+      3729
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "73900c57-f06f-41bb-947c-5b44ae51858a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3729,
+      3730
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Йдемо?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Данко Йдемо?",
+ "concept": "SYNTAX"
+}

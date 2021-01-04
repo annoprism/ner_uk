@@ -1,0 +1,332 @@
+{
+ "id": "922def6c-41e9-4ce0-84b1-0575b5f620fb",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "373f9718-8802-41a9-bd02-4137c10b9800",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d9ebe513-9535-4062-8acd-98255a3474dc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b2aa5331-3b2b-4f60-bdf4-a0524fae4945",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        8618,
+        8619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c93f811a-b6d8-41f0-88a4-4df97c40aa5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8619,
+        8620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b75aa86-ed09-4996-80c6-9277946c8db5",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        8620,
+        8622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64f68e9f-d033-4387-aa96-4824712391a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8622,
+        8623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "bff5278b-a8e8-4c4e-a53f-6bf1f9470c00",
+         "type": "word",
+         "value": "Януша",
+         "textRange": [
+          8623,
+          8628
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "880214d8-858a-43aa-b68c-3f5bee2cc69d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a949c8cd-a93e-4c81-ac61-71be55ba6cfa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8628,
+        8629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df0d841b-6272-4cf1-8732-762bd90f3e36",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        8629,
+        8630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42300746-a61c-40fd-bbf3-211b5412bcbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8630,
+        8631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "c02aabfd-88f6-4dc2-966c-ed418433a40a",
+         "type": "word",
+         "value": "Хелм",
+         "textRange": [
+          8631,
+          8635
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a7ee89f5-b7bf-45ed-b51d-fefa09dbd257",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "11464b18-c063-4960-b664-af061216eb2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8635,
+        8636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3df09a8-1fc9-4438-a568-31b9a0e59b26",
+       "type": "word",
+       "value": "з’їжджу",
+       "textRange": [
+        8636,
+        8643
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— До Януша у Хелм з’їжджу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "29c39376-3533-4e47-8b2a-1d1153d35fa7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8643,
+      8644
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0e8dc8e0-8a8e-4237-b478-c7443fda56c4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ec25a356-41d4-4d85-a8d7-04df045f007c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8644,
+        8645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52d1ca37-5ba6-46f4-ab33-b55632ff3152",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        8645,
+        8646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c796883-6c5e-4bef-8eee-91265bc8af83",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8646,
+        8647
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "791813c6-7daf-4723-bb2f-7f5eb426b4b5",
+       "type": "word",
+       "value": "приголомшив",
+       "textRange": [
+        8647,
+        8658
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — приголомшив",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ce0c3725-f6fc-42a4-9fff-764aa28dd0f5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8658,
+      8659
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— До Януша у Хелм з’їжджу, — приголомшив",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d2b9ce9c-a895-4d16-8583-9642045603a5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7d61f199-ace6-49ca-9765-c0f4742dbc21",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "aff6d56c-131a-444b-b31f-f124f4dc6ca4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8659,
+        8660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "adc935cf-52ed-4264-be0b-3b4655c2c21e",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        8660,
+        8661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "984a8138-70c5-40e8-ae33-9c0ba4bbb9af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8661,
+        8662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0eb4dd7b-6c20-410f-8684-ec05520e330e",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        8662,
+        8664
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70ae7d4d-284b-47da-b123-8f12982dbf99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8664,
+        8665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d97159b4-3069-414c-8819-62f9257ecf4b",
+       "type": "word",
+       "value": "кілька",
+       "textRange": [
+        8665,
+        8671
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a402e44-ca05-466b-b7ed-c3cde878b5d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8671,
+        8672
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee4bbb65-e3cf-48f8-8842-a69c469ea535",
+       "type": "word",
+       "value": "днів",
+       "textRange": [
+        8672,
+        8676
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — На кілька днів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "db1171b6-fe86-46f5-9f68-d258fc4b1d54",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8676,
+      8677
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4e74be0a-f4dd-47b0-86dd-286d162bd0fb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8677,
+      8678
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — На кілька днів.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— До Януша у Хелм з’їжджу, — приголомшив — На кілька днів.",
+ "concept": "SYNTAX"
+}

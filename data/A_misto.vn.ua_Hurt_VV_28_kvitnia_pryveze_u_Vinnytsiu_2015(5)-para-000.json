@@ -1,0 +1,599 @@
+{
+ "id": "ca00aba3-34bf-47d1-bfc0-f102321c940a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5c536154-f926-4f5f-97ed-161ba1d6e3a0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5e8a029a-f846-4dca-a62a-eecd1a496c8f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "ffb214fc-1be3-4c08-8e13-855037e23724",
+         "type": "word",
+         "value": "Вінниця",
+         "textRange": [
+          0,
+          7
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5f9afda2-69d3-4f96-85bb-d72b3be0679b",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3277697c-8c9d-4d63-bc00-ffb9f8e1eb24",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a0a67cf-2e36-4967-a893-95785d4a2541",
+       "type": "word",
+       "value": "стане",
+       "textRange": [
+        8,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f462a1cc-2cf3-4baf-8edc-1eba43f67a77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13,
+        14
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25056b70-80d8-4248-8de5-34792936d4dc",
+       "type": "word",
+       "value": "сьомим",
+       "textRange": [
+        14,
+        20
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e02a86ba-8a2a-4efe-bc8f-ec2d7ea7f9b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        20,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fec632cb-5851-4cdd-a840-eb8665127da3",
+       "type": "word",
+       "value": "містом",
+       "textRange": [
+        21,
+        27
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Вінниця стане сьомим містом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9c4b2cc1-a03c-4deb-9fb5-d7ddc93a642a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      27,
+      28
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8a8eef35-1b8e-41a5-af02-5eb143c0bb43",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9a4ef6b6-8bc7-42bc-bb50-cd0051249a8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        28,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "890e0cc1-a43f-49ce-9563-df5c1d1d0c7a",
+       "type": "word",
+       "value": "яке",
+       "textRange": [
+        29,
+        32
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa744689-3535-46b1-9abc-9b9e4f6e8f88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        32,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3b4c42c6-48ec-4a6b-a4e9-e836bbc1edcc",
+         "type": "word",
+         "value": "Олег",
+         "textRange": [
+          33,
+          37
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c8eb90f8-0740-434e-bbb7-48b31cfe3d96",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          37,
+          38
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "686e9d72-32c8-408a-a19d-4f7b417994ca",
+         "type": "word",
+         "value": "Скрипка",
+         "textRange": [
+          38,
+          45
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1eb7b37d-c6b0-4dd5-a1ed-6801aa9e9e8c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "de2939cc-5af6-45fd-99e2-90a5f75e8c7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        45,
+        46
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3f9ad6d-4c0c-49a9-b0d2-a7cf32f50444",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        46,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19372dd0-e7fc-4f7a-b245-ba945a5445b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "243601ab-0339-41e4-8ef7-c82da21dd779",
+       "type": "word",
+       "value": "командою",
+       "textRange": [
+        49,
+        57
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed07531-c50c-4421-9273-57ea7cf77ead",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        57,
+        58
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "104c361c-02b8-441d-a464-b763f750f8d5",
+       "type": "word",
+       "value": "відвідає",
+       "textRange": [
+        58,
+        66
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "295cae4f-6594-43af-a25e-8ec60261c060",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2b7fac5-e6c1-4913-bcd7-0141c9c89a07",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        67,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1531912b-97d1-4acf-84cc-31126b8f5abb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        68,
+        69
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fcca3b6-1e05-42ce-b497-7b8b49797488",
+       "type": "word",
+       "value": "рамках",
+       "textRange": [
+        69,
+        75
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f1775e1-f06f-4df1-8b95-bd64e43419cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        75,
+        76
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ef2e793-d3b8-4e05-9cef-d8c25bf01156",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        76,
+        77
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "a9777223-5e27-4703-89b4-26933f5e5321",
+         "type": "word",
+         "value": "Великого",
+         "textRange": [
+          77,
+          85
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b0941993-f528-46ce-b2a4-f1aee24af79f",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          85,
+          86
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "70a0ae48-53dd-4e45-a621-4b91e3cad33a",
+         "type": "word",
+         "value": "весняного",
+         "textRange": [
+          86,
+          95
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "79f719d3-8079-4b07-9034-5eeb9bcad74e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          95,
+          96
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2e36c5ee-5490-4ab7-a7fd-d5af42f0ca79",
+         "type": "word",
+         "value": "туру",
+         "textRange": [
+          96,
+          100
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "59b2c676-e4ae-4a5b-bfe7-94705c1f7624",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "44a360a4-072e-4144-8911-779b85d35116",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        100,
+        101
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " яке Олег Скрипка із командою відвідає у рамках «Великого весняного туру»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a0ae3bb0-ef14-4262-af7a-e0e43d67d636",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      101,
+      102
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1542c244-32e5-42d9-b4b7-ebb92d138db6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "282cd372-b1e7-4885-bf2a-b748ae688515",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        102,
+        103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53cf85dc-3079-46a5-901a-c384aea45ce5",
+       "type": "word",
+       "value": "девіз",
+       "textRange": [
+        103,
+        108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4528723-ba46-41a0-b214-2c470fcee883",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        108,
+        109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76a691e4-62c2-4625-ad1a-e3f3a0526d31",
+       "type": "word",
+       "value": "якого",
+       "textRange": [
+        109,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b1b82d3-d689-465e-b9ee-20a2c807a162",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        114,
+        115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e60d08f9-9f48-432b-a6ff-bee6658ef526",
+       "type": "word",
+       "value": "говорить",
+       "textRange": [
+        115,
+        123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc2862a3-783f-465c-99cf-d580592b9ca4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        123,
+        124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca4658c7-b041-4efd-8d23-53768e750fcc",
+       "type": "word",
+       "value": "сам",
+       "textRange": [
+        124,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "814b0d1b-3e2f-4481-a01f-62ef01212fbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        127,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c14035d6-42de-4c68-a92a-d594b60665ea",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        128,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7018cf1a-f223-47bd-8d5e-7936b1eca864",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        130,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c86e2ba-5e3b-43f7-88e7-fbc6e44e65cb",
+       "type": "word",
+       "value": "себе",
+       "textRange": [
+        131,
+        135
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " девіз якого говорить сам за себе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "28829c6d-e8ec-4eaa-a76d-51f37c1542b8",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      135,
+      136
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a305f9af-9cd7-42e9-ab4e-f2cbaf6c1c28",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c40915cc-b787-49bf-8bfa-3392cd3d2f2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        136,
+        137
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a919941c-e830-4392-956b-ac5fbb7e5fd6",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        137,
+        138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43e72895-2ab0-46f0-bee8-03e002227178",
+       "type": "word",
+       "value": "Весна",
+       "textRange": [
+        138,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "138f6353-7799-4a74-8075-e286d0f0820c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27450469-87c5-4896-b8e0-981292abecb8",
+       "type": "word",
+       "value": "переможе",
+       "textRange": [
+        144,
+        152
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Весна переможе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06fdc7d8-80d4-43a5-ac07-a5bb613ada81",
+     "type": "punctuation",
+     "value": "!»",
+     "textRange": [
+      152,
+      154
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba0ff8ef-5d0d-47fb-bba2-5849b416c1a2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      154,
+      155
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Вінниця стане сьомим містом, яке Олег Скрипка із командою відвідає у рамках «Великого весняного туру», девіз якого говорить сам за себе: «Весна переможе!»",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Вінниця стане сьомим містом, яке Олег Скрипка із командою відвідає у рамках «Великого весняного туру», девіз якого говорить сам за себе: «Весна переможе!»",
+ "concept": "SYNTAX"
+}

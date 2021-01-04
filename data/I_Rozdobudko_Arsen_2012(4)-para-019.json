@@ -1,0 +1,207 @@
+{
+ "id": "77a4d569-e296-462c-92af-75416474ebfe",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "097ef80b-15a9-4c3e-8905-cf2e7d3366dc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "61ff49e5-0569-467f-90b9-114747c058ec",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "386c4197-f01d-49c4-80a1-514faa56d7db",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        3739,
+        3740
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "102672b5-fb6e-4fe7-bc86-040c7b62e5b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3740,
+        3741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "040b4bbd-3108-4adc-8709-f07154883e79",
+       "type": "word",
+       "value": "Ти",
+       "textRange": [
+        3741,
+        3743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "179656f9-cd7b-42d1-9ab6-b014c9f24025",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3743,
+        3744
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "deaeb711-781b-4202-9000-0baa7e3cc24d",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        3744,
+        3746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc678e36-1334-41d5-ab8a-e32b7b29d514",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3746,
+        3747
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53105456-e9fe-4fc3-ad7b-c545b1018ce0",
+       "type": "word",
+       "value": "ангел",
+       "textRange": [
+        3747,
+        3752
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Ти не ангел",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff8f4642-ab25-4174-8a70-1d74a48b10be",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3752,
+      3753
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Ти не ангел",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "bd44d61a-791c-4e2e-bf5e-ea4d829b19a0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6f320b3e-1462-4dc9-957b-d35227bd6621",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8c933823-45c7-4815-b74e-589df8ba56d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3753,
+        3754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82b516f2-31fc-4279-ad76-d6e2a904b981",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        3754,
+        3755
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "719181ae-6b28-4602-bba5-7bf79b309865",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3755,
+        3756
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ef5a1b8-0eb8-4832-823c-a801d67cc102",
+       "type": "word",
+       "value": "запитав",
+       "textRange": [
+        3756,
+        3763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0930aca7-2d8a-48cb-8d74-69fb4a9d2d15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3763,
+        3764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "2887e42d-3d2a-4417-8e11-2602dc148a81",
+         "type": "word",
+         "value": "Макар",
+         "textRange": [
+          3764,
+          3769
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a1926296-d22f-4e8a-81ee-96e77e4fd594",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — запитав Макар",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4886ce57-3c5a-4be4-94d7-646989685d7d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3769,
+      3770
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90370d5e-192e-467b-9fb2-9d4c50a4da53",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3770,
+      3771
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — запитав Макар.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Ти не ангел — запитав Макар.",
+ "concept": "SYNTAX"
+}

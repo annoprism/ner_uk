@@ -1,0 +1,605 @@
+{
+ "id": "e8a2a03f-a4fb-49f5-af2c-6cbfe5df2d7d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5a303797-259f-403f-b2ca-2816c009ec12",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "882c53c0-6c0c-4124-8f2a-3459983dd323",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f3acc8cc-8068-4773-b09f-d7569eb46fc2",
+       "type": "word",
+       "value": "В",
+       "textRange": [
+        3359,
+        3360
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5178502-600d-434a-b609-4e92db36a120",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3360,
+        3361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "e3a4db2f-1b59-4b1c-817a-801df60c367d",
+         "type": "word",
+         "value": "Україні",
+         "textRange": [
+          3361,
+          3368
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "23def918-dc56-4b98-a95e-f4f0b6ff4b16",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1d66bcb1-8265-4fdc-83f7-134480cf0db7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3368,
+        3369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aab32cf7-c0f6-4141-9e92-7c7251faa825",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        3369,
+        3373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8e21951-fb9c-4ca0-b1c7-0c090377d4cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3373,
+        3374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "965c1397-d892-455a-b76d-2f2352d10c77",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        3374,
+        3375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f037af3-83a5-429b-b082-973155bdeadb",
+       "type": "word",
+       "value": "розкуркулено",
+       "textRange": [
+        3375,
+        3387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b461347-d7d0-46d8-b619-ecf178f57aa5",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        3387,
+        3388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7babbaaa-6cb3-4c94-a8f9-d4cfe6933449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3388,
+        3389
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47016436-23ac-4e79-959c-a34c6cbb319d",
+       "type": "word",
+       "value": "понад",
+       "textRange": [
+        3389,
+        3394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff987805-749d-4ec6-b5bc-3166ae1d60c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3394,
+        3395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94b79905-f8c8-46d3-bf42-8d031e35fedd",
+       "type": "number",
+       "value": "1",
+       "textRange": [
+        3395,
+        3396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c63f75f0-0ad8-47c5-975e-cc38666e8b19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3396,
+        3397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4e6a72a-9e0c-4d61-8567-abd4f562cf0f",
+       "type": "word",
+       "value": "млн",
+       "textRange": [
+        3397,
+        3400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbbccf77-2e36-41ab-b557-82ebdfacbc04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3400,
+        3401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ff53268-bf64-44c6-9b8f-268127777e31",
+       "type": "word",
+       "value": "селян",
+       "textRange": [
+        3401,
+        3406
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "В Україні було «розкуркулено» понад 1 млн селян",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c7b1fc17-fe39-43aa-a8ff-4befde0675f3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3406,
+      3407
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ce2ca25c-3c1b-4101-8f15-b786a17327a5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f98a7fe3-ef74-42a5-9bfb-470bc6ce74fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3407,
+        3408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6f4a47c-8457-4d17-ac4c-d4de91af558d",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3408,
+        3409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c78b2d8-d279-4c94-ba14-50d6ced2c258",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3409,
+        3410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2158eeb9-ec9e-48a2-b17e-10a268d80857",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        3410,
+        3413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb799fdc-f0bc-4163-980a-d396198ffc0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3413,
+        3414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a3eea09-3f6b-463d-a87c-b97143381ad5",
+       "type": "word",
+       "value": "понад",
+       "textRange": [
+        3414,
+        3419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51547b54-aed4-457a-be3b-e3f890940c19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3419,
+        3420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76d30572-f9a0-401e-8437-99f71ccd8e7e",
+       "type": "number",
+       "value": "860",
+       "textRange": [
+        3420,
+        3423
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d0ec666-f8cb-4075-9970-8ca80f1312bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3423,
+        3424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7a5f335-5e68-4573-a09e-3363286cde0f",
+       "type": "word",
+       "value": "тис",
+       "textRange": [
+        3424,
+        3427
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " з них понад 860 тис",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74bcdaf0-7c97-45a8-962c-4f7d98543618",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3427,
+      3428
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "В Україні було «розкуркулено» понад 1 млн селян, з них понад 860 тис",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e8a9df60-08d1-4da3-8644-87fb9e8d3c82",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f84827e6-d8a4-4b41-9de4-285bae20f9cd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f06399e7-c11c-4026-af53-385f811bed7c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3428,
+        3429
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0ed22cb-d71d-4f3c-9ebe-3be4ccdd8d64",
+       "type": "word",
+       "value": "виселили",
+       "textRange": [
+        3429,
+        3437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4edd9ffb-0ac0-48fd-9f87-f8399c46c005",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3437,
+        3438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fb59c34-3598-432a-bab0-990475764ad4",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        3438,
+        3440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "527c37bd-1659-413a-a340-dca2a5e5aae4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3440,
+        3441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "ac7c1c61-d637-48b9-a2b1-c11cb1814b13",
+         "type": "word",
+         "value": "Північ",
+         "textRange": [
+          3441,
+          3447
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "38fe487c-44fb-4403-89d5-3160d2955c49",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "29169dc6-f7d5-4759-a008-3202618100cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3447,
+        3448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3efbeb9-5a44-4744-9928-00a8d291c587",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        3448,
+        3449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a6625d7-b150-4693-9fc2-a2d87912468e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3449,
+        3450
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44a65a03-48f8-4410-b2cf-9e150dd3bf3a",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        3450,
+        3452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6817ff7e-fd5c-47d7-b9bc-583e05fb0160",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3452,
+        3453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "bac393e4-088d-4bdd-a8d2-e080bfd83917",
+         "type": "word",
+         "value": "Сибіру",
+         "textRange": [
+          3453,
+          3459
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "221f533c-3e68-4981-a25c-3cb242886497",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " виселили на Північ і до Сибіру",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a3f1ced6-39be-4994-9017-0e0674325a74",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3459,
+      3460
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " виселили на Північ і до Сибіру",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "feb633b6-8473-4686-a5f2-ce17bd4e3acd",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "67142b1b-df5c-411c-b0ea-f407cc43f17b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c4466d1c-d58c-4b86-acdd-ab797b3b1808",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3460,
+        3461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "662c7e4a-b9c4-43fb-9229-e3106428d0a2",
+       "type": "word",
+       "value": "Багато",
+       "textRange": [
+        3461,
+        3467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "030dfd45-dc83-411f-9a97-12a7a7096bea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3467,
+        3468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b65305ea-ee34-4e36-9753-6230043363d7",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3468,
+        3469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a2f73f2-c82d-4161-ba4a-867cbeb8b4cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3469,
+        3470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71291d47-1cb2-42f1-a8ce-c4607261244e",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        3470,
+        3473
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54efbc51-2783-40cb-ac30-262b551dc0cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3473,
+        3474
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "402dda9c-c3a3-409e-bec5-32018c3517b8",
+       "type": "word",
+       "value": "загинули",
+       "textRange": [
+        3474,
+        3482
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Багато з них загинули",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b6deb2e5-4bc3-438f-bd8f-2182150db84a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3482,
+      3483
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a238fb41-8fbe-4102-a6e7-4033c3f98fcc",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3483,
+      3484
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Багато з них загинули.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "В Україні було «розкуркулено» понад 1 млн селян, з них понад 860 тис виселили на Північ і до Сибіру Багато з них загинули.",
+ "concept": "SYNTAX"
+}

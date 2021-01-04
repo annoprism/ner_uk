@@ -1,0 +1,506 @@
+{
+ "id": "83d6c122-e5ae-413b-bf17-96cef504b962",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "befdfc79-3cbd-47e7-9bed-3e5919cdce47",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "be25ae60-fd6d-4445-8715-5cea32a46ace",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f414747-80f3-4334-9631-d57b5f131552",
+       "type": "word",
+       "value": "оплату",
+       "textRange": [
+        6261,
+        6267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1115a648-7872-4425-9469-2bc5d99b0ed8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6267,
+        6268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "074ba3c5-1b47-48b8-8ec2-ac90c5257b34",
+       "type": "word",
+       "value": "витрат",
+       "textRange": [
+        6268,
+        6274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb480545-7105-4ebf-8856-b9dd85a09a00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6274,
+        6275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4782c7a9-fe9d-4da8-b028-9b73c2727281",
+       "type": "word",
+       "value": "іноземним",
+       "textRange": [
+        6275,
+        6284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e706e75-5c80-4928-ac00-f2cdca5ec841",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6284,
+        6285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3eea7b15-4efa-4370-a55c-924c0219182c",
+       "type": "word",
+       "value": "судовим",
+       "textRange": [
+        6285,
+        6292
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "оплату витрат іноземним судовим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c2f353cb-137f-4bd6-b9e7-ec7263c8f402",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6292,
+      6293
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "24b51790-faa4-472b-9a50-0dff366f599a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "83c0fb60-fca5-4a00-b1fc-a559b13d9a18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6293,
+        6294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14046812-5902-435b-a28d-5a256c61a90e",
+       "type": "word",
+       "value": "слідчим",
+       "textRange": [
+        6294,
+        6301
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " слідчим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42020dd5-585b-4f83-babc-697becb5be44",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6301,
+      6302
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "586f358e-5bee-4f67-bdc9-5782d82d71eb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b3269083-a91d-46df-991d-0a95bb07b0e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6302,
+        6303
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c81bb71-2086-4c54-b3a3-1039891ec990",
+       "type": "word",
+       "value": "нотаріальним",
+       "textRange": [
+        6303,
+        6315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "533772a5-486a-4d49-a7d1-4a070fe8c2d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6315,
+        6316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a493b96-920e-4d11-8dbf-1ef6b32d8723",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        6316,
+        6318
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b2dd2a6-77d6-4fcd-a026-e2bfaa524274",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6318,
+        6319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dda5ced-1f86-4a9c-bb93-7b781bcadc6a",
+       "type": "word",
+       "value": "іншим",
+       "textRange": [
+        6319,
+        6324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e88e35f-173e-4bf5-9b74-e4b50ee01beb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6324,
+        6325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b561877-a941-43c7-adf9-da45d0c7f091",
+       "type": "word",
+       "value": "повноважним",
+       "textRange": [
+        6325,
+        6336
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "567cccfb-2712-48a2-97d1-462c41c59f4b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6336,
+        6337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bf992c7-2e31-4b58-ade8-073fceb6fe13",
+       "type": "word",
+       "value": "органам",
+       "textRange": [
+        6337,
+        6344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75eadd44-4c04-47fa-b671-a1127f78a7ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6344,
+        6345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c8c39d-9498-43f0-8058-ef42d1d13d27",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        6345,
+        6346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d07305b-d9c2-4556-ba99-95fc8b54e2af",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        6346,
+        6347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e2c095e-7257-4cec-af08-2fd04d2e4922",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6347,
+        6348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86e886f0-63dd-491e-aae7-a7fd2e1e4138",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        6348,
+        6352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ba32973-ac08-407d-9cb2-b2fb411d861c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6352,
+        6353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c756ed23-7f30-4586-8439-0b5c1aee264b",
+       "type": "word",
+       "value": "числі",
+       "textRange": [
+        6353,
+        6358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ede58d76-9500-4d2c-b201-d6acd5d224ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6358,
+        6359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65e3a763-65aa-436f-a969-1da37a762373",
+       "type": "word",
+       "value": "сплата",
+       "textRange": [
+        6359,
+        6365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4f32323-8d88-4267-9110-581db3b9dfc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6365,
+        6366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3b87588-2d6d-40c3-8acf-8ee7ef4ec182",
+       "type": "word",
+       "value": "податків",
+       "textRange": [
+        6366,
+        6374
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нотаріальним та іншим повноважним органам (у тому числі сплата податків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4a0b4642-d9a9-4454-8b09-2eeade19a446",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6374,
+      6375
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1ded67ce-d81a-4668-a0fe-ac50c5560e27",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c5dd5d91-14c9-4afc-97a1-158b3eed3194",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6375,
+        6376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70dda6a5-654e-45ef-ba1a-df8bfaa9bb32",
+       "type": "word",
+       "value": "зборів",
+       "textRange": [
+        6376,
+        6382
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " зборів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4d6b6cfe-256f-4076-a193-9bd7539f0114",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6382,
+      6383
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "473df8af-6fac-4371-ba27-ba225d765cd4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "053f66d7-0a3b-492f-bc36-149eb2140dac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6383,
+        6384
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a690e2d0-5734-4dc0-bf8e-d29eaa23c166",
+       "type": "word",
+       "value": "інших",
+       "textRange": [
+        6384,
+        6389
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6fe04e3e-c871-4e1e-a06e-eb757913eb2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6389,
+        6390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d449823-535a-410f-af41-7b78623a585b",
+       "type": "word",
+       "value": "обов’язкових",
+       "textRange": [
+        6390,
+        6402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebca0741-d6c0-4a84-833e-6d22ebf25eb3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6402,
+        6403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f34588aa-6ed9-4b69-bb54-26e6102ff2e5",
+       "type": "word",
+       "value": "платежів",
+       "textRange": [
+        6403,
+        6411
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e958fb0d-2905-4f05-b835-3de6ed57e2f8",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        6411,
+        6412
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " інших обов’язкових платежів)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2850607a-2420-4cf3-9605-9b42f0d8756d",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      6412,
+      6413
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2cd5b744-9047-487a-87d9-6089e51c1df7",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6413,
+      6414
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "оплату витрат іноземним судовим, слідчим, нотаріальним та іншим повноважним органам (у тому числі сплата податків, зборів, інших обов’язкових платежів);",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "оплату витрат іноземним судовим, слідчим, нотаріальним та іншим повноважним органам (у тому числі сплата податків, зборів, інших обов’язкових платежів);",
+ "concept": "SYNTAX"
+}

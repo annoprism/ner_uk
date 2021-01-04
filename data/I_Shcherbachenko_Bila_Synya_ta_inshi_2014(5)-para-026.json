@@ -1,0 +1,506 @@
+{
+ "id": "4bebde65-e335-49b5-bba2-fe179a6be9b6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6849d5b6-7760-446e-a8d2-3e6b725d4b68",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5c91d5f1-56c5-4f4d-8062-71bc6da1273d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4f95d93d-b5c0-424d-8794-763a795d02f8",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2935,
+        2936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53a7c403-1807-4640-a4ee-5478b37ef17b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2936,
+        2937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbfa62cf-0016-43a8-90dc-a5860f5b262b",
+       "type": "word",
+       "value": "Та",
+       "textRange": [
+        2937,
+        2939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50d1fcec-f3bd-4b63-b084-af55f4b3e659",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2939,
+        2940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6ff086a-816c-4d57-95ac-56034dd06318",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        2940,
+        2942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bc946bc-2593-4841-9d9a-fa150c74528f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2942,
+        2943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88de5b80-e2cb-407e-b803-6cbb9fa6cb1b",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        2943,
+        2944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fa173fb-4e52-4bb9-a5eb-dc8ed16705c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2944,
+        2945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d62a05c-0070-43f6-9fbc-35d1727ce9f3",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        2945,
+        2946
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Та де ж я",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a9506ad3-f5fc-4b7e-9cfc-a28e4a542096",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      2946,
+      2947
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Та де ж я",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2fcc5335-e754-48a7-9764-49fafffe9fdf",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "16590b3a-de38-494f-934d-5f718a2a77d2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "51d4aec9-d045-426e-aef0-58249967c70c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2947,
+        2948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1cdbec3-57be-4893-bacf-f2c02933054d",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2948,
+        2949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d6e191a-bbad-4ebf-9db9-2a6050979838",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2949,
+        2950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1046b7be-22ec-4647-a95c-32b09c4d7520",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          2950,
+          2954
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c033160a-7425-405f-b794-086bc2cfc81e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d8c2f027-4df2-4550-b9bf-1a8245ea6988",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2954,
+        2955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "995d2dc5-4d4f-42e6-8502-837184429e93",
+       "type": "word",
+       "value": "гасала",
+       "textRange": [
+        2955,
+        2961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55dfb758-fbf1-4b05-ae11-ad20ce6885db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2961,
+        2962
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f00c654-2140-4b2b-bbbd-db9e7a3ddc74",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2962,
+        2963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3fcf1e69-d575-4732-998e-a09415b0ef46",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2963,
+        2964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bbd7911-af34-4cba-9057-a4cc21148680",
+       "type": "word",
+       "value": "пошуках",
+       "textRange": [
+        2964,
+        2971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35f5d298-7ee1-404f-8265-7bdbd5e007ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2971,
+        2972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "166350c3-a3e5-4cdd-bf21-2c306fa7f0ee",
+       "type": "word",
+       "value": "себе",
+       "textRange": [
+        2972,
+        2976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "352898f7-017d-42cf-be5a-161a292b22e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2976,
+        2977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1691107-8fbc-4c98-9eb0-1d44669d1340",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        2977,
+        2979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bae77c5-5199-4437-911a-c947ae37b8e6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2979,
+        2980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29eb8686-2ed8-495b-94a0-14b42afd1e08",
+       "type": "word",
+       "value": "якогось",
+       "textRange": [
+        2980,
+        2987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12c56075-cbc7-4ab3-8b97-d72e3be8f9f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2987,
+        2988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96b87b2c-488c-472d-af50-968c9e1a70c2",
+       "type": "word",
+       "value": "снігу",
+       "textRange": [
+        2988,
+        2993
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Киця гасала в пошуках себе та якогось снігу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a0606a2d-4ba2-48ee-995f-1b2b31ac981e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2993,
+      2994
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Киця гасала в пошуках себе та якогось снігу",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3cfe6de5-061b-4475-9537-6c4d74470f93",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ccee6674-7454-4b32-bda2-f3ecd55877b1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e86630a7-7e77-43cb-9a4f-9beb317a8bd1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2994,
+        2995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22b0b654-e5ac-4db9-99a5-0d1e19fa9ac7",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2995,
+        2996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "950cf6a2-7979-49a5-b4f6-237b832597f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2996,
+        2997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a455aa14-5afe-46d0-85ea-7c3830f73918",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        2997,
+        2998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01759cfc-defc-4039-8535-d9494c3ff912",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2998,
+        2999
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ac74150-9af4-4ca0-8e38-0a0d4a946725",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        2999,
+        3001
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23771141-9a4a-4e2f-9261-e66ea205b1e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3001,
+        3002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a94a57c-9864-4a6f-9177-a16246829797",
+       "type": "word",
+       "value": "той",
+       "textRange": [
+        3002,
+        3005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6147a808-c95b-4961-baae-3fbc24dfa54e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3005,
+        3006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad705037-0f56-4ab6-9920-43fe967a5403",
+       "type": "word",
+       "value": "сніг",
+       "textRange": [
+        3006,
+        3010
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — І де той сніг",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fbf80fe4-a030-4c08-a1e0-9becd63c5578",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3010,
+      3011
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — І де той сніг",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e7ab2c4a-0dce-4368-b531-ad122db9f210",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8a43ac57-20ed-428c-871b-34de2122ce42",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3011,
+      3012
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "271afbd8-feff-492c-8b8c-c4a68dae6c05",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "de4804a9-c250-4cd4-9638-7caea1121f94",
+     "type": "subSentence",
+     "childs": [],
+     "value": "",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0083ee5-a86e-4fc7-bf54-74f8b621a4d5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3013,
+      3014
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Та де ж я — Киця гасала в пошуках себе та якогось снігу — І де той сніг",
+ "concept": "SYNTAX"
+}

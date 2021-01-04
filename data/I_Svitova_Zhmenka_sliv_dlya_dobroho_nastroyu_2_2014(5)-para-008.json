@@ -1,0 +1,64 @@
+{
+ "id": "2ef08eba-bf7b-44d6-8989-351ad3b0cd64",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "76b58e73-baac-4994-b1d6-f72d848691b2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "771c8806-67c3-4ea8-a066-ab68256e56cb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b742e167-e1c0-4c46-9984-a3ddf036dd82",
+       "type": "word",
+       "value": "ЗЕЛЕНИЙ",
+       "textRange": [
+        2917,
+        2924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a478fa2d-ad49-4992-bf48-88a82f953f23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2924,
+        2925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "140e44f6-c3af-4835-9e1d-ed71d747471c",
+       "type": "word",
+       "value": "АВТОБУС",
+       "textRange": [
+        2925,
+        2932
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "ЗЕЛЕНИЙ АВТОБУС",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aaf91206-809f-49f0-9e8f-dba65c5fb108",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2932,
+      2933
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "ЗЕЛЕНИЙ АВТОБУС",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "ЗЕЛЕНИЙ АВТОБУС",
+ "concept": "SYNTAX"
+}

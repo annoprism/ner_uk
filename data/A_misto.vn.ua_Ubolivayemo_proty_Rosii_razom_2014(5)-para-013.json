@@ -1,0 +1,579 @@
+{
+ "id": "426dc975-5ad0-4f71-b265-918c4a92356d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9c5cd0cf-7073-410e-97b8-8617183f0653",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fc2c714b-6c0e-4155-9999-eccf89cefbcf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ca2d757a-ed27-4113-ba1f-843cad1e5e62",
+       "type": "word",
+       "value": "По",
+       "textRange": [
+        2266,
+        2268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8edd975-344d-4959-bdf5-a514823a721e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2268,
+        2269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "246542be-2cd0-4d1b-b686-3b684965527d",
+       "type": "word",
+       "value": "перерві",
+       "textRange": [
+        2269,
+        2276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "445c5f30-1d1e-4c24-8ad2-10179ffc24e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2276,
+        2277
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "f9cc6725-1a76-4cac-8a7f-285e3fd51bcc",
+         "type": "word",
+         "value": "Пранделлі",
+         "textRange": [
+          2277,
+          2286
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5cb6e06d-c777-40d6-9d5b-d658dfb968a1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1a706b9c-058e-4c51-8a09-426ab389f9f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2286,
+        2287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0723dac1-0d27-49b0-92b3-751ce048f9c2",
+       "type": "word",
+       "value": "випустив",
+       "textRange": [
+        2287,
+        2295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ad4eff0-5cda-448e-a7f2-daf6a910fedd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2295,
+        2296
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a9b7ab3-f2be-4a56-b694-0e4fb8d94134",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2296,
+        2298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8cb95655-9fd4-4016-9550-9a56f6869a56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2298,
+        2299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35406ed4-560f-4f48-8033-f74e526ee493",
+       "type": "word",
+       "value": "поле",
+       "textRange": [
+        2299,
+        2303
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fde2d6e9-5ac3-4413-9962-79c5f07146aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2303,
+        2304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "442b6b23-e008-47c0-8b9f-e8cc621e2412",
+         "type": "word",
+         "value": "Антоніо",
+         "textRange": [
+          2304,
+          2311
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a9ae1aac-185b-4a16-9a2d-ea53eff99c6a",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2311,
+          2312
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f0e6d061-7601-42b0-9909-f7d923f29823",
+         "type": "word",
+         "value": "Кассано",
+         "textRange": [
+          2312,
+          2319
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "37996bca-39cc-4137-90ff-aeb973ced376",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "По перерві Пранделлі випустив на поле Антоніо Кассано",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5e3498ed-97db-48d8-b0fd-d2e1d59b55a1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2319,
+      2320
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42061dd7-7df0-46a3-b3d5-e2454e14db19",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7fd4d8e5-50d5-4680-bd76-dc2a9d3ec49e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2320,
+        2321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47895681-9484-4a72-9ad4-899beb42b668",
+       "type": "word",
+       "value": "однак",
+       "textRange": [
+        2321,
+        2326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b6a7f5f-15f1-4c75-9cf8-3a7a8c418550",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2326,
+        2327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0540c34-193f-49f9-80f0-d8f0b2ec08ec",
+       "type": "word",
+       "value": "навіть",
+       "textRange": [
+        2327,
+        2333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd8f017a-9f20-4bfa-9362-d6fcbd7730b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2333,
+        2334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d287ac90-c3da-4a61-b785-79244fd15634",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        2334,
+        2336
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df45d4ca-b52c-46ba-be3e-3339bce3c8a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2336,
+        2337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a347c3c-20ab-4c49-af11-0334333d8530",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        2337,
+        2339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb87154d-7f5d-47d7-9c7e-ddc7fe6b5def",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2339,
+        2340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "951e2c8f-c8bb-4a2e-a1f4-a3d55e92a7cd",
+       "type": "word",
+       "value": "допомогло",
+       "textRange": [
+        2340,
+        2349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "748ceeb9-fdf6-48fe-a5ea-5394dc015728",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2349,
+        2350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b412715-9722-4c88-bc49-e5e8d95bb10f",
+       "type": "word",
+       "value": "італійцям",
+       "textRange": [
+        2350,
+        2359
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " однак навіть це не допомогло італійцям",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37e793a6-db29-40d0-b39b-09301f2436e1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2359,
+      2360
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "По перерві Пранделлі випустив на поле Антоніо Кассано, однак навіть це не допомогло італійцям",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "6ef966e1-15ca-4c2d-9b7a-70379ad6b515",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d2960886-594a-4ec5-85af-552289cea150",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "19928e61-adb0-4eaa-afcf-1d5caac28b5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2360,
+        2361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c109b1fb-b789-497e-b47b-631ff0cef5d3",
+       "type": "word",
+       "value": "Фактично",
+       "textRange": [
+        2361,
+        2369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96373bd6-863e-44d4-b392-caae8fb23fa4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2369,
+        2370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3e5e52c-c2a8-48ec-bd58-85b766238dbf",
+       "type": "word",
+       "value": "весь",
+       "textRange": [
+        2370,
+        2374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efe58bb4-e6e9-4273-b409-b5c2c33c8b03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2374,
+        2375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dedfed09-88d3-47b2-90ea-62c4588e0713",
+       "type": "word",
+       "value": "другий",
+       "textRange": [
+        2375,
+        2381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee28f753-638b-4696-8100-08323c99d5fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2381,
+        2382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03ff14c7-b894-4c7a-814a-e2a8ebf94e1b",
+       "type": "word",
+       "value": "тайм",
+       "textRange": [
+        2382,
+        2386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df300642-7bd2-416f-a624-44acc029397f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2386,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da284c03-4c92-4559-b821-f966cf64531a",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "063d1a63-c32c-45fe-8ef5-0e34260a02a9",
+         "type": "word",
+         "value": "Скуадра",
+         "textRange": [
+          2388,
+          2395
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0b03ac44-b2da-4b41-afeb-61801db65d93",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2395,
+          2396
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ef6f330e-7c7a-4dc4-82b5-8743501b0366",
+         "type": "word",
+         "value": "Адзурра",
+         "textRange": [
+          2396,
+          2403
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "39b9bfb0-fa27-4e2e-a5b9-428841c39082",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f7937949-b98f-4088-8090-99cc9473f651",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2403,
+        2404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d8bd157-bb61-4874-8d17-b040d54ded30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2404,
+        2405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3906c39-1b12-4afd-a332-a9fa5c6c0e08",
+       "type": "word",
+       "value": "виглядала",
+       "textRange": [
+        2405,
+        2414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea0765a9-7e57-4688-9fac-c476319a89a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2414,
+        2415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c7fb83-8418-492b-8420-3d5b5e378938",
+       "type": "word",
+       "value": "попереду",
+       "textRange": [
+        2415,
+        2423
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93ad7b9b-ff2b-4e9f-a563-c7eb696989ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2423,
+        2424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c2dd577-93be-46d9-9ee0-e0418d47e7f2",
+       "type": "word",
+       "value": "беззубо",
+       "textRange": [
+        2424,
+        2431
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Фактично весь другий тайм «Скуадра Адзурра» виглядала попереду беззубо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c09dcb2a-a82b-4266-ad64-1de59cc86b5b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2431,
+      2432
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1e8427b4-2300-44fe-b16b-f1087466eb93",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2432,
+      2433
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Фактично весь другий тайм «Скуадра Адзурра» виглядала попереду беззубо.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "По перерві Пранделлі випустив на поле Антоніо Кассано, однак навіть це не допомогло італійцям Фактично весь другий тайм «Скуадра Адзурра» виглядала попереду беззубо.",
+ "concept": "SYNTAX"
+}

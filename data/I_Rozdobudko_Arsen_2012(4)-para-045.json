@@ -1,0 +1,355 @@
+{
+ "id": "1ca6bf11-c204-4f11-86ba-4bb73f7e0fba",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5da53695-291e-4af4-a18e-f08bf92c8e09",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ba94d1c5-3865-45ea-b468-198dcb994fbb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "14e1ed93-9dbd-4daa-9ce0-20a1e2e79130",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        9986,
+        9987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e82ba32-528f-46ec-8e93-4d64d2f57f00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9987,
+        9988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1067fbef-e368-4168-96e2-7245ce6d958d",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        9988,
+        9989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc2b23fc-8977-458e-91d2-fb231474d1f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9989,
+        9990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "5fc35efa-f011-49ee-aa94-6ef764293430",
+         "type": "word",
+         "value": "Макара",
+         "textRange": [
+          9990,
+          9996
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5c3807b8-73e5-46cb-9b21-872875effd47",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "67d63ea3-e3a2-4927-8530-8747021aa750",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9996,
+        9997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f69460fb-994b-4deb-895a-824aef07c700",
+       "type": "word",
+       "value": "відібрало",
+       "textRange": [
+        9997,
+        10006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e31fda25-9467-4e5e-9798-b1efd87b8d2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10006,
+        10007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f23cdbf8-7f73-485b-8ec9-210bb5df23d4",
+       "type": "word",
+       "value": "мову",
+       "textRange": [
+        10007,
+        10011
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А в Макара відібрало мову",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d3d2d534-1608-45ec-acc5-8b9405a45801",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10011,
+      10012
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А в Макара відібрало мову",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "905c0ee7-2bd4-4091-b175-b2ad81f1b78a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d41923d9-1909-4147-9cb8-c101ce64a35c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5490931b-b0d3-4158-84d0-b2cd05c008bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10012,
+        10013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f1c2d92-c747-4792-bf6a-8276e7486f0f",
+       "type": "word",
+       "value": "Аж",
+       "textRange": [
+        10013,
+        10015
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65689a71-8f1d-4b44-b60b-abd056581f3b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10015,
+        10016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9666d830-b396-4c1a-923e-f120dd8962ec",
+       "type": "word",
+       "value": "тепер",
+       "textRange": [
+        10016,
+        10021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0baeea6d-230f-4ea8-b442-a3514b507326",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10021,
+        10022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abd63cd3-2fd8-4bc3-89f8-00b51e585e8e",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        10022,
+        10025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8fecbaf-084b-4b4f-875c-5ae7e563ae56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10025,
+        10026
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff04e18b-97ba-490c-8300-af3772cef310",
+       "type": "word",
+       "value": "помітив",
+       "textRange": [
+        10026,
+        10033
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Аж тепер він помітив",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba021cb5-da5a-4d8d-8554-c5e7d3277235",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10033,
+      10034
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7dac8d2d-e558-4624-a979-243c21b28bb4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7ffcbcbc-80e3-46a5-99c5-e800a1e753a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10034,
+        10035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7721f37f-edbd-48f9-a0b5-b24067b6806d",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        10035,
+        10037
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac99b00b-4961-4cd9-b7bc-67138197fe91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10037,
+        10038
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df5ed8e8-9413-4651-9c8b-43ff5b2422d3",
+       "type": "word",
+       "value": "перед",
+       "textRange": [
+        10038,
+        10043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57aebb15-59d9-4d46-9e2c-1fed1d203e4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10043,
+        10044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7294a6d-ef18-4671-a00d-64c1b5aceca0",
+       "type": "word",
+       "value": "ним",
+       "textRange": [
+        10044,
+        10047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d305df5-a75b-4f4a-8b2c-2f4343bcf596",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        10047,
+        10048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d64501d-034a-418f-b0b3-b7e079a3d1f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10048,
+        10049
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "795879ba-0158-4cfe-9ea5-961bad632835",
+       "type": "word",
+       "value": "дівчина",
+       "textRange": [
+        10049,
+        10056
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що перед ним… дівчина",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7e313a11-53db-4564-8361-43a608844ebf",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      10056,
+      10057
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dc219545-c06e-46aa-a9a5-ed54120a188a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      10057,
+      10058
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Аж тепер він помітив, що перед ним… дівчина!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А в Макара відібрало мову Аж тепер він помітив, що перед ним… дівчина!",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,346 @@
+{
+ "id": "237c66ef-f1c1-4a55-9973-3b50ceed0a4d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "8c9c8a8f-e647-40d0-85a4-0eb203820b5b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "51fc3f5b-08ca-4656-8c62-d170d6951e83",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "54b21def-84cb-4912-b56f-761e89a1d347",
+       "type": "word",
+       "value": "Про",
+       "textRange": [
+        303,
+        306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "980d031e-fd6a-44a2-8af8-e881458fd1c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        306,
+        307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3877b1a6-679d-4c57-a86c-fbd86c0bb9ad",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        307,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fc5f79a-a951-4783-9cdd-2294b06ea1c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        310,
+        311
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5810b47-b180-41dd-ade5-6a140f8cfba5",
+       "type": "word",
+       "value": "говорить",
+       "textRange": [
+        311,
+        319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f00980e3-61d0-4b00-90bb-63a8b18803ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        319,
+        320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82572422-4f1f-4022-99a1-0ea697803e7a",
+       "type": "word",
+       "value": "заступник",
+       "textRange": [
+        320,
+        329
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "968aa5d4-e1f6-4c74-bc98-08decf395df2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        329,
+        330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a35f6d0e-1843-45e5-959f-bc60077efabd",
+       "type": "word",
+       "value": "міністра",
+       "textRange": [
+        330,
+        338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2adc1923-c00b-49cc-9384-562c51e290d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        338,
+        339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5fc87c6f-c992-4638-8a0d-e7a81cf1dac7",
+       "type": "word",
+       "value": "внутрішніх",
+       "textRange": [
+        339,
+        349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e665fdc-d282-4098-b938-bd8987d1ebbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        349,
+        350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1ab3b3f-b34f-4eb0-a88b-98a81dabc88a",
+       "type": "word",
+       "value": "справ",
+       "textRange": [
+        350,
+        355
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Про них говорить заступник міністра внутрішніх справ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a415861-3f66-4431-a8b8-4d7ad18911fb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      355,
+      356
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "04616660-bc32-4654-9191-7d1cb021fda6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "29f8a3fc-79a4-4105-b61a-6dcc81e3de70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        356,
+        357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4dd89dc1-0f0c-4224-b3ee-29d5b53e5cfa",
+       "type": "word",
+       "value": "начальник",
+       "textRange": [
+        357,
+        366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8362abb0-8850-4dab-9752-78f00119e856",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        366,
+        367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "dd3b5f8a-d449-4651-8769-02595e3e4897",
+         "type": "word",
+         "value": "Головного",
+         "textRange": [
+          367,
+          376
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8c68bce3-206a-49bf-8d29-d6b55aa5fcb6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          376,
+          377
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5f176c8c-6fd7-46d1-a86b-4e02931bed30",
+         "type": "word",
+         "value": "слідчого",
+         "textRange": [
+          377,
+          385
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "52994a92-bd7f-43c1-9754-8195a4ecbc2e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          385,
+          386
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e0efaca5-3aad-4fbd-a3a7-fb98843771e5",
+         "type": "word",
+         "value": "управління",
+         "textRange": [
+          386,
+          396
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f51d12d0-6aa9-4883-a6d5-e02c00401324",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          396,
+          397
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ac053867-6d20-4483-8ee6-788a3de7a8d5",
+         "type": "word",
+         "value": "МВС",
+         "textRange": [
+          397,
+          400
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f813d6c3-043c-4b0d-ae98-2cb9143ac382",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "aa4d673f-0025-4197-99f4-5195c5cb60dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        400,
+        401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e0758dc0-e381-40ac-b0ad-9fc02b3adcad",
+         "type": "word",
+         "value": "Віталій",
+         "textRange": [
+          401,
+          408
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ff8568dc-74bf-40f4-9e26-814f8c6ff403",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          408,
+          409
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "efdefddd-28f2-45b9-a8b9-b39f69b77728",
+         "type": "word",
+         "value": "Сакал",
+         "textRange": [
+          409,
+          414
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "464ead92-0557-42c9-85a6-0ad406d621dd",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " начальник Головного слідчого управління МВС Віталій Сакал",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9f8372d-4c30-41e2-8b94-79b02c3a464c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      414,
+      415
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d093d074-7d38-41e8-8047-fd88b4bb68a5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      415,
+      416
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Про них говорить заступник міністра внутрішніх справ, начальник Головного слідчого управління МВС Віталій Сакал.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Про них говорить заступник міністра внутрішніх справ, начальник Головного слідчого управління МВС Віталій Сакал.",
+ "concept": "SYNTAX"
+}

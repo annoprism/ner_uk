@@ -1,0 +1,979 @@
+{
+ "id": "1c9fda70-adc9-4fb4-ad08-a9e9a095c903",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "eb6e2c94-631f-43c7-a3fa-c0a155c50007",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ae9a4785-19f0-4f67-a757-893936c70ce3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "eed9c58d-2ffa-4cf6-bee4-2df96b3656ed",
+       "type": "word",
+       "value": "По",
+       "textRange": [
+        973,
+        975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26674cd2-a628-4626-8757-9a5a84d8ace5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        975,
+        976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1e1f646-6716-4b7f-9130-859915308fa9",
+       "type": "word",
+       "value": "той",
+       "textRange": [
+        976,
+        979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4af7e8c8-9700-48a3-90d2-ab82e26876ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        979,
+        980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "574f3bb5-d8ab-463d-ac34-17efbb4b41c6",
+       "type": "word",
+       "value": "бік",
+       "textRange": [
+        980,
+        983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf0923d8-9891-43c2-afee-b605d889b6e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        983,
+        984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "f8d21451-c79d-4145-bf19-d2cb6a70df31",
+         "type": "word",
+         "value": "Атлантики",
+         "textRange": [
+          984,
+          993
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8add11cc-ba11-4991-8f91-dbfebd722818",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "104946ef-f06b-491a-b094-d850ca39eafa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        993,
+        994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6cff25ba-d2bd-4668-8a0f-63146ad89c6c",
+         "type": "word",
+         "value": "Едґар",
+         "textRange": [
+          994,
+          999
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a70bb041-4efd-4acc-a7e0-ee3d1ca3c4ca",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          999,
+          1000
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "df785863-afaa-4aa4-ab46-0a00004a071f",
+         "type": "word",
+         "value": "По",
+         "textRange": [
+          1000,
+          1002
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "292c3188-25dd-47fe-be9e-9cc0d271091c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f20840e1-aaa7-43cd-af9d-42201a02985f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1002,
+        1003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18be8b4f-0241-4b91-bddd-94fe5cb77e2e",
+       "type": "word",
+       "value": "підхоплює",
+       "textRange": [
+        1003,
+        1012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2bc3584f-240d-4033-bb7f-7ca335d3b6b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1012,
+        1013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0152371-8a4e-40fc-871d-e2a7959d68a0",
+       "type": "word",
+       "value": "естафету",
+       "textRange": [
+        1013,
+        1021
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "По той бік Атлантики Едґар По підхоплює естафету",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c11e675-0e3c-41e5-a144-fc96af264eaf",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1021,
+      1022
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8a6e0398-8206-4804-a0f3-43bfcb10b795",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa69816c-3ea8-4944-a517-a3291aadeced",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1022,
+        1023
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e19b85d8-177a-4370-b64e-c70635b0bf05",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1023,
+        1024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "a44bbb6a-6842-4da5-8c6e-3d4f9cf0dd46",
+         "type": "word",
+         "value": "Месмеричні",
+         "textRange": [
+          1024,
+          1034
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4fe96eba-3d8c-475a-9b58-e471b60914bf",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1034,
+          1035
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c9514f91-5ebb-4138-8f66-d943fc77d5b2",
+         "type": "word",
+         "value": "відкриття",
+         "textRange": [
+          1035,
+          1044
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "68778471-713f-45b7-a6cc-d847d3f64158",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "48540a1b-188b-430a-856e-739131922b60",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1044,
+        1045
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Месмеричні відкриття»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b738e52d-4735-43b7-b3f3-5b0d4bf55050",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1045,
+      1046
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ea4c188b-b9ee-4b36-90c7-7bc528a26eaa",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f77373a7-9419-40e2-8423-41761252ad2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1046,
+        1047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d255bce4-c5f8-4ef7-83ac-87c400ebbaa2",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1047,
+        1048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "19667f11-3487-428a-86fd-d1896c1e216a",
+         "type": "word",
+         "value": "Овальний",
+         "textRange": [
+          1048,
+          1056
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "45caa5f7-f885-47dd-9959-4b9783a186fd",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1056,
+          1057
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "740c4351-dd8d-4692-b5f5-28f083768344",
+         "type": "word",
+         "value": "портрет",
+         "textRange": [
+          1057,
+          1064
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d576c23a-d604-4f64-b341-dfc02d5f4c9a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1cdeffbf-4fdd-407c-a93d-9a56642391cb",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1064,
+        1065
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9fdd597-fb26-4047-b9f7-cf33dfa9a0d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1065,
+        1066
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c1950aa-fc8e-4e64-84fc-99c186359bdc",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1066,
+        1068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfd1edc9-be59-49a0-9066-87885cda0ee3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1068,
+        1069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86f1fa29-c4d7-4da0-aa4c-de52368beb79",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1069,
+        1070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "1112104b-59e0-4bb7-ba9e-3b1aedb9370e",
+         "type": "word",
+         "value": "Історія",
+         "textRange": [
+          1070,
+          1077
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "80851dc0-f5a9-4b12-a78e-36488d221f86",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1077,
+          1078
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "93d6c200-3318-46e0-890f-96d1705da696",
+         "type": "word",
+         "value": "крутих",
+         "textRange": [
+          1078,
+          1084
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c450a854-0add-45d3-a830-8365319ba76b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1084,
+          1085
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2414c72e-b221-4551-be8e-b233be34ce45",
+         "type": "word",
+         "value": "гір",
+         "textRange": [
+          1085,
+          1088
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "307224e7-8f2c-47c8-b88d-77268f72dd97",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "bf3442cb-571d-474a-93f8-7140562947e3",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1088,
+        1089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e64bf02-ccec-4972-9a9f-0bfbc23143c8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1089,
+        1090
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "650c10d5-4cc8-44f9-a205-0c276a7731bc",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        1090,
+        1091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30c1e1a9-3a65-4601-99e7-1e9a48150b38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1091,
+        1092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02612517-d428-42b0-8541-0815eca2ec3d",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        1092,
+        1094
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "398758d0-e97a-4053-a55b-cb80ffe0b01d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1094,
+        1095
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88873a9d-6b1d-4ee1-8e61-5c505a89d099",
+       "type": "word",
+       "value": "оповідання",
+       "textRange": [
+        1095,
+        1105
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Овальний портрет» чи «Історія крутих гір» — це оповідання",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "774f4066-1f7f-4098-b874-e47472753bbd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1105,
+      1106
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93de41be-c46f-42d1-a72a-968065340e05",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "71466261-4287-40fb-97e9-33365920e0f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1106,
+        1107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28a5ea1f-0071-4127-8017-6b1bff601076",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        1107,
+        1109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5eb0c9eb-bf26-46d5-8b47-b4672906880d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1109,
+        1110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c847003-416e-4850-99b4-3e31149c29e5",
+       "type": "word",
+       "value": "месмеризм",
+       "textRange": [
+        1110,
+        1119
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де месмеризм",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "40498a25-9c06-4866-9b59-608f1592ade2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1119,
+      1120
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "68aad05c-163d-483f-ad90-081a7ee00292",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "df76fb51-7c9c-42a5-94e2-913ba54199cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1120,
+        1121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88b53a30-6d4a-4e6a-a39a-ff2918aee9b1",
+       "type": "word",
+       "value": "перетікання",
+       "textRange": [
+        1121,
+        1132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "026384c5-4e12-4142-8bcc-eedbeb98cbf0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1132,
+        1133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d86111a0-722a-44db-af7f-68996906c3fc",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        1133,
+        1138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c17b1155-daa3-431b-bf7e-731cf08ac414",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1138,
+        1139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea4e8dce-2914-4ed8-a936-645b79b98b82",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        1139,
+        1142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1d72c89-c61d-401f-b257-56124609df6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1142,
+        1143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b7d3049-cbbb-4529-a812-164c21616fd3",
+       "type": "word",
+       "value": "одного",
+       "textRange": [
+        1143,
+        1149
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03d8e1b6-8535-47c7-83c9-fe79434a6952",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1149,
+        1150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f68c064a-6655-483f-8eb2-191a05bbb9ab",
+       "type": "word",
+       "value": "тіла",
+       "textRange": [
+        1150,
+        1154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de06e8bd-d334-40b7-976d-e8d52b536e1b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1154,
+        1155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "880b5e05-841c-48b3-8e39-d20438a60f62",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        1155,
+        1157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6619c910-b89d-4725-9cf7-412a3dca1b6b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1157,
+        1158
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8eae6129-ac06-4895-8363-d4ae0f33fbd4",
+       "type": "word",
+       "value": "іншого",
+       "textRange": [
+        1158,
+        1164
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " перетікання життя від одного тіла до іншого",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "120d9d42-910d-4f95-883b-765f95bf1cf0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1164,
+      1165
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f7110f44-3f39-4c1e-af67-3bf11eaec1b2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f3e675e-1d38-4db4-8c42-3834d7265dd2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1165,
+        1166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a9c5279-1f15-4d49-b0e0-a61c105d9ea7",
+       "type": "word",
+       "value": "телепатія",
+       "textRange": [
+        1166,
+        1175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cc36fd9-f332-4202-894d-62385fa200eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1175,
+        1176
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "879809b5-94b7-40dc-8f82-a24ece63d917",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1176,
+        1178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4414461-235c-407b-9832-5aefe5740824",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1178,
+        1179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75520060-c2d7-4317-a83f-d1d984f43673",
+       "type": "word",
+       "value": "керування",
+       "textRange": [
+        1179,
+        1188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76c00795-3761-47d8-aba6-869d69380872",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1188,
+        1189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2fe94be7-6764-490b-8161-4489629362fc",
+       "type": "word",
+       "value": "свідомістю",
+       "textRange": [
+        1189,
+        1199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60beb02f-ccb2-4880-8623-c4cce421c072",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1199,
+        1200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b39fbee6-d80f-444f-9370-9c888baf2084",
+       "type": "word",
+       "value": "інших",
+       "textRange": [
+        1200,
+        1205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db3c1cb0-4a97-4d41-9834-69674d29af32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1205,
+        1206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3df66e3-3e7c-45ca-bb3c-f039144dc0c5",
+       "type": "word",
+       "value": "людей",
+       "textRange": [
+        1206,
+        1211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4285bd4d-2649-4c4a-ac21-efafd1986e00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1211,
+        1212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "108170ed-ecb5-450e-8c7a-256a6cf44089",
+       "type": "word",
+       "value": "визначають",
+       "textRange": [
+        1212,
+        1222
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43e06b35-68a2-432f-9820-ecd149daedc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1222,
+        1223
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "565a85df-6f09-42d2-b5ef-cc81f1c5d20e",
+       "type": "word",
+       "value": "фабулу",
+       "textRange": [
+        1223,
+        1229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "954a24cc-4ef6-4193-b434-a79e7719f875",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1229,
+        1230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b960bd22-a40b-4864-8072-fb576a6994a9",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1230,
+        1232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d6de3a0-fa8c-402c-8848-c607b7c58d1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1232,
+        1233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cfbedbf-132e-4a5b-a3e5-4af4d1a1674e",
+       "type": "word",
+       "value": "інтригу",
+       "textRange": [
+        1233,
+        1240
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " телепатія та керування свідомістю інших людей визначають фабулу та інтригу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ac7469b7-9746-4ad5-b49a-42371b3f98bb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1240,
+      1241
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d77797d5-ca85-4f58-bae3-389a167adb5b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1241,
+      1242
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "По той бік Атлантики Едґар По підхоплює естафету: «Месмеричні відкриття», «Овальний портрет» чи «Історія крутих гір» — це оповідання, де месмеризм, перетікання життя від одного тіла до іншого, телепатія та керування свідомістю інших людей визначають фабулу та інтригу.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "По той бік Атлантики Едґар По підхоплює естафету: «Месмеричні відкриття», «Овальний портрет» чи «Історія крутих гір» — це оповідання, де месмеризм, перетікання життя від одного тіла до іншого, телепатія та керування свідомістю інших людей визначають фабулу та інтригу.",
+ "concept": "SYNTAX"
+}

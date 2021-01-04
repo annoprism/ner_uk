@@ -1,0 +1,491 @@
+{
+ "id": "9fcb12f1-ba65-4e28-82ff-85f11f16cacc",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "50094cfd-2866-45a5-bde3-52eb0dd8abc7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "51df3910-4cd5-4f41-bdf5-43f2c5b398de",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ef91f0e6-76e9-4af7-869b-5acd0ece5727",
+       "type": "word",
+       "value": "Вимкнувши",
+       "textRange": [
+        6279,
+        6288
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c993d655-1a97-4b29-b831-fa26f33c620f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6288,
+        6289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75a86333-5041-4a83-92f1-c00507065e4a",
+       "type": "word",
+       "value": "ноут",
+       "textRange": [
+        6289,
+        6293
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Вимкнувши ноут",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed82ab1c-3d24-4171-8dd2-640b29c84738",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6293,
+      6294
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff0e369e-cd02-4f20-af5d-281b9f2b25f0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "478df9c8-1705-4a84-9d82-012a9c6d2c2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6294,
+        6295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1c1c9abe-0058-4d78-8f03-e30e13f13715",
+         "type": "word",
+         "value": "Ярка",
+         "textRange": [
+          6295,
+          6299
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "dd9fd867-7191-4ed1-b3c0-ac93992a10e9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9eefd9b4-5cc4-498a-aba7-43d6cda6054f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6299,
+        6300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67197312-4982-4d9a-ba1f-b3f9e852859c",
+       "type": "word",
+       "value": "підводиться",
+       "textRange": [
+        6300,
+        6311
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "082c1568-3217-41c6-b450-5ab5fadd211a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6311,
+        6312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07a6c4ce-4dce-46b5-bdb8-1c37465c2d03",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        6312,
+        6313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "928a93bd-b2db-4047-b2c7-70215547d310",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6313,
+        6314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8127073f-e404-4149-9a9a-988d26f5f39d",
+       "type": "word",
+       "value": "визирає",
+       "textRange": [
+        6314,
+        6321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14e1a8b1-f56c-46f1-af32-a7e56b167658",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6321,
+        6322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72081eeb-16d2-4a5a-9474-26024ab4ce00",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        6322,
+        6323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3fef488-b7b1-4485-8237-4cbbe0159285",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6323,
+        6324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "502779c7-254a-478d-9596-86c3bb9f05aa",
+       "type": "word",
+       "value": "вікно",
+       "textRange": [
+        6324,
+        6329
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Ярка підводиться і визирає у вікно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf4003c7-8c50-42e1-8262-900d77792866",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6329,
+      6330
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Вимкнувши ноут, Ярка підводиться і визирає у вікно",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0294fcd3-4579-43bd-bf2d-10250e38a95b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "aa835446-2852-490a-b41d-2e37f1a9d3e2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "564f5374-e277-4801-b538-4743dd951904",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6330,
+        6331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ac0f66d-45a2-436c-a712-a17377a31ba6",
+       "type": "word",
+       "value": "Чи",
+       "textRange": [
+        6331,
+        6333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4a1fd86-1a78-42d5-80b4-d581cb39be61",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6333,
+        6334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cceebf1-e586-421a-b21a-07d9e485555d",
+       "type": "word",
+       "value": "справді",
+       "textRange": [
+        6334,
+        6341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19480b7d-f24b-4065-92e4-3c2b12bd2e0a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6341,
+        6342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a4c1867-1ae0-4446-a8c9-5abb09fdfe62",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6342,
+        6343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15dea5e5-db39-411a-8bd1-5f1972ddce0a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6343,
+        6344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74e7aea7-ad5e-4936-8741-6844762f1b39",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        6344,
+        6346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1e97c71-9a6c-4e99-a45c-8aab60a50e2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6346,
+        6347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edaeb3fe-5560-408b-800b-9427dc294132",
+       "type": "word",
+       "value": "сусідським",
+       "textRange": [
+        6347,
+        6357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "747614e4-8ed5-4624-bdd7-6ef08188a1a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6357,
+        6358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "318e113e-ad65-4025-9a46-5bcb4001f8ed",
+       "type": "word",
+       "value": "парканом",
+       "textRange": [
+        6358,
+        6366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59cc95a9-5f21-4889-9a07-cfd64b4fbbc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6366,
+        6367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5943abee-4c13-4fde-8bbd-7cd58101d61b",
+       "type": "word",
+       "value": "рвучко",
+       "textRange": [
+        6367,
+        6373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15f8b742-dfee-455f-b38a-9513a9216005",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6373,
+        6374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a04be443-7351-452b-8855-2abf5aac4737",
+       "type": "word",
+       "value": "блимнуло",
+       "textRange": [
+        6374,
+        6382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b6b230f-c2a1-493d-a54a-de42dfd0e7d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6382,
+        6383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0983017a-f392-4908-ae86-7be369279929",
+       "type": "word",
+       "value": "білим",
+       "textRange": [
+        6383,
+        6388
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Чи справді — за сусідським парканом рвучко блимнуло білим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe848c61-ae44-4a57-893f-09dc285e26cf",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      6388,
+      6389
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Чи справді — за сусідським парканом рвучко блимнуло білим",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "45df7014-6fef-453e-a8b5-2b852ee6d0b7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8dc48ce0-6e32-41f6-8061-df8e8e1d654d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9db7acc8-c9b9-4095-a725-92e2575a9d74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6389,
+        6390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04c709b5-da6b-426a-ae7e-8d1594f45dca",
+       "type": "word",
+       "value": "Чи",
+       "textRange": [
+        6390,
+        6392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe74cf24-3c47-41ac-9167-f52ae6b788e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6392,
+        6393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c62f4c0-365e-42fc-90eb-1bc0e145d90b",
+       "type": "word",
+       "value": "примарилось",
+       "textRange": [
+        6393,
+        6404
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Чи примарилось",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f5f0ee6f-c988-4ef5-b71d-12df13b6be59",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      6404,
+      6405
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43bad98a-5670-45fd-8771-0f4ed9f25521",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6405,
+      6406
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Чи примарилось?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Вимкнувши ноут, Ярка підводиться і визирає у вікно Чи справді — за сусідським парканом рвучко блимнуло білим Чи примарилось?",
+ "concept": "SYNTAX"
+}

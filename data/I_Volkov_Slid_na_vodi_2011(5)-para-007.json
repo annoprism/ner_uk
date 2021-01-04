@@ -1,0 +1,101 @@
+{
+ "id": "a347faea-1abd-42a0-abe0-b7a490923e50",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "c5bf3dd6-829d-4864-911c-d3e9b43446c6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "260d6acf-44ff-4c70-ae12-c653534c3aa7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9003347e-b412-4d38-82b4-cfed31693d69",
+       "type": "word",
+       "value": "Виходило",
+       "textRange": [
+        2417,
+        2425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91d61a96-f7c8-4a00-9a68-bf54fc6ce722",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2425,
+        2426
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da1f178c-b4cd-452e-8c70-b79bac437f33",
+       "type": "word",
+       "value": "дай",
+       "textRange": [
+        2426,
+        2429
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1d30e67-6ca1-4092-9956-abd58589626f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2429,
+        2430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6a335074-dd08-422b-9b97-b2efa6dc6659",
+         "type": "word",
+         "value": "Боже",
+         "textRange": [
+          2430,
+          2434
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2107c895-7063-48bb-8cae-f734da55ae55",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "6f601d0b-60e7-4693-9590-bb1cd222cfab",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        2434,
+        2437
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Виходило дай Боже...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c3c691c-aa2a-4cac-ab68-4713d0745643",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2437,
+      2438
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Виходило дай Боже...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Виходило дай Боже...",
+ "concept": "SYNTAX"
+}

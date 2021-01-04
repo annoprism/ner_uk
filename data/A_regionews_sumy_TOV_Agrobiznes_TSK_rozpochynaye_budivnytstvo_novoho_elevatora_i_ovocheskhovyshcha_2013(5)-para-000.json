@@ -1,0 +1,1221 @@
+{
+ "id": "9fb37028-fdb4-495a-b33c-5d3e281f149d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "290a707d-e191-4cb4-84cf-2dc366683f29",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5df752b4-3f59-47bd-aeeb-cd73b52d8b26",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "212f2b85-ff56-4d21-bdb1-74a603b41669",
+         "type": "word",
+         "value": "ТОВ",
+         "textRange": [
+          0,
+          3
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "216b3d6a-6739-4b1e-9472-af688fb2d70d",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          3,
+          4
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "aa53c311-033b-42b7-ad6d-fda39694dca6",
+         "type": "whitespace",
+         "value": "«",
+         "textRange": [
+          4,
+          5
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a3712443-38b3-440e-b8a7-3cb7f7a844ef",
+         "type": "word",
+         "value": "Агробізнес",
+         "textRange": [
+          5,
+          15
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "75d3f719-eddf-4729-843e-a7cafbf31d7d",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          15,
+          16
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "62618cf7-69d9-4324-89c4-c8162e8f4e06",
+         "type": "word",
+         "value": "ТСК",
+         "textRange": [
+          16,
+          19
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f2c65f8f-b841-420b-a6ec-46286eb7b02d",
+         "type": "whitespace",
+         "value": "»",
+         "textRange": [
+          19,
+          20
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bb3323be-d835-4cd6-a10b-67c76d443d81",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "ТОВ «Агробізнес ТСК»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a3f3cfc-ac5b-4259-a24d-7cc335415da6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      20,
+      21
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe2f1bea-ca5c-44f0-ba3e-a36e3bdc9bca",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6456388f-2cf0-4d1b-9113-1bbf1c1bb696",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb6b280d-8c55-4f7e-a16e-786a172cb1ad",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        22,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af735295-57e7-4fce-b075-f21198fcea27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        24,
+        25
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db2b0722-8b64-475a-a49c-211b8946ddf1",
+       "type": "word",
+       "value": "працює",
+       "textRange": [
+        25,
+        31
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ebddd95-34ca-43ee-aa84-e75b30ff6d32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        31,
+        32
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b568fbb7-53b0-41d9-9c1a-1eadf3cb384d",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        32,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebfe59cf-2ae5-423f-a2a2-ffb5bbbe280c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        33,
+        34
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "2c286faf-bb5b-4698-8f67-d660b026e81d",
+         "type": "word",
+         "value": "Недригайлівському",
+         "textRange": [
+          34,
+          51
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4734fa74-a40e-48e6-9fd2-56352859a9a2",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          51,
+          52
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "20ccb323-b6ed-4a4d-99d1-1a59ce81962e",
+         "type": "word",
+         "value": "районі",
+         "textRange": [
+          52,
+          58
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "adf22c97-d290-47b4-a4a2-f40e806ea1cb",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9b5dbd49-aa46-45d6-b57b-139a420f8f57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "87bec947-387d-471f-ab17-792972772893",
+         "type": "word",
+         "value": "Сумської",
+         "textRange": [
+          59,
+          67
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1ea2d245-8360-41d4-8652-0c689ab60825",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          67,
+          68
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "86364fb6-2145-4637-98db-c8e6d18c8710",
+         "type": "word",
+         "value": "області",
+         "textRange": [
+          68,
+          75
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6c9b6f7f-656d-4541-a674-cb1b4790a6d9",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що працює у Недригайлівському районі Сумської області",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2c3d933-b600-4563-b86a-7f1337a4339b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      75,
+      76
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7d8872b3-97cf-4e33-bfde-31f0e0c9f2ac",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b09f4530-47f7-4481-80b4-a91391bbaac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        76,
+        77
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4737beab-8357-497f-a226-5e4bf7b1ed2f",
+       "type": "word",
+       "value": "розпочало",
+       "textRange": [
+        77,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba9871f1-e449-4bfe-86d1-cb0faf70eebc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        86,
+        87
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b04f03ff-4f76-42b8-95f8-3f6cebd92508",
+       "type": "word",
+       "value": "будівництво",
+       "textRange": [
+        87,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bbdff3d-3f5e-4aaa-ab2a-a227d3e91cd7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        98,
+        99
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e903824d-c535-4624-9c60-4a88184d89a7",
+       "type": "word",
+       "value": "овочесховища",
+       "textRange": [
+        99,
+        111
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розпочало будівництво овочесховища",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10bbce79-ddc6-4fa1-9f79-e28c286dded9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      111,
+      112
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c0202b6-dd48-46de-9495-9f41318f03f1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d2540ee5-c0e1-4bb5-b163-801cc9e8eeb8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        112,
+        113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f68d8905-3be7-425a-87bc-96b9acfa2399",
+       "type": "word",
+       "value": "розрахованого",
+       "textRange": [
+        113,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2a4d0ea-ebf9-4b38-b612-5dfafef0d398",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        126,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0037be1-2921-4a24-ba13-37351934c28f",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        127,
+        129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af1f3357-3593-452d-84ee-eab955fa7303",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        129,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a6f06e5-c618-4f9d-ab1a-db4c232782cf",
+       "type": "number",
+       "value": "15",
+       "textRange": [
+        130,
+        132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95ba0828-ae93-4e65-843a-dfae8bb2314f",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        132,
+        133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae3f78d7-c2b6-45a1-84b1-410d35ade9d5",
+       "type": "number",
+       "value": "17",
+       "textRange": [
+        133,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "799369a5-da1f-4dd2-85fd-8a04cdeec626",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        135,
+        136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "340496e0-0455-4fa8-aa44-8177ebad6c6e",
+       "type": "word",
+       "value": "тис",
+       "textRange": [
+        136,
+        139
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розрахованого на 15-17 тис",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "53d44a2b-9596-41bf-b1ba-e672300d5375",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      139,
+      140
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "ТОВ «Агробізнес ТСК», що працює у Недригайлівському районі Сумської області, розпочало будівництво овочесховища, розрахованого на 15-17 тис",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "824ae943-d6a6-426e-b3db-b007dc1832dc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0e9c451f-71d7-4ad3-8706-8dec2892b54e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "56fdc10f-431c-4fd3-98d8-c85ebdcbf7c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        140,
+        141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0c0c620-03cc-4dea-ad19-fbc7372a6c9a",
+       "type": "word",
+       "value": "тонн",
+       "textRange": [
+        141,
+        145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2515a929-61d2-468d-86f2-e0ce79d1b31a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        145,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13b342d2-5d6f-44be-9a04-0bf3dba9da0b",
+       "type": "word",
+       "value": "вирощеної",
+       "textRange": [
+        146,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8f3d942-1fde-4f9e-8b5e-f4c41b251504",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        155,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4575be1-44b9-48ae-89d4-0c8b9602f0b8",
+       "type": "word",
+       "value": "продукції",
+       "textRange": [
+        156,
+        165
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тонн вирощеної продукції",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "11c80828-db5a-4e8c-87ec-179fb35c0ffc",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      165,
+      166
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2e540631-3bcf-4ba4-a213-a19d3512e011",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7ac41b8a-4fb7-4b9b-83e5-2026bbb743dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        166,
+        167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62127ee5-ec23-47d0-a7ff-75bb7d85b895",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        167,
+        169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82a22137-c581-4661-911f-bc20f1b5a1b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        169,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "423732dd-c6d9-49e8-817a-9658dec7ec2b",
+       "type": "word",
+       "value": "розробило",
+       "textRange": [
+        170,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1e43c9c-5cbe-4637-9fdc-50de4fcfdecc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        179,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baa6aa69-8beb-43ea-b009-2d4b4daaf473",
+       "type": "word",
+       "value": "проект",
+       "textRange": [
+        180,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "caf98bc0-9202-4319-82f6-e8c7e381437f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        186,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed331f6-d105-420a-9775-ac961f16de5b",
+       "type": "word",
+       "value": "спорудження",
+       "textRange": [
+        187,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be69c269-4907-40cb-8d5a-f572b11eb8f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1de29e2-e176-4f3a-af7c-5e65c6d644e9",
+       "type": "word",
+       "value": "елеватора",
+       "textRange": [
+        199,
+        208
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " та розробило проект спорудження елеватора",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6bc9bb8d-18f9-4928-934f-b21073285ed0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      208,
+      209
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "20314ae5-9a16-44b5-aea0-68ac5655be1a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "965adbdf-e346-43e1-b40c-0d6086e660c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        209,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb99b6e4-9ee3-4510-a256-c7a6dc9c4cbb",
+       "type": "word",
+       "value": "призначеного",
+       "textRange": [
+        210,
+        222
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3711e87-884b-4186-8647-4cc1c11f087e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        222,
+        223
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "211f5df8-b023-4b75-b580-dee3d70ac02c",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        223,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae3e213f-a328-40e9-a12c-d0e8bde3af7f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        226,
+        227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74324ede-92bd-4acd-9e87-d531eebd7ee3",
+       "type": "word",
+       "value": "зберігання",
+       "textRange": [
+        227,
+        237
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "484dd570-8bd0-47f9-ab81-c1d9c1f121d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        237,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15f06d89-7008-40b7-9382-527d7a276ecb",
+       "type": "number",
+       "value": "100",
+       "textRange": [
+        238,
+        241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dc368af-2c58-4eb5-8506-ec57937959f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        241,
+        242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db453205-cd70-4e8a-93bc-850149602ef1",
+       "type": "word",
+       "value": "тис",
+       "textRange": [
+        242,
+        245
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " призначеного для зберігання 100 тис",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e3ce4dd0-8a2e-49e4-9c08-95a28432dfea",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      245,
+      246
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " тонн вирощеної продукції, та розробило проект спорудження елеватора, призначеного для зберігання 100 тис",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9b644642-c065-46ed-9151-c26d4b6060b1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "219a3c0f-de76-426a-9422-88ff8ec5a999",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9447b62e-c7d4-4436-b084-96e03ee36a6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        246,
+        247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "131fcc29-347a-48c2-8801-cf0d1a1eb38c",
+       "type": "word",
+       "value": "тонн",
+       "textRange": [
+        247,
+        251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68d0fe2b-aff9-416c-8b2e-3c55a35ff9b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        251,
+        252
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67d81ce0-7aa8-49a0-a168-dd485ac1cc0a",
+       "type": "word",
+       "value": "зерна",
+       "textRange": [
+        252,
+        257
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тонн зерна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d3856a93-ac4c-48ab-ac01-3b31f80fba8a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      257,
+      258
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " тонн зерна",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "316f6578-fd2d-469d-b3f1-8865de7bf71f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "84da2ff6-deaf-491e-b4b1-df524581adee",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8e5c5853-8a70-4640-9214-743525ae95ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        258,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d732c8f4-af1f-4c31-911f-707a093979d5",
+       "type": "word",
+       "value": "Перший",
+       "textRange": [
+        259,
+        265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4be553d-196e-4057-9f5a-7d1ecd7b4dad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        265,
+        266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ea4caae-cc53-4a5b-ada4-54e42e5c2377",
+       "type": "word",
+       "value": "об’єкт",
+       "textRange": [
+        266,
+        272
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10359443-1e80-4990-a24f-05030dbaec31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        272,
+        273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7fb61b1-9efe-4c20-865d-ef20755cb586",
+       "type": "word",
+       "value": "буде",
+       "textRange": [
+        273,
+        277
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47732961-63e0-4d92-839c-ce40dcbfa204",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        277,
+        278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "840a0332-e4f7-49b0-87dc-60180149552b",
+       "type": "word",
+       "value": "введено",
+       "textRange": [
+        278,
+        285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9f1db9c-4782-412d-b0d7-b249d847c8e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        285,
+        286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afc3de25-ee3b-40b7-b147-03f6a017022b",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        286,
+        287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c527ac9c-2850-47f9-a1ae-ad3f2b55ae52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        287,
+        288
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "104700e9-6585-4a71-8c28-42e8ce7351de",
+       "type": "word",
+       "value": "експлуатацію",
+       "textRange": [
+        288,
+        300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e5bd590-6514-48ac-89c6-b7c16ff302cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        300,
+        301
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab29a926-0a88-47e3-9f6d-c589389978d2",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        301,
+        304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db58b671-461c-4ab4-b050-debedd0940f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        304,
+        305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abebad0c-1db5-43a9-b6a0-d0c3529324b1",
+       "type": "word",
+       "value": "наприкінці",
+       "textRange": [
+        305,
+        315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1dbc7baa-3b42-4863-acac-6d81cebbcd7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        315,
+        316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42957c32-6354-4e14-80bd-eef82f2c3582",
+       "type": "word",
+       "value": "літа",
+       "textRange": [
+        316,
+        320
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Перший об’єкт буде введено в експлуатацію вже наприкінці літа",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3e06a67f-570c-4e5a-848b-2c54bd76bb2d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      320,
+      321
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e356c4a4-9716-42df-affb-20c2db4462ae",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2abe90d0-e54a-43d2-9457-9ea3a2d155c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        321,
+        322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecf76147-1884-456f-8829-e56b33367f83",
+       "type": "word",
+       "value": "будівництво",
+       "textRange": [
+        322,
+        333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "944cf880-bee4-4a08-bb44-0ac7a52567e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        333,
+        334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1209a5e5-4e40-41d7-9dd8-7d52a1601f87",
+       "type": "word",
+       "value": "другого",
+       "textRange": [
+        334,
+        341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d6c85ea-8795-4731-9350-745db7a097c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        341,
+        342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6344dd9f-db79-4ba3-b163-bc7e34d13b97",
+       "type": "word",
+       "value": "розпочнеться",
+       "textRange": [
+        342,
+        354
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4614073a-1a6e-45f4-9e12-09f9cf117603",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        354,
+        355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "818027cd-409d-4ec6-a7be-01b841899b79",
+       "type": "word",
+       "value": "восени",
+       "textRange": [
+        355,
+        361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ac4675d-f226-4a3a-9089-ac26448f2442",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        361,
+        362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56931f46-77ca-45a7-9529-d76c5844f5e3",
+       "type": "word",
+       "value": "нинішнього",
+       "textRange": [
+        362,
+        372
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fcba784-efc3-4d46-99e8-827e5a308b8d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        372,
+        373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e91a9457-a700-4a2e-8eb9-8c4c0d58e675",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        373,
+        377
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " будівництво другого розпочнеться восени нинішнього року",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cc65602a-fb2b-4a5c-bd93-4ed1b30f7ded",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      377,
+      378
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "379f129b-169d-4e57-8245-94b816dae15b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      378,
+      379
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Перший об’єкт буде введено в експлуатацію вже наприкінці літа, будівництво другого розпочнеться восени нинішнього року.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "ТОВ «Агробізнес ТСК», що працює у Недригайлівському районі Сумської області, розпочало будівництво овочесховища, розрахованого на 15-17 тис тонн вирощеної продукції, та розробило проект спорудження елеватора, призначеного для зберігання 100 тис тонн зерна Перший об’єкт буде введено в експлуатацію вже наприкінці літа, будівництво другого розпочнеться восени нинішнього року.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "bda849fc-7559-4237-bf65-3bd3360c2902",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0157f018-9159-49fd-8470-93e038785804",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c5564317-b9f8-4564-ae55-fbe8dfc16dae",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "18f5c7ff-60db-4639-8e16-f5fc658b950b",
+       "type": "word",
+       "value": "ДЯДЕЧКО",
+       "textRange": [
+        4138,
+        4145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "effaff3c-6c54-47df-b696-a6049a53a64f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4145,
+        4146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "bd61b40c-33a7-4e9d-a1f8-2bb46fade755",
+         "type": "word",
+         "value": "ВІТЕР",
+         "textRange": [
+          4146,
+          4151
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "da557e12-6395-4016-bd30-b57e076bd519",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "ДЯДЕЧКО ВІТЕР",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d7069fa7-fd0b-4569-979a-89b89a9fea3d",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4151,
+      4152
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "ДЯДЕЧКО ВІТЕР",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "ДЯДЕЧКО ВІТЕР",
+ "concept": "SYNTAX"
+}

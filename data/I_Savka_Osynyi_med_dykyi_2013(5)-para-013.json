@@ -1,0 +1,763 @@
+{
+ "id": "03ab4105-f442-43cb-af76-6618c46fc40e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0f1c7358-f519-4354-9ce7-4b9f830f7083",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "01641a91-6b98-4207-b5b9-930a09d56acb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "406e3f28-1e6b-4ae3-a0c1-cfa36036fd60",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        2622,
+        2626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a6435d5-337a-4fc3-8a6a-345e174b8425",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2626,
+        2627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0030d166-1185-41cf-9c05-41e219eb2491",
+       "type": "word",
+       "value": "пройшла",
+       "textRange": [
+        2627,
+        2634
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6bd4c99-33e7-4df6-8c9a-a7ecc7d351ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2634,
+        2635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d6048c4-1273-421c-8cba-0dafce4ad92c",
+       "type": "word",
+       "value": "перша",
+       "textRange": [
+        2635,
+        2640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b05ead27-f734-44e4-90eb-6c16acbd8501",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2640,
+        2641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f28f767-f5e5-44bd-a563-6b3f847e9a07",
+       "type": "word",
+       "value": "злість",
+       "textRange": [
+        2641,
+        2647
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли пройшла перша злість",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "753c07f3-5c64-4632-9332-50d8b3191391",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2647,
+      2648
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "362614fc-abc5-4ec2-a780-8adc1fe6e80c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "530c7a45-1607-4b9a-809e-c377db2e25da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2648,
+        2649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3b510446-320d-42b8-a5cc-0f743f275723",
+         "type": "word",
+         "value": "Марина",
+         "textRange": [
+          2649,
+          2655
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9aaf67a6-242d-4f8c-8757-7814b3dbbdc5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a5b17cb2-45f0-48b8-bbba-210a66308d04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2655,
+        2656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44f509f4-6ec0-436f-9197-83df9c6a38de",
+       "type": "word",
+       "value": "таки",
+       "textRange": [
+        2656,
+        2660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c2bfeb7-bba6-4985-9332-d1e962b3e906",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2660,
+        2661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a3374bc-3cc8-4d60-90dc-a99567e99144",
+       "type": "word",
+       "value": "поскаржилась",
+       "textRange": [
+        2661,
+        2673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6812cba1-b329-45e8-8bba-bc3143164b54",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2673,
+        2674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab0a57dd-c415-4687-ab17-e0319777f2aa",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2674,
+        2676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db8070a6-6dfe-4b8e-8149-f855105bb848",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2676,
+        2677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d5da39af-7d73-4574-8faa-07cd7fe3c16a",
+         "type": "word",
+         "value": "Леську",
+         "textRange": [
+          2677,
+          2683
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "db58a458-6a39-431f-b2bf-03edf254e775",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Марина таки поскаржилась на Леську",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64de3b38-11fc-4d23-aba3-20398e40b17f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2683,
+      2684
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли пройшла перша злість, Марина таки поскаржилась на Леську",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3dbc5c19-74b3-4227-b9fb-67a7ce2b77cd",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "de372a3b-fd7c-443e-81fa-7e6f2e069087",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c8093b14-e736-4534-bf2e-f808deb82e04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2684,
+        2685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffb3529b-d7e5-4334-a3c4-c0d6a91c6afa",
+       "type": "word",
+       "value": "Мама",
+       "textRange": [
+        2685,
+        2689
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07f10dda-c27c-4005-b91a-3533a0d632d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2689,
+        2690
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52c12c7a-147c-4446-982f-558cc8a3ac90",
+       "type": "word",
+       "value": "ганьбила",
+       "textRange": [
+        2690,
+        2698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcb2845b-d17c-46a9-ad91-41d1a1d4e039",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2698,
+        2699
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e88f47c-e516-4421-ad9c-89c8ef6db784",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        2699,
+        2701
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f7488d5-89b3-4a24-b2b1-ec6ce0715dbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2701,
+        2702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13e9b15e-0cbb-4ed5-9155-e6f918b73921",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2702,
+        2703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70a0b5ad-1ac9-469f-8424-78b9053011c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2703,
+        2704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90196b7e-2180-4665-bc7e-12074245cee6",
+       "type": "word",
+       "value": "обіцяла",
+       "textRange": [
+        2704,
+        2711
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7504670b-cd70-4687-8f5f-3676c721464e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2711,
+        2712
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2ad7b88-271d-4c33-ab26-ba2c3bd9439f",
+       "type": "word",
+       "value": "відлупцювати",
+       "textRange": [
+        2712,
+        2724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebaefc0b-4305-45a4-8c95-db8cdb444a85",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2724,
+        2725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71b0c54f-08b0-4958-bc77-a3922789359b",
+       "type": "word",
+       "value": "добре",
+       "textRange": [
+        2725,
+        2730
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Мама ганьбила її і обіцяла відлупцювати добре",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2a40cbcf-0277-4e5a-a05c-69315c4531a0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2730,
+      2731
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "50f99828-4c04-4a82-ba18-6c0f83cd0505",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "577cc421-2f4a-4511-a787-f52235efc394",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2731,
+        2732
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd5f8b82-4ff1-4e38-91b5-b33d56581b11",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        2732,
+        2735
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ad285a8-b21d-42f6-adc0-c70e944cc7d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2735,
+        2736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0803267f-55d0-4df6-9a9f-cb5bfa49b357",
+       "type": "word",
+       "value": "гніву",
+       "textRange": [
+        2736,
+        2741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e3f74b4-e659-4758-8ebe-774b1985410f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2741,
+        2742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cb360c4-8f32-408c-8606-c67673579251",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2742,
+        2743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98377ada-9fa7-4cf5-882e-3c80ee49d2c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2743,
+        2744
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff2d490d-5646-4b57-86f2-a209efe3782e",
+       "type": "word",
+       "value": "маминих",
+       "textRange": [
+        2744,
+        2751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e811450c-fa4e-4e34-99ac-7ec10c1f9b5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2751,
+        2752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cfd1741-e159-4c60-acd5-de7976aee88d",
+       "type": "word",
+       "value": "очах",
+       "textRange": [
+        2752,
+        2756
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3236beff-1864-4707-aeb3-62e662551b70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2756,
+        2757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "2c3b4684-28d4-413f-86cb-a95b0620ec79",
+         "type": "word",
+         "value": "Леська",
+         "textRange": [
+          2757,
+          2763
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8d712614-d93a-46ea-8ead-d6915193b74e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4c8a128a-632b-4396-b96b-938ce20fe8fe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2763,
+        2764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aff3caeb-96e8-4d4f-bea9-c7baaeb24f04",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        2764,
+        2766
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31f114af-bf25-4639-82bf-1be9f26ec742",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2766,
+        2767
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b2bdd6a-4ef8-43e1-be24-cec3b9c84a83",
+       "type": "word",
+       "value": "побачила",
+       "textRange": [
+        2767,
+        2775
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але гніву в маминих очах Леська не побачила",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1dba2cfa-8a46-45c9-bd98-134d0d9ff9eb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2775,
+      2776
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Мама ганьбила її і обіцяла відлупцювати добре, але гніву в маминих очах Леська не побачила",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9c5bf9ae-4c2c-4fca-b18f-74d3dd9824a9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c2a8aca9-6da7-4cef-836b-cfc1b73bcb2d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5bbd712f-3ebf-4cac-91c2-3c3432635ac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2776,
+        2777
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88c9fe5a-bd51-4f0b-81cf-0e51ba229222",
+       "type": "word",
+       "value": "Десь",
+       "textRange": [
+        2777,
+        2781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08f0deee-0f9e-4e8a-b61c-c0e281fc70e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2781,
+        2782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "529b574e-60a6-484c-bf27-7c5570b93fec",
+       "type": "word",
+       "value": "далеко",
+       "textRange": [
+        2782,
+        2788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "031262a6-636b-44d1-ad7a-e15e4b17edf2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2788,
+        2789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48cac30c-d5f4-4207-b503-76142c7471a5",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2789,
+        2790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1b562df-00aa-4910-8d44-5dbc5755e740",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2790,
+        2791
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eae23a6e-e45e-49ec-8375-26c3f4013f4b",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        2791,
+        2794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f85f0d0-b072-4e9a-a950-4763f909b456",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2794,
+        2795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f04b4759-86d6-452a-8201-36f7f237f846",
+       "type": "word",
+       "value": "світилися",
+       "textRange": [
+        2795,
+        2804
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0c9114e-5b59-4ede-b0ac-539dc024b6e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2804,
+        2805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aaea970c-322c-4cfb-8a12-70713d7e2248",
+       "type": "word",
+       "value": "веселі",
+       "textRange": [
+        2805,
+        2811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33fe894f-8d0e-498f-97f5-5afa4c75467a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2811,
+        2812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9dedd62-9c5c-4953-89e0-a07084d498b2",
+       "type": "word",
+       "value": "промінчики",
+       "textRange": [
+        2812,
+        2822
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Десь далеко в них світилися веселі промінчики",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9f0b9736-fccf-46ca-a444-f697bd374583",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2822,
+      2823
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ae844d7-a75d-4d1d-8355-a1a505cdb674",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2823,
+      2824
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Десь далеко в них світилися веселі промінчики.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли пройшла перша злість, Марина таки поскаржилась на Леську Мама ганьбила її і обіцяла відлупцювати добре, але гніву в маминих очах Леська не побачила Десь далеко в них світилися веселі промінчики.",
+ "concept": "SYNTAX"
+}

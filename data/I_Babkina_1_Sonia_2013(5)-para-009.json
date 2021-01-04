@@ -1,0 +1,179 @@
+{
+ "id": "1fcf9612-93e5-4d31-912c-9831b6138590",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f5839cb7-7051-454a-951a-c3e3b1ff577c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5f67ecba-9f67-4fe3-a8c2-6ed9b78498a1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "903bd68d-2208-4dc0-a659-bb80976a200e",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        5035,
+        5036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51987225-896a-4bb9-a442-db4d471728e9",
+       "type": "word",
+       "value": "Невже",
+       "textRange": [
+        5036,
+        5041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22ec86e8-6737-4fa4-b6d5-f388425809be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5041,
+        5042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba1fc189-5b6b-4ffe-94e3-fce43b85edbe",
+       "type": "word",
+       "value": "відповідають",
+       "textRange": [
+        5042,
+        5054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc1d98c4-8734-4f76-81aa-8e9391e4a6eb",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        5054,
+        5055
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "«Невже відповідають»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3a6a55cc-7e42-41fb-a12a-7827ea5ffa78",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5055,
+      5056
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "77983d8f-cf36-4ceb-ac76-9793d0500af6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "840f0f4a-eda8-4f57-b60e-17f269b593db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5056,
+        5057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d0e7c54-6f84-42d1-827b-876a144b295a",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        5057,
+        5058
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "694fcf8f-094a-44b2-b75f-2721fd2e4289",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5058,
+        5059
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe3decc9-b72a-43b2-9739-5f1cfc7520f8",
+       "type": "word",
+       "value": "подумала",
+       "textRange": [
+        5059,
+        5067
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6544aab-d398-48b2-9422-e7064f3fa9b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5067,
+        5068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "527a19c4-d298-4577-aa1a-e7eaeb3ec0e1",
+         "type": "word",
+         "value": "Соня",
+         "textRange": [
+          5068,
+          5072
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "db68fa62-ba31-4988-9839-62e797aaa188",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — подумала Соня",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43ac6c56-3f1a-45c3-bdeb-a54aff538d9f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5072,
+      5073
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "431371cd-10d8-4d3b-84a4-82d001dbf93c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5073,
+      5074
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "«Невже відповідають», — подумала Соня.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "«Невже відповідають», — подумала Соня.",
+ "concept": "SYNTAX"
+}

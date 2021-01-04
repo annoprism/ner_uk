@@ -1,0 +1,506 @@
+{
+ "id": "5e664e7f-32aa-43be-94f0-34bae998dd7d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "79ef21f0-f59f-4f4b-928c-71e088377a2d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d9dde329-6e27-476b-b14d-ca35e2aa0c8d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5b08982c-cadf-45b0-954c-a094d24f9c02",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        3437,
+        3438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d72fdaa7-9ac3-4147-93d2-2ac18b251f7c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3438,
+        3439
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95bb6f4d-507b-4c16-a119-e51836d7fe75",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        3439,
+        3441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18b987ad-0eab-49d4-a45d-a27d5c79391d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3441,
+        3442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a20c192-b3ea-4c6a-85fa-5392cc1daa48",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        3442,
+        3446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eaef7496-9c0c-41e2-9372-16ddc33cb536",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3446,
+        3447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce3917e9-1586-4617-84dc-2be7abeb702f",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        3447,
+        3448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d3a0929-645f-47d4-a554-2a0c682e2413",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3448,
+        3449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81433bd7-e139-4c40-9647-fc504a165849",
+       "type": "word",
+       "value": "порішили",
+       "textRange": [
+        3449,
+        3457
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— На тому й порішили",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "63d9f9f9-cbdb-4091-92da-d7e0a25b038d",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      3457,
+      3458
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— На тому й порішили",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "757b40ef-8f95-44a5-846b-b508dc6e6ee2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2a636720-885b-4036-a196-5cecf41f5468",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bc7385c1-4339-4a16-8170-39f7a2106c10",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3458,
+        3459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31e2ef68-81fe-4bb8-9a61-dd9166c3e842",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        3459,
+        3460
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "457b048f-63a5-413b-adc7-8b4bd14b8309",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3460,
+        3461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "caca2309-1ad6-4c28-aa82-0b36c9d668ab",
+         "type": "word",
+         "value": "Шуліка",
+         "textRange": [
+          3461,
+          3467
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "497b15e1-1d21-4d77-8221-e9b142cc15dd",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f14833b8-ae07-4a31-8c56-5d1190d7297a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3467,
+        3468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebd718ba-af13-41b2-b174-757675ed3e6c",
+       "type": "word",
+       "value": "вдоволено",
+       "textRange": [
+        3468,
+        3477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c369cd5f-c4a7-472f-bfea-91c57790f342",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3477,
+        3478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "972906c9-acb9-46c8-b8dd-2b8fe94cab30",
+       "type": "word",
+       "value": "подивився",
+       "textRange": [
+        3478,
+        3487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b505360-c9ba-44de-89e5-e5f3b3679195",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3487,
+        3488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "019d3eb4-935a-4572-bf97-eeaaa7f91e83",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        3488,
+        3490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1c07d00-1c2a-466a-a859-fad41b3bfc67",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3490,
+        3491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "f6dbe8cd-cc81-44c2-9040-eedfea8fde02",
+         "type": "word",
+         "value": "Станіміра",
+         "textRange": [
+          3491,
+          3500
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fdf6c64e-8368-4c69-88c4-037a2aee8795",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — Шуліка вдоволено подивився на Станіміра",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a1462fa6-29a0-4d8c-b6f9-6fd7b5d0de26",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3500,
+      3501
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Шуліка вдоволено подивився на Станіміра",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "cb3f84b5-9338-4e87-8efb-2a2d9c160be9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b1d71489-2610-41d5-997c-0d781e66827d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0062b6cd-d9a7-4e1d-87cf-5f1217f5c6e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3501,
+        3502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "135cc9a3-d448-4647-a091-9c205968a311",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        3502,
+        3503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82089a2d-a5f5-4638-8c8d-219435516889",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3503,
+        3504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d63894c1-4568-4384-b53c-2a606736e065",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        3504,
+        3505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fb9cdf8-161f-4f6e-9e19-025c8a5195b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3505,
+        3506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9058c11-47b8-48aa-9ec6-941a4b08d3a2",
+       "type": "word",
+       "value": "виставляю",
+       "textRange": [
+        3506,
+        3515
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edadd792-710d-488b-8831-633f02bc572b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3515,
+        3516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb4f69e0-5cda-48dc-a2d4-daf664f4fbd6",
+       "type": "word",
+       "value": "дві",
+       "textRange": [
+        3516,
+        3519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fb71b1c-0165-42fe-a4fd-e34b35df79ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3519,
+        3520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5be23e8a-3c00-46b0-94f0-8112eccf8928",
+       "type": "word",
+       "value": "сотні",
+       "textRange": [
+        3520,
+        3525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29283fa4-b67a-4ddc-a9cc-ac7512857296",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3525,
+        3526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9a7fd74-34f6-4769-b698-b9c00e24cd54",
+       "type": "word",
+       "value": "козаків",
+       "textRange": [
+        3526,
+        3533
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Я виставляю дві сотні козаків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4b2372a1-4914-4e71-886a-23c29be7add6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3533,
+      3534
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Я виставляю дві сотні козаків",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "1e89d7f1-3a8b-480f-920a-5324db820e96",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3ce79c78-7115-4068-8afb-66b617b3df52",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "495f18f8-eb57-4690-87a9-f9d427c67fb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3534,
+        3535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ad92577-555c-460e-8217-bec0ae45e788",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        3535,
+        3539
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8cc8ac0-71b4-4a08-959a-8f5330fa7b60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3539,
+        3540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab7a5bdb-f440-4e63-bc24-2379d7071f8b",
+       "type": "word",
+       "value": "виступаємо",
+       "textRange": [
+        3540,
+        3550
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Коли виступаємо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1c388aae-ff9d-49dd-8a9a-8bf37eddfe04",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3550,
+      3551
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "29b40b3d-7480-4668-9f31-31dfd1e5f955",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3551,
+      3552
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Коли виступаємо?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— На тому й порішили — Шуліка вдоволено подивився на Станіміра — Я виставляю дві сотні козаків Коли виступаємо?",
+ "concept": "SYNTAX"
+}

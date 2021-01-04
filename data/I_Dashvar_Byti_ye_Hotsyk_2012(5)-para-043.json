@@ -1,0 +1,101 @@
+{
+ "id": "57edc4c5-0841-4163-8a6a-1bd1967356f7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "00b14205-8f8a-46c3-9e6a-96fae60ad266",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6ece2347-c642-4b36-ae90-9dd7651b21d5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9b6177f2-eb48-4e12-b171-005faf838c8b",
+         "type": "word",
+         "value": "Ілія",
+         "textRange": [
+          5055,
+          5059
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d3cb28fa-cb0e-477f-a3b6-63aa20e1ebc1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3b75b369-3905-4788-9df8-86c97abaa213",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5059,
+        5060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf8d0d57-8d0c-4cfd-80d9-6a60e44a51df",
+       "type": "word",
+       "value": "захитав",
+       "textRange": [
+        5060,
+        5067
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a334b2d-e3f5-4aa0-9f73-31af24d1ceb0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5067,
+        5068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1e70030-5193-471d-8a71-9d5940943af0",
+       "type": "word",
+       "value": "головою",
+       "textRange": [
+        5068,
+        5075
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Ілія захитав головою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "89ae50df-29db-43eb-bb22-388c757d274a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5075,
+      5076
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b71232fc-6164-4178-ae45-a8ce66b90588",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5076,
+      5077
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ілія захитав головою.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ілія захитав головою.",
+ "concept": "SYNTAX"
+}

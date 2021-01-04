@@ -1,0 +1,2001 @@
+{
+ "id": "fd8552ad-84dc-4687-a2aa-5e59d8275bbc",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0c4ae395-f3d8-421d-bc6a-47b9dcb23d53",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5591b41a-8d50-4cff-abe3-a974a4128261",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "41709596-9676-4739-bc0d-3c4885da112c",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        1901,
+        1902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09cc8816-e61b-4f85-875e-d82841468e2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1902,
+        1903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "392cbf77-e0f4-42c0-b857-d4f1a60f0bf2",
+       "type": "word",
+       "value": "мові",
+       "textRange": [
+        1903,
+        1907
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2bbc27a0-8bde-45bc-a615-75781edd6e90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1907,
+        1908
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "30e6ef70-4112-4e5e-b32c-e4c584c75263",
+         "type": "word",
+         "value": "C",
+         "textRange": [
+          1908,
+          1909
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "49457632-4a3d-491c-9934-50da603ccbcd",
+         "type": "whitespace",
+         "value": "+",
+         "textRange": [
+          1909,
+          1910
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "77eb48ae-7d07-4375-9889-ebceb92a7f20",
+         "type": "whitespace",
+         "value": "+",
+         "textRange": [
+          1910,
+          1911
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e3cae473-ed5c-4854-8ebf-6ce4983f5dae",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0bcf35f8-6ab2-4117-af41-7471d8d6145a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1911,
+        1912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74fafabb-e50a-4a38-a489-b4fe7dec419d",
+       "type": "word",
+       "value": "діє",
+       "textRange": [
+        1912,
+        1915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf8c3851-bd60-4be5-88fb-d7259292e879",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1915,
+        1916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8b3852f-ebe0-4a46-a639-be1d6e0a8036",
+       "type": "word",
+       "value": "концепція",
+       "textRange": [
+        1916,
+        1925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6aecf01-19f3-49b4-993c-320192520a0c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1925,
+        1926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d466d156-b1a5-403c-a4e0-d420db4b44b1",
+       "type": "word",
+       "value": "розширення",
+       "textRange": [
+        1926,
+        1936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31488b28-d2a5-4e9f-9a95-2f6880153192",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1936,
+        1937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "305778b6-c1eb-4c9f-b237-eb0f6b7e3f88",
+       "type": "word",
+       "value": "типу",
+       "textRange": [
+        1937,
+        1941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "821b3cb8-fc4c-4098-8231-d78e163346d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1941,
+        1942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75fc6518-304e-44fa-9442-2f2f4eae435a",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        1942,
+        1943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "781ab75f-5b3f-4af5-b858-fd08ef50aaf4",
+       "type": "word",
+       "value": "promotion",
+       "textRange": [
+        1943,
+        1952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d97a04b-c8dc-476f-886c-645b50e2e052",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        1952,
+        1953
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У мові C++ діє концепція розширення типу (promotion)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff5316fc-3923-4ec8-a17e-0bfa4ed92ce9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1953,
+      1954
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a875c8a5-265f-474f-9b0d-3dbf5e689eb9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c149ee08-f1b9-4666-b3db-30a65a828d5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1954,
+        1955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c22ee63-5253-467c-903d-db90a138ccae",
+       "type": "word",
+       "value": "згідно",
+       "textRange": [
+        1955,
+        1961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab6bb63c-3725-4334-9835-d286564c8b1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1961,
+        1962
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbd483b3-e43c-4ef8-8d98-71dc94a123ea",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1962,
+        1963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e528c8b-ac6e-4708-b47d-50b02a7156cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1963,
+        1964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1f8e13b-17b2-4539-9461-ed5efc92b4c4",
+       "type": "word",
+       "value": "якою",
+       "textRange": [
+        1964,
+        1968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c1b2809-c60a-48bf-84da-3aa44e1ffad5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1968,
+        1969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6e0e8e5-aed0-4a66-a2e7-3b7e9492e004",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1969,
+        1970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47789ab6-50a8-4aa0-8e7b-c1d73190e8c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1970,
+        1971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e1342b6-c8aa-4300-9ed5-d9afd3f24ce9",
+       "type": "word",
+       "value": "разі",
+       "textRange": [
+        1971,
+        1975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dad7a366-d4c7-439e-b9ee-7f094f53848e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1975,
+        1976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "835ad18e-657c-4d20-8303-2826f49c1d50",
+       "type": "word",
+       "value": "змішування",
+       "textRange": [
+        1976,
+        1986
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5bb0db7-67e0-4ef9-9e88-77d3a178bc37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1986,
+        1987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cd1ef24-6c02-4e73-8104-932f7210fd34",
+       "type": "word",
+       "value": "типів",
+       "textRange": [
+        1987,
+        1992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "182110ff-c20b-4e0b-8a88-3738d16f1fab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1992,
+        1993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe5ed3bb-8f16-44f2-92f6-7d839970fe3c",
+       "type": "word",
+       "value": "простіші",
+       "textRange": [
+        1993,
+        2001
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06201356-3dda-4527-abd6-d1d1831c4b35",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2001,
+        2002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1883d183-0aaa-485a-b9f3-f1cebdd26a23",
+       "type": "word",
+       "value": "перетворюються",
+       "textRange": [
+        2002,
+        2016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "573f05f0-7681-4acb-bfd7-01a184b48497",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2016,
+        2017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "827a9dab-fdf1-47a4-9dd5-b4693deb8cde",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2017,
+        2019
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af269977-610a-44da-aeac-2654b5d3072f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2019,
+        2020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bdcd057-3085-47f5-9531-8e1518a7cbb7",
+       "type": "word",
+       "value": "складніші",
+       "textRange": [
+        2020,
+        2029
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " згідно з якою в разі змішування типів простіші перетворюються на складніші",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37661ee3-5ba2-4234-9be1-b71b567c3fba",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2029,
+      2030
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "339a55aa-c180-44e4-aeed-77165b82dadb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "714938a6-52f8-48fa-80e5-f00c3def0a8a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2030,
+        2031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6006f227-bc7a-4de5-8e5f-2cd9c120bf56",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        2031,
+        2034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "998251d3-e122-4dfb-9e8b-41cdcd90eae7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2034,
+        2035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "508efb9b-be02-4394-90e2-668b9e86fa9e",
+       "type": "word",
+       "value": "забезпечують",
+       "textRange": [
+        2035,
+        2047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa4b84a8-47b0-4b0e-8a31-f703313ff7df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2047,
+        2048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "489bea3e-a2ad-4969-b35e-6a8b22c3bfea",
+       "type": "word",
+       "value": "ширший",
+       "textRange": [
+        2048,
+        2054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9310fa4-2241-4e7d-9048-f18a3d5c83f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2054,
+        2055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fdad6da-df7d-4067-9000-1dab01115230",
+       "type": "word",
+       "value": "діапазон",
+       "textRange": [
+        2055,
+        2063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "085d4f3a-498c-49c4-bae6-e6cf36f72cdd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2063,
+        2064
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75da6184-40b7-4ad6-950b-d84deae0d137",
+       "type": "word",
+       "value": "значень",
+       "textRange": [
+        2064,
+        2071
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " які забезпечують ширший діапазон значень",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78dc7858-ccd1-4c76-9eb8-1430cc6587de",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2071,
+      2072
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У мові C++ діє концепція розширення типу (promotion), згідно з якою в разі змішування типів простіші перетворюються на складніші, які забезпечують ширший діапазон значень",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ed5abe04-1e9d-4b12-8f33-126f0450188d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fbda2e91-fe09-4333-b3b4-7dec1b4aead3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d236d85b-f553-4d9b-b243-25150666535c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2072,
+        2073
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c857f3c-9aba-4ca6-88dc-b3ee363e065e",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        2073,
+        2074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee445f13-3230-46b7-9d45-8536e4d96bd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2074,
+        2075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c8465da-1062-4cfc-a1ce-cb4e6f6a6417",
+       "type": "word",
+       "value": "разі",
+       "textRange": [
+        2075,
+        2079
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7013587-1e67-4bea-a6cb-5e255d7c4f9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2079,
+        2080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13c3ae8d-2171-4d1c-a679-14a3c5b18736",
+       "type": "word",
+       "value": "одночасного",
+       "textRange": [
+        2080,
+        2091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd5d7ad6-0eb0-4477-96dc-8e5df78ffcf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2091,
+        2092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c2de8f3-104d-446a-a021-2a850bee7a8e",
+       "type": "word",
+       "value": "використання",
+       "textRange": [
+        2092,
+        2104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "466836bb-0bb3-470a-abce-9abd4890e80c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2104,
+        2105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef376e0d-6d67-4222-920c-f9b194d8ea23",
+       "type": "word",
+       "value": "аргументів",
+       "textRange": [
+        2105,
+        2115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53d81485-6cc7-4eee-9fde-1751865a71d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2115,
+        2116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d9d2553-83b0-4984-a953-3cd9aa221c93",
+       "type": "word",
+       "value": "різних",
+       "textRange": [
+        2116,
+        2122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85b498c9-ab6b-4d83-ae30-17885cd90700",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2122,
+        2123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6641d73-452e-4121-9c18-6770ab809f50",
+       "type": "word",
+       "value": "типів",
+       "textRange": [
+        2123,
+        2128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29be4c7a-c5a1-4aa3-b814-cfcb4595271e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2128,
+        2129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4beb0f81-258f-4734-bba6-d76b46e3ed64",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2129,
+        2130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c14d9670-fffc-42e1-bdf4-c2b3f3428d7c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2130,
+        2131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a68169da-ab1a-430d-8ce4-329041c5ce21",
+       "type": "word",
+       "value": "виразах",
+       "textRange": [
+        2131,
+        2138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6059ac4-162f-47ea-956e-87b641d99b27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2138,
+        2139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5cd4def-68e0-420b-9c63-947a0c949976",
+       "type": "word",
+       "value": "компілятор",
+       "textRange": [
+        2139,
+        2149
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " У разі одночасного використання аргументів різних типів у виразах компілятор",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e8c036bf-27c3-4196-82f2-545e1a353b13",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2149,
+      2150
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93497f7f-3977-4c81-a62a-7a69a8f83735",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "af445ac8-7a9b-46b2-8c95-dc62ba6ba3e5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2150,
+        2151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e60ba27-530f-4d99-b9b9-75438ed27635",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        2151,
+        2153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00bb52e5-0399-444a-969e-1d4f9a4ed088",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2153,
+        2154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43919562-0eed-4f18-8da7-310931a75e0e",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        2154,
+        2156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b812659b-3359-4112-b736-2b787f28f94e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2156,
+        2157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7247f4fa-3af8-4763-8855-b14c79cba1a9",
+       "type": "word",
+       "value": "потрібно",
+       "textRange": [
+        2157,
+        2165
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де це потрібно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f3834edc-0c64-4187-9ef3-482b8c6893a7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2165,
+      2166
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b46f1d78-15b1-4ac8-b593-2aaa25be8762",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ee65012c-9745-4fcf-832f-3b98d7855198",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2166,
+        2167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4481ee83-1b68-443a-b8d7-84204a48ce46",
+       "type": "word",
+       "value": "автоматично",
+       "textRange": [
+        2167,
+        2178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5883aaee-14a9-49e1-a569-495eee85bf2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2178,
+        2179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c21c6fe-de89-422a-ba0b-0e2c0b95480e",
+       "type": "word",
+       "value": "перетворює",
+       "textRange": [
+        2179,
+        2189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "158f33bd-bed8-47e1-94d6-db10d2b968e5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2189,
+        2190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "160c17ab-ed82-47d1-8b0a-bb6dca51d3f2",
+       "type": "word",
+       "value": "типи",
+       "textRange": [
+        2190,
+        2194
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " автоматично перетворює типи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "91bc3f6c-429d-4e87-a727-9d2e01931d54",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2194,
+      2195
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " У разі одночасного використання аргументів різних типів у виразах компілятор, де це потрібно, автоматично перетворює типи",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0646bfb2-cdf3-4884-8ee1-2219e048d654",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2bb179b6-f36c-4220-984c-9c4bb6325b6e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7cbcbc06-42e3-483f-99f5-696ca5218035",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2195,
+        2196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c415defb-5e21-478d-8e85-85a097bdf88e",
+       "type": "word",
+       "value": "Так",
+       "textRange": [
+        2196,
+        2199
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Так",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "474c7240-4075-41de-92e7-288b166f0f58",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2199,
+      2200
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "130c19fc-6318-4271-a13f-7f510f48b954",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae576d9f-ae4c-4a0e-baec-e3d67437de1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2200,
+        2201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e0eb6ea-120e-4ec0-8c23-6c241b0c4953",
+       "type": "word",
+       "value": "якщо",
+       "textRange": [
+        2201,
+        2205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a819bac-8e0a-4b82-ba95-9c40c2a36736",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2205,
+        2206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae6485dd-2203-4d9c-a225-41083d3d43b0",
+       "type": "word",
+       "value": "арифметичні",
+       "textRange": [
+        2206,
+        2217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62d59b49-68f7-4ea1-9a65-ffbdffd0400f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2217,
+        2218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a215db57-7dfd-471d-a026-b265c2c62ca2",
+       "type": "word",
+       "value": "операції",
+       "textRange": [
+        2218,
+        2226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9c93621-87cc-4d51-9df5-29832c26d563",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2226,
+        2227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c434088-5056-4a42-8617-875bd8cfea35",
+       "type": "word",
+       "value": "виконують",
+       "textRange": [
+        2227,
+        2236
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c5132a5-e20d-48aa-acac-dd0dafd4abd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2236,
+        2237
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7fa143f-5312-4e15-989a-90c7dceb8631",
+       "type": "word",
+       "value": "над",
+       "textRange": [
+        2237,
+        2240
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99d55d16-d3a0-489a-8b9e-9215f6ad2867",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2240,
+        2241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60f828bb-a4a5-4402-a485-3cb8b9518172",
+       "type": "word",
+       "value": "інтегральними",
+       "textRange": [
+        2241,
+        2254
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06d1d405-ad5c-4b06-8436-496f7d3bec74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2254,
+        2255
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1702a377-cf09-4658-b2c9-d71f35bf27c4",
+       "type": "word",
+       "value": "типами",
+       "textRange": [
+        2255,
+        2261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "786e8a12-9298-40d3-b98a-c3327526e950",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2261,
+        2262
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37e72f63-9bf5-4b64-81c5-749b0ada6cdd",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        2262,
+        2263
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5cfdaffc-7b30-4fce-b299-adc72bdbe0f3",
+       "type": "word",
+       "value": "наприклад",
+       "textRange": [
+        2263,
+        2272
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " якщо арифметичні операції виконують над інтегральними типами (наприклад",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1b43fb69-0c75-458f-a6d6-74528cbc9c9c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2272,
+      2273
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a996ac53-4f9b-41e2-940a-038ddc7d7ee7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "11b8260f-0b1f-4621-8738-1011377e0150",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2273,
+        2274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "895e6a76-5a9a-4e75-88aa-50d8926cc5a1",
+       "type": "word",
+       "value": "char",
+       "textRange": [
+        2274,
+        2278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67bebaf7-79e0-413a-8223-a540620bd61a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2278,
+        2279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b453cfcd-1a41-4260-be86-dd6f4f3ce2bb",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2279,
+        2280
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b70fd9d9-1209-4630-affe-ed6d7d5558f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2280,
+        2281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a03b688-c233-4a86-a5d7-90f60f312395",
+       "type": "word",
+       "value": "short",
+       "textRange": [
+        2281,
+        2286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ab0b16a-825d-4aab-9c9e-57139b384f34",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        2286,
+        2287
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " char і short)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe27fff3-a5a9-43c2-ad6f-47a4a5a55433",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2287,
+      2288
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b9c860e3-50d4-447c-bd79-e7043546a3cc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0734c969-c88c-4d93-a52b-554298fdac90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2288,
+        2289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66d657c4-eef5-4a33-ad6d-e1db16019f7f",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        2289,
+        2293
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "711b442b-1a6e-4091-8580-8d78657466bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2293,
+        2294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef9f37c4-8a51-40a0-8a50-2a40172b2cf2",
+       "type": "word",
+       "value": "розширюються",
+       "textRange": [
+        2294,
+        2306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b2ffd19-6ea3-43d7-b7f5-118f28b827b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2306,
+        2307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c4d83e1-a6d8-4817-aec0-813f4773bb46",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2307,
+        2309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4838b18d-8f71-4650-b37f-e384c5b1083b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2309,
+        2310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2dae0c2-fafd-4c82-a8b5-eba2bcb18c71",
+       "type": "word",
+       "value": "цілого",
+       "textRange": [
+        2310,
+        2316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c148a310-46db-4b80-a6e0-6d90898f9186",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2316,
+        2317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bce6a8c-a9c1-4ad1-a815-91926194e0b5",
+       "type": "word",
+       "value": "типу",
+       "textRange": [
+        2317,
+        2321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b813e83b-9001-47ab-a7e5-6e5c28b6c9ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2321,
+        2322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94c415bf-6490-472e-a0f7-c863a4f90d0c",
+       "type": "word",
+       "value": "int",
+       "textRange": [
+        2322,
+        2325
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вони розширюються до цілого типу int",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bff216da-0612-4672-8665-77df610efdca",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      2325,
+      2326
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7d818600-3036-49b0-9c2f-c1932fa8937a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "191d103e-b5f7-4f47-a99d-c389199dff3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2326,
+        2327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32f55164-267a-43f8-b34d-b6396d063072",
+       "type": "word",
+       "value": "коротші",
+       "textRange": [
+        2327,
+        2334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c99bf123-a9a8-4d22-849a-80bf900fa987",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2334,
+        2335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcdec770-f2d8-44a4-bf88-fc8dd76dba7d",
+       "type": "word",
+       "value": "дійсні",
+       "textRange": [
+        2335,
+        2341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a703156a-efa6-4e19-a7d6-97e0a8e4778f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2341,
+        2342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f6386a0-0113-4d07-a5bb-1b5f39e4c235",
+       "type": "word",
+       "value": "типи",
+       "textRange": [
+        2342,
+        2346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19d8a58c-e50e-450e-a02d-a404f8e147f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2346,
+        2347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbdda685-ba04-49eb-8c44-222237acbcbe",
+       "type": "word",
+       "value": "перетворюються",
+       "textRange": [
+        2347,
+        2361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0c78233-46f7-43df-a28b-898191abd8c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2361,
+        2362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e621f2b2-9390-45e4-800d-c02499e8e7ed",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2362,
+        2364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f6bcd54-927a-48be-8588-2f53f224611a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2364,
+        2365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5d96136-c1d8-42e6-a5bb-27d2490d5923",
+       "type": "word",
+       "value": "відповідні",
+       "textRange": [
+        2365,
+        2375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "941eb1fc-06b5-4ec6-95c5-9fb807d5e09d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2375,
+        2376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83bf1cd6-b456-49aa-aab2-582512996005",
+       "type": "word",
+       "value": "довші",
+       "textRange": [
+        2376,
+        2381
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коротші дійсні типи перетворюються на відповідні довші",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "18dfbe54-fc8f-47be-8db7-175eeb3c47f0",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2381,
+      2382
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Так, якщо арифметичні операції виконують над інтегральними типами (наприклад, char і short), вони розширюються до цілого типу int; коротші дійсні типи перетворюються на відповідні довші",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2c0ba41d-a2a5-4c1c-921d-096a40e36f5f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "58b0c29d-ff29-47f8-b04f-f6b92fb26053",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b85120a1-ca04-4998-a2bd-99387c809afb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2382,
+        2383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a43dbe1-7446-48b3-bf2c-0a8ce8884936",
+       "type": "word",
+       "value": "Якщо",
+       "textRange": [
+        2383,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f5e3aff-c4e3-4a1b-9d94-9e400030e3b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87dc53c1-9008-443a-8658-be0a5aec2381",
+       "type": "word",
+       "value": "йдеться",
+       "textRange": [
+        2388,
+        2395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da8bec5f-4405-4911-b97d-d925c6a396a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2395,
+        2396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b9fb2bc-c9db-4638-ae2e-bdb36b4cdc9d",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        2396,
+        2399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7811734-709d-4460-a092-0a9ba5dce37d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2399,
+        2400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42ccd4fc-02dd-404c-b1c8-5b540b2db127",
+       "type": "word",
+       "value": "виконання",
+       "textRange": [
+        2400,
+        2409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80163bfc-24c1-419f-b861-6bd562843a8d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2409,
+        2410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37730747-2016-4fef-9075-dfd596a7312a",
+       "type": "word",
+       "value": "присвоєння",
+       "textRange": [
+        2410,
+        2420
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Якщо йдеться про виконання присвоєння",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "be0662b9-0c5a-40b7-90fc-1760b3066b04",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2420,
+      2421
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6a65e773-87a0-43ff-9637-bac5d6c033cd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f5f46f6-8b49-4837-aa79-9f872e3bd3c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2421,
+        2422
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6a8b85d-0e38-4868-951e-49d352b11ddc",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        2422,
+        2424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cbbb7da-84db-4784-a45b-5696a414fb07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2424,
+        2425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28f5d657-fa31-40ca-81e7-d54b6a2c50fb",
+       "type": "word",
+       "value": "обчислений",
+       "textRange": [
+        2425,
+        2435
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "691caca5-643a-4ae8-a4bf-27a8cb331da5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2435,
+        2436
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32ea9183-76cb-43fb-aca9-c4f504b8b655",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2436,
+        2437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d443ddb3-b900-4d25-a8a2-18e6d2647a18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2437,
+        2438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f124397-0a60-4940-bb03-c40e5575c430",
+       "type": "word",
+       "value": "правій",
+       "textRange": [
+        2438,
+        2444
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60f490b8-3183-47b6-a46a-b8da1ee866bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2444,
+        2445
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce2e28ce-363a-4e85-862d-d4ee90e6a7f0",
+       "type": "word",
+       "value": "частині",
+       "textRange": [
+        2445,
+        2452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55193f2b-fa17-47bd-9def-40ba9983150f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2452,
+        2453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5146dde-315b-4fbf-8737-45231912ec52",
+       "type": "word",
+       "value": "результат",
+       "textRange": [
+        2453,
+        2462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58d69e98-0085-4923-8080-b20c5322e613",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2462,
+        2463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a78f5f7-b747-4c4e-9083-91fdb61ca4ae",
+       "type": "word",
+       "value": "перед",
+       "textRange": [
+        2463,
+        2468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2030c9af-6cb3-485a-a080-c93e3577ec0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2468,
+        2469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f23170a6-c473-44b3-9582-c34e304e4e9f",
+       "type": "word",
+       "value": "зберіганням",
+       "textRange": [
+        2469,
+        2480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "439876a6-1683-42a2-bf92-8d5006886cb6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2480,
+        2481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f3ce1ca-19f5-4fb8-ace5-3872e481fe35",
+       "type": "word",
+       "value": "набуде",
+       "textRange": [
+        2481,
+        2487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59b64e1e-07b3-4d84-a953-1a5b8b385a82",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2487,
+        2488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19587dad-8b83-411c-b22d-c8491ec284f6",
+       "type": "word",
+       "value": "типу",
+       "textRange": [
+        2488,
+        2492
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "387e8b8c-b4f9-44dd-ba04-21950e9a0216",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2492,
+        2493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "118da158-3d88-4d35-855f-0bb91f9081ef",
+       "type": "word",
+       "value": "лівобічного",
+       "textRange": [
+        2493,
+        2504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b136dc5-4f55-4550-907f-0488a38bd3c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2504,
+        2505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1980fc4-12a4-4f50-a4a5-10c6c079f689",
+       "type": "word",
+       "value": "значення",
+       "textRange": [
+        2505,
+        2513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04948829-2291-4aaf-86b3-da6acb970a5d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2513,
+        2514
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b49576d1-d273-4df6-bac9-fe11ccea0876",
+       "type": "word",
+       "value": "value",
+       "textRange": [
+        2514,
+        2519
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " то обчислений у правій частині результат перед зберіганням набуде типу лівобічного значення value",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90112aa7-bc10-4663-a837-77e247634410",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2519,
+      2520
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "396ed1ee-d85b-489e-8071-3332816c41b1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2520,
+      2521
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Якщо йдеться про виконання присвоєння, то обчислений у правій частині результат перед зберіганням набуде типу лівобічного значення value.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У мові C++ діє концепція розширення типу (promotion), згідно з якою в разі змішування типів простіші перетворюються на складніші, які забезпечують ширший діапазон значень У разі одночасного використання аргументів різних типів у виразах компілятор, де це потрібно, автоматично перетворює типи Так, якщо арифметичні операції виконують над інтегральними типами (наприклад, char і short), вони розширюються до цілого типу int; коротші дійсні типи перетворюються на відповідні довші Якщо йдеться про виконання присвоєння, то обчислений у правій частині результат перед зберіганням набуде типу лівобічного значення value.",
+ "concept": "SYNTAX"
+}

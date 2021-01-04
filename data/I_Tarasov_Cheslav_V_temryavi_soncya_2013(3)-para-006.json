@@ -1,0 +1,564 @@
+{
+ "id": "4ba47042-6b19-41a6-a160-ace928d73186",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "c1356e27-e100-4799-a4b5-7b412b234f3b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "983948b7-5a9f-4806-9cd7-011e99d05f25",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "be83ee94-47e1-455f-b729-9c3a7b56d6de",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        988,
+        989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27edf000-1afd-435c-a80e-98c76046130a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        989,
+        990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d13226b-30c0-43de-925f-2e36903fcae2",
+       "type": "word",
+       "value": "Скажи",
+       "textRange": [
+        990,
+        995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e35bb4fe-4681-4270-9b61-ad35a0eba28b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        995,
+        996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6137c3fe-d15e-4940-a25e-428804db7cb3",
+         "type": "word",
+         "value": "Болеславі",
+         "textRange": [
+          996,
+          1005
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "599f77b5-c9e0-46e3-870e-9aa502751f9c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "— Скажи Болеславі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74e8a043-89f4-486a-aa03-1efbb1e8ae82",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1005,
+      1006
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ac3ff19e-d9ab-4f83-a990-0e28fbdcef4c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9f4584de-3eea-4c3c-82fb-abbeaf8e2ff3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1006,
+        1007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6bb300b-a9fc-4a34-99be-73b5e2ec0c55",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1007,
+        1009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a665ace-cd37-4a3a-9c69-13ed6d84c1d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1009,
+        1010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3860281-aceb-47a7-bade-3c2cbfb88b23",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        1010,
+        1011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55dfb368-a958-43e6-b48f-1b8c2cc89d72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1011,
+        1012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c473ae5-1f88-4c1c-ac54-5ed738fa5e5f",
+       "type": "word",
+       "value": "побачити",
+       "textRange": [
+        1012,
+        1020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76e16585-5ce3-45d8-8e1a-d0eaab933e1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1020,
+        1021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8d1f74f-b39f-46a1-907a-3caea94b9642",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        1021,
+        1023
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8fd4f75-c20e-456d-ba2a-681ad83172e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1023,
+        1024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c5178cd-f7d7-46b3-9756-940b82f41718",
+       "type": "word",
+       "value": "хочу",
+       "textRange": [
+        1024,
+        1028
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що я побачити її хочу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7c94075e-818a-4ce0-93dd-b2254d4c22ef",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1028,
+      1029
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Скажи Болеславі, що я побачити її хочу",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "31adad65-00a4-4808-869a-b69ef1c4d1db",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d61731b6-f316-4447-b686-977c9ce384f0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b8cf316d-a757-406d-9e53-60d5114ca3d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1029,
+        1030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "911f97a2-d9b5-40b7-991b-7790f171eb35",
+       "type": "word",
+       "value": "Нехай",
+       "textRange": [
+        1030,
+        1035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecc74f54-4b93-4b1c-b5ac-fd0a5ad5e653",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1035,
+        1036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21ed3d45-7eab-4f66-a6a5-269f225a5aa2",
+       "type": "word",
+       "value": "вийде",
+       "textRange": [
+        1036,
+        1041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4d5c7e7-4937-4cb9-8d11-fa2419af43c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1041,
+        1042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8631b350-4b28-4c3f-a665-48953b76012e",
+       "type": "word",
+       "value": "зранку",
+       "textRange": [
+        1042,
+        1048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d96152c-6c4d-4c44-8ff8-263baa89382c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1048,
+        1049
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50cf1c93-1093-4a72-9631-171c6d7315b5",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1049,
+        1051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1e2128a-7672-43b2-8b44-fa8427d634cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1051,
+        1052
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de39b052-aaef-4ed7-baf9-163cc326c547",
+       "type": "word",
+       "value": "ворота",
+       "textRange": [
+        1052,
+        1058
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Нехай вийде зранку за ворота",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5df26b10-8f0f-45a7-acd4-6d1ef9d63f36",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1058,
+      1059
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Нехай вийде зранку за ворота",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e2c53adf-8b3f-4540-843f-a878b686e5e0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e31a0a34-06f1-42a5-89af-8c51bddd4852",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b21081e9-846f-4b96-867f-7dbe3b602f49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1059,
+        1060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9399f336-acd5-4911-b774-21b005435791",
+       "type": "word",
+       "value": "Скажеш",
+       "textRange": [
+        1060,
+        1066
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Скажеш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "31f862be-5007-44c6-8372-78c3089e5e98",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      1066,
+      1067
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Скажеш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2e252195-c05d-4cdc-9ddb-073b6f16cc74",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5e916cc5-606e-4991-85f5-fecca3eaebaa",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1aab1f61-ffb9-4198-b0ec-d014cbf6b393",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1067,
+        1068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75e1ac9b-cf6a-46e9-9540-e6a8fbca41be",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        1068,
+        1069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59642e28-3be2-4696-9c76-2bc32d7cb9b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1069,
+        1070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "14552bd6-961e-4451-9138-4d64209c9623",
+         "type": "word",
+         "value": "Чеслав",
+         "textRange": [
+          1070,
+          1076
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "620dceb1-fb4f-4462-b1dd-97207897e4b2",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "26ecee7a-7e08-4757-8cd0-7c63397d3cd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1076,
+        1077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf05e45c-74fd-451e-a480-ee909787b492",
+       "type": "word",
+       "value": "нетерпляче",
+       "textRange": [
+        1077,
+        1087
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b409fcca-6db8-4bb9-9f82-c80fed048add",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1087,
+        1088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0464daf-15c2-4613-81fc-2639122ff579",
+       "type": "word",
+       "value": "схопив",
+       "textRange": [
+        1088,
+        1094
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d009b1e8-82bb-4afe-95fd-7869b6ceaa39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1094,
+        1095
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2dc5931a-7086-4442-aa4a-950d1c8e5a02",
+       "type": "word",
+       "value": "дівчину",
+       "textRange": [
+        1095,
+        1102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d1ff2d2-f2e7-4fcc-8234-c9bf009df26c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1102,
+        1103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a8a9ce1-86ce-46d9-bbca-8819f80a35ab",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1103,
+        1105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b3db2cd-c3a7-42a6-8acb-2e425e424ce5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1105,
+        1106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef3f289a-a073-46e5-9a4e-ba9f754315ec",
+       "type": "word",
+       "value": "руку",
+       "textRange": [
+        1106,
+        1110
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Чеслав нетерпляче схопив дівчину за руку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4464ee0-f93c-4168-ae83-8b66b3f50eb2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1110,
+      1111
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ca003d9-c846-4fca-aa12-a826b2fc6588",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1111,
+      1112
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Чеслав нетерпляче схопив дівчину за руку.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Скажи Болеславі, що я побачити її хочу Нехай вийде зранку за ворота Скажеш — Чеслав нетерпляче схопив дівчину за руку.",
+ "concept": "SYNTAX"
+}

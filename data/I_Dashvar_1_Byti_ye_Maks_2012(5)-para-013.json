@@ -1,0 +1,207 @@
+{
+ "id": "ffb6baa8-6ed1-49a7-9fd4-6c06321f121b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "85c1ad39-107b-466b-bdcd-1e364fd4764f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "76584021-cff5-4370-8979-e85461e57016",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "37abf4bf-c386-4544-85a9-759bc397d1e8",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        3533,
+        3534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcdfd6ca-8752-4010-bdfa-92502e3e5dd1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3534,
+        3535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44374611-40a9-4602-819c-28d7227d89ea",
+       "type": "word",
+       "value": "Добридень",
+       "textRange": [
+        3535,
+        3544
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Добридень",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d478312a-8606-4a23-b56a-1d69bfbca776",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3544,
+      3545
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Добридень",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9653f38b-0fdb-4d11-ae05-50bea8f13d7a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "75cb5264-7b61-4c5e-9b4a-1b18284816f1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b5567815-8420-4d7a-b929-cd9c5dda51c2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3545,
+        3546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d90c0d1-d997-43e2-9a0e-1bc0bb21df84",
+       "type": "word",
+       "value": "Пані",
+       "textRange": [
+        3546,
+        3550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "122934ff-c08b-4f36-87d9-25ea03f0d573",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3550,
+        3551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6b478f26-5baa-449a-b8b9-406c1e7017e2",
+         "type": "word",
+         "value": "Діброва",
+         "textRange": [
+          3551,
+          3558
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ab777fe3-6571-4661-ad65-e654858aedb5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "26873562-07f7-48c5-a2cd-5dbea2fc40e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3558,
+        3559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf885f2c-5c06-4e48-8e5c-de8e601367f4",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        3559,
+        3560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db313765-9758-4f96-b954-3e59d6e8f493",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3560,
+        3561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7976247d-d841-4698-9dd6-dac4569506fd",
+       "type": "word",
+       "value": "ваша",
+       "textRange": [
+        3561,
+        3565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12aeb03f-44fa-40dd-8bb5-4d608bc1275f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3565,
+        3566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd2c50b0-8d1c-45fc-834f-7ed444bbea7e",
+       "type": "word",
+       "value": "мама",
+       "textRange": [
+        3566,
+        3570
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Пані Діброва - ваша мама",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4d8a51b4-53de-4806-8838-01b0dc0f2f7f",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3570,
+      3571
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "db409444-eb32-46ad-a850-6a558190e772",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3571,
+      3572
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Пані Діброва - ваша мама?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Добридень Пані Діброва - ваша мама?",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,337 @@
+{
+ "id": "67e0fc22-62e4-4ddd-ae6a-348231d94d0e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e4dc817a-6ba1-41ae-be7a-cb392e331b34",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "04f60613-dd22-47b3-8c71-16591509af91",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2d92d0a6-e020-4f2e-82b1-325a1f499586",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4018,
+        4019
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49868ca6-c512-40a7-8966-5f9a89ae961e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4019,
+        4020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "920cdddc-77cd-43b5-b012-62b5b5f4ef4f",
+       "type": "word",
+       "value": "В",
+       "textRange": [
+        4020,
+        4021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a348122a-85c6-4e97-bff2-81bdb2b5782a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4021,
+        4022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "7dbf89b3-c3b3-49c1-9b78-9d4064f61e1f",
+         "type": "word",
+         "value": "Італію",
+         "textRange": [
+          4022,
+          4028
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9a384a72-ef1e-42f2-b9b6-3c64ee1ca55e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "b6fe44b7-65b3-4975-9d7a-45eb2772f142",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4028,
+        4029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2992c7f9-b4ef-42d9-b548-eec265d61327",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        4029,
+        4030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fcaa3fb-7921-4d7a-9026-b811d63d3e74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4030,
+        4031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0022ecde-caca-4f08-8b8c-1587ac0af875",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4031,
+        4033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b526c33-93fc-45b3-a11c-cdeebcfaa86b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4033,
+        4034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb8a9526-b43a-472a-9355-2d0e6a7512d3",
+       "type": "word",
+       "value": "поїду",
+       "textRange": [
+        4034,
+        4039
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- В Італію я не поїду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f5839ef7-8b60-4528-840a-c094ed450377",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4039,
+      4040
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "db410f3f-6485-4908-88cc-35fa2ea6da2c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bb9ff921-019a-4da2-8fba-cc75449f93c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4040,
+        4041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40f0e81e-9a10-4b7f-9ff1-c0cf57878e25",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        4041,
+        4043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3921783-dc21-4cf0-8731-6c36d9274bef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4043,
+        4044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e151e3df-11f2-4f01-bee6-1a21fc8080ac",
+       "type": "word",
+       "value": "там",
+       "textRange": [
+        4044,
+        4047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2526ca8d-62c3-457c-972d-2c8f8d4dae97",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4047,
+        4048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c176939-220d-4ff7-82b4-3f57c19d79a4",
+       "type": "word",
+       "value": "мафія",
+       "textRange": [
+        4048,
+        4053
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо там мафія",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0d1abf04-076c-4145-a778-8ef3a1e3a1df",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4053,
+      4054
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d501523a-b689-4c84-8032-b6382117292b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f7235517-63e6-4b42-b7ce-12fda4fe92d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4054,
+        4055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebb0b288-5d6f-48c7-bd35-3113265fa09f",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4055,
+        4056
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f51a7e6-80c0-4afd-8802-e3a7d174a199",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4056,
+        4057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "432025ea-345c-41d4-9cc4-1ac70c39667e",
+       "type": "word",
+       "value": "врешті",
+       "textRange": [
+        4057,
+        4063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad2db159-fd70-435c-9e8b-2c07a082137f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4063,
+        4064
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f02df388-7339-422e-a97d-4e578485cb55",
+       "type": "word",
+       "value": "вирішив",
+       "textRange": [
+        4064,
+        4071
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8208870-23dc-4f14-90e4-7ca719eb5ba9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4071,
+        4072
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1788e33-4fee-479e-a09b-36cc8d9be4d4",
+       "type": "word",
+       "value": "батько",
+       "textRange": [
+        4072,
+        4078
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " - врешті вирішив батько",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a1f5d4fd-97b7-4ad0-916f-e30d0921b0ba",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4078,
+      4079
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3d94a142-5a12-4da0-80c0-04cc9de09ae3",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4079,
+      4080
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- В Італію я не поїду, бо там мафія, - врешті вирішив батько.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- В Італію я не поїду, бо там мафія, - врешті вирішив батько.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "640a0c01-a1e6-4f3a-bdf7-9d41e75432af",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "07ad445e-a9e5-44fc-aba3-c225292cbf5b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f335803a-0e2c-49ae-91e2-e6163967c4b3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e0760cc5-1735-4eaf-aa42-db8613c975a3",
+         "type": "word",
+         "value": "Голуба",
+         "textRange": [
+          5291,
+          5297
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "101786fe-ee6a-4a81-bfcd-5b0c41306e79",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9ec06f64-17fc-4235-94b9-cea1bdad3fe2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5297,
+        5298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87c27568-a57b-4358-826a-2054b8780fbb",
+       "type": "word",
+       "value": "йшла",
+       "textRange": [
+        5298,
+        5302
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Голуба йшла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e7192a7-27f9-407b-a656-86cca43ea301",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5302,
+      5303
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "383750e9-830a-4f2b-88d1-03acf3af6650",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7b4c7bb7-2b12-45cb-89cf-fb407ae8df24",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5303,
+        5304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e26ce668-cb14-4f36-8541-dc082957853c",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5304,
+        5306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c08ee0e8-b693-40dc-9496-41ab90545e50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5306,
+        5307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e08d4ee1-b98a-4182-8562-0041f51c4ce3",
+       "type": "word",
+       "value": "обертаючись",
+       "textRange": [
+        5307,
+        5318
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не обертаючись",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a43e12cb-6e49-409e-985c-d5a46406ee0b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5318,
+      5319
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed72d99b-11da-4bef-aacd-8a91795a7ce6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5319,
+      5320
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Голуба йшла, не обертаючись.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Голуба йшла, не обертаючись.",
+ "concept": "SYNTAX"
+}

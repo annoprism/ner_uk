@@ -1,0 +1,555 @@
+{
+ "id": "c1fe36d3-536a-4cd5-8fc4-01cdea291d57",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "161e2e35-d4f7-4da9-a530-f06f146681d6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f4fbd801-05a5-4161-96eb-042a5aee4c0a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "017f2ae5-fc08-4323-becb-875f2f81d039",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        1529,
+        1530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13186398-9894-4a0f-91d9-81ae4d9cae20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1530,
+        1531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "402d2f40-ac05-44da-8ad7-02b796fc52a7",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1531,
+        1533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77247e64-3921-4caf-92ee-4fb14058eeee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1533,
+        1534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c105e296-9665-450e-b7dc-673f4ab47302",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1534,
+        1535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b0386c6-7f95-43c7-9142-f9fb8c9db2ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1535,
+        1536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96abb006-b029-4c4b-a991-80294831e3f3",
+       "type": "word",
+       "value": "скрині",
+       "textRange": [
+        1536,
+        1542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76672972-024c-4567-9373-263a9027e418",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1542,
+        1543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc613681-71df-46c6-a59c-cb6d57cf936e",
+       "type": "word",
+       "value": "живе",
+       "textRange": [
+        1543,
+        1547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b29f9dd1-057d-4c07-924f-a4cd883dbb9f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1547,
+        1548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb6e03fd-f703-43fc-bc63-acde62da1007",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1548,
+        1551
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "І не в скрині живе він",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0921782d-a84e-4ff4-8b0e-686e456565c8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1551,
+      1552
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c68618fe-09e8-48b9-91ce-3c237a70ca2a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2e83f944-d3bf-4b19-b1eb-d54073c990fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1552,
+        1553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c5561b81-c8f4-499a-be80-b61f324d66f1",
+         "type": "word",
+         "value": "Щедрику",
+         "textRange": [
+          1553,
+          1560
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b63a52f6-aca9-408c-8f61-7e221651c5d8",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "49d8ca41-1e83-4c94-a989-4e8fd189bfc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1560,
+        1561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4673348-c7ab-4a61-8cd4-161eff7aac78",
+       "type": "word",
+       "value": "вільно",
+       "textRange": [
+        1561,
+        1567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7334ef2-af5d-46d2-bbdc-fae447185507",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1567,
+        1568
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "709a9996-1882-4321-99e2-71c38628678b",
+       "type": "word",
+       "value": "ходити",
+       "textRange": [
+        1568,
+        1574
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62c68dde-c44c-4fa1-83bb-f6f4b415fd47",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1574,
+        1575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eafc37ee-55cb-43c5-acfd-87545f67cb09",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        1575,
+        1577
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb8109d9-15fd-44d6-b9ab-50d397e976b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1577,
+        1578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4627eb71-b809-4cd6-b1db-02f5d043f0a7",
+       "type": "word",
+       "value": "хоче",
+       "textRange": [
+        1578,
+        1582
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Щедрику вільно ходити де хоче",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4de00287-af6d-472c-95aa-f3f5eaf5c7d7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1582,
+      1583
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4d86aad6-cf6d-4bbd-a864-a2ff2db42332",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "37a7987c-fa25-41c5-9614-0d07a698af7c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1583,
+        1584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f68e0eb7-d6d1-4b35-ad5e-d230e208fd78",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        1584,
+        1586
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4d567d6-d503-4dd9-9996-834a2a49a904",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1586,
+        1587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ec914b9-7db7-4b90-a265-84ca8bfc1261",
+       "type": "word",
+       "value": "народився",
+       "textRange": [
+        1587,
+        1596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56c38a82-9c10-44d5-b26d-b85c90082c45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1596,
+        1597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0648b7d-3ab7-4937-8029-e967fa5ef35d",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        1597,
+        1599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea721716-77b6-4642-b794-975367c2327d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1599,
+        1600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccd10485-039a-45ad-9087-e582e048e2b6",
+       "type": "word",
+       "value": "волі",
+       "textRange": [
+        1600,
+        1604
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо народився із волі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78842e01-6638-4c68-b4dd-57bd4c5aa43c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1604,
+      1605
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b234a057-b005-4b48-9a99-d380a8a93d4b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "88dacfaa-0e0b-4e75-9849-2b4d865c025e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1605,
+        1606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1551274-a418-41ae-bd88-ac9b4dbfe02d",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1606,
+        1607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9aeb5475-3365-435d-adf2-b36dc97ca7e5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1607,
+        1608
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "590628f6-1665-4979-b38f-3c12d4d51e9e",
+       "type": "word",
+       "value": "пралісі",
+       "textRange": [
+        1608,
+        1615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3cbfaf4-998b-4a3b-a212-e68e3b70263d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1615,
+        1616
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f475f918-2389-4c87-b691-0bbd92901288",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1616,
+        1619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c331e894-ecce-45a9-a028-87ebb6dc00c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1619,
+        1620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27c47c9f-942a-4745-a380-18265461b43c",
+       "type": "word",
+       "value": "народився",
+       "textRange": [
+        1620,
+        1629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be97ccb8-8d0c-46c8-b04e-38803c0a6834",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1629,
+        1630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56295b09-1819-4df4-917c-4668956f3423",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1630,
+        1631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d665360d-783f-419b-8bed-1cb6febdc08a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1631,
+        1632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7714d473-911e-4d65-856e-be57a7e8a54f",
+       "type": "word",
+       "value": "там",
+       "textRange": [
+        1632,
+        1635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a97e34b-e988-40fb-8798-08879db31a18",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1635,
+        1636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6309b48-9332-48ac-b250-06e38d60bec2",
+       "type": "word",
+       "value": "найчастіше",
+       "textRange": [
+        1636,
+        1646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23655d17-a0f4-4be3-a04c-f84fc5a0dc7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1646,
+        1647
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de306cfb-3bba-4d34-96ec-f2cf29841032",
+       "type": "word",
+       "value": "буває",
+       "textRange": [
+        1647,
+        1652
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у пралісі він народився і там найчастіше буває",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7a80399f-a9d0-4aca-8084-341dbb79d0cb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1652,
+      1653
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52e6d4d1-8be2-4665-b54a-d903b4940753",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1653,
+      1654
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "І не в скрині живе він, Щедрику вільно ходити де хоче, бо народився із волі, у пралісі він народився і там найчастіше буває.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "І не в скрині живе він, Щедрику вільно ходити де хоче, бо народився із волі, у пралісі він народився і там найчастіше буває.",
+ "concept": "SYNTAX"
+}

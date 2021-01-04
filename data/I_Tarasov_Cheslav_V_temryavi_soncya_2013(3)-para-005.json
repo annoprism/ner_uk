@@ -1,0 +1,141 @@
+{
+ "id": "90e5d0ca-b31d-4dd2-b9eb-00c6725e38c4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "cf05b078-2505-499f-b194-3685115fa66b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b2add6a4-c5ec-4b05-8d5d-cb7c1a96eb1d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4910b870-ca56-4b2b-a686-5f8cb268a180",
+       "type": "word",
+       "value": "Він",
+       "textRange": [
+        956,
+        959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f9cdc02-fc8d-4a57-9e4e-71cce600f0ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        959,
+        960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "427d4007-a45e-4fc1-b356-55f812bdd913",
+       "type": "word",
+       "value": "швидко",
+       "textRange": [
+        960,
+        966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b95eb733-6ed5-486e-a6cb-9cddc47969a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        966,
+        967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30ec8b19-4605-454d-9258-6ab9b480cced",
+       "type": "word",
+       "value": "нахилився",
+       "textRange": [
+        967,
+        976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e2d06a4-5af4-4afa-b408-b3842823af5c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        976,
+        977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94133d66-3b12-4721-8d61-ce151eccb626",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        977,
+        979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5e93c7e-8486-4693-8e10-a8491e7fea14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        979,
+        980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "40a5ba2f-629f-44f7-a941-984a347dcb19",
+         "type": "word",
+         "value": "Голуби",
+         "textRange": [
+          980,
+          986
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4f4c9862-9084-4898-8c35-f8eb60650e18",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Він швидко нахилився до Голуби",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c6f51924-0462-4713-832a-7abdd9ed154f",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      986,
+      987
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0af4489c-3759-46c0-a0b2-9854b5f3a7e6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      987,
+      988
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Він швидко нахилився до Голуби:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Він швидко нахилився до Голуби:",
+ "concept": "SYNTAX"
+}

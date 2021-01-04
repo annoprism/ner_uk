@@ -1,0 +1,227 @@
+{
+ "id": "1a25a508-df23-49bd-b937-31fe77e56929",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "53234879-4c97-4c23-ba30-64d4d4bb354b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fd4efc74-d24c-4eea-a43d-5778aa712cbb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "31d8a129-36f3-4f38-aa9b-792afc4c9af0",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        717,
+        718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff6d503b-a177-40c8-b7b8-0b0b48887ae7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        718,
+        719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74f27392-4c31-484f-8468-f6a32ebfed48",
+       "type": "word",
+       "value": "Що",
+       "textRange": [
+        719,
+        721
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4062e191-acda-47c9-9fc7-ec5a94c7bab7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        721,
+        722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1795b1b2-9c28-41dc-9962-9640ae2268cf",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        722,
+        723
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc3255a5-8c60-4c17-bda1-b8af8abfa741",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        723,
+        724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7355af91-86da-4def-8d40-62d6383f4631",
+       "type": "word",
+       "value": "моєю",
+       "textRange": [
+        724,
+        728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c117c0d8-ef02-49f7-8ee1-87f6e6cc275a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        728,
+        729
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58993c80-fe3c-4ae4-ab0d-f8b81377a620",
+       "type": "word",
+       "value": "фабрикою",
+       "textRange": [
+        729,
+        737
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Що з моєю фабрикою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "385687ca-85b4-4aa3-8b50-24af67c03e03",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      737,
+      738
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Що з моєю фабрикою",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "7ea4d416-3aaa-4f96-ac96-7cedbd64b926",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2d9b1d3d-1768-40e4-9846-03ff1acd3f12",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d23f9744-66df-4ce6-94da-8183dddda010",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        738,
+        739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "602f0145-a72e-4568-be44-8e1dca925b85",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        739,
+        740
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e818c9d5-614c-40a9-b35e-4d21cdece843",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        740,
+        741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "470180e1-cc82-49dc-a18e-6861498fa9cb",
+       "type": "word",
+       "value": "прошепотів",
+       "textRange": [
+        741,
+        751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db3ef5b1-70ef-4a9e-bf88-60d4d3fae3e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        751,
+        752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "12418ba1-788c-45e5-866e-a0180a9851e8",
+         "type": "word",
+         "value": "Макар",
+         "textRange": [
+          752,
+          757
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "724e07ac-7c36-4d78-b3e0-6af89689d792",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — прошепотів Макар",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "03ed7003-f584-4b52-ba0d-22436606fb8b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      757,
+      758
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f654eb10-4fe7-40ff-ad29-67c87d9bffb0",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      758,
+      759
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — прошепотів Макар.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Що з моєю фабрикою — прошепотів Макар.",
+ "concept": "SYNTAX"
+}

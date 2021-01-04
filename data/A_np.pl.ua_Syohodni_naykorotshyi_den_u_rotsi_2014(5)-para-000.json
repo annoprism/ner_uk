@@ -1,0 +1,498 @@
+{
+ "id": "3810d3aa-9eea-4339-b5b8-9561285dce92",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7cc8c294-48af-414a-9c21-567b9327eb0c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0e396c07-696d-49cc-91ff-ddb8fde73a79",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "edc4c866-4c9f-48c6-89ea-3712e83d9e35",
+       "type": "word",
+       "value": "З",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37dedc14-7d9c-4c8f-9989-65ad20d7a547",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1b35342-e967-495a-90ef-128198597246",
+       "type": "word",
+       "value": "сьогоднішнього",
+       "textRange": [
+        2,
+        16
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9f9b68a-06d2-45cb-9ba5-cca55bab3086",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16,
+        17
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba23e76b-fac6-4733-8749-917cd6a082e7",
+       "type": "word",
+       "value": "дня",
+       "textRange": [
+        17,
+        20
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e22c3f47-03ac-431d-8d72-fabb60483524",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        20,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3eb398b5-5a1a-4a07-87fe-e825f85978b7",
+       "type": "word",
+       "value": "розпочинається",
+       "textRange": [
+        21,
+        35
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fe439db-6c67-4438-9093-06ddc0c71fac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        35,
+        36
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f884a197-8454-44ea-a069-30ae74ac3ff5",
+       "type": "word",
+       "value": "астрономічна",
+       "textRange": [
+        36,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c131e7bc-d3c2-4426-ace6-3f079947b845",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c028a5e3-42f7-4e6c-8825-81da10e1f40a",
+       "type": "word",
+       "value": "зима",
+       "textRange": [
+        49,
+        53
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "З сьогоднішнього дня розпочинається астрономічна зима",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9ffbad6-61fc-4b33-8779-b9565f3cbf5a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      53,
+      54
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "32b2f3e1-1017-4cfc-bd52-8a49d1a6da3c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "65658cda-5584-44ec-8c9d-3117aec34d4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        54,
+        55
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11a0812b-3cf9-44b4-8de3-560c975ed734",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        55,
+        56
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36234903-5dd0-4266-b88e-a8f7e03691bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        56,
+        57
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26157f32-0dad-4004-a256-6e2f96e9cc4d",
+       "type": "word",
+       "value": "світловий",
+       "textRange": [
+        57,
+        66
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30d648e8-1ba1-4445-9e5a-c281659140b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "630c2102-c3e7-4b34-915f-c4a2039b52a9",
+       "type": "word",
+       "value": "день",
+       "textRange": [
+        67,
+        71
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8200ac09-6512-4abb-ba08-a707edb4df05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        71,
+        72
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48c42bf2-1a23-4b0f-ac23-581028c3ce79",
+       "type": "word",
+       "value": "буде",
+       "textRange": [
+        72,
+        76
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26920f4c-e128-49df-80b9-cbbfd0241418",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        76,
+        77
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4430f0a4-56c1-4a5a-85fd-d92518df594b",
+       "type": "word",
+       "value": "найкоротшим",
+       "textRange": [
+        77,
+        88
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4afe678d-ec3c-497e-ae63-cd90b860fafd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        88,
+        89
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4226ff6d-56b8-48ad-9874-2ec9ea755b35",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        89,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "717aae59-e4b3-4906-802b-439d06a5fed9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9129eeb8-6323-42e4-8d91-ddd3311ddfb2",
+       "type": "word",
+       "value": "році",
+       "textRange": [
+        91,
+        95
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а світловий день буде найкоротшим у році",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5bafaccb-221a-4fd6-8971-e427ef8ba18b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      95,
+      96
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "З сьогоднішнього дня розпочинається астрономічна зима, а світловий день буде найкоротшим у році",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a4895a30-4660-4cfe-97a9-9cbf5ff7bfff",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0e7ab31e-384c-44fe-a4e5-447efdc8bbc2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0fef29f2-c361-4a96-8ec1-0382d68c534a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        96,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "954569a5-3e60-4287-970e-a861f9af7a42",
+       "type": "word",
+       "value": "Світлий",
+       "textRange": [
+        97,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6935a21c-40d0-48e9-ad5c-dc195473a200",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        104,
+        105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2094ed27-c61a-495c-a410-3174ab1a7f64",
+       "type": "word",
+       "value": "час",
+       "textRange": [
+        105,
+        108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4bae9d4-bf18-472b-ab83-1d7d0b074e00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        108,
+        109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0814162c-baf9-4f3a-83f2-a83082bcbfd3",
+       "type": "word",
+       "value": "доби",
+       "textRange": [
+        109,
+        113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "054458f8-7980-4733-8cd8-9152ceb4eae6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        113,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a326ba9-7f95-45e7-84f5-f6c69605cb7a",
+       "type": "word",
+       "value": "триватиме",
+       "textRange": [
+        114,
+        123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb1d9ff9-94a6-4e0c-829d-5dac0fe8d87a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        123,
+        124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f8ccf87-e825-4f41-afa3-3135957c36bd",
+       "type": "number",
+       "value": "7",
+       "textRange": [
+        124,
+        125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c29258a0-c392-4d61-ae6a-4671d7bdc43f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        125,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf8283c1-fecd-44ce-b918-eebf1fc5296b",
+       "type": "word",
+       "value": "годин",
+       "textRange": [
+        126,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "170f9579-b628-499f-afe6-8ad114582505",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        131,
+        132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbff6393-f384-4fa9-a4f9-9fb5655bd072",
+       "type": "number",
+       "value": "24",
+       "textRange": [
+        132,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a0e5145-06f5-4673-9b74-b871ce98a162",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a99ed80-5d15-4829-b4e9-9d7c301eb0c6",
+       "type": "word",
+       "value": "хвилини",
+       "textRange": [
+        135,
+        142
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Світлий час доби триватиме 7 годин 24 хвилини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "890dd7fe-ed5a-4e83-b981-507a9a7a8d26",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      142,
+      143
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2671c1ef-d8c4-4085-9dc1-2c7280e5e2e2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      143,
+      144
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Світлий час доби триватиме 7 годин 24 хвилини.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "З сьогоднішнього дня розпочинається астрономічна зима, а світловий день буде найкоротшим у році Світлий час доби триватиме 7 годин 24 хвилини.",
+ "concept": "SYNTAX"
+}

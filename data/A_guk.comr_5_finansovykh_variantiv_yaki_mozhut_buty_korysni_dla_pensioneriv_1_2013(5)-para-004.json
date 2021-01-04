@@ -1,0 +1,874 @@
+{
+ "id": "8c536bde-86e6-4e19-8e65-3f9b236cd66f",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0ccbc016-975d-40be-9b97-e1d36f9add04",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8a9d9ffa-266b-4118-b73f-f26178b15a55",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "608ae270-b1d8-4fc1-b5af-545170534407",
+       "type": "word",
+       "value": "По",
+       "textRange": [
+        1422,
+        1424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fea5a5ce-98ad-46cd-887a-161e50474bbe",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1424,
+        1425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ad2efb7-7dc8-4bfb-81b3-d160e16a1dc7",
+       "type": "word",
+       "value": "друге",
+       "textRange": [
+        1425,
+        1430
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "По-друге",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "82b30f28-df5e-46aa-9d84-3b0282bf6cb1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1430,
+      1431
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "97d3ce4b-f6d3-44c1-942f-4ed8c7441e43",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6b761b83-d44c-4e0b-80d9-901c7bd6d9a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1431,
+        1432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbbe9968-0838-4ce3-8ffd-7955638fb18e",
+       "type": "word",
+       "value": "потрібно",
+       "textRange": [
+        1432,
+        1440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86f8975c-7dfe-4dcd-97eb-0fc0d0aa229a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1440,
+        1441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd459f64-a068-4832-b532-b9bc10eb45d9",
+       "type": "word",
+       "value": "врахувати",
+       "textRange": [
+        1441,
+        1450
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "189031c5-c1d8-4bcd-9771-a81d672341ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1450,
+        1451
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e247de4-ba99-41f6-8e3d-29254e1b23a5",
+       "type": "word",
+       "value": "кількість",
+       "textRange": [
+        1451,
+        1460
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87b39948-6239-4255-9877-a480b54c57e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1460,
+        1461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c2ae617-0c61-42d8-91d0-0a71ccfc526f",
+       "type": "word",
+       "value": "банкоматів",
+       "textRange": [
+        1461,
+        1471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd5f1fd4-813c-435a-b02e-0efbd3fcdda9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1471,
+        1472
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84cb361f-e7e8-46bc-8ed2-00a6620c6900",
+       "type": "word",
+       "value": "банку",
+       "textRange": [
+        1472,
+        1477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8642c6c0-a3c5-45f8-8084-30792e8b94ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1477,
+        1478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf9e032d-4d8a-4362-8a3e-1e675d1e6022",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1478,
+        1479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08d8cefe-aae3-471b-98a7-f3954fe75a13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1479,
+        1480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2189fbf6-5877-4d0e-9952-80bd71d7c1e5",
+       "type": "word",
+       "value": "вашому",
+       "textRange": [
+        1480,
+        1486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1aec6f0-1818-49ab-88ad-81d1165796f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1486,
+        1487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3052a105-b7e8-4494-9a6e-cf9abb40c02f",
+       "type": "word",
+       "value": "місті",
+       "textRange": [
+        1487,
+        1492
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " потрібно врахувати кількість банкоматів банку у вашому місті",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a24a5b55-50f5-4321-a9a6-4543571f138f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1492,
+      1493
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f4b4b47b-ce4c-4212-a05f-4b894917e174",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "073d1627-39bc-4248-a913-dd3f8016a992",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1493,
+        1494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab260f1e-2fd4-48df-af8b-e1eca3734bf2",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        1494,
+        1495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "354bc44f-e56d-41e6-8e50-c52305123fab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1495,
+        1496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "053a2690-82ff-4973-b937-717fc6ae6f67",
+       "type": "word",
+       "value": "також",
+       "textRange": [
+        1496,
+        1501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a993a56-dfd8-4b2b-90df-51e0ead4675b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1501,
+        1502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5ed7b05-3609-4e43-9419-a4b16b4663a9",
+       "type": "word",
+       "value": "наявність",
+       "textRange": [
+        1502,
+        1511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efafbd5a-77c2-4d98-a45c-b10b154544df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1511,
+        1512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3421e7e8-caf8-440a-89cf-bfc1d29c89c2",
+       "type": "word",
+       "value": "банків",
+       "textRange": [
+        1512,
+        1518
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d4529d7-a4ad-4043-a63b-f0836fd2aa21",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1518,
+        1519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93a29c65-a4a4-4dde-bbf1-68fff93a89e6",
+       "type": "word",
+       "value": "партнерів",
+       "textRange": [
+        1519,
+        1528
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а також наявність банків-партнерів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "262f9e89-5d9b-4f3d-9edf-f2c1aaece827",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1528,
+      1529
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1c7c951a-1710-451f-96fa-73e1fcab922c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0b77f32e-c0de-4210-af6c-188499eb0e7f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1529,
+        1530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe3c6d6f-eb64-4787-8e01-94b218835426",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1530,
+        1531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a871a74-c365-475a-94c0-12538f5ce51e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1531,
+        1532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72779ebe-6268-4adf-aad8-d2d0c0cf9b73",
+       "type": "word",
+       "value": "банкоматах",
+       "textRange": [
+        1532,
+        1542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8609330-dcd4-4701-964f-287a3aff9ec1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1542,
+        1543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "199f080c-af69-4075-9392-9364b1b61502",
+       "type": "word",
+       "value": "яких",
+       "textRange": [
+        1543,
+        1547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e62dbf9-e02b-4229-bd16-854cb3775a49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1547,
+        1548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4b6f49c-c153-4f59-a4ef-5c3c709957f7",
+       "type": "word",
+       "value": "ви",
+       "textRange": [
+        1548,
+        1550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbd130ad-e413-4b89-92a5-b26d2f73c1a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1550,
+        1551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d517d7bf-251e-49be-8562-5c148743fd0c",
+       "type": "word",
+       "value": "зможете",
+       "textRange": [
+        1551,
+        1558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c3cd1a5-9aec-4793-b7d1-bebd50b3ac13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1558,
+        1559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a10ce62f-1cf6-43fd-a0a9-c110b10a34af",
+       "type": "word",
+       "value": "безкоштовно",
+       "textRange": [
+        1559,
+        1570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e81037c1-98b6-40ce-aa27-c424542f7272",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1570,
+        1571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02b6c1f4-c312-4934-b41d-a1c5143f9afd",
+       "type": "word",
+       "value": "знімати",
+       "textRange": [
+        1571,
+        1578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "616dea74-5a7a-4d56-96e0-5ecddad7421b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1578,
+        1579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5412fd98-2e6a-4c96-8e6b-88164667f6cd",
+       "type": "word",
+       "value": "готівку",
+       "textRange": [
+        1579,
+        1586
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "741f5f72-a002-4fed-90f1-3130c874281c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1586,
+        1587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a6be4e1-34fd-47d1-a7c5-28dad25e3af4",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1587,
+        1588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e574912-172d-45b7-8398-2c71bebe5891",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1588,
+        1589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d618e508-f93c-4c2e-a31b-980fc7f19e59",
+       "type": "word",
+       "value": "картки",
+       "textRange": [
+        1589,
+        1595
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " в банкоматах яких ви зможете безкоштовно знімати готівку з картки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9bbb1fef-ac78-4132-9d59-fa10e1355c06",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1595,
+      1596
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "По-друге, потрібно врахувати кількість банкоматів банку у вашому місті, а також наявність банків-партнерів, в банкоматах яких ви зможете безкоштовно знімати готівку з картки",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c28552fd-278f-4724-b1ea-bd46642e638d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f02628b9-13b3-46ab-bc89-10f2ae1a71b3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2a6321e9-9e50-445b-bb8d-e7a23c1f1d32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1596,
+        1597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82a73931-401f-4ebd-80c7-147d4b812190",
+       "type": "word",
+       "value": "Адже",
+       "textRange": [
+        1597,
+        1601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb00898f-29d1-4eb2-af79-d5e6c7e7f37a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1601,
+        1602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8055bd6-87b6-4d00-95a4-fe23c30ab9a5",
+       "type": "word",
+       "value": "комісія",
+       "textRange": [
+        1602,
+        1609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90bf2868-1caf-4580-a9b1-60976f394211",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1609,
+        1610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c1aba1c-b832-447e-b8ee-656a9493e7b2",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1610,
+        1612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d3739ff-64ad-4444-b11b-0909e7cac192",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1612,
+        1613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "010ff3f4-7b99-4c72-97c7-09854fc42472",
+       "type": "word",
+       "value": "зняття",
+       "textRange": [
+        1613,
+        1619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e47355c-73f2-4719-a08f-ad18419f658a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1619,
+        1620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "384ebed4-bd6d-4bc7-bd50-62af181015d5",
+       "type": "word",
+       "value": "грошей",
+       "textRange": [
+        1620,
+        1626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7928d39c-1331-4b3d-9f24-bb3c7b74c2f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1626,
+        1627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f015f12-62e9-489d-a4a5-468d59a241a9",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1627,
+        1628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "264baf23-36e5-4a07-ba94-a0fb72f8b27e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1628,
+        1629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1d9b6c6-dd67-4724-af3d-0330509e9b62",
+       "type": "word",
+       "value": "банкоматах",
+       "textRange": [
+        1629,
+        1639
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c8b874e-bedd-4711-a188-48b08a18e33d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1639,
+        1640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8620627-5e88-4ed2-8bc9-6aaf555d4e85",
+       "type": "word",
+       "value": "інших",
+       "textRange": [
+        1640,
+        1645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e72e3e1-0b6e-45d1-b6d1-8229c055e5b7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1645,
+        1646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67f25002-e6aa-4cc4-9850-1cda1d10b1ed",
+       "type": "word",
+       "value": "банків",
+       "textRange": [
+        1646,
+        1652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e79b09d4-5f75-408a-b60f-38402cf7125b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1652,
+        1653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f7ff5d8-4e2c-4cd0-84e5-179289b208df",
+       "type": "word",
+       "value": "може",
+       "textRange": [
+        1653,
+        1657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "957c7520-a523-415c-bae1-dfa65df153c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1657,
+        1658
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "620adfd8-46d5-4ff7-b0be-16c91d4dcf07",
+       "type": "word",
+       "value": "бути",
+       "textRange": [
+        1658,
+        1662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2481efbf-15d4-4f22-86fa-5072f0a48597",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1662,
+        1663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afbfb82e-8013-4ec3-873b-d35d92a94ff4",
+       "type": "word",
+       "value": "досить",
+       "textRange": [
+        1663,
+        1669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4939230f-9491-42f4-9a8a-da1c6f294e5c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1669,
+        1670
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04a289f8-ee63-4a82-90b7-8c8a29f30ed5",
+       "type": "word",
+       "value": "високою",
+       "textRange": [
+        1670,
+        1677
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Адже комісія за зняття грошей у банкоматах інших банків може бути досить високою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ca997c23-ccfd-4dbb-826e-8ba70b0c04a2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1677,
+      1678
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "733cbfb5-b62b-45d0-83c2-858280581f6f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1678,
+      1679
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Адже комісія за зняття грошей у банкоматах інших банків може бути досить високою.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "По-друге, потрібно врахувати кількість банкоматів банку у вашому місті, а також наявність банків-партнерів, в банкоматах яких ви зможете безкоштовно знімати готівку з картки Адже комісія за зняття грошей у банкоматах інших банків може бути досить високою.",
+ "concept": "SYNTAX"
+}

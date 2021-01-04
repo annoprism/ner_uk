@@ -1,0 +1,141 @@
+{
+ "id": "081ed8eb-840d-4fc6-9398-5a0d4d3ddb86",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9b6e96f3-35c3-4453-b7af-17dfa66c33e7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a38bb17a-c68b-46b7-bae0-226f47531e81",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a057d16a-8e3e-4035-8150-dffbc2f7a5ff",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        4799,
+        4800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0b9cbc9-51a8-4fd0-a360-9b4969dd1988",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4800,
+        4801
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c994893b-a7d7-47ca-b29f-7516de84095c",
+         "type": "word",
+         "value": "Пудик",
+         "textRange": [
+          4801,
+          4806
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "61543054-bcff-46a6-a7e8-3b5dfadbff09",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "736a19d9-619c-4101-9f79-8a7b710f22a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4806,
+        4807
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "766e5cc9-d8bd-4d95-b71d-089fbf231b8f",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        4807,
+        4809
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1894f0c1-7e9c-4418-9c62-5ed7efd0dcc0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4809,
+        4810
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dca6335-9b53-4f8d-b6c9-79bcdd3dc5ad",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        4810,
+        4811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70b518d5-b47e-4158-b15d-53c2337ad955",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4811,
+        4812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "995231e4-1256-413d-abdc-6807593ead12",
+       "type": "word",
+       "value": "приказує",
+       "textRange": [
+        4812,
+        4820
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А Пудик ще й приказує",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "39c50beb-ba1e-4d12-b604-68d685d998e9",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      4820,
+      4821
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c959ab25-76a0-43b3-ac51-3818ab1bc3ee",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4821,
+      4822
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А Пудик ще й приказує:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А Пудик ще й приказує:",
+ "concept": "SYNTAX"
+}

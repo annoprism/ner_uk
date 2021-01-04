@@ -1,0 +1,199 @@
+{
+ "id": "f81156f7-02fa-4797-8baf-3082b30ed3a0",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "027e0298-4af3-4ebc-a907-1c7ca847c9a0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b106d258-be6d-406a-a05c-7bb2641a5ae5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8fc885d0-988d-4b77-ae77-5136eee3c869",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        9013,
+        9014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e737e8c-8404-4250-9bb6-3454df9a06dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9014,
+        9015
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c172c31-97a0-41a8-a690-968b2061c771",
+       "type": "word",
+       "value": "Повернуся",
+       "textRange": [
+        9015,
+        9024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "841ea3b6-5828-473e-aae8-a47336770124",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9024,
+        9025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "659235c4-e881-445c-bc43-7e653fdd0e90",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        9025,
+        9026
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c783638d-a540-4093-a798-addb72c30463",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9026,
+        9027
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8e3d4ed-15ba-47c3-b6fe-59e932fa4ea6",
+       "type": "word",
+       "value": "навчу",
+       "textRange": [
+        9027,
+        9032
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Повернуся — навчу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bcdf537c-65c4-48c8-9314-a6b550bd2b67",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9032,
+      9033
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6df31ab2-8855-4df6-b922-e35966e5cb4d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a602d2a5-ad28-4115-aba4-a78b45a5062f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9033,
+        9034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "933dbe0f-57cf-44a5-bb29-65f0947dd1c9",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        9034,
+        9035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1e72e5b-d492-4e45-9c1d-078b90756af2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9035,
+        9036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "daaae4ac-6929-4de1-b3a8-13ebb7dc1971",
+       "type": "word",
+       "value": "пообіцяла",
+       "textRange": [
+        9036,
+        9045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99153e9c-b92a-43ec-a3c4-8a2a88794c14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9045,
+        9046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "700d7e4f-1de4-4319-9375-c110ab9d3cfc",
+         "type": "word",
+         "value": "Уляна",
+         "textRange": [
+          9046,
+          9051
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "91321bc5-fd5b-40a6-b75a-41a51c2e206c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — пообіцяла Уляна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0270a316-80b3-4f1a-af8c-ccbe031b77ea",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      9051,
+      9052
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a988e21c-90c0-4501-93d8-398d1e04a030",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      9052,
+      9053
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Повернуся — навчу, — пообіцяла Уляна.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Повернуся — навчу, — пообіцяла Уляна.",
+ "concept": "SYNTAX"
+}

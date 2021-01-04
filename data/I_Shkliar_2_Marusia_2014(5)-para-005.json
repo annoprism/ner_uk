@@ -1,0 +1,411 @@
+{
+ "id": "0663e54c-5312-49e7-9992-a9e2ef8e63b3",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "aedcaad1-f97c-4c52-9f7a-efca1edfd51d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "85b1990e-ce2e-432a-b393-cfba525b0e1b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7863309d-7004-432c-b722-049cecd6b5da",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        753,
+        754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9fbd2d9-a65b-4df7-908c-81937dde7784",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        754,
+        755
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e7eb0ab-9b21-437e-bef4-67b6b7552adb",
+       "type": "word",
+       "value": "Соколине",
+       "textRange": [
+        755,
+        763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6243bd3-995f-4937-b145-fbb5495886c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        763,
+        764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "018182aa-896f-48ec-8f7b-425473680bd7",
+       "type": "word",
+       "value": "око",
+       "textRange": [
+        764,
+        767
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Соколине око",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f75aed47-8cf6-460b-82c1-9fb2c93aaabe",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      767,
+      768
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Соколине око",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ef850152-e97a-43e4-80ee-4dfa07873d01",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "84652206-3d6a-4d8c-a804-1cc81390ec8f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b58625ea-d44c-43d8-97b1-6a02a96d38ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        768,
+        769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70ebbb37-4f74-4015-80c3-4a85cd3f756b",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        769,
+        770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ac1d220-c90d-4b2d-b4d3-161f3a3ab1d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        770,
+        771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06bcaebb-f218-4bd9-9eba-a81d450a9c88",
+       "type": "word",
+       "value": "перепитав",
+       "textRange": [
+        771,
+        780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "764d1555-f3fe-4ac6-be37-b37461c156e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        780,
+        781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "bc88492c-b81f-4dc0-938c-ddb26a0b38a0",
+         "type": "word",
+         "value": "Мирон",
+         "textRange": [
+          781,
+          786
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5e0544a9-09f8-407d-84e9-396c55a4f1eb",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — перепитав Мирон",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "405f704e-7de0-476f-8e82-a2ad60545481",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      786,
+      787
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f269777d-6328-4156-a768-888442e1de32",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "01f5283d-4bd8-4718-a40b-29f608f0a5e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        787,
+        788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e9df378-9f71-4d8c-82b4-2cdab8878e57",
+       "type": "word",
+       "value": "мимоволі",
+       "textRange": [
+        788,
+        796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3eafaeb-d64b-437b-b688-6bdf9053cc89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        796,
+        797
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78caff7c-58b6-433b-917d-4d5fe8abca8c",
+       "type": "word",
+       "value": "згадуючи",
+       "textRange": [
+        797,
+        805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ebb2e07-e955-44ff-b3a8-a267bef55157",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        805,
+        806
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7238cf25-de64-496f-a824-103e84743783",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        806,
+        808
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc6d9992-13db-4227-8086-bce9dc56a8bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        808,
+        809
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ea4527f-9c2e-4b84-8896-d941abb8feff",
+       "type": "word",
+       "value": "прізвище",
+       "textRange": [
+        809,
+        817
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " мимоволі згадуючи її прізвище",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "704ea4eb-85cb-4074-9b60-0f3696f9a541",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      817,
+      818
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — перепитав Мирон, мимоволі згадуючи її прізвище",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ce2dbd6b-33f8-4457-82c2-1a7e72068d42",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "70d90272-8897-4b59-8674-dc1be0fb70b0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "997ca483-1c99-4035-9808-efdaeb746acc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        818,
+        819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b348a735-5d36-48f5-a43e-f558daff8204",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        819,
+        820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "597385ea-91c8-4f84-bfa4-c925a3f0aed9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        820,
+        821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46aa7cec-8a09-4414-b84c-95b5f885e841",
+       "type": "word",
+       "value": "Так",
+       "textRange": [
+        821,
+        824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd6cb8cf-2124-45a2-bd1c-a90b0add7ab6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        824,
+        825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1b22c9f-4bd9-41b9-a303-f05f5832bb25",
+       "type": "word",
+       "value": "називається",
+       "textRange": [
+        825,
+        836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6f02c08-ae47-42f2-9580-0e7f34d7d6b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        836,
+        837
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17148735-e0dc-4886-8130-dcfde078578e",
+       "type": "word",
+       "value": "цей",
+       "textRange": [
+        837,
+        840
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "965d0369-2ecf-48ee-8a4f-204abf3d4063",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        840,
+        841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3affa619-40fb-4013-8fb0-da7a1104e5cb",
+       "type": "word",
+       "value": "камінчик",
+       "textRange": [
+        841,
+        849
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Так називається цей камінчик",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8a35853c-bf8b-4f06-ad47-2eaf9fd8d462",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      849,
+      850
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dbece076-9c74-448d-939e-0756d15bce87",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      850,
+      851
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Так називається цей камінчик?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Соколине око — перепитав Мирон, мимоволі згадуючи її прізвище — Так називається цей камінчик?",
+ "concept": "SYNTAX"
+}

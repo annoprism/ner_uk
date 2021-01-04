@@ -1,0 +1,294 @@
+{
+ "id": "1dc7cece-4b1b-4e54-a2f5-ac512ff97682",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f4d68e1d-4d4d-4435-ad44-cd7ef6a6f3e4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "842f10d6-633a-44c5-85c8-77a942ec80bd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8fde0d3a-90b5-481a-816a-3703dba2de48",
+       "type": "word",
+       "value": "Модератор",
+       "textRange": [
+        2869,
+        2878
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Модератор",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42bcdd3e-8ed7-40d9-a6a5-eef2d5c184d9",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2878,
+      2879
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9f501cbe-a005-40de-bcb6-1cac0dee41ff",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c47f5d67-2364-4edc-b016-50a962efd4bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2879,
+        2880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "bf6b33a1-16ed-4d4c-baab-c3a54d939171",
+         "type": "word",
+         "value": "Кирило",
+         "textRange": [
+          2880,
+          2886
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e6e3f789-3d35-4b23-9147-b1ae240cec43",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2886,
+          2887
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d625b342-6a6d-412c-a947-7a7f0381dd81",
+         "type": "word",
+         "value": "Савін",
+         "textRange": [
+          2887,
+          2892
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b9253762-31c9-4689-8843-f3839a95bd3e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Кирило Савін",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "92f29f16-09d8-4c05-8846-e95da1f24501",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2892,
+      2893
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b45d7dee-d431-4612-b0ce-509afd6b388d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5626a240-40cb-4f40-8d97-d099553451a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2893,
+        2894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3a80791-c547-4216-8741-f9a483d900da",
+       "type": "word",
+       "value": "керівник",
+       "textRange": [
+        2894,
+        2902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32fde0e2-d14b-4eba-ba29-de3bd73e80b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2902,
+        2903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "b6b73df4-ddc2-43e5-97e1-a1d96912eb3d",
+         "type": "word",
+         "value": "Представництва",
+         "textRange": [
+          2903,
+          2917
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c6e1ab7e-7aa5-4e09-b192-f2b496426fbd",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2917,
+          2918
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e2c80b0c-c111-44fe-b7c8-3c1aad42e242",
+         "type": "word",
+         "value": "Фонду",
+         "textRange": [
+          2918,
+          2923
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c54523c7-6b6e-471a-94c4-f80d01b3214e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2923,
+          2924
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c83f4bc7-e59f-4fae-ba6b-79a4d0f48d55",
+         "type": "word",
+         "value": "ім.",
+         "textRange": [
+          2924,
+          2927
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6383dcd4-12c3-4a68-ab92-7d7411f6120b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2927,
+          2928
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ee157d0e-c654-463d-8e6b-861111a51eec",
+         "type": "word",
+         "value": "Гайнріха",
+         "textRange": [
+          2928,
+          2936
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8b28b643-0b78-473d-8ccf-587a10203afc",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2936,
+          2937
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "dd5f9b4a-33ea-4e5e-bcab-45252f54102c",
+         "type": "word",
+         "value": "Бьолля",
+         "textRange": [
+          2937,
+          2943
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1e7357d4-a616-4055-bb62-2b435ef32dc6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2943,
+          2944
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f88965c7-b5fc-485e-bec4-bcf537a0cd38",
+         "type": "word",
+         "value": "в",
+         "textRange": [
+          2944,
+          2945
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7af68a98-0cc8-4057-aef3-55621d395e5d",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2945,
+          2946
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7acd46e1-b2ed-4713-9e39-9dca428debba",
+         "type": "word",
+         "value": "Україні",
+         "textRange": [
+          2946,
+          2953
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b2c54763-b753-4d1b-8be2-a86e38e6b2ad",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " керівник Представництва Фонду ім. Гайнріха Бьолля в Україні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1eef73a6-acb0-40c2-b8d4-6b432f9923d0",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2953,
+      2954
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Модератор: Кирило Савін, керівник Представництва Фонду ім. Гайнріха Бьолля в Україні",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Модератор: Кирило Савін, керівник Представництва Фонду ім. Гайнріха Бьолля в Україні",
+ "concept": "SYNTAX"
+}

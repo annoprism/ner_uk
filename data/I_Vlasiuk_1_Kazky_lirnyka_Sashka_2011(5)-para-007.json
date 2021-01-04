@@ -1,0 +1,483 @@
+{
+ "id": "0f23f732-7ffc-4e98-b840-18e315eaebe4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a58e7fdb-167b-48ef-9dd4-211850f240d4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "921ce3b3-b851-43e7-81d2-5dec1ca0df0a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9edc1744-b299-4044-bd6b-b303ab8a9bfc",
+       "type": "word",
+       "value": "Дід",
+       "textRange": [
+        1272,
+        1275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2bce591-fce8-4022-a467-79c123822c80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1275,
+        1276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "eb5579b9-71e9-49a2-a1b9-c6e2d72cbacd",
+         "type": "word",
+         "value": "Тиміш",
+         "textRange": [
+          1276,
+          1281
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c0640188-0323-44a3-97c3-5b0a06328793",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1ddd04d3-7d81-46ab-8412-922fe41f88d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1281,
+        1282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea29f972-2fd9-413f-b55e-73998bfcf837",
+       "type": "word",
+       "value": "гарно",
+       "textRange": [
+        1282,
+        1287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05962841-fffc-4235-8738-78870de27f12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1287,
+        1288
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbe32ddd-a963-4aa4-b365-482afbc73b5b",
+       "type": "word",
+       "value": "піч",
+       "textRange": [
+        1288,
+        1291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5621ce4e-0f55-4780-bea5-4c0f808c8677",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1291,
+        1292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26bc2c19-6578-4aa3-9fd2-3b5451762040",
+       "type": "word",
+       "value": "кізяком",
+       "textRange": [
+        1292,
+        1299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "812a76c8-5c81-40aa-8103-b9be00e0c690",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1299,
+        1300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27e984bf-c820-47d7-b8ca-f4c71a4461fe",
+       "type": "word",
+       "value": "витопив",
+       "textRange": [
+        1300,
+        1307
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Дід Тиміш гарно піч кізяком витопив",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "afe00a31-9417-4248-a4f4-6113c59dd272",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1307,
+      1308
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b3f40779-3e43-490d-81d9-be16245d5e21",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d7595837-82fa-4eca-a173-70a47eb41958",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1308,
+        1309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "acf0b164-bb0d-43b6-a385-3a8fe423a296",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1309,
+        1311
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0221af56-572a-4d99-aeae-ead96dfabcef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1311,
+        1312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba5dcd2e-be7d-49c9-bb7b-c48d053715d3",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1312,
+        1313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4bd8ec28-f771-4c6b-b24f-92f7e6e510a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1313,
+        1314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed91258-c81b-4744-9637-115d6caee2c9",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1314,
+        1316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "191908a9-527d-4745-9e68-5154aaab3afd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1316,
+        1317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d216565a-3c25-4c2c-bcee-ca0d08d75930",
+       "type": "word",
+       "value": "лежанці",
+       "textRange": [
+        1317,
+        1324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7234ff22-1897-44b8-8890-1023b80d87d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1324,
+        1325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b941aea-816f-47d8-8070-0029bae396ca",
+       "type": "word",
+       "value": "спав",
+       "textRange": [
+        1325,
+        1329
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " та й на лежанці спав",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c581712-9811-4c7d-b89e-f27f89919714",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1329,
+      1330
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Дід Тиміш гарно піч кізяком витопив, та й на лежанці спав",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "44c13b4d-2a57-4d5e-8453-e939bbf15246",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a3993c98-2983-4291-8982-03be4b5b6598",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae18f08e-6678-407e-bb0e-d3f6c28519df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1330,
+        1331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9cfc9b8-4896-4c83-8462-f1d755ba018f",
+       "type": "word",
+       "value": "Дим",
+       "textRange": [
+        1331,
+        1334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30166bd8-a94a-42cc-9c4c-2dcc4db5be74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1334,
+        1335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c740658-00a9-4371-ae46-6afdfb66695f",
+       "type": "word",
+       "value": "валує",
+       "textRange": [
+        1335,
+        1340
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Дим валує",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cbb6226b-a2fc-47b5-801e-63dde55fc8cf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1340,
+      1341
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ce02201-d386-45b3-abee-b87f6ebb57be",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3b4265d1-5af4-4bc4-8ec6-1999c37dfea7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1341,
+        1342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c8fd4c0-bdb5-4a7e-84b8-cad12186d30c",
+       "type": "word",
+       "value": "лежанка",
+       "textRange": [
+        1342,
+        1349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14f839c1-91aa-429f-ba78-04f16f8dc48f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1349,
+        1350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc164e71-898e-47bb-8e8e-0f8057db2b6c",
+       "type": "word",
+       "value": "тепла",
+       "textRange": [
+        1350,
+        1355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "067a2ef2-aa90-4582-820b-91738c7520aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1355,
+        1356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7efe1a7-e21a-4ba8-bff2-70017bbf0dd9",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1356,
+        1357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc0a5c1a-069d-4642-8558-7d0d59d3009b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1357,
+        1358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcfa14ed-1420-43db-ad44-66e79318f7ca",
+       "type": "word",
+       "value": "добре",
+       "textRange": [
+        1358,
+        1363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35c660e9-6a33-4ae8-9b36-a4ac96ec2f9a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1363,
+        1364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa6c7cec-2e9d-44cd-9942-68433dc178cf",
+       "type": "word",
+       "value": "дідові",
+       "textRange": [
+        1364,
+        1370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7ae005a-5a1a-4701-a2c9-1dedb3aec375",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1370,
+        1371
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1551466f-2436-481d-9f04-8005224ef62d",
+       "type": "word",
+       "value": "спиться",
+       "textRange": [
+        1371,
+        1378
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " лежанка тепла – добре дідові спиться",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e74ac606-bfd0-41da-a673-def7ebb288e7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1378,
+      1379
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "472d271a-8cca-441f-8445-ca99914adaeb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1379,
+      1380
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Дим валує, лежанка тепла – добре дідові спиться.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Дід Тиміш гарно піч кізяком витопив, та й на лежанці спав Дим валує, лежанка тепла – добре дідові спиться.",
+ "concept": "SYNTAX"
+}

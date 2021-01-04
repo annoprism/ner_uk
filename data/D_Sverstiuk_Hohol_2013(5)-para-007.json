@@ -1,0 +1,740 @@
+{
+ "id": "85b38ea1-2284-4497-87f5-797bd2b7ea64",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ccbf6397-e1f0-434a-9e73-b7ee604fecd3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "baa0b5ac-7f54-4453-b74d-7a74ab8bcd10",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fb2eb288-e16d-4253-bfb5-4654365d5c5d",
+         "type": "word",
+         "value": "Сергій",
+         "textRange": [
+          1608,
+          1614
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "36b9460d-a3f0-4c43-ac2f-a678da0bb3e9",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1614,
+          1615
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0e006b2f-4558-4801-9566-1fdf20028178",
+         "type": "word",
+         "value": "Аксаков",
+         "textRange": [
+          1615,
+          1622
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d93dffdc-7f1e-4366-9632-62000774738e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5bee398c-e3b4-4a70-9353-186585bc14db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1622,
+        1623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17e34a4e-0579-4c03-bb74-98b560cc5c0d",
+       "type": "word",
+       "value": "запитував",
+       "textRange": [
+        1623,
+        1632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f28ad70e-71df-427b-b7e5-55884ecba42d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1632,
+        1633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "2f293363-e62a-459f-8d25-9adab18f0a50",
+         "type": "word",
+         "value": "Гоголя",
+         "textRange": [
+          1633,
+          1639
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2d12dd3a-9edc-407a-8f5c-26a34902a03d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Сергій Аксаков запитував Гоголя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6a81402-7010-4cbc-bb22-6f402b632d97",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1639,
+      1640
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a09e6721-8bcd-4982-920b-fcf5b646eac4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ce8f395b-9b02-457d-b535-9abe22adf65b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1640,
+        1641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b91b5732-1be6-4c34-b07b-73aa787bf75a",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1641,
+        1643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00e72a61-9659-4815-bd43-97f799c26e02",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1643,
+        1644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "712175f7-50a3-4636-b958-c2a9963c4294",
+       "type": "word",
+       "value": "читав",
+       "textRange": [
+        1644,
+        1649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d30d82f3-afa8-488c-b9f3-47d97c90053d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1649,
+        1650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb13f388-c8b4-4c73-860e-304af4b9c375",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1650,
+        1653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d371d9ae-227d-4a3e-a50e-0865da1f8197",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1653,
+        1654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af0e55c8-b1cf-4310-a7f0-58211ce12d94",
+       "type": "word",
+       "value": "комедію",
+       "textRange": [
+        1654,
+        1661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd32337c-49a9-4908-9197-0ab57f1814b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1661,
+        1662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9f95e19a-dcef-4973-886f-c59a70847d75",
+         "type": "word",
+         "value": "Квітки",
+         "textRange": [
+          1662,
+          1668
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7e2957fa-9da6-4720-9c79-cf24e19d57e8",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          1668,
+          1669
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cda34b20-925d-4ea4-9c1c-bfaf5397b288",
+         "type": "word",
+         "value": "Основ’яненка",
+         "textRange": [
+          1669,
+          1681
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "499f8d7e-baa5-40d5-b376-b9485c2d12a4",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "471e15e9-0134-45b9-832f-6e0bc7981ad3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1681,
+        1682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "546f8fbd-fb2c-426c-9f71-ee3dc2e33988",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1682,
+        1683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b029503-3cea-4c50-ae2c-048e852c435f",
+       "type": "word",
+       "value": "Приезжий",
+       "textRange": [
+        1683,
+        1691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d708d97-1e2d-44aa-99e7-d10967b0ebf1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1691,
+        1692
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6936ddd3-cba6-44c9-ad47-d996a462b327",
+       "type": "word",
+       "value": "из",
+       "textRange": [
+        1692,
+        1694
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3462f296-719f-45ab-a82c-a23314db4039",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1694,
+        1695
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e45fd77c-a2da-4b25-a3f9-c036167d34db",
+       "type": "word",
+       "value": "столицы",
+       "textRange": [
+        1695,
+        1702
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи читав він комедію Квітки-Основ’яненка «Приезжий из столицы",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a9a84c46-49c1-4091-be9f-dddba686e6ce",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1702,
+      1703
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "22af2144-9572-4ab9-88cb-b1d31d2d20a9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1a8d5d10-51a8-40b9-919d-a773a987f7ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1703,
+        1704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff86e49f-992f-45ee-b265-2159b40eebca",
+       "type": "word",
+       "value": "или",
+       "textRange": [
+        1704,
+        1707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ae694c8-5852-4988-a352-21ad4db9e11a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1707,
+        1708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "384a4d1b-bfad-4aca-949f-efc50aacf01f",
+       "type": "word",
+       "value": "Суматоха",
+       "textRange": [
+        1708,
+        1716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64331370-4004-4ed5-bfff-d94e6ad5acb2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1716,
+        1717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cae78c8-4bcd-4d15-8d2e-c80fb6a608d0",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1717,
+        1718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9097d0d-d371-403e-aa0c-8ba810274997",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1718,
+        1719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c4255c0-28f7-40a7-b3b9-0c9eb67ae508",
+       "type": "word",
+       "value": "уездном",
+       "textRange": [
+        1719,
+        1726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "188fd71c-730d-40b9-96c5-7dc70141cf7f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1726,
+        1727
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33cf6862-384a-4335-bca0-110e6acdd4ab",
+       "type": "word",
+       "value": "городе",
+       "textRange": [
+        1727,
+        1733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8cdd1b58-312d-4fff-a223-12d721dddc99",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1733,
+        1734
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " или Суматоха в уездном городе»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "68d56af2-448b-41e3-babb-13c0fc4970e0",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1734,
+      1735
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Сергій Аксаков запитував Гоголя, чи читав він комедію Квітки-Основ’яненка «Приезжий из столицы, или Суматоха в уездном городе»",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2441a7d2-9299-4869-8430-9d237a6042fb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4be959e9-e873-4087-a6d7-08a9d71f462d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8b9886a0-0ea7-4bab-bdbb-f3bfa4f5ffd2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1735,
+        1736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "57b30a5c-0981-4637-82bd-c8a4c5231a94",
+         "type": "word",
+         "value": "Гоголь",
+         "textRange": [
+          1736,
+          1742
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e69b6d74-77e1-45a1-b446-2addd10eb3ba",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f0fda9fd-b70a-4c78-900d-9fa07213ee26",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1742,
+        1743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdeb4ea3-7baf-4306-8c2c-c1ae6998a69f",
+       "type": "word",
+       "value": "відповів",
+       "textRange": [
+        1743,
+        1751
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Гоголь відповів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "714d32b0-f628-4f4b-8602-1698e7d42444",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1751,
+      1752
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3f29edf2-9115-4628-9cf8-f5a3a26fa971",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c52b0ac5-d4c4-4a25-b841-cd0c3f104f95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1752,
+        1753
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3800d293-63ec-4ea1-b579-1c68293aa5f2",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1753,
+        1755
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e02bef0e-2256-4229-82f0-387a25b5946c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1755,
+        1756
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11707720-c02e-4b9b-9f5e-c8ff247a6984",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1756,
+        1757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a631f9bf-81ee-445f-8743-1940369953e6",
+       "type": "word",
+       "value": "чув",
+       "textRange": [
+        1757,
+        1760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "120ec04f-160b-4eae-b442-ade31cacc6f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1760,
+        1761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7020f458-3c71-42ba-9d51-1bfe708a5daf",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        1761,
+        1764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39d9a998-4456-4214-9684-f23e5bfc63d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1764,
+        1765
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af79579b-e8f5-40b1-8919-c82a433b2392",
+       "type": "word",
+       "value": "неї",
+       "textRange": [
+        1765,
+        1768
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що «чув про неї",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c0323e0c-7f2f-4757-be9e-b0ad596682cf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1768,
+      1769
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "47c38f24-1f74-410c-a3be-def87708707d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae99deb8-6906-41fe-b19d-a67b80eb0c53",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1769,
+        1770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ceb58f7-b54c-43a9-90d7-8aed12721471",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        1770,
+        1773
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "015f2d8f-3a63-43be-8dac-06449306a18d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1773,
+        1774
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0ae16f5-619d-4425-b740-c7787aa0f319",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1774,
+        1776
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85a7dfdd-b46b-40b0-a198-e36d4dd64827",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1776,
+        1777
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3584f826-62b8-47c7-a351-09ad01a22855",
+       "type": "word",
+       "value": "читав",
+       "textRange": [
+        1777,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c148ede5-0862-4508-a118-c2154b4f14e8",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1782,
+        1783
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але не читав»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e845e829-a7f2-4c93-8204-f6ea310015f7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1783,
+      1784
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "109ed322-e100-40d3-b867-03e7e5402494",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1784,
+      1785
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Гоголь відповів, що «чув про неї, але не читав».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Сергій Аксаков запитував Гоголя, чи читав він комедію Квітки-Основ’яненка «Приезжий из столицы, или Суматоха в уездном городе» Гоголь відповів, що «чув про неї, але не читав».",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,415 @@
+{
+ "id": "745909e5-d9fa-4d3e-b3c2-c59ca7482159",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2105a185-2ae2-4278-ab09-0b54822a51f2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "82d3ec99-5ec1-48f3-aada-a4b2ef0ba356",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "34cedf08-b9dd-4972-a7d7-2e57d7f9dc12",
+       "type": "word",
+       "value": "Насилу",
+       "textRange": [
+        9283,
+        9289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b32c09c2-dc7e-4872-ab68-916f64f17f5c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9289,
+        9290
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a16b2363-c047-4cc7-ad2d-aa5e479f1fc7",
+       "type": "word",
+       "value": "здолавши",
+       "textRange": [
+        9290,
+        9298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dce16c5d-9f78-4fb0-a906-1dd47a6fd029",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9298,
+        9299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c287b630-ede8-4b7f-9796-0d15a39ee25b",
+       "type": "word",
+       "value": "зачудування",
+       "textRange": [
+        9299,
+        9310
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Насилу здолавши зачудування",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae80154b-c6c1-4e5f-9fed-df90783fb62f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9310,
+      9311
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6259d57f-ba4c-497a-b9e2-cbc2ee1bcc2d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1bc75f54-e767-4256-bfa3-fcf847fcbe77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9311,
+        9312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "7296be58-0069-4ebe-b467-baa8f799bcbf",
+         "type": "word",
+         "value": "Ярка",
+         "textRange": [
+          9312,
+          9316
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "eb32229d-a867-4c4b-80cd-e9978af23397",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "446e88dd-25a4-442e-a39f-715f0d1a28d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9316,
+        9317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5553a13f-42b5-4df7-9d27-d419b56cd4ed",
+       "type": "word",
+       "value": "обережно",
+       "textRange": [
+        9317,
+        9325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "824ef140-c680-4b8c-a86d-dab51e74429b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9325,
+        9326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b399e219-6c5b-495b-bc7e-adf95d73a12e",
+       "type": "word",
+       "value": "вертає",
+       "textRange": [
+        9326,
+        9332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c748e656-1dff-476c-b736-322dcb49e0a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9332,
+        9333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53cf0e4a-689b-41a3-94d5-8581d0cc1914",
+       "type": "word",
+       "value": "скарб",
+       "textRange": [
+        9333,
+        9338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da8dadef-ca12-42ea-a8a5-b8b06c893d4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9338,
+        9339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08984ad4-747f-40fc-8ce7-c909b2fd98ac",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        9339,
+        9341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4518a155-3e6d-4047-8a54-9c9909dd23fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9341,
+        9342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ef6e9d2-250a-40de-9e34-e458527aa528",
+       "type": "word",
+       "value": "місце",
+       "textRange": [
+        9342,
+        9347
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Ярка обережно вертає скарб на місце",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4c807303-b1f9-410f-bae0-f91b7602c984",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9347,
+      9348
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ed17eab-be52-454b-9de4-9b7338af6332",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0d026023-0e4c-431f-8986-8c8e4a1db440",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9348,
+        9349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45df98f9-5157-473b-b282-d8c668267fb2",
+       "type": "word",
+       "value": "намагаючись",
+       "textRange": [
+        9349,
+        9360
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aad0335b-c616-4535-9fb5-d50c8ddd95d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9360,
+        9361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fe07a6a-49eb-4b2a-9361-a78e76ae38c3",
+       "type": "word",
+       "value": "навіть",
+       "textRange": [
+        9361,
+        9367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38f026ec-79e7-4098-ac5c-f909f016f304",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9367,
+        9368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22d58bd9-ad8f-42af-a8b0-d3b7232bf85d",
+       "type": "word",
+       "value": "каміння",
+       "textRange": [
+        9368,
+        9375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44757eb8-3d73-40d5-a788-e87cfda45d2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9375,
+        9376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2776f0d3-6b5e-4b85-9d5c-5e295340eff4",
+       "type": "word",
+       "value": "скласти",
+       "textRange": [
+        9376,
+        9383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5358ff03-be28-41bb-9dd7-d9ba4caa94a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9383,
+        9384
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02c8a43c-8660-4b17-8e49-256e79103099",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        9384,
+        9387
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " намагаючись навіть каміння скласти так",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5970cd49-459c-48ad-9725-a0996a316ab0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9387,
+      9388
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "745b8eeb-d5f2-4008-9d96-2c84a0e8be0c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a6a98806-6fdd-4382-8012-ebbc796158d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9388,
+        9389
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7388285-28b6-4eb9-baaa-8de7b0e0306b",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        9389,
+        9391
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e34bccb-371b-4a7a-baa6-de9d6e49c05f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9391,
+        9392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4495a1e8-dc1d-491b-8eda-6cef5a9fb06b",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        9392,
+        9396
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як було",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a70fb1e-67af-480e-b497-492e51faa785",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      9396,
+      9397
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3763d364-4c90-40ec-905f-374d7d0d0c42",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      9397,
+      9398
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Насилу здолавши зачудування, Ярка обережно вертає скарб на місце, намагаючись навіть каміння скласти так, як було.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Насилу здолавши зачудування, Ярка обережно вертає скарб на місце, намагаючись навіть каміння скласти так, як було.",
+ "concept": "SYNTAX"
+}

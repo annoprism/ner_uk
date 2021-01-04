@@ -1,0 +1,563 @@
+{
+ "id": "c8f1eb2e-0330-4368-9d1b-8e5034dc7bd3",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "73d56f57-fa98-4a9c-9856-9e40dc0f3751",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7692be50-e6a3-4291-ad2b-1fb0d9cbd01d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "38c12fde-61de-4bb6-8a16-b4ae15998301",
+       "type": "number",
+       "value": "1",
+       "textRange": [
+        2920,
+        2921
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "1",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2d732892-22ac-4cfc-a965-6f2d4452d55a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2921,
+      2922
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "1",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b2e82c95-d7b2-448f-9e46-48f3b6a8dcbe",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ce502476-386b-4130-9e6b-3aacaac16256",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5846c0ad-42a4-4e9b-a031-f69f8cfe7e1b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2922,
+        2923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73f1dd6e-2e1f-402c-9fac-168cbc2ddbb6",
+       "type": "word",
+       "value": "Поставити",
+       "textRange": [
+        2923,
+        2932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce9473bc-fe72-4499-8bb9-f4911b2288bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2932,
+        2933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3e8bc87-808c-4a7b-ac4a-4ba119e95937",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2933,
+        2935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82449068-c469-490c-8ae4-9a4a23f74f4c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2935,
+        2936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f51ffa0-11f3-440f-81de-d71814bef867",
+       "type": "word",
+       "value": "перше",
+       "textRange": [
+        2936,
+        2941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86368ca9-2274-4145-9ffa-99d8c4b413ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2941,
+        2942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd8a09c1-9800-4a58-a4d8-b94679c53045",
+       "type": "word",
+       "value": "місце",
+       "textRange": [
+        2942,
+        2947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90fcdc77-3ff5-447f-a458-1bcd89150977",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2947,
+        2948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bd3f6b0-962b-420c-ba66-55a302717e12",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2948,
+        2949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12e80003-1240-47a7-87ec-843cabf447a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2949,
+        2950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5c39937-aabc-493d-85ba-5fa0de8c6f51",
+       "type": "word",
+       "value": "житті",
+       "textRange": [
+        2950,
+        2955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cc300f3-e8c3-4256-8f85-6e1804b6432e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2955,
+        2956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0b0be79e-739d-4fcb-ab43-ac2b76b29337",
+         "type": "word",
+         "value": "Бога",
+         "textRange": [
+          2956,
+          2960
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3620975a-09c8-4822-bde5-ec2f26a48c3f",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f4960c00-e600-4f08-b168-a9c5b4f868c2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2960,
+        2961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d12f9a9-7112-4e75-8fce-987881884c79",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2961,
+        2962
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c076f113-31e1-4a51-9f5b-e4d37cdd12eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2962,
+        2963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6639a564-6399-44e3-80c8-bb90beb7b122",
+       "type": "word",
+       "value": "Його",
+       "textRange": [
+        2963,
+        2967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a101e33c-dd85-4f26-9bdc-99918811ef88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2967,
+        2968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eda7039e-201d-40a6-b995-a1235b1c63eb",
+       "type": "word",
+       "value": "правду",
+       "textRange": [
+        2968,
+        2974
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Поставити на перше місце в житті Бога і Його правду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d8ffbf5-df1c-49da-83fe-c977f3896346",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2974,
+      2975
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a6fc283d-9aaf-4370-a6c8-702390bbc7f7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1a7099ed-58e1-4a99-ad7c-54d0c98dbf48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2975,
+        2976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42630022-5736-465a-85e9-1d18a9397dd9",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2976,
+        2977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3ee2640-188f-493c-acf8-f8cd45d2db92",
+       "type": "word",
+       "value": "Кращий",
+       "textRange": [
+        2977,
+        2983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "274245bb-5e28-40d1-8adc-2ee0d85c09cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2983,
+        2984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff869c9c-febd-4f92-8cd0-b8c013971cc9",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        2984,
+        2987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "072cdaf7-4a38-4ac1-a8d2-2ba52cc7126d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2987,
+        2988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45064d89-aa50-4dd8-8407-5d3bd8b2d692",
+       "type": "word",
+       "value": "мене",
+       "textRange": [
+        2988,
+        2992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65206694-8049-431f-af0e-daff71ffacc1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2992,
+        2993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f7b5586-d406-4479-888c-27c7280d43a4",
+       "type": "word",
+       "value": "Закон",
+       "textRange": [
+        2993,
+        2998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc528169-ec8f-4257-833c-e8674f202d26",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2998,
+        2999
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5e2205d-6ea1-4086-822c-3da2b56a1fac",
+       "type": "word",
+       "value": "уст",
+       "textRange": [
+        2999,
+        3002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c27b0b0-e3ae-40b8-91ae-0b9ad2c5edf8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3002,
+        3003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a45af2c9-c02f-40b6-a70b-af351246babf",
+       "type": "word",
+       "value": "Твоїх",
+       "textRange": [
+        3003,
+        3008
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Кращий для мене Закон уст Твоїх",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4731ab2f-c5e1-4601-9111-46d2412c170f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3008,
+      3009
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1a83bea2-7684-4a50-beec-3b03606c03e2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5bb000b9-e0d4-41e2-acff-be5890ab0406",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3009,
+        3010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1775fbb-1e69-4aec-b208-f3b4275609f7",
+       "type": "word",
+       "value": "ніж",
+       "textRange": [
+        3010,
+        3013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2424fa1-2702-4281-9270-d31510cffc60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3013,
+        3014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d675d81d-f921-47c0-be36-67251f0a4526",
+       "type": "word",
+       "value": "тисячі",
+       "textRange": [
+        3014,
+        3020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a8207fe-73b3-400f-ae41-77e2c5ab5976",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3020,
+        3021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "333b7e07-9704-4dff-885d-c42b3f469502",
+       "type": "word",
+       "value": "золота",
+       "textRange": [
+        3021,
+        3027
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "585d1193-ea30-42aa-8b52-f09b739b0967",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3027,
+        3028
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff8c530f-d33e-455f-9e31-22cf8a1c40fe",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        3028,
+        3029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1f4b83d-76e0-48fd-9e00-832c0ebb0a6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3029,
+        3030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f971828f-6499-4c9c-b56a-1c92ce359b28",
+       "type": "word",
+       "value": "срібла",
+       "textRange": [
+        3030,
+        3036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8218350-98b6-4b41-984d-d8005740c3be",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        3036,
+        3037
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ніж тисячі золота й срібла»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fba34145-b11f-41f2-be2f-40553288c4ea",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3037,
+      3038
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10b633b1-e43e-4acc-96ed-15e6be95a650",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3038,
+      3039
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Поставити на перше місце в житті Бога і Його правду: «Кращий для мене Закон уст Твоїх, ніж тисячі золота й срібла».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "1 Поставити на перше місце в житті Бога і Його правду: «Кращий для мене Закон уст Твоїх, ніж тисячі золота й срібла».",
+ "concept": "SYNTAX"
+}

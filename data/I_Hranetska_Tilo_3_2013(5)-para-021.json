@@ -1,0 +1,423 @@
+{
+ "id": "56eb59c3-5c17-458d-a4f4-7332d94b220e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "1d9930ae-b11b-409c-8afe-0e681415ca10",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "71a02d43-6019-4844-b3a9-5a422c200959",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1825695a-8906-493f-89a7-bb80b5a5f984",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6923,
+        6924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cf4a3d1-7ee1-4e17-bf18-4f4613982e23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6924,
+        6925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1240a7c9-8d7b-4765-8227-3d32a5f2d4cb",
+       "type": "word",
+       "value": "Агов",
+       "textRange": [
+        6925,
+        6929
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Агов",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95aee993-f479-4c56-83b4-91962fe84d52",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6929,
+      6930
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b442804d-8355-40a7-ac5b-afa880321e34",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5067be3e-f421-4f7e-af68-8effe48efc5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6930,
+        6931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6870d3ed-6fd4-4e91-8eff-de6753af3c02",
+         "type": "word",
+         "value": "Джеку",
+         "textRange": [
+          6931,
+          6936
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5819c009-7f32-4a7d-b8cc-cfa414727fd9",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Джеку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bb1876bc-ff7c-45bb-a88f-10e532f70dec",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6936,
+      6937
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "577e622c-cff6-4921-95b0-5929ed4a50c7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "defed6b0-cdab-4cd3-b2c4-c68ed1dcc34f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6937,
+        6938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49e59321-9df6-495e-a3dc-8f5741091025",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        6938,
+        6939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37072811-0819-4835-8e01-e51b6839a0b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6939,
+        6940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "396e4cd6-cf5a-44ed-9365-b4521aafac72",
+       "type": "word",
+       "value": "чому",
+       "textRange": [
+        6940,
+        6944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16e16e87-08f8-4477-ae7b-e1f11c106153",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6944,
+        6945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68a60da6-6c20-4c2e-bfc2-cff4f36f1f1c",
+       "type": "word",
+       "value": "ти",
+       "textRange": [
+        6945,
+        6947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc973963-b15e-4886-b0f5-83f6c822f32e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6947,
+        6948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8483785-5ad6-4df6-b560-1bed3f214ae9",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        6948,
+        6950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcfbb1ad-3997-469d-9d53-be5b00b23c5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6950,
+        6951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "170246fa-cbac-45c1-a0ff-3cd11952d750",
+       "type": "word",
+       "value": "радієш",
+       "textRange": [
+        6951,
+        6957
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а чому ти не радієш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6e3c310b-2d2b-4a01-bffb-844f45d18fdb",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      6957,
+      6958
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Агов, Джеку, а чому ти не радієш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a799befb-e479-429b-b582-afe1adbefdd5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d9fcfe2b-f5bd-4226-ab32-a252161d7659",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fbabeccb-26ca-4304-abfa-f8e792a4a705",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6958,
+        6959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8d40692-8fae-4208-902d-696d5fc03ea8",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6959,
+        6960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a934ab63-2eb9-443b-8740-d095f16f401a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6960,
+        6961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "caa1e06b-9ac9-4592-8a1d-112b4af0175a",
+       "type": "word",
+       "value": "штовхнула",
+       "textRange": [
+        6961,
+        6970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3674f733-fb06-4122-ac63-66085620e8ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6970,
+        6971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a6ff3c8-dd69-478b-80d4-9ae71961df05",
+       "type": "word",
+       "value": "американця",
+       "textRange": [
+        6971,
+        6981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4adfdf10-ee5f-431f-a842-0e94008d72be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6981,
+        6982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af43bb61-863d-4f0d-9c48-458adbd71c7e",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        6982,
+        6983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5461e643-6959-434a-a933-a446b73046f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6983,
+        6984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1b49696-7744-44d9-bab7-05a6587e852c",
+       "type": "word",
+       "value": "бік",
+       "textRange": [
+        6984,
+        6987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da8429b7-7c3e-43fe-983e-ffdce9e548a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6987,
+        6988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5fe71dc3-69d1-4f56-859c-e4cba42a0537",
+       "type": "word",
+       "value": "новопризначена",
+       "textRange": [
+        6988,
+        7002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13c07223-d1c6-4d60-9c13-93b038549cb3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7002,
+        7003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "143cd7cb-d2ff-4202-9977-340052208ba9",
+       "type": "word",
+       "value": "британська",
+       "textRange": [
+        7003,
+        7013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53d3c353-0204-459e-9c7e-68eefb101d46",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7013,
+        7014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53268c81-21e5-4624-8d35-2ac7810f23fa",
+       "type": "word",
+       "value": "прем’єрка",
+       "textRange": [
+        7014,
+        7023
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — штовхнула американця в бік новопризначена британська прем’єрка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6b7a994-4203-4eaa-83b1-4e321222563e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7023,
+      7024
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54d8590c-3246-421c-aa0e-4f486b87f3be",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7024,
+      7025
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — штовхнула американця в бік новопризначена британська прем’єрка.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Агов, Джеку, а чому ти не радієш — штовхнула американця в бік новопризначена британська прем’єрка.",
+ "concept": "SYNTAX"
+}

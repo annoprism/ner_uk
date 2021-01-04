@@ -1,0 +1,317 @@
+{
+ "id": "4e38d36e-473a-47b1-bd9a-fd6bafab9900",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7db7eeea-ec1d-4a68-a99a-92cfb0a383ae",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4f6b467a-32e0-4629-9515-a9042e31a1bf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9f5a9ca7-f234-4332-baf2-8432e4134c08",
+       "type": "word",
+       "value": "Сьогодні",
+       "textRange": [
+        144,
+        152
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Сьогодні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1279e286-f9ca-4db6-9c1b-92b034c5d462",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      152,
+      153
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "304e658d-b3b9-4df3-a7b0-1a9bc407e75a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5135ab32-23f9-4dc4-95d0-0df728adbf94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        153,
+        154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02b81d7e-5612-473c-9b93-788460dd98d2",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        154,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7d5b6d9-088a-4586-a0a8-600f54c70ada",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        155,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb8125b6-4fb0-44aa-bdec-7fd0868d1f46",
+       "type": "word",
+       "value": "день",
+       "textRange": [
+        156,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01b4bf48-ed3c-4003-b77b-1e4d0d1371e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        160,
+        161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f17eb9a-3675-48fa-be94-30a11d2cabfb",
+       "type": "word",
+       "value": "зимового",
+       "textRange": [
+        161,
+        169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de6c748b-83fc-408f-87f8-4024d5d29776",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        169,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b2e5c72-4a94-4295-a172-518b329c4468",
+       "type": "word",
+       "value": "сонцестояння",
+       "textRange": [
+        170,
+        182
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у день зимового сонцестояння",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f32d227e-4955-4be8-b18b-bec908ca3bca",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      182,
+      183
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3cce6d4f-7e03-4445-9636-66c373230c3d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e375fe38-aa01-45be-9661-27166d6139ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        183,
+        184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19a02e2d-d9c3-4f06-a4f1-37a5769607eb",
+       "type": "word",
+       "value": "планета",
+       "textRange": [
+        184,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0a554e0-1be0-477e-8026-fca1f987c734",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "096939f1-f43a-424a-bbb1-095e8b97ed0b",
+         "type": "word",
+         "value": "Земля",
+         "textRange": [
+          192,
+          197
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1e58ff9c-9ed2-4205-88fc-67728122f432",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3063a624-ade4-402b-852c-c0952e1272e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        197,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aff2db7a-6573-4f8d-a073-ffc6d1b42aee",
+       "type": "word",
+       "value": "отримує",
+       "textRange": [
+        198,
+        205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e5d228c-67da-44d2-8164-db8bc8ab3c73",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        205,
+        206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6fd5cd60-f46b-49a6-8d4b-fcec0c8c6443",
+       "type": "word",
+       "value": "найменшу",
+       "textRange": [
+        206,
+        214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f886080d-86bf-4f22-b0bb-254077d570f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        214,
+        215
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41b27d53-2281-4a43-83e7-e136b85ae0f5",
+       "type": "word",
+       "value": "кількість",
+       "textRange": [
+        215,
+        224
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "836cf8c5-887b-4cce-a2b7-ef1fd15b0b0b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        224,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cdbaad9-3c9e-466f-b5a8-ea36ba610b43",
+       "type": "word",
+       "value": "сонячного",
+       "textRange": [
+        225,
+        234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7978132b-dc62-4463-9abd-9c4f8c054a3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        234,
+        235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "150858d9-dd76-402a-832e-3027bdb6bd4b",
+       "type": "word",
+       "value": "тепла",
+       "textRange": [
+        235,
+        240
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " планета Земля отримує найменшу кількість сонячного тепла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f360d2ce-d097-4496-87d0-fbba3a943e43",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      240,
+      241
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4161b89-38bd-4338-b603-c0d7bf49af33",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      241,
+      242
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Сьогодні, у день зимового сонцестояння, планета Земля отримує найменшу кількість сонячного тепла.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Сьогодні, у день зимового сонцестояння, планета Земля отримує найменшу кількість сонячного тепла.",
+ "concept": "SYNTAX"
+}

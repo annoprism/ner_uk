@@ -1,0 +1,233 @@
+{
+ "id": "a2b0489f-9328-4671-a1e4-919340210aa5",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "cd17e842-6a23-4e03-91df-98bea8ec62b7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8c3614d0-d0e7-480f-8d26-c784aafa3fec",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae6e5d83-694a-4113-89eb-9935ba465700",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        7233,
+        7234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4ad6c7c-6f30-4c33-a50d-de0b81327948",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7234,
+        7235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33bab189-d095-4e67-ad09-6ca2d3911446",
+       "type": "word",
+       "value": "Мамо",
+       "textRange": [
+        7235,
+        7239
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "– Мамо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "72acd39b-5f4e-4294-9ef2-c02a70ce13e1",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      7239,
+      7240
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "– Мамо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0c34c5b0-2645-43a6-8238-5a2fa9e00df8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ccb77617-2c9b-4e18-8c99-f808e2bccc11",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f38f0a01-063c-453e-ab65-90153d23582c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7240,
+        7241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1bc4d980-8aff-4ad2-b1ea-622077115f65",
+       "type": "word",
+       "value": "Ти",
+       "textRange": [
+        7241,
+        7243
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Ти",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54c0afdf-e038-43d4-b7c8-e7baa49bdbb0",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      7243,
+      7244
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Ти",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ce03408f-8cac-4def-bf7d-d375355352c5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "dcd5c793-2d3c-4aa1-813e-31c4720bfbc5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6a899e6a-80a4-46fc-a962-149f0a07a957",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7244,
+        7245
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6ed6a35-2c82-43f1-91a1-6aaf088eee1c",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        7245,
+        7246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da0daa04-e51a-450a-945c-745267c97449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7246,
+        7247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "144a7ace-f7b6-4ca3-bdef-6cbe56376062",
+       "type": "word",
+       "value": "розгублено",
+       "textRange": [
+        7247,
+        7257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a246b5b6-4f4b-42ea-9c87-e6f097032e9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7257,
+        7258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9ff79a0-4170-4668-aa94-7d023c9a1a89",
+       "type": "word",
+       "value": "белькоче",
+       "textRange": [
+        7258,
+        7266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef8671f5-dd04-40df-961f-f027fa9cb696",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7266,
+        7267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "12c2b238-aa42-4769-b910-ac3d9f43e1a7",
+         "type": "word",
+         "value": "Аліна",
+         "textRange": [
+          7267,
+          7272
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c270eb94-324f-4065-b8f6-42649e3a83c1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " – розгублено белькоче Аліна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0e9cd0eb-213d-433a-a525-a85f70b4df43",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7272,
+      7273
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "228aefd7-e73f-4f3e-b29e-563fe2f52d6b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7273,
+      7274
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " – розгублено белькоче Аліна.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "– Мамо Ти – розгублено белькоче Аліна.",
+ "concept": "SYNTAX"
+}

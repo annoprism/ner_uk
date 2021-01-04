@@ -1,0 +1,646 @@
+{
+ "id": "0a53a2e0-5186-4cde-b899-1886d6af00db",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "56ea1436-3a68-4cdd-b775-e9ba168bdaa5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "524c6949-f784-4b2b-9198-4bf3648926b8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "4e778a89-2fc0-4246-acef-66320522ae5e",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          5103,
+          5108
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "feefa525-37d0-4638-802c-ba8dac82b205",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f23a5828-cfea-4435-96fc-93fd3990548b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5108,
+        5109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2b39d3a-b31c-426a-acbe-558d54cb7f9f",
+       "type": "word",
+       "value": "вхопив",
+       "textRange": [
+        5109,
+        5115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28eef4da-1947-457c-9518-0ba66733d505",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5115,
+        5116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e3f8c78-aab9-48b9-a0af-97ab0146ee98",
+       "type": "word",
+       "value": "камеру",
+       "textRange": [
+        5116,
+        5122
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Данко вхопив камеру",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5a43975e-fd6b-4fd5-84b4-df34004a2c24",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5122,
+      5123
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "541ae258-1422-4ee8-87b5-2533f8687e94",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0e9abc96-732a-4add-9a8b-a7b4e714e71b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5123,
+        5124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "590cdf7d-10f4-484d-a1ed-de8db7e8dffa",
+       "type": "word",
+       "value": "наставив",
+       "textRange": [
+        5124,
+        5132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1ba0fe4-b2fd-43bc-a19d-e6a836129cd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5132,
+        5133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cd14b15-fa3b-456f-a0f7-980e7fd30c2e",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5133,
+        5135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2f07d2f-6d59-4449-a649-40f75f5b2d1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5135,
+        5136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c1a1c3bf-6e31-4058-af8d-2f7d1b36e96a",
+         "type": "word",
+         "value": "Дору",
+         "textRange": [
+          5136,
+          5140
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1b6579b2-4d71-4bab-8bb1-0dcffec55d5b",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2671f86c-9b12-4a3c-bcc8-9a8f602cfc2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5140,
+        5141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3aab43d5-a865-4528-b4d2-08d4da0e9814",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5141,
+        5142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2dc84912-7ec9-4178-8c66-c045abfa31f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5142,
+        5143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a196a0d2-0bbb-46af-b96e-2dfbf313dad9",
+       "type": "word",
+       "value": "раптом",
+       "textRange": [
+        5143,
+        5149
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75cfc3f9-a127-445c-a38b-93f5629c7815",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5149,
+        5150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9467c098-0464-4a16-b15e-48fce6791e35",
+       "type": "word",
+       "value": "закляк",
+       "textRange": [
+        5150,
+        5156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42c766dc-1173-4a2c-a47e-b24efbddffd1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5156,
+        5157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90a0dd54-c5d1-4fda-b995-ab9200ed26d5",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5157,
+        5158
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c188b5e8-f06c-4232-9879-96057922373e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5158,
+        5159
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "145900d9-6a3e-408b-8967-96648e5cdaf1",
+       "type": "word",
+       "value": "знітився",
+       "textRange": [
+        5159,
+        5167
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наставив на Дору і раптом закляк - знітився",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aac37fda-6545-4367-92c0-3dad37c340ca",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5167,
+      5168
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dda0efd7-fead-4e65-a532-62ccf74113ed",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bbcb0ca5-3caa-48dc-8e62-9013e5dc44f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5168,
+        5169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "245b84bf-fa56-4ce3-b6e9-62554430512e",
+       "type": "word",
+       "value": "серце",
+       "textRange": [
+        5169,
+        5174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "523a1436-aac7-4835-aef3-7a227500ad7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5174,
+        5175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09d7d331-fd41-4871-b35e-dd3bab61b5f1",
+       "type": "word",
+       "value": "закалатало",
+       "textRange": [
+        5175,
+        5185
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " серце закалатало",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a4c3e246-eaa1-4a88-a4e6-5f0de99e38f3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5185,
+      5186
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Данко вхопив камеру, наставив на Дору і раптом закляк - знітився, серце закалатало",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "08e767b4-906c-48d2-b732-49adf50d4325",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1064802f-50d9-4330-9ddd-6255379aebc0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8ef09255-9c48-414c-af11-844a80d0ab7b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5186,
+        5187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3f333a9-6d81-4718-ab43-489154c1327e",
+       "type": "word",
+       "value": "Хотів",
+       "textRange": [
+        5187,
+        5192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af056f68-3e32-4c6b-a06f-58b32524aa0b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5192,
+        5193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab5ede28-01c4-4afe-91e9-2424b77c2929",
+       "type": "word",
+       "value": "крикнути",
+       "textRange": [
+        5193,
+        5201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf1c8836-cbb5-4ae5-837b-ce42bda5fc65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5201,
+        5202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4067c0e-d6ad-4a71-a90f-53dcd30da95b",
+       "type": "word",
+       "value": "їй",
+       "textRange": [
+        5202,
+        5204
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хотів крикнути їй",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3b216774-0a79-4e4c-84f5-d4754361c960",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5204,
+      5205
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aa94bcec-5d92-4677-9f25-ba1c3a1b0758",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a94ae87e-89ee-48b6-b9dc-f67fe75a073d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5205,
+        5206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76a6092e-0b0f-486d-81b0-2d7c198fd8c8",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        5206,
+        5208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a1a7a5e-a0c9-42ea-94b4-1fbf67c7e915",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5208,
+        5209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff2f4adf-94de-4126-bfb5-f847d2a26faa",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        5209,
+        5213
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3db3153a-f411-446b-b17d-11f52b0ec396",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5213,
+        5214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f702682c-4a89-4bd1-9835-3a70430a71b9",
+       "type": "word",
+       "value": "прошепотів",
+       "textRange": [
+        5214,
+        5224
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " та лише прошепотів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6cdf7e4-c36b-4e18-8c8b-98e71279e8e5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5224,
+      5225
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "848c1d4a-95e9-483c-b685-4fc5f4b47b15",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e7f474c0-ed44-4068-a03e-d3f181b3dd36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5225,
+        5226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1abc7ad-8baf-4061-a4df-7dbdbef6f286",
+       "type": "word",
+       "value": "хоча",
+       "textRange": [
+        5226,
+        5230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdf7148d-d2e6-4df5-bcf5-3821c1ab1a15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5230,
+        5231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5f89958-452a-494a-abc4-0a2a2ebf8696",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5231,
+        5232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9c41b98-706d-4cc0-98b7-398f8904f379",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5232,
+        5233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a9488de-fb7d-44e2-9b99-39bf429d2d06",
+       "type": "word",
+       "value": "знав",
+       "textRange": [
+        5233,
+        5237
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd45b088-125a-4c51-b133-777a5d080c3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5237,
+        5238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f049b2b0-beaa-4de0-9b77-cb8bc0454ce9",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5238,
+        5239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4bffaa8d-5fe0-4308-a343-245ea943ef8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5239,
+        5240
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee1719ba-1001-4552-a70a-f3081fba4cb1",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5240,
+        5242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64e7975c-f15d-4d29-80ac-de2e4810a294",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5242,
+        5243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b338ddf9-f503-4b7e-83eb-950a53184f06",
+       "type": "word",
+       "value": "почує",
+       "textRange": [
+        5243,
+        5248
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хоча і знав - не почує",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e899be22-304a-4bf5-9e2b-e9ee5aa0d93e",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      5248,
+      5249
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "df360ff8-f956-4ca7-9ab8-7b602498cb91",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5249,
+      5250
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хотів крикнути їй, та лише прошепотів, хоча і знав - не почує:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Данко вхопив камеру, наставив на Дору і раптом закляк - знітився, серце закалатало Хотів крикнути їй, та лише прошепотів, хоча і знав - не почує:",
+ "concept": "SYNTAX"
+}

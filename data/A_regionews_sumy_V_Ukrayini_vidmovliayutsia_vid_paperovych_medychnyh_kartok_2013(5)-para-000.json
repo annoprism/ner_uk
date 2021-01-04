@@ -1,0 +1,598 @@
+{
+ "id": "67cc2ef9-aec7-45ce-bce4-dc2d983a3307",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "538c7711-04d5-406b-b49b-6fb4d5000583",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "427d2aa8-418c-407c-a04a-4b1246e3855a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "823067a2-47b9-460e-8212-a3c13cd121bb",
+         "type": "word",
+         "value": "Міністерство",
+         "textRange": [
+          0,
+          12
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2fee57b2-577c-4b80-9843-7fc6b0948343",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          12,
+          13
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5be4ba2d-77da-421b-9e89-ee9e42d57fc8",
+         "type": "word",
+         "value": "охорони",
+         "textRange": [
+          13,
+          20
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d0459ad6-2fdd-4594-bb5e-b42c9255b294",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          20,
+          21
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "96491c4e-101f-4ca3-9874-55065f11e7d6",
+         "type": "word",
+         "value": "здоров'я",
+         "textRange": [
+          21,
+          29
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "12a7f368-8538-469d-87ef-c3c714a0dbe6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          29,
+          30
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a104ec3e-9abd-4d3a-8f11-380030947e53",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          30,
+          37
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e585b93b-5c71-4bc4-95ef-f440b3c1828c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ec15e446-24dc-4340-a8e3-d7c4c6ac02b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        37,
+        38
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83c4b2c6-abbb-4199-ba32-cd892b500076",
+       "type": "word",
+       "value": "впроваджує",
+       "textRange": [
+        38,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3ed0c32-5560-463c-b85a-05997ea4a5cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "7d69665a-aa2d-4629-86be-83c54ee10928",
+         "type": "word",
+         "value": "Всеукраїнський",
+         "textRange": [
+          49,
+          63
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7997c7df-b122-445b-a3bc-218037188374",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          63,
+          64
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "94ff248c-c665-4e85-92ae-0b14715f8a15",
+         "type": "word",
+         "value": "електронний",
+         "textRange": [
+          64,
+          75
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b4cf9acf-b2a5-4667-8de5-a70a410c5d40",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          75,
+          76
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a6d7b6fe-dc6d-47c2-85e2-57e5064fe64a",
+         "type": "word",
+         "value": "реєстр",
+         "textRange": [
+          76,
+          82
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cb88d65d-c832-4ee9-b4ca-af8417766b64",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          82,
+          83
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "417d6701-2430-4a33-aa4f-1b857f5378b7",
+         "type": "word",
+         "value": "пацієнтів",
+         "textRange": [
+          83,
+          92
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "55c9aa72-6d57-43d5-a971-be73ea0584ae",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "dec7bfdb-54cd-4e02-a1d1-56261247d337",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        92,
+        93
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b905b7f7-f886-4597-9ff1-08f29d48d69c",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        93,
+        94
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "604f5123-e4b0-436e-86ee-121bfb959423",
+         "type": "word",
+         "value": "ЕРП",
+         "textRange": [
+          94,
+          97
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f83fa79f-ce44-4b79-8f23-ba0e3716e6d5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a8738280-ef7d-4bec-a447-e5b65fea24d1",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Міністерство охорони здоров'я України впроваджує Всеукраїнський електронний реєстр пацієнтів (ЕРП)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a84ba720-6f23-4b93-a638-19cf61251d05",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      98,
+      99
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5832cda0-d187-4bfa-9298-76ba0e676a44",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "641a4fda-b684-4ae8-b95c-6333b3586931",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        99,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b3d7eec-d9aa-4df9-955a-0d6450704a4c",
+       "type": "word",
+       "value": "після",
+       "textRange": [
+        100,
+        105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5baa0572-cd8b-42ef-9155-05701c9df025",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        105,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7c85aa3-e63b-48dc-b59f-997e28edd966",
+       "type": "word",
+       "value": "чого",
+       "textRange": [
+        106,
+        110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3a065d8-0ab4-4b5e-9139-fe18bc91c734",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        110,
+        111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "651062c5-2314-49f6-b96b-914172e80ed3",
+       "type": "word",
+       "value": "паперові",
+       "textRange": [
+        111,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4941f75c-6884-4fd1-8476-e315ea69ce19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e5adf18-93f1-4eee-944a-44edaed46809",
+       "type": "word",
+       "value": "медичні",
+       "textRange": [
+        120,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8459bb85-1648-4d4d-b064-3bf530725749",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        127,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efd7d7a1-498b-4260-a340-d133f9a64025",
+       "type": "word",
+       "value": "картки",
+       "textRange": [
+        128,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12cce986-c9fb-44f1-9baa-c9f6d4fc1da4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73911799-511e-4481-bcd1-557aaecb1a49",
+       "type": "word",
+       "value": "стануть",
+       "textRange": [
+        135,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0d0db79-586f-4e3d-8e4e-e6295a08127e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        142,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c46290ee-f873-4771-91a3-48895be9e16a",
+       "type": "word",
+       "value": "історією",
+       "textRange": [
+        143,
+        151
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " після чого паперові медичні картки стануть історією",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10adf24a-5837-493e-a546-d28bb7034668",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      151,
+      152
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1165c75a-227e-4458-b547-2ac1889769e5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9b9b9172-0682-4565-aa9c-b6c677220b92",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        152,
+        153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3536db7b-5997-4dbe-b53a-ce8a8b0726e3",
+       "type": "word",
+       "value": "заявив",
+       "textRange": [
+        153,
+        159
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45738b9f-73b8-4690-83e8-213194c29dc7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        159,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e6da2a5-ab86-4477-bf69-5b44637e7dd2",
+       "type": "word",
+       "value": "заступник",
+       "textRange": [
+        160,
+        169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "398e84e2-1c81-4597-a4ef-aeab00e30b79",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        169,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4e7b685-d891-4172-9454-44a9279a613a",
+       "type": "word",
+       "value": "міністра",
+       "textRange": [
+        170,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00317205-469c-4e76-8d4c-c48bf985224a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        178,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b869d8d4-97f0-4014-9d14-3a458fce72c3",
+       "type": "word",
+       "value": "охорони",
+       "textRange": [
+        179,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ab8e7b4-027e-4978-b33d-d265c4c83cb7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        186,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "538d58fc-3f4d-4370-b818-e57519676f4a",
+       "type": "word",
+       "value": "здоров'я",
+       "textRange": [
+        187,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f3bfbd2-6c1b-490f-83f6-462e7173563b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        195,
+        196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "573cd1b3-91ac-4def-a4ad-396e586e23f4",
+         "type": "word",
+         "value": "Роман",
+         "textRange": [
+          196,
+          201
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "19e254cd-f9a9-4f02-af03-7b2a3431a3b4",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          201,
+          202
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d1d7efa6-b676-488b-870f-8d43a41ab6e7",
+         "type": "word",
+         "value": "БОГАЧОВ",
+         "textRange": [
+          202,
+          209
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3707e0d9-35c8-4392-b08c-ed8336b40f1d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " заявив заступник міністра охорони здоров'я Роман БОГАЧОВ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78830602-2ec3-46e0-9cb1-7db8fabeaa5f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      209,
+      210
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "742a7dc4-5004-48b7-a8ac-90d579e729e5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      210,
+      211
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Міністерство охорони здоров'я України впроваджує Всеукраїнський електронний реєстр пацієнтів (ЕРП), після чого паперові медичні картки стануть історією, заявив заступник міністра охорони здоров'я Роман БОГАЧОВ.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Міністерство охорони здоров'я України впроваджує Всеукраїнський електронний реєстр пацієнтів (ЕРП), після чого паперові медичні картки стануть історією, заявив заступник міністра охорони здоров'я Роман БОГАЧОВ.",
+ "concept": "SYNTAX"
+}

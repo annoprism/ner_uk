@@ -1,0 +1,457 @@
+{
+ "id": "a7c950e2-3a70-4d5d-880e-10d0013f8c5c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0d0a44dc-d44d-43cc-9a1a-18c73560f389",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "aa4ed89a-d9a4-41ff-8615-b40f8ecb5547",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2f8fa254-7822-42d4-99a3-11cd36fe22dd",
+       "type": "word",
+       "value": "За",
+       "textRange": [
+        502,
+        504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99012de0-30eb-4d60-b4c5-6d684b41b449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        504,
+        505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66fc59b8-49c8-43e0-990e-293c6e0bcc6d",
+       "type": "word",
+       "value": "словами",
+       "textRange": [
+        505,
+        512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36c8a876-f505-48b5-b024-fc4e1f544c58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        512,
+        513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c363708a-80a9-4df2-ab4b-9fcb0945e2a2",
+       "type": "word",
+       "value": "начальника",
+       "textRange": [
+        513,
+        523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0088ff0d-59f6-4177-96e7-bd11fc1fe28d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        523,
+        524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14b6e8f4-a3c4-4a93-8fab-a495dbdcf620",
+       "type": "word",
+       "value": "відділу",
+       "textRange": [
+        524,
+        531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94e8f4b5-8d45-4614-9748-e8dd7c46088b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        531,
+        532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "370b3d69-ce55-44fb-b8ea-1f976bb9d3d0",
+       "type": "word",
+       "value": "охорони",
+       "textRange": [
+        532,
+        539
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e89ea713-bec3-4c61-9e9b-12e0740ec111",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        539,
+        540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e00597d-69ca-40df-a08a-80e65e49caf4",
+       "type": "word",
+       "value": "здоров’я",
+       "textRange": [
+        540,
+        548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2285353c-2f1a-4f2a-902f-627e136df9c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        548,
+        549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6dc6bfe6-d506-4627-b6b4-ec1f63af67fb",
+         "type": "word",
+         "value": "Ольги",
+         "textRange": [
+          549,
+          554
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "fe9d6a3e-fae8-4b43-9fd0-6d1cd2ac16fa",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          554,
+          555
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "34746444-5e18-432a-a033-93f38a3066ac",
+         "type": "word",
+         "value": "БРАТУШКИ",
+         "textRange": [
+          555,
+          563
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "21a96b65-8754-4952-b9e9-dd39ee902516",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "За словами начальника відділу охорони здоров’я Ольги БРАТУШКИ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "774973b2-b9bf-455b-8810-27daef7d5f6f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      563,
+      564
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64b6928a-086e-4148-aefc-9ebc46aef0dc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9679b710-fc4d-4d87-950b-9e8a73a82165",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        564,
+        565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b6726ab-8e7e-4965-82bc-f7434a7310d3",
+       "type": "word",
+       "value": "нові",
+       "textRange": [
+        565,
+        569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f89445da-3547-4eb6-a0d3-b0b5f4f1ca62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        569,
+        570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0d05638-de57-44b4-b355-d27b2ae74296",
+       "type": "word",
+       "value": "установи",
+       "textRange": [
+        570,
+        578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f9e9580-699e-4f14-9c4d-46c5b3692388",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        578,
+        579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b1ce620-c250-4b5e-8015-74686de6da3b",
+       "type": "word",
+       "value": "будуть",
+       "textRange": [
+        579,
+        585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12d30bc2-c6dc-45ca-bcdc-c32ba0cdd600",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        585,
+        586
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6421c25-8b1e-436f-8c9b-759dbd910e4c",
+       "type": "word",
+       "value": "окремими",
+       "textRange": [
+        586,
+        594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bdb8c0a-9f39-4bd1-b02b-0beb4ace1583",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        594,
+        595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32301fb5-ebe1-46e8-b419-29b188cc59cc",
+       "type": "word",
+       "value": "юридичними",
+       "textRange": [
+        595,
+        605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b28cac9c-471a-4cd0-a557-97127029e9e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        605,
+        606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3490c93b-f062-4162-96ba-4f8f5146cf19",
+       "type": "word",
+       "value": "особами",
+       "textRange": [
+        606,
+        613
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нові установи будуть окремими юридичними особами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f563fb5-2e75-4ac7-82ce-ab0acee45c84",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      613,
+      614
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6e148963-440e-45b5-b473-f3e4c0c11ba9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "04f5c7ee-7ebd-428c-91dd-a421953780a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        614,
+        615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d322781-8b1b-4442-921e-073ec418c17d",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        615,
+        617
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcbd1092-d5b4-4008-927e-2263c153e66f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        617,
+        618
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c55c7bb4-9700-48e8-a495-a381f34daefb",
+       "type": "word",
+       "value": "пацієнтів",
+       "textRange": [
+        618,
+        627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "671a8e57-94a8-44e3-aa1d-b0f2081e867b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        627,
+        628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afc5e25d-cce3-4b71-be9d-261a14717f2b",
+       "type": "word",
+       "value": "обслуговуватимуть",
+       "textRange": [
+        628,
+        645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf06dce6-752c-4701-b265-28cf6555006b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        645,
+        646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90eeee8c-7bb3-4ca3-a44a-c8bff13f42a0",
+       "type": "word",
+       "value": "сімейні",
+       "textRange": [
+        646,
+        653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c036bc5e-8524-4481-9a7c-ca0cae14be02",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        653,
+        654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba3f25d1-7b78-4018-8ac1-9491fa6dcd27",
+       "type": "word",
+       "value": "лікарі",
+       "textRange": [
+        654,
+        660
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де пацієнтів обслуговуватимуть сімейні лікарі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "66ca0f4f-76a4-41da-9627-5a71f87742fa",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      660,
+      661
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "350fced8-88da-4c02-9e1a-c1b1ba9709c2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      661,
+      662
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "За словами начальника відділу охорони здоров’я Ольги БРАТУШКИ, нові установи будуть окремими юридичними особами, де пацієнтів обслуговуватимуть сімейні лікарі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "За словами начальника відділу охорони здоров’я Ольги БРАТУШКИ, нові установи будуть окремими юридичними особами, де пацієнтів обслуговуватимуть сімейні лікарі.",
+ "concept": "SYNTAX"
+}

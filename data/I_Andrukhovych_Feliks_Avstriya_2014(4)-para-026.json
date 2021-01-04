@@ -1,0 +1,729 @@
+{
+ "id": "b83e8320-b522-49b1-9a02-f39b1200dc4b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d9925ae8-127d-46fa-8f69-dc7182e50258",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e6a55600-b6bf-4b4e-a4cb-49995c5cbc1d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "664aa145-b1f2-48c8-b14c-410dbd045716",
+         "type": "word",
+         "value": "Петро",
+         "textRange": [
+          11950,
+          11955
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a33f14d5-9324-4f9f-ba8c-b845ec747fc6",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "75e38902-0464-443f-98bb-06330631d6d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11955,
+        11956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8837ca82-9ebc-4a0e-a6cb-d142c9f1b3d9",
+       "type": "word",
+       "value": "каже",
+       "textRange": [
+        11956,
+        11960
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Петро каже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0d3ae715-55c9-49b1-a51d-1093dd3d425c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      11960,
+      11961
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "19a27ca0-0de2-4bf8-a532-e2f0794f4d16",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d4ed5451-cbc7-4eb0-8fc4-6150fcaa3194",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11961,
+        11962
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8584e33-37ae-4bba-90d9-531c58db5d6c",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        11962,
+        11964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90e645ef-03aa-4ca7-ac1f-67531bdee27c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11964,
+        11965
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "794b483e-82ee-40dd-ae92-b608ed23291b",
+       "type": "word",
+       "value": "почав",
+       "textRange": [
+        11965,
+        11970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6885e1fb-33f9-4c09-b2eb-8605f50b15cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11970,
+        11971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "968a91bc-3632-4058-98c6-24352fe1802a",
+       "type": "word",
+       "value": "думати",
+       "textRange": [
+        11971,
+        11977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b1af9b9-c357-47e3-b5d9-21c305d3d70b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11977,
+        11978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "827c6dcf-9ad0-49b8-b73b-2b6c20ca0e6d",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        11978,
+        11981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35fc53cd-5e0a-49b0-84b9-3305d9c3cd0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11981,
+        11982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fa88dd9-e71f-4b48-822d-c88bae31de68",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        11982,
+        11984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3824c3a6-ffcf-4523-8b07-fd2a6fdad806",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11984,
+        11985
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "002dd132-8745-4946-a91d-3572f5ee6750",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        11985,
+        11988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57b1149f-f4f2-4d1b-b892-e78d55c0f1a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11988,
+        11989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c521fbf8-d740-4579-8c60-1b07eb48e418",
+       "type": "word",
+       "value": "час",
+       "textRange": [
+        11989,
+        11992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e357500f-21a0-4765-8d67-060c7182ca01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11992,
+        11993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93925cfd-0474-46ae-a13e-811592386a8f",
+       "type": "word",
+       "value": "свого",
+       "textRange": [
+        11993,
+        11998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d3163e0-1982-4f2a-b0d4-709a5e0481db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11998,
+        11999
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9a97a31-20ee-43bd-b135-dbb3cf7fdf59",
+       "type": "word",
+       "value": "навчання",
+       "textRange": [
+        11999,
+        12007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b988acae-2cf7-4589-81ed-ff14d99ca764",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12007,
+        12008
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1b27225-afaa-4e63-b9fb-4f9766bb937b",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        12008,
+        12009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5311e503-70a5-4998-9eed-a28def2c42ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12009,
+        12010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "638af454-e037-4ede-b024-43faa7d315a2",
+         "type": "word",
+         "value": "Відні",
+         "textRange": [
+          12010,
+          12015
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4d83a789-b647-452a-a8e7-57420e924a22",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8ad62546-9fdd-4f6c-b99d-801ba5c29e38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12015,
+        12016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77dc336d-5a8c-4fa6-bf16-9792c32f58b7",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        12016,
+        12017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43996ea6-0ca3-4f6d-8d70-6d5285e2adc0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12017,
+        12018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7eb094da-7053-4569-a3b8-1d90533ba7f0",
+       "type": "word",
+       "value": "ним",
+       "textRange": [
+        12018,
+        12021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8143d9c-16af-48bc-960b-0dc0e74a64d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12021,
+        12022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31a6f8c7-774f-4d17-919f-fda161888917",
+       "type": "word",
+       "value": "завдячував",
+       "textRange": [
+        12022,
+        12032
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01ad644b-65c7-4aba-bc63-d72d744cba9a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12032,
+        12033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ed031f4-ee3b-4293-9bef-66497824b521",
+       "type": "word",
+       "value": "батькові",
+       "textRange": [
+        12033,
+        12041
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що почав думати про це під час свого навчання у Відні — ним завдячував батькові",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6ed34f45-23b4-4d13-b4db-251ab47d3f80",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12041,
+      12042
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef8d64ec-c8cb-4b4e-a34d-92de81c20ba8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d208ca58-668f-4bf6-b5bb-8b8fd73408ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12042,
+        12043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "741aae5e-a4f8-4279-a63d-2ca6e30616bf",
+       "type": "word",
+       "value": "який",
+       "textRange": [
+        12043,
+        12047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13cce0fc-42ec-4f9a-8d08-86b8e3b15c0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12047,
+        12048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4cf94c4-65fb-408e-8b9f-31e73616c453",
+       "type": "word",
+       "value": "перед",
+       "textRange": [
+        12048,
+        12053
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30e5703e-7e38-450a-833f-94361454a985",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12053,
+        12054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf720fcb-96d2-4c8c-baaf-4d5cf1e171f7",
+       "type": "word",
+       "value": "смертю",
+       "textRange": [
+        12054,
+        12060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d56beea5-f1b9-4a1d-b4f8-1b017beac387",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12060,
+        12061
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "697d4146-c3f5-4b33-8a39-a92e19961d08",
+       "type": "word",
+       "value": "продав",
+       "textRange": [
+        12061,
+        12067
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cea49d3b-24cd-4c26-9028-db94cb11ea9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12067,
+        12068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b79e5811-c5d1-4d6d-ab6f-9c802be6721c",
+       "type": "word",
+       "value": "клапоть",
+       "textRange": [
+        12068,
+        12075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9410a8d-3cd4-48c6-a9cd-a54f3c519dc1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12075,
+        12076
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbdc19b1-f36d-4765-bd4d-9d8643a2fa39",
+       "type": "word",
+       "value": "землі",
+       "textRange": [
+        12076,
+        12081
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "995269b0-1934-45af-96b5-02e3e53a90b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12081,
+        12082
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c122fde5-e110-4516-b878-d4f84cc6ea7a",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        12082,
+        12083
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61194e28-0da7-4918-bd5b-511082b63240",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12083,
+        12084
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00e797ac-048b-490e-9d19-fcadd802ae77",
+       "type": "word",
+       "value": "селі",
+       "textRange": [
+        12084,
+        12088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8f55b1b-fd3f-4ba4-a4d3-14a4b52fa460",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12088,
+        12089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "4b66d49d-562b-4090-86e3-e7b1904da6cf",
+         "type": "word",
+         "value": "Пасічній",
+         "textRange": [
+          12089,
+          12097
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d94ff299-a90b-42cf-8302-aa4a34f2075f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " який перед смертю продав клапоть землі в селі Пасічній",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f9b2e6d5-da39-41e9-955b-182048083d60",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12097,
+      12098
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "41201792-a3f9-4b77-a234-40971238b30d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dc43aed2-81f7-4e88-8c18-fd46d3cffd48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12098,
+        12099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1306385-4fa8-473a-88bd-5988dfd45879",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        12099,
+        12101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c70ce72-63ba-4a2a-90a9-69c4a7fa2a81",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12101,
+        12102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7b6a15d-c602-4c10-9506-6124e1b866ed",
+       "type": "word",
+       "value": "тепер",
+       "textRange": [
+        12102,
+        12107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "492af2bf-7ed7-4084-a702-d28b01e3145f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12107,
+        12108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1af5228-7e8c-4149-9dd2-e427396804b5",
+       "type": "word",
+       "value": "проходить",
+       "textRange": [
+        12108,
+        12117
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "712b6e64-fe8d-437d-b747-87ace4ed65e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12117,
+        12118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87e6a481-0a7c-4fcd-917e-f23e7dc69794",
+       "type": "word",
+       "value": "залізнична",
+       "textRange": [
+        12118,
+        12128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ddabdd55-e073-4b49-980d-89f2bc26675a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12128,
+        12129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "551544b6-20ea-4b3f-af47-5630862600a8",
+       "type": "word",
+       "value": "колія",
+       "textRange": [
+        12129,
+        12134
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де тепер проходить залізнична колія",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ea2406ec-32b9-401a-8796-eb084e128331",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      12134,
+      12135
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c6040f3-cd84-4d1f-a9f9-d6b6dea57923",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      12135,
+      12136
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Петро каже, що почав думати про це під час свого навчання у Відні — ним завдячував батькові, який перед смертю продав клапоть землі в селі Пасічній, де тепер проходить залізнична колія.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Петро каже, що почав думати про це під час свого навчання у Відні — ним завдячував батькові, який перед смертю продав клапоть землі в селі Пасічній, де тепер проходить залізнична колія.",
+ "concept": "SYNTAX"
+}

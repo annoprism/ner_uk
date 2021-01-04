@@ -1,0 +1,81 @@
+{
+ "id": "adc20230-6121-426b-8e23-ccd0895b5990",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e2a90c6d-34c3-414d-b51c-8c915a832e51",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "dcd8fa90-8ad0-44b3-a8b9-0a183be4d95c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8bff5b6d-eaa9-4735-9d23-87adb64cf3cb",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        6115,
+        6116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76875461-08fa-4375-9fef-86b36fd4405b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6116,
+        6117
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "4eb24786-937d-4d1a-9013-bba8f284461c",
+         "type": "word",
+         "value": "Доро",
+         "textRange": [
+          6117,
+          6121
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "00a5cdef-6e78-4982-b1da-489300ee2625",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "72c9aff6-b95a-41c6-b808-0b057783f82f",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        6121,
+        6122
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Доро…",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3fee4632-c13a-44db-b4dc-17a479486767",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6122,
+      6123
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Доро…",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Доро…",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,992 @@
+{
+ "id": "4cdd8ec0-781b-4b17-aea5-0757b1c7eb03",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "53ea705a-84e5-432a-b3ea-00114b49f055",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3798dadb-79f2-4e01-9e9e-f21e3822f917",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa214385-d2c9-4d3c-a90f-8427c820ecac",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        1254,
+        1258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2b73897-a997-40a1-b8a3-4f123c4b0569",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1258,
+        1259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5085148-26bf-4f58-b859-12cabbadee8d",
+       "type": "word",
+       "value": "місяць",
+       "textRange": [
+        1259,
+        1265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d39e9cd-e8ac-4bcd-b93c-bf9299c0e521",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1265,
+        1266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25b9795d-883a-4bba-889e-29ccefd98929",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        1266,
+        1270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d0401e2-6606-4dc0-9b67-5be6bf384eb1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1270,
+        1271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cfc584d-8bd7-4d37-91d0-e56a50293ebf",
+       "type": "word",
+       "value": "пролунала",
+       "textRange": [
+        1271,
+        1280
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "351b105d-ce4f-45a9-9265-1f7d0b12e544",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1280,
+        1281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c19421d1-57b2-48f4-ac64-aee85d41616a",
+       "type": "word",
+       "value": "вістка",
+       "textRange": [
+        1281,
+        1287
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли місяць тому пролунала вістка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "88ac58db-0a6a-4b02-9c8b-d8dad595c113",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1287,
+      1288
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "50024dbb-1840-40fe-9ad8-bcfc04e44399",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a22a7103-d97e-46c8-89fd-171f0231e3c8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1288,
+        1289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea15c01d-c022-4e0c-a259-282a707ca943",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1289,
+        1291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c91a905-5b79-49c8-ba79-ac3182796325",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1291,
+        1292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "57c2799a-454e-46d1-aa18-c771a841609b",
+         "type": "word",
+         "value": "Німеччина",
+         "textRange": [
+          1292,
+          1301
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bfea91db-f0b3-4727-877f-3a0b175d7920",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3a410e88-0f70-47e5-ab7a-0f66657bd0d9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1301,
+        1302
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29a236fe-1e70-4b21-9674-ca3c786b303c",
+       "type": "word",
+       "value": "капітулювала",
+       "textRange": [
+        1302,
+        1314
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що Німеччина капітулювала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe115c33-cd83-432c-8aac-1d34b70fc24f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1314,
+      1315
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9e6dc1fd-28a3-47a4-84c1-0b708cc72fc6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "892255fd-4110-4366-805c-4f5c178f3297",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1315,
+        1316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c022894-b616-4b87-a79a-ec061f192e4b",
+       "type": "word",
+       "value": "стало",
+       "textRange": [
+        1316,
+        1321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "259d3d44-552f-4cbd-939e-b5321a93faa1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1321,
+        1322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eba3564e-c5ad-4d2d-a7b4-aa4236ceac28",
+       "type": "word",
+       "value": "зрозуміло",
+       "textRange": [
+        1322,
+        1331
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " стало зрозуміло",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7c84eab9-54e0-4cef-87a0-704407f2eae5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1331,
+      1332
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "952f9590-3b16-41b1-9501-8fc48a26534f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a30f2fd3-e390-4d3f-a47f-1d2632670bf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1332,
+        1333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "495c4eb8-fc10-4d8d-9282-ce899c852e97",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1333,
+        1335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ebaeaf8-dc84-4cc4-9b56-37675e442d09",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1335,
+        1336
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ce5c9a4-4e16-4494-be88-16d3147441d5",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1336,
+        1337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae56b58b-7e8e-4778-9f34-b24e156250f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1337,
+        1338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9eecc4e-1b83-4741-9d09-566401fecddd",
+       "type": "word",
+       "value": "атомній",
+       "textRange": [
+        1338,
+        1345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "073b1876-6d1d-4b9a-9edc-1ab8276efac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1345,
+        1346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01fbb129-76ef-4704-8200-209a5e59f936",
+       "type": "word",
+       "value": "бомбі",
+       "textRange": [
+        1346,
+        1351
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4383896-887d-4285-9381-0ebb1e35bb3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1351,
+        1352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ec182b1-9ff4-4028-bb7f-21beb1427429",
+       "type": "word",
+       "value": "більше",
+       "textRange": [
+        1352,
+        1358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a01593f0-9d7f-4a06-ab5b-b78effc2cf05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1358,
+        1359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df0f8f18-772c-43a9-b1b3-72441581552c",
+       "type": "word",
+       "value": "потреби",
+       "textRange": [
+        1359,
+        1366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "910c963c-c650-419b-b536-6fdae9a3f7f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1366,
+        1367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d396aa2-2f35-4db5-a857-ca7cdefada4e",
+       "type": "word",
+       "value": "немає",
+       "textRange": [
+        1367,
+        1372
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що в атомній бомбі більше потреби немає",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "48faf53d-86cd-4c2a-86ba-83f544907a66",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1372,
+      1373
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли місяць тому пролунала вістка, що Німеччина капітулювала, стало зрозуміло, що в атомній бомбі більше потреби немає",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "18dc6ac7-0325-4c89-bb9b-f46224d34fbb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a82e4d1d-f424-4229-8966-f2aad26057c8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b5b1d40d-9c9e-4c0f-b85d-a8b37ddbcac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1373,
+        1374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea21fc09-d1c7-48cb-a4c5-5be91b45e60d",
+       "type": "word",
+       "value": "Що",
+       "textRange": [
+        1374,
+        1376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0281670-5e4d-4de3-8c2a-7236a1839594",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1376,
+        1377
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46b858a4-0ad0-4333-8944-6af5b3e50b6e",
+       "type": "word",
+       "value": "могли",
+       "textRange": [
+        1377,
+        1382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aad9d6db-d452-4139-be18-ec2474afe351",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1382,
+        1383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5399770b-af2a-4bc1-84d3-b85462867295",
+       "type": "word",
+       "value": "зробити",
+       "textRange": [
+        1383,
+        1390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e8f5f06-99f2-4307-a230-5b2c4d41f54f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1390,
+        1391
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fadc9312-b197-45a5-be81-38cf505bdf87",
+       "type": "word",
+       "value": "проти",
+       "textRange": [
+        1391,
+        1396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a232a167-dcb4-405b-98ed-ce2f762f3922",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1396,
+        1397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "b28fd426-9d8d-4525-a3de-2a5ec79af452",
+         "type": "word",
+         "value": "Америки",
+         "textRange": [
+          1397,
+          1404
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "47005471-b4fc-4fd7-8fce-e29a57bee924",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e1986e6b-d922-4fdd-89e9-ff1d34352737",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1404,
+        1405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26a73d6f-eb7b-402e-8770-845c6c6c0ee0",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1405,
+        1406
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b170f3f-4489-4426-a3ac-449107be8d2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1406,
+        1407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "daae07ea-8b28-4044-be2e-8c11d1576146",
+       "type": "word",
+       "value": "світу",
+       "textRange": [
+        1407,
+        1412
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afe618fe-5396-43b6-9a39-932689f7e1fe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1412,
+        1413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "247b9793-b601-4aeb-9613-544ded26fbec",
+       "type": "word",
+       "value": "японці",
+       "textRange": [
+        1413,
+        1419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f66edd42-aa07-4351-81f0-b6ebcf654f9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1419,
+        1420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c5891bb-76fe-46a8-a03c-a7110ee7ba6d",
+       "type": "word",
+       "value": "зі",
+       "textRange": [
+        1420,
+        1422
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b30513e2-4125-4fdf-8e68-670484f65f80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1422,
+        1423
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28be7461-1354-4350-8484-4ec1540dee96",
+       "type": "word",
+       "value": "своїми",
+       "textRange": [
+        1423,
+        1429
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51795b30-e209-48af-bfe6-c2f7bf8fc075",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1429,
+        1430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7824b3eb-0b7d-4a8e-83d3-b75522d95c3e",
+       "type": "word",
+       "value": "самурайськими",
+       "textRange": [
+        1430,
+        1443
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c747782d-fa5c-47e9-9170-ea42b60df9dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1443,
+        1444
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a48859bc-8091-4dbc-a1bc-a12e84081196",
+       "type": "word",
+       "value": "мечами",
+       "textRange": [
+        1444,
+        1450
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Що могли зробити проти Америки і світу японці зі своїми самурайськими мечами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8864257a-3cc5-4f68-9058-7f91dd7e997c",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      1450,
+      1451
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Що могли зробити проти Америки і світу японці зі своїми самурайськими мечами",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8b28b019-faf5-4aeb-9339-37a9aeaec2ee",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5c691025-217a-4cf5-a4fb-645787c12d2b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ebe96c2e-c09d-4d25-bc89-a3639a12c92b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1451,
+        1452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25576f8e-26f4-4648-b64c-e7a387c88302",
+       "type": "word",
+       "value": "Вони",
+       "textRange": [
+        1452,
+        1456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bee51913-1100-43e9-ae30-e425014847f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1456,
+        1457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd663efd-a525-4913-90d3-564025d47f1e",
+       "type": "word",
+       "value": "були",
+       "textRange": [
+        1457,
+        1461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4220ea09-470f-4d83-9ef3-5cfd5a2b4670",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1461,
+        1462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34506695-c218-416b-bd12-6847d512c263",
+       "type": "word",
+       "value": "очевидно",
+       "textRange": [
+        1462,
+        1470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3faa136-23fc-407d-bdf7-924b97830928",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1470,
+        1471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "124ffefe-aeec-4808-b832-642d627bf0f3",
+       "type": "word",
+       "value": "безпорадні",
+       "textRange": [
+        1471,
+        1481
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вони були очевидно безпорадні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "68ee66c1-2884-4582-91d1-0c1887c1cc4f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1481,
+      1482
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7b05eb1c-8092-43a5-bdb2-b817478c44ba",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6ee765b1-2052-43e1-bd29-30f4f6ead675",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1482,
+        1483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6e77be4-ff87-4d35-923d-30f2645501f5",
+       "type": "word",
+       "value": "тож",
+       "textRange": [
+        1483,
+        1486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23b1dcab-11e4-42e5-ae1c-7de884c9ddc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1486,
+        1487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee58c35a-9772-4d83-a0fd-617794264220",
+       "type": "word",
+       "value": "питання",
+       "textRange": [
+        1487,
+        1494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fde71087-2d5d-4924-ae06-6250ce08ba2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1494,
+        1495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa1486d1-8e2a-4908-b91b-5c64a5e684a7",
+       "type": "word",
+       "value": "їхньої",
+       "textRange": [
+        1495,
+        1501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0a8e0e7-b8e9-4e20-b49e-ccd90e880b84",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1501,
+        1502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90f19dbf-e14f-4a91-bd08-132ce5c13fda",
+       "type": "word",
+       "value": "капітуляції",
+       "textRange": [
+        1502,
+        1513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e356bdc2-7216-46e6-8a12-12daff6b5a06",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1513,
+        1514
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92ef35fc-922e-4f83-b588-f536a326b98e",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        1514,
+        1518
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83875b96-6bd8-4c9f-b46e-313b4241ce37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1518,
+        1519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fe3ef48-3b93-4973-9bbb-2a83d447fa3b",
+       "type": "word",
+       "value": "тільки",
+       "textRange": [
+        1519,
+        1525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82900dee-305d-479d-a771-d0c0789a2b12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1525,
+        1526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38eab826-1b5a-470b-b9d1-f66c0e3ef543",
+       "type": "word",
+       "value": "питанням",
+       "textRange": [
+        1526,
+        1534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6eadeba2-9237-480a-9828-f782dc9e71c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1534,
+        1535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0a5c7cd-2ddd-4b48-8e99-dfe0d1b3fd1b",
+       "type": "word",
+       "value": "часу",
+       "textRange": [
+        1535,
+        1539
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тож питання їхньої капітуляції було тільки питанням часу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "22b571c7-e64b-484d-acfa-0fd6a664da28",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1539,
+      1540
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6a788df7-85ce-46f9-b7c9-42fa93d0460e",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1540,
+      1541
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вони були очевидно безпорадні, тож питання їхньої капітуляції було тільки питанням часу.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли місяць тому пролунала вістка, що Німеччина капітулювала, стало зрозуміло, що в атомній бомбі більше потреби немає Що могли зробити проти Америки і світу японці зі своїми самурайськими мечами Вони були очевидно безпорадні, тож питання їхньої капітуляції було тільки питанням часу.",
+ "concept": "SYNTAX"
+}

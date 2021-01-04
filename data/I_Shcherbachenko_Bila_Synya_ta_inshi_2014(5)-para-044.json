@@ -1,0 +1,71 @@
+{
+ "id": "ea5b353d-f3b2-4525-aa34-58c88330b837",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7312e9b3-8195-444d-a706-da4cf1c4d688",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7876efb4-6ec7-4708-8ab8-d4accc08a7c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "7c9a5764-2bde-4bbf-850d-f25e71cf3511",
+         "type": "word",
+         "value": "Зелена",
+         "textRange": [
+          5023,
+          5029
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a86f53f9-c807-438f-ad15-1f4911490aed",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          5029,
+          5030
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a810ffc1-0fe0-4477-b9a2-061bfc77284e",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          5030,
+          5034
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1e41c5cd-a3eb-4955-9dad-0843e890225c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Зелена Киця",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4b744462-7cdb-4181-9774-8d46814496ed",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5034,
+      5035
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Зелена Киця",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Зелена Киця",
+ "concept": "SYNTAX"
+}

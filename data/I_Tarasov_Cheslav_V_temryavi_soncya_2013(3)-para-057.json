@@ -1,0 +1,859 @@
+{
+ "id": "011b9d8a-8887-491a-aefc-2e5effca1b14",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ba4a3c14-da11-4919-860b-d030ca0afaad",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3f1c46d7-4afa-485a-8d0d-6da8fb72ee6a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4c645e8d-be44-475e-b1b6-b51ecd270473",
+       "type": "word",
+       "value": "Ошелешений",
+       "textRange": [
+        10698,
+        10708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a303d0a-b56c-495a-a699-eea7b0c1033a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10708,
+        10709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2befa84e-5a5d-4702-98c2-70cc51262cc9",
+       "type": "word",
+       "value": "розповіддю",
+       "textRange": [
+        10709,
+        10719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79423d19-0157-492c-a3e6-a15baa0b3347",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10719,
+        10720
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d042cc7a-a802-45e7-9cda-33c370021511",
+         "type": "word",
+         "value": "Болеслави",
+         "textRange": [
+          10720,
+          10729
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b3b35ea9-0322-4b3f-b2b4-df18806f29c2",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Ошелешений розповіддю Болеслави",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ef55c7e-a955-486b-8534-616bdbfe37ac",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10729,
+      10730
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a23f1352-816f-4f23-81f0-d7d1a6c922aa",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "445a2984-93bf-440c-b206-82424bf691dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10730,
+        10731
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "efb2a25a-7c5a-4af2-9df6-28387ab43872",
+         "type": "word",
+         "value": "Чеслав",
+         "textRange": [
+          10731,
+          10737
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "768fc49d-c735-4d46-9000-b4a4da278bc7",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d0d000ea-9fc1-4c98-8216-797d5d146310",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10737,
+        10738
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dd35b1d-ee4c-4a45-b664-e18672056543",
+       "type": "word",
+       "value": "відчув",
+       "textRange": [
+        10738,
+        10744
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Чеслав відчув",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1424e06a-3e2e-48ba-be22-c532ed3a91cc",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10744,
+      10745
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "91c45c62-b7a6-477d-957a-6a42e594a852",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a21cdb89-11c0-4593-9187-9fdacee377de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10745,
+        10746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb239919-c373-450b-bf4f-413f3656f011",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        10746,
+        10748
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17d91b02-a5e1-40b5-b2c4-99daa9f33fa0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10748,
+        10749
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09e8ac1a-e489-4c94-b980-6423a9d1f536",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        10749,
+        10751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29909b5c-c2aa-44a6-ac87-5d61ad0de8a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10751,
+        10752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ddc4727-d7ae-4e8c-a167-44b9ce1d7790",
+       "type": "word",
+       "value": "нього",
+       "textRange": [
+        10752,
+        10757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e00020a-926a-460c-a2d4-1b686eb03c86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10757,
+        10758
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d11a97c-f39b-4a17-94d1-b4da5ca72138",
+       "type": "word",
+       "value": "немов",
+       "textRange": [
+        10758,
+        10763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5a2a21f-7f14-4313-a6c9-be09fb8d50ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10763,
+        10764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b22f24b-62a4-4c19-8dc6-4530c2f86c9b",
+       "type": "word",
+       "value": "колода",
+       "textRange": [
+        10764,
+        10770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40149442-a7a0-49dc-9359-da76cce4bb7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10770,
+        10771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6887304d-28c0-4c81-b033-26fc6c8666a5",
+       "type": "word",
+       "value": "величезна",
+       "textRange": [
+        10771,
+        10780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7374b03c-c1b6-45ce-a04c-386c6ef0b697",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10780,
+        10781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3c844e7-5784-48ed-8ba8-da54a6876cd0",
+       "type": "word",
+       "value": "впала",
+       "textRange": [
+        10781,
+        10786
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що на нього немов колода величезна впала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "521aa19d-f9d2-4313-8270-7f879b3e87e7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10786,
+      10787
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4e349d4-8287-499c-ac84-3883959ff7c7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "15d75c08-3a1e-4682-adb4-ec0cb79922fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10787,
+        10788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7d2c2c5-a130-4404-958b-c00e632450de",
+       "type": "word",
+       "value": "притиснувши",
+       "textRange": [
+        10788,
+        10799
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "291eddd9-1492-4765-97f7-02d84ad3a901",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10799,
+        10800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59c85f35-8e81-48bd-82dd-51546bea3291",
+       "type": "word",
+       "value": "всією",
+       "textRange": [
+        10800,
+        10805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e4c481f-3bce-4510-82c7-71be7dc5fc21",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10805,
+        10806
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9313a922-855c-46b6-9e2e-60c60eadce84",
+       "type": "word",
+       "value": "своєю",
+       "textRange": [
+        10806,
+        10811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f148a24-0faf-47ec-bca2-86a344b54ddd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10811,
+        10812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bef528dc-4839-4d16-bef1-e21bf32bb047",
+       "type": "word",
+       "value": "непосильною",
+       "textRange": [
+        10812,
+        10823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "191d0aee-0a40-41c6-9198-0b817097ae0c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10823,
+        10824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ba6e52c-522a-4f50-b3fe-88e8bfcf6555",
+       "type": "word",
+       "value": "вагою",
+       "textRange": [
+        10824,
+        10829
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " притиснувши всією своєю непосильною вагою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "72670f3d-9792-4575-b735-ebe97d0a16e5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10829,
+      10830
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ошелешений розповіддю Болеслави, Чеслав відчув, що на нього немов колода величезна впала, притиснувши всією своєю непосильною вагою",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b1d2b074-a9d2-48f7-aa00-14e2e548acc1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6a21c9b3-f5a3-4dd6-8640-45dd3ac4982f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "eabc77b2-f9fa-4ce5-82c2-e5207aff9d49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10830,
+        10831
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3be4e844-defb-4fea-970a-a9f5ee3fa7e5",
+       "type": "word",
+       "value": "Він",
+       "textRange": [
+        10831,
+        10834
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12c6ee04-3762-48a2-8237-f2256a1051f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10834,
+        10835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50f89eb2-088e-44eb-9f5d-fa11c7854cc1",
+       "type": "word",
+       "value": "навіть",
+       "textRange": [
+        10835,
+        10841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14932295-3b1d-4148-a7a6-1c87766214ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10841,
+        10842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9efc8575-ef51-4e9a-b2b2-82015330de0e",
+       "type": "word",
+       "value": "ледь",
+       "textRange": [
+        10842,
+        10846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1af4764d-f62b-440a-8aaf-ee59fce8ac19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10846,
+        10847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd0ef1f4-54eb-48c9-a301-18055d6e9c50",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        10847,
+        10849
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64aa6188-2c91-45fd-86f7-68dd6f695ea7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10849,
+        10850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ee10319-8b20-4599-b122-9ce8a981e99c",
+       "type": "word",
+       "value": "забув",
+       "textRange": [
+        10850,
+        10855
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3545409-977d-4ce7-b5da-5cffe8f5fcf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10855,
+        10856
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e2a98db-e7a7-4939-b042-50f88f1d5b75",
+       "type": "word",
+       "value": "запитати",
+       "textRange": [
+        10856,
+        10864
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "819b0236-cd40-4ddd-9ad6-d65ba6835f89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10864,
+        10865
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb9dcd97-f953-482e-9942-414551baea08",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        10865,
+        10867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6c8eb80-c012-4ac6-9293-135545bde150",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10867,
+        10868
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8799d505-d1ba-4cf3-9b05-a99756435c12",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        10868,
+        10871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e160840a-b709-4913-8d56-23d17e4d02df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10871,
+        10872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2a93293-430b-4330-a983-09ab445acfc0",
+       "type": "word",
+       "value": "те",
+       "textRange": [
+        10872,
+        10874
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Він навіть ледь не забув запитати її про те",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b93506a9-2582-4e51-ac54-29ac2379497e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10874,
+      10875
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c910272-b916-4aff-bf11-35ddad0436d6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7e952d4c-7435-4595-82a4-0a5072c94e40",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10875,
+        10876
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12ed9bd1-48d2-4c71-8213-f2647b184a77",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        10876,
+        10878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4518c8e-3099-4ea8-b2b6-8dedce809321",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10878,
+        10879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12ae3685-ff65-487d-b829-45660d764fc2",
+       "type": "word",
+       "value": "стосувалося",
+       "textRange": [
+        10879,
+        10890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69fe6dde-ccc6-4263-96a2-c5e63790ad24",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10890,
+        10891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd43b228-4ca7-432d-9c9e-aec0e220464d",
+       "type": "word",
+       "value": "смерті",
+       "textRange": [
+        10891,
+        10897
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff9f574f-5990-4095-80f9-a68f64ad7710",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10897,
+        10898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "ec94666e-4560-4ebb-a288-88240d07d1c5",
+         "type": "word",
+         "value": "Велимира",
+         "textRange": [
+          10898,
+          10906
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "caf61e3e-0eb8-479c-8ce1-ab071de37397",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що стосувалося смерті Велимира",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0fc9259f-8009-44f7-b333-fd9e0d89ec10",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10906,
+      10907
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Він навіть ледь не забув запитати її про те, що стосувалося смерті Велимира",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "88dbf291-eec7-4489-adfc-927b28a23576",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3f4d6ceb-162d-42ad-8415-21cb89ded8ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d4f68846-c800-4854-bdbc-b6e0f8d4aaf2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10907,
+        10908
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09137ab3-6a66-4376-8131-bca21a3d58ee",
+       "type": "word",
+       "value": "Та",
+       "textRange": [
+        10908,
+        10910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5827fa9e-9be1-4d1f-b6a5-207c0222c788",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10910,
+        10911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b7bcbca-846e-47bf-8e7c-3c8374ae7da5",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        10911,
+        10914
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf6dbfbf-0fe0-4264-b9df-04e0f0f1fcd1",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        10914,
+        10915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93925d04-208c-4b79-8c29-1baa51eb2e53",
+       "type": "word",
+       "value": "таки",
+       "textRange": [
+        10915,
+        10919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dcc62ec-926a-48eb-9f89-20d343741b27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10919,
+        10920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac1f193b-04dc-4160-bd17-33f813ffb168",
+       "type": "word",
+       "value": "згадав",
+       "textRange": [
+        10920,
+        10926
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Та все-таки згадав",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "70188d13-4072-454c-88c0-d34fe40d71ac",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      10926,
+      10927
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9b0c28eb-91d6-4421-ace3-bef5c0eb64fb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      10927,
+      10928
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Та все-таки згадав:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ошелешений розповіддю Болеслави, Чеслав відчув, що на нього немов колода величезна впала, притиснувши всією своєю непосильною вагою Він навіть ледь не забув запитати її про те, що стосувалося смерті Велимира Та все-таки згадав:",
+ "concept": "SYNTAX"
+}

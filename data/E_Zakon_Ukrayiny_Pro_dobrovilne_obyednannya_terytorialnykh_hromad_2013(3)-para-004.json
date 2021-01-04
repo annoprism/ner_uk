@@ -1,0 +1,215 @@
+{
+ "id": "f8673ce7-348d-432f-b5c3-23892045a096",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d7c6f811-79ef-4ccc-b95d-a2565897ea4b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5e08b95b-f444-47e7-829e-222844ce9bfe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2a821646-2b4c-4d0f-86a6-788d2dc17390",
+       "type": "word",
+       "value": "Стаття",
+       "textRange": [
+        91,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc9af518-2736-4ca7-9581-cdcf52679c1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "263726eb-e001-4065-b15f-cc68a7980a83",
+       "type": "number",
+       "value": "1",
+       "textRange": [
+        98,
+        99
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Стаття 1",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e420aa86-16e7-4335-8f37-7874ddc208a6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      99,
+      100
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Стаття 1",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a0107345-32ed-4c54-9624-bc42d542625f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "59d32681-237c-48bf-84ee-dca3379ddafe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7c3b7cd4-0aa5-4c1a-a6fb-2627dda6ea6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        100,
+        101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5d4e385-38b7-42ba-b846-04b7a4f4e3ff",
+       "type": "word",
+       "value": "Відносини",
+       "textRange": [
+        101,
+        110
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Відносини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b1cf3ce7-3c60-4203-ba07-c20270c50096",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      110,
+      111
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "605a04c8-500a-483a-9ed6-d14589ec858f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "207e1aa4-2e27-4466-898e-5473e8a097d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        111,
+        112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09ff8dad-a931-4acb-af8c-db6939cfc393",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        112,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae0aada8-297d-4c3b-8df0-20ce861d1a29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        114,
+        115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a328e1a8-f0a5-46fa-b57a-2e3bed8e9b3b",
+       "type": "word",
+       "value": "регулюються",
+       "textRange": [
+        115,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23b8a005-feed-42bc-8a63-bc390fccdbb9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        126,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8da97e08-1fbf-4596-b820-d13e97c78be1",
+       "type": "word",
+       "value": "цим",
+       "textRange": [
+        127,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15dc3981-974f-4f3d-bd6f-a985f1df1ee6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        130,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "ccf8303c-a79a-4b71-a3a8-41080c8c7863",
+         "type": "word",
+         "value": "Законом",
+         "textRange": [
+          131,
+          138
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "50993b4f-433c-4dbe-be4a-65811b18b177",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що регулюються цим Законом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf73442f-de40-45a8-b926-2d086e097498",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      138,
+      139
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Відносини, що регулюються цим Законом",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Стаття 1 Відносини, що регулюються цим Законом",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,423 @@
+{
+ "id": "403d08a0-59ff-4f43-a035-79467db384b3",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7f5b981c-e0ac-4492-82c1-0b043da7bffb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4cd1fad1-3b87-4fd8-8677-863c07b86839",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5d2a902f-a15a-46f7-a125-f8f504b84039",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1039,
+        1040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e5ae73a-1a9b-446e-aa88-9c70811024d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1040,
+        1041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93e2dbb7-cefb-4832-8f6b-221258e89812",
+       "type": "word",
+       "value": "Діду",
+       "textRange": [
+        1041,
+        1045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e810884b-f5f9-410f-bcaf-8b966ef8558c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1045,
+        1046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "dd42c91c-916d-4db4-bdd3-9077d6ac851c",
+         "type": "word",
+         "value": "Тимоше",
+         "textRange": [
+          1046,
+          1052
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "02282709-e38a-4679-8fa1-9a84025d1ad4",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "- Діду Тимоше",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "686993cb-403b-4716-9e07-67d1c2ffbddf",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      1052,
+      1053
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Діду Тимоше",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c7e1485a-557b-4ceb-81ee-0291b7543b88",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "adaf98f2-65e0-4649-ba7a-8e3894934078",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e22752e4-4b58-4153-abed-f123129175d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1053,
+        1054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f0c64d0-d96c-4c49-adf2-ec0b8207c0e6",
+       "type": "word",
+       "value": "Оно",
+       "textRange": [
+        1054,
+        1057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45dbe4ec-cafb-4603-993d-d00e6fce9f6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1057,
+        1058
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b758188-2291-4ccc-9ede-86c387dbfe4e",
+       "type": "word",
+       "value": "дивіться",
+       "textRange": [
+        1058,
+        1066
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Оно дивіться",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3470bfc9-f2f4-479b-963e-303d7a322b76",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1066,
+      1067
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "443e17a4-7a3d-46a9-8d92-5442e158dd02",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c8f87373-3bd1-422d-b2fa-222d1752c760",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1067,
+        1068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b37ec2d2-486f-4df7-9295-8278a59d0fc9",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1068,
+        1069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c41cb44c-7ec6-479a-bc27-040d8e3c65d0",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1069,
+        1070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "194378db-f1f6-4985-bbe7-151222e24519",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        1070,
+        1073
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db1bb1a0-526f-4b5c-b3cf-9e17bf133a2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1073,
+        1074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9cfe22ae-9767-48d3-b6f2-763a8e19d828",
+       "type": "word",
+       "value": "вас",
+       "textRange": [
+        1074,
+        1077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e15c76d-c9b0-4751-9d36-fa36f63f24b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1077,
+        1078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f2719df-6fa6-4d44-90e0-cc68e79a0be5",
+       "type": "word",
+       "value": "коня",
+       "textRange": [
+        1078,
+        1082
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df7c3c73-6661-40fe-9eb2-7c47bb4a1b72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1082,
+        1083
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "874b07c4-92a0-4f51-a7a6-b6afa383f08a",
+       "type": "word",
+       "value": "вкрали",
+       "textRange": [
+        1083,
+        1089
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " з-під вас коня вкрали",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3c06c669-b4c3-4519-a834-a9af73585157",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1089,
+      1090
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a2ece012-c4ee-43bb-bad7-fa0f1b715fb9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dd573634-df40-40c6-b417-1324d4599ba2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1090,
+        1091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5148be7-dea5-4dbf-a2a0-0b99b30838a1",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        1091,
+        1092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e8c6d29-119c-463c-902e-3d309fde860c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1092,
+        1093
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f724b571-3e68-45a8-9ed5-5544a80d575a",
+       "type": "word",
+       "value": "ви",
+       "textRange": [
+        1093,
+        1095
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c75d32ec-91f2-4701-af1a-3b27020c199f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1095,
+        1096
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c6323ef-8301-4146-882f-5736df8779c3",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        1096,
+        1098
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8166af23-47a3-4260-8279-edcce98c52d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1098,
+        1099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a70335f-1516-4390-847c-e1696c321d8a",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1099,
+        1100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d53d3a7-d313-4d9e-a435-0f83839c102c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1100,
+        1101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "738a97e5-19ea-4a86-b468-a4e75b54e604",
+       "type": "word",
+       "value": "досі",
+       "textRange": [
+        1101,
+        1105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcc29c12-ffc0-4a24-932f-82bfa18b9d07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1105,
+        1106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa413846-23f3-4252-9083-2450a16549db",
+       "type": "word",
+       "value": "їдете",
+       "textRange": [
+        1106,
+        1111
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а ви ще й досі їдете",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "056fadc1-527a-403c-abe7-1ef52e1fbcf8",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      1111,
+      1112
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b02661e8-40b6-4f35-a86a-8ade4c9b7f6c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1112,
+      1113
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Оно дивіться, з-під вас коня вкрали, а ви ще й досі їдете!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Діду Тимоше Оно дивіться, з-під вас коня вкрали, а ви ще й досі їдете!",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,840 @@
+{
+ "id": "0c81c58a-2f27-45ff-9dd8-3239972955b4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7698d2fb-77aa-4db6-8fd6-464bed205394",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "74ddf781-0b0f-4ff6-8d01-6231a7a7669b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f8b31f60-d20b-4b80-bf85-e313a4003b7a",
+       "type": "word",
+       "value": "Кількість",
+       "textRange": [
+        252,
+        261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4060f61-b781-4a9e-965f-309d48db6247",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        261,
+        262
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28538153-7b2e-44ee-8fdc-8b671acd15d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        262,
+        263
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bae15a6e-7d7c-4a7a-9c87-5a682f1a9ca1",
+       "type": "word",
+       "value": "машин",
+       "textRange": [
+        263,
+        268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3cc83f4-f0e3-49bf-af60-4dc6dbd0ccce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        268,
+        269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7c82744-9850-4712-b372-a449ec79b02c",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        269,
+        270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "653a100a-f259-4690-a720-e40027a0f004",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        270,
+        271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "478e0f56-c69d-4c9c-96c4-e5c14930c99f",
+       "type": "word",
+       "value": "механізмів",
+       "textRange": [
+        271,
+        281
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Кількість  машин і механізмів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c289b5a6-884c-485d-887c-fd4449f31e0b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      281,
+      282
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9c0a6222-7adc-43d1-ac07-561122e992e6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9fd6f542-2a6c-461a-87c8-8bb6e7a4c676",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        282,
+        283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2689484f-77f6-4a1b-9f62-e07ac010c49c",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        283,
+        286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9fc1c04-7aa9-4503-a8b5-3661f878679c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        286,
+        287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c80cb741-d382-4d91-9708-ca6dd57da405",
+       "type": "word",
+       "value": "використовують",
+       "textRange": [
+        287,
+        301
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82634c36-0e44-4b2d-958a-dc255c624fb0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        301,
+        302
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89e9c7b0-b787-4318-a01d-1b0c1d3d35f1",
+       "type": "word",
+       "value": "енергію",
+       "textRange": [
+        302,
+        309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40ea5b29-3a42-4084-8583-ea16507615b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        309,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a43d876-67a6-4239-8927-44b168568809",
+       "type": "word",
+       "value": "двигуна",
+       "textRange": [
+        310,
+        317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec220e66-c1e0-45d2-ac3a-a2ee084c842b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        317,
+        318
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4eb48b60-6f89-484b-8ac0-78ba687aa528",
+       "type": "word",
+       "value": "внутрішнього",
+       "textRange": [
+        318,
+        330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89af9545-3db9-4208-9a83-8fd62e35dd2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        330,
+        331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9f2680a-1068-4607-a36d-5f25817f0e1b",
+       "type": "word",
+       "value": "згоряння",
+       "textRange": [
+        331,
+        339
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " які використовують енергію двигуна внутрішнього згоряння",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "79c05877-690e-480b-a0d5-37c32b8d1ddd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      339,
+      340
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f5c44d97-bc34-4231-b85c-578231b414e9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b47ee1c2-51e9-41cf-ae27-13d59ef60220",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        340,
+        341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b650375d-9f63-4f79-a191-15f78cb584fd",
+       "type": "word",
+       "value": "дедалі",
+       "textRange": [
+        341,
+        347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "935fb9aa-edfe-4c10-b59b-e13a6d2aad1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        347,
+        348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5837c9c3-17be-4a37-829e-a3997e7df81c",
+       "type": "word",
+       "value": "зростає",
+       "textRange": [
+        348,
+        355
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дедалі зростає",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "495970ba-15b4-420e-9fe4-26adb4abc244",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      355,
+      356
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2edf8e04-cbd4-4d1b-b61c-3075cf5c6384",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c0559e7e-a7ba-4d53-a202-8ce800c2352c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        356,
+        357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1309838-9faf-4d1e-b478-4e3b0436643f",
+       "type": "word",
+       "value": "відповідно",
+       "textRange": [
+        357,
+        367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6516376-274e-4352-b1c7-0006cdc63f2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        367,
+        368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "383fb3fe-9772-4ab9-9aa1-dc55a962bb85",
+       "type": "word",
+       "value": "збільшується",
+       "textRange": [
+        368,
+        380
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "360f76fe-5fa1-4e8f-b01c-60eb1986d451",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        380,
+        381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b899592-4c86-4b75-b9ef-37d09c2abeab",
+       "type": "word",
+       "value": "виробництво",
+       "textRange": [
+        381,
+        392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9949aa1f-88a0-43f1-8a76-d0c1d8da5db0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        392,
+        393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90e2636b-c931-4c49-9c31-2b1db7f5d730",
+       "type": "word",
+       "value": "моторних",
+       "textRange": [
+        393,
+        401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dc610ce-2417-4436-b082-711e66386cc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        401,
+        402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "820cf93c-a66f-447b-af1c-a5c6b268204d",
+       "type": "word",
+       "value": "олив",
+       "textRange": [
+        402,
+        406
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " відповідно збільшується виробництво моторних олив",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9fe89608-739a-4776-8d61-49340eba2705",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      406,
+      407
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Кількість  машин і механізмів, які використовують енергію двигуна внутрішнього згоряння, дедалі зростає, відповідно збільшується виробництво моторних олив",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a104865b-a772-4397-ac2c-d92ebd269053",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "93cd8505-ea0e-4f85-a59a-0e866d7019a4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "89923a0b-aa4a-4c24-afb5-ae95fb0bf01d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        407,
+        408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf4361a7-46d1-49b5-8dc6-eaaea8d00794",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        408,
+        409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f91c0ccf-042c-4cea-8488-19b5c6a46f49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        409,
+        410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "698064d6-cd6f-4420-b021-1e4d282fdd68",
+       "type": "word",
+       "value": "процесі",
+       "textRange": [
+        410,
+        417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1825186b-2868-49f6-830d-9425bbd16e46",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        417,
+        418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb279038-97b4-4bed-a09f-b9ad0c8afa72",
+       "type": "word",
+       "value": "експлуатації",
+       "textRange": [
+        418,
+        430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8164badb-cb9c-4657-8cd3-293afb95809e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        430,
+        431
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2912264-9f06-4424-85b8-79e7dead64a9",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        431,
+        432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d5c9800-fa4a-455a-b2eb-06ed48940954",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        432,
+        433
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4884177-9ea4-4880-a2e3-5e440a8626f4",
+       "type": "word",
+       "value": "оливах",
+       "textRange": [
+        433,
+        439
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc4aebb5-e6b0-46a1-835e-f96543c7b4ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        439,
+        440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e96c65d1-d973-415a-b018-dc03422d962b",
+       "type": "word",
+       "value": "накопичуються",
+       "textRange": [
+        440,
+        453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e1970e6-f2b6-4ce4-89b3-238e8c09eb42",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        453,
+        454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65caa7fc-d381-466b-8afa-50bfe27d0720",
+       "type": "word",
+       "value": "продукти",
+       "textRange": [
+        454,
+        462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "986bd6a8-461c-4949-b139-e1248aca253b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        462,
+        463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6a37332-6a5b-4b1c-819a-44b1f7d814f7",
+       "type": "word",
+       "value": "окислення",
+       "textRange": [
+        463,
+        472
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " У процесі експлуатації в оливах накопичуються продукти окислення",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b884cdb5-8343-4175-8848-5161e900e5b5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      472,
+      473
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52584d0a-9409-4b8b-a721-c7025ceb3a0a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "85cab428-8546-4412-8450-06ae68afb65d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        473,
+        474
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39436de6-4968-437a-be40-1dc6f060bffc",
+       "type": "word",
+       "value": "забруднення",
+       "textRange": [
+        474,
+        485
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac4423bf-7990-4474-9c50-c32979966996",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        485,
+        486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e82d005-29ad-4ae1-a7ba-4f7de5b49853",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        486,
+        488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf1d79c9-d39a-42db-a052-556f05ce5daa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        488,
+        489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d0970bb-cafa-4525-9cd2-a7e3f413af49",
+       "type": "word",
+       "value": "інші",
+       "textRange": [
+        489,
+        493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e90d8af6-fa36-4452-8032-f6a48e6be952",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        493,
+        494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5df3f302-cb3f-4837-a33e-e07b271d722e",
+       "type": "word",
+       "value": "домішки",
+       "textRange": [
+        494,
+        501
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " забруднення та інші домішки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5d0cc849-f35d-4034-ba3f-836549f47728",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      501,
+      502
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4635e37b-a6c2-4a00-8b3b-02b6cfe19c95",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3af4e61d-9a37-47a6-ac71-b3f6118bd7f2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        502,
+        503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "004ca7dc-b998-483e-afa6-d9dbb02806a6",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        503,
+        506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9a23d4b-1e8d-43e6-b8c6-aca4c84a7346",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        506,
+        507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da0b7060-f786-4b8c-9d8e-7437b939b4fa",
+       "type": "word",
+       "value": "різко",
+       "textRange": [
+        507,
+        512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0f86442-4842-474d-ace5-2099897273a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        512,
+        513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f8a86ae-8c23-4285-ac2a-3135063c6a51",
+       "type": "word",
+       "value": "знижують",
+       "textRange": [
+        513,
+        521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5838e4b-60d0-4570-b04c-99a45810851e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        521,
+        522
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b859625-40db-47bd-a3b1-e498e1bf639d",
+       "type": "word",
+       "value": "їхню",
+       "textRange": [
+        522,
+        526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce119a2b-1329-4317-9955-395ea9a262e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        526,
+        527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38880dde-9327-4f88-a376-92d6c2403349",
+       "type": "word",
+       "value": "якість",
+       "textRange": [
+        527,
+        533
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " які різко знижують їхню якість",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "38ce8efc-ab26-41b2-8d70-2659e5d7f8d7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      533,
+      534
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9a712cec-cf68-4a17-8e24-22b825c89ce8",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      534,
+      535
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " У процесі експлуатації в оливах накопичуються продукти окислення, забруднення та інші домішки, які різко знижують їхню якість.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Кількість  машин і механізмів, які використовують енергію двигуна внутрішнього згоряння, дедалі зростає, відповідно збільшується виробництво моторних олив У процесі експлуатації в оливах накопичуються продукти окислення, забруднення та інші домішки, які різко знижують їхню якість.",
+ "concept": "SYNTAX"
+}

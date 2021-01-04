@@ -1,0 +1,239 @@
+{
+ "id": "62361c0b-8ce0-489a-8915-aafd517aca62",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ca182015-f1eb-4a97-986f-5dbe4fd6b575",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d1bca83a-e10b-4fdc-b94d-2294709753c2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5909ad44-5ee2-422b-aee6-700d2691f7bc",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        7052,
+        7053
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72d9bd5f-8c21-4a8a-a6d5-533ca905a07b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7053,
+        7054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "dd1e0b17-0482-4cb8-8df2-5740513fe19b",
+         "type": "word",
+         "value": "Христина",
+         "textRange": [
+          7054,
+          7062
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1c17521b-69b0-4944-9e48-8601712c4925",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0a4b6ce7-c8e0-4ec9-b67f-f17295e0e9f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7062,
+        7063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70a6322f-f8d5-4ecf-a7ca-2256cc405b1b",
+       "type": "word",
+       "value": "просто",
+       "textRange": [
+        7063,
+        7069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04380be9-ec26-44e3-9787-195fb6b9fb20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7069,
+        7070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa89bebf-c239-4be3-ae82-9a804596680a",
+       "type": "word",
+       "value": "говорила",
+       "textRange": [
+        7070,
+        7078
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А Христина просто говорила",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "efb7c3e1-c045-4664-a254-c388d5ca2108",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7078,
+      7079
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2daff0bd-5bf6-462e-9881-d812b6640df8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d8fe8b2c-0f3a-4ee6-bacd-b6779bbe6293",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7079,
+        7080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c7537f3-7f14-4897-92dc-9b6a61eff3a1",
+       "type": "word",
+       "value": "дивлячись",
+       "textRange": [
+        7080,
+        7089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33afa4de-af8e-468b-b5fe-bb31dd14342e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7089,
+        7090
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cbf8263-8609-40fa-b839-f926aec17caf",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        7090,
+        7092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b12f68a-3cbf-42e9-880e-e0550437d313",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7092,
+        7093
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8e60860-b3be-4f11-812f-40d377be1994",
+       "type": "word",
+       "value": "зсутулені",
+       "textRange": [
+        7093,
+        7102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50f21015-f04e-45c4-b9f8-32f0df9992ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7102,
+        7103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41141c5b-d1e6-458b-a0a5-8e5ce5f4968d",
+       "type": "word",
+       "value": "плечі",
+       "textRange": [
+        7103,
+        7108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ebe0c21-f412-4e2a-9b4a-2bd40022dec9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7108,
+        7109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80a379a7-98db-4c17-a2b9-b4383f95fc42",
+       "type": "word",
+       "value": "дитини",
+       "textRange": [
+        7109,
+        7115
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дивлячись на зсутулені плечі дитини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "38af9fe6-6d91-4a0f-8673-531040248b9d",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      7115,
+      7116
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6ad3afe-fbf1-40ba-ab82-e4958772d012",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7116,
+      7117
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А Христина просто говорила, дивлячись на зсутулені плечі дитини:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А Христина просто говорила, дивлячись на зсутулені плечі дитини:",
+ "concept": "SYNTAX"
+}

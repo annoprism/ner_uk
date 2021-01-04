@@ -1,0 +1,121 @@
+{
+ "id": "a3752374-6051-4490-895d-7d8dc967815e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "feb7571a-f710-48ea-bf17-0bfc1a9d5244",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "629a975f-44fb-4471-a63d-44865e000fa7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "790f4986-19fd-472b-a0c9-444beb6c64da",
+         "type": "word",
+         "value": "Віка",
+         "textRange": [
+          0,
+          4
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a187a07c-1947-4551-bf17-6643b9548891",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          4,
+          5
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "755bcc54-1b08-49fd-8cf3-f056cd96085b",
+         "type": "word",
+         "value": "Петрова",
+         "textRange": [
+          5,
+          12
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b4000c31-d01f-4565-8893-ff99faf66379",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e684e177-82d1-479a-9d78-466c86f2cec3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "617ad9cd-bac6-4bea-85e3-6548760c12f8",
+       "type": "word",
+       "value": "закотила",
+       "textRange": [
+        13,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9b8fa3c-edcf-429c-a094-aa8bb522a4c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0f83bbd-713a-4f68-b51d-33d16e70247d",
+       "type": "word",
+       "value": "очі",
+       "textRange": [
+        22,
+        25
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Віка Петрова закотила очі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "432c204a-06f4-44e1-9ca5-44ac7b18777d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      25,
+      26
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d375670c-5bb8-4d65-ae3f-891bfbdf21fc",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      26,
+      27
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Віка Петрова закотила очі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Віка Петрова закотила очі.",
+ "concept": "SYNTAX"
+}

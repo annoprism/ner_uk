@@ -1,0 +1,790 @@
+{
+ "id": "7b26f69f-e446-4589-a699-7c4327995d1b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fe986475-d6db-4a07-8542-80c2f1670f2e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bd4f2140-d230-4d0b-a9f7-777c49d455cd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ecea80d5-5453-49c4-a340-feca51eb0277",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        12309,
+        12313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d562f97f-58dc-4685-9512-1f9ee537dd15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12313,
+        12314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64aa148e-a10d-48f7-bce7-6f76ba0cba44",
+       "type": "word",
+       "value": "череда",
+       "textRange": [
+        12314,
+        12320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fed9204b-c93b-4503-9f19-f48da44ac13c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12320,
+        12321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15f2750d-96ea-4748-bb6f-8dafba144c52",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        12321,
+        12322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8babcbf-26be-4fb5-bbe8-aa2ed3d246a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12322,
+        12323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f366c9a3-aec0-4671-8b31-b95d8cee76a0",
+       "type": "word",
+       "value": "пастухи",
+       "textRange": [
+        12323,
+        12330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1ac00c6-e19a-4abe-b2f3-ba44a9a6ed73",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12330,
+        12331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9073714-317f-42d7-aeb2-f776e2931bbd",
+       "type": "word",
+       "value": "зникли",
+       "textRange": [
+        12331,
+        12337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bfa6c07-7c1d-4cf0-aaea-1908b5fa0d29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12337,
+        12338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b733afa4-f032-4f9b-9262-d3b0e0a246f4",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        12338,
+        12339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7e2c68b-dd1b-4097-adf7-f1b6449db0a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12339,
+        12340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d1b7152-333f-4977-9cb0-43cc003eee1f",
+       "type": "word",
+       "value": "очей",
+       "textRange": [
+        12340,
+        12344
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли череда й пастухи зникли з очей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6f1543ec-7f40-4b4d-87d5-491bb9886cf3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12344,
+      12345
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e18a3df-3fe4-45eb-a644-a8d8a69962da",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ca088ff0-18b6-4dec-a3b0-a75f163087af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12345,
+        12346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "2bb52c48-5f76-47c1-9975-8f41dba38a24",
+         "type": "word",
+         "value": "Чеслав",
+         "textRange": [
+          12346,
+          12352
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "dcf4b51d-4187-444d-afbe-cad09f36a2da",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e62f3260-ab9f-4579-ac41-494b72f2295c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12352,
+        12353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74153a38-ec2f-4a62-866e-d487e00e5b2a",
+       "type": "word",
+       "value": "узяв",
+       "textRange": [
+        12353,
+        12357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e93f0b2d-fb3a-47db-9826-f401362afabc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12357,
+        12358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eeff40a7-8c8a-4461-9e2b-77e48538c93f",
+       "type": "word",
+       "value": "залишений",
+       "textRange": [
+        12358,
+        12367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a90b3d8-3d5d-471e-968a-a628ba9a6b30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12367,
+        12368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fabebfdf-b2d6-4fa2-81c4-0c7f4c59a072",
+         "type": "word",
+         "value": "Болеславою",
+         "textRange": [
+          12368,
+          12378
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "05997f43-b0c0-4887-87cf-b81714fd6287",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "12c56a17-df51-4ec7-b4a6-720d343d4b95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12378,
+        12379
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bda4feb7-e950-4b03-9272-40aab2f2143a",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        12379,
+        12380
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "461bc588-fe2a-4ac9-8360-9abd6fd77596",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12380,
+        12381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "535f939c-bafd-425d-85ea-03a4f060397a",
+       "type": "word",
+       "value": "траві",
+       "textRange": [
+        12381,
+        12386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c08b08f-7456-434f-a3d9-646e1756d0d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12386,
+        12387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d26ae658-87d7-4b3c-9ad8-6e821d72ea4a",
+       "type": "word",
+       "value": "свіжоспечений",
+       "textRange": [
+        12387,
+        12400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87f1f987-c557-41f7-9dce-cdbcf27bcdab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12400,
+        12401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a640dbc-c29c-4dc1-bea5-2b08cbd11bf4",
+       "type": "word",
+       "value": "хліб",
+       "textRange": [
+        12401,
+        12405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9731312-7e5e-49cf-b2fb-2162770e2685",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12405,
+        12406
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80160d25-40a8-4b53-a91a-f2b8d253b01c",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        12406,
+        12407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7f3fe36-922b-40ae-9ef4-7f88a0586801",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12407,
+        12408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9a6fef3-630d-4df7-8e09-45686bc8a628",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        12408,
+        12409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e5c881e-c238-486f-8e59-c196b65a800d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12409,
+        12410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2988b112-542e-40b3-b418-24dfd64ac04f",
+       "type": "word",
+       "value": "насолодою",
+       "textRange": [
+        12410,
+        12419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fd4505c-58d2-49d1-83f1-f651c3b11db9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12419,
+        12420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ab6190d-9fff-4c8c-b8d9-1605c3612238",
+       "type": "word",
+       "value": "вдихнув",
+       "textRange": [
+        12420,
+        12427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d102df8b-e5b7-439c-a027-b33d380f886b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12427,
+        12428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92e31b18-e274-4002-8344-6eefdb9e297c",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        12428,
+        12432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "356ae36a-6df3-42de-8194-b9341f9cb509",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12432,
+        12433
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdbb2499-44ef-4312-aeac-63c89f5ad590",
+       "type": "word",
+       "value": "запах",
+       "textRange": [
+        12433,
+        12438
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Чеслав узяв залишений Болеславою у траві свіжоспечений хліб і з насолодою вдихнув його запах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "35e0617d-c9b5-403c-bf2d-dcc3ac93c2a2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      12438,
+      12439
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли череда й пастухи зникли з очей, Чеслав узяв залишений Болеславою у траві свіжоспечений хліб і з насолодою вдихнув його запах",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c625b42d-21c7-42c8-bd91-979ce7f03635",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "573628e0-069b-4161-a45b-6e92c82a6b82",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "09666713-1a58-4bc6-8a62-eb36f12fc04f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12439,
+        12440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bfba8c0-d847-4925-ab99-44742eb3c1fe",
+       "type": "word",
+       "value": "Напевно",
+       "textRange": [
+        12440,
+        12447
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Напевно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2eee5ac8-f228-411a-8cd2-f9ae1395bd16",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12447,
+      12448
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "332d5605-b50f-496a-8159-60cceeb9fa6d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "beaf6baf-6968-4afe-bf24-cef23b923d1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12448,
+        12449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5718023-745c-4d0f-b634-562950a47936",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        12449,
+        12451
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e733e1c-eaf4-422d-93df-f142dd44674c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12451,
+        12452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27f0150e-ef3c-4043-9e86-df63dbf53a82",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        12452,
+        12455
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0382310a-9a44-4c55-824e-e407e78717f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12455,
+        12456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4a1b3ff-17b3-4251-a47c-5919afb66b9a",
+       "type": "word",
+       "value": "зараз",
+       "textRange": [
+        12456,
+        12461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbf49ae6-38a0-4935-b025-87f13702bb9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12461,
+        12462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb44546e-95cc-49a4-8558-ae7dfd1fa242",
+       "type": "word",
+       "value": "найдорожчий",
+       "textRange": [
+        12462,
+        12473
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "681f95a2-99b4-4e2c-a2b2-dc7ef9001184",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12473,
+        12474
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbeb0571-5f94-438a-aafa-1143eab6efa4",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        12474,
+        12477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb75f446-d8dd-436b-b543-9e939c6115fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12477,
+        12478
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9eae690-1bfa-43c0-905d-0b43c2d8b978",
+       "type": "word",
+       "value": "нього",
+       "textRange": [
+        12478,
+        12483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f65ab0e4-94c0-4b26-95c2-38ad01ec072c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12483,
+        12484
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59608242-9103-4792-802a-3807044c1cf4",
+       "type": "word",
+       "value": "запах",
+       "textRange": [
+        12484,
+        12489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85252449-638b-4a49-8644-140d38a568a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12489,
+        12490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfe1cf88-7360-49f2-938a-9491680f114c",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        12490,
+        12491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfbdad01-48f8-42af-baf1-cf62e6e39f27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12491,
+        12492
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91f37018-f078-44d7-8f5d-8296bb2e58ea",
+       "type": "word",
+       "value": "пахощі",
+       "textRange": [
+        12492,
+        12498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbdb6f0e-ac66-40ef-8a29-49ec1ec1eb85",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12498,
+        12499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "540bb611-4afc-48c7-8fbe-3b7aafea7e48",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        12499,
+        12503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce8c9dcd-4f79-4d58-ac99-18c64e11a11f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12503,
+        12504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5b467ae-c328-474f-b072-4e9de78a533d",
+       "type": "word",
+       "value": "рідного",
+       "textRange": [
+        12504,
+        12511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce4fa959-7743-49f6-a981-2b8eb1ba0ae6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12511,
+        12512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0520473c-758b-46ba-a95d-acd43040e293",
+       "type": "word",
+       "value": "дому",
+       "textRange": [
+        12512,
+        12516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f249020b-4d70-4436-bc12-6ad14b047c44",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        12516,
+        12519
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " це був зараз найдорожчий для нього запах — пахощі його рідного дому...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "11b768d0-c831-4211-94c8-26c40e591299",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      12519,
+      12520
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Напевно, це був зараз найдорожчий для нього запах — пахощі його рідного дому...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли череда й пастухи зникли з очей, Чеслав узяв залишений Болеславою у траві свіжоспечений хліб і з насолодою вдихнув його запах Напевно, це був зараз найдорожчий для нього запах — пахощі його рідного дому...",
+ "concept": "SYNTAX"
+}

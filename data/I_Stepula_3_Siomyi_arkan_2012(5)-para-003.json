@@ -1,0 +1,515 @@
+{
+ "id": "7c7432b0-a3eb-4d53-8648-ed53e34312f2",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "cfe50e65-cf11-4c00-860c-13ad66780382",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bd285f86-0a69-41be-8d0b-363f2b098584",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b5400c74-3dca-4ff5-a96c-a276a951a20c",
+       "type": "word",
+       "value": "Ніби",
+       "textRange": [
+        2269,
+        2273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f28d92e7-9b74-4ea5-82fe-d4da5f2e5ef7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2273,
+        2274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c94f0cb8-cdf0-42b4-a97f-e801bde609c4",
+       "type": "word",
+       "value": "почувши",
+       "textRange": [
+        2274,
+        2281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49359455-0ffb-4b44-92eb-2a2122c60a0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2281,
+        2282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd35a019-4217-4bbf-9acd-71def453f652",
+       "type": "word",
+       "value": "моє",
+       "textRange": [
+        2282,
+        2285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "546dd22c-f54a-4328-a740-85d55c415054",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2285,
+        2286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "474662cd-f9a1-4504-874b-5a40292db2e0",
+       "type": "word",
+       "value": "занепокоєння",
+       "textRange": [
+        2286,
+        2298
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Ніби почувши моє занепокоєння",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "70b6edd8-d767-4ae4-b591-affcc90131e9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2298,
+      2299
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "66ffd426-ab98-46f2-a6e0-9a1868800503",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "791d66bb-7027-4748-96bd-a862170fb404",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2299,
+        2300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9f7b508c-3444-4200-b5b6-046050e200ed",
+         "type": "word",
+         "value": "Барс",
+         "textRange": [
+          2300,
+          2304
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "891d9eb2-201e-4a0d-85ca-747298d44f7d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d738e141-6481-4ed8-ac12-49eff37eead8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2304,
+        2305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d539239-6f0f-40ef-b5e4-088f14efc986",
+       "type": "word",
+       "value": "розплющив",
+       "textRange": [
+        2305,
+        2314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26df4695-6e01-4f56-b776-176650e0af7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2314,
+        2315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98a6b1f9-a8d3-418e-bcd2-5629afc47d25",
+       "type": "word",
+       "value": "очі",
+       "textRange": [
+        2315,
+        2318
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "245a2481-72c6-4bba-9d89-3567d51f722e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2318,
+        2319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a0f893a-7885-4000-b486-8af16a5c91a2",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        2319,
+        2320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87fe7c7b-034a-4b99-b66c-b893481e869d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2320,
+        2321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab93dfe2-933a-4cfc-9e9a-53092b850ca6",
+       "type": "word",
+       "value": "потягнувся",
+       "textRange": [
+        2321,
+        2331
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Барс розплющив очі й потягнувся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95fb7613-4261-4fc3-ad9f-650ab4c18f1a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2331,
+      2332
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "98b8c2f5-d98c-4529-b0e4-37dfac467760",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dd1182aa-6c18-4559-ba04-44f2cb1c38df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2332,
+        2333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4582518-78ec-45d8-a906-3c8df1cd2bb7",
+       "type": "word",
+       "value": "вигнувши",
+       "textRange": [
+        2333,
+        2341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a88645e8-eec6-4780-9957-76925f2b108e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2341,
+        2342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b1b851d-494b-4929-8ce9-c999517ebc25",
+       "type": "word",
+       "value": "спинку",
+       "textRange": [
+        2342,
+        2348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a00ca88e-9800-4ffb-b648-6483d38c2348",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2348,
+        2349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c6792ec-36ec-479d-b67a-1fcbc5f78371",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        2349,
+        2351
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b0674c6-012f-4ac2-860c-62050996dc29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2351,
+        2352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce1cda6b-30dd-4a0e-8ab2-0dbaceec82f4",
+       "type": "word",
+       "value": "позіхаючи",
+       "textRange": [
+        2352,
+        2361
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вигнувши спинку та позіхаючи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "36657533-2a7d-480e-a8b7-cc9412db8da4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2361,
+      2362
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2cd4fcb-cb73-4e75-aa2a-c5d320becc8e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5c34a9d9-22e0-466d-955c-362fce6cc552",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2362,
+        2363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2321374e-5737-457f-a4ad-0156bae39989",
+       "type": "word",
+       "value": "аж",
+       "textRange": [
+        2363,
+        2365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98a5d70a-bef0-4987-8748-2aa9bcdfff72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2365,
+        2366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40451105-3e9e-4389-8a04-42195b520cff",
+       "type": "word",
+       "value": "блиснули",
+       "textRange": [
+        2366,
+        2374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3e4b58e-d8b5-4ddc-b42b-fef271d35d68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2374,
+        2375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9509d5ff-54ac-4be8-a8e3-c9af59882efc",
+       "type": "word",
+       "value": "гострі",
+       "textRange": [
+        2375,
+        2381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f89d25e-a414-45f2-bf40-8f1a2a497cbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2381,
+        2382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab485601-bbd0-433c-ab9f-526c884d18ca",
+       "type": "word",
+       "value": "задні",
+       "textRange": [
+        2382,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e50623e-9aec-404a-85a1-e4b8e82cdf51",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "604a9e69-a919-4b0d-9e94-835b2084089f",
+       "type": "word",
+       "value": "різці",
+       "textRange": [
+        2388,
+        2393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd1bc12d-949d-4c1c-bcf3-00768a8bfe68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2393,
+        2394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1421ce39-36ff-44f9-ade3-6f90a3bdf48d",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        2394,
+        2398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "404d9251-b6bf-48b7-a33b-ace7361905bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2398,
+        2399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f51eec1a-55f6-41b0-96c3-56f2544a940a",
+       "type": "word",
+       "value": "симпатичної",
+       "textRange": [
+        2399,
+        2410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40959ad0-d8ce-4aa4-bd76-70fb3f40d622",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2410,
+        2411
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1107e314-853b-44f6-8954-46e22c96509a",
+       "type": "word",
+       "value": "пащі",
+       "textRange": [
+        2411,
+        2415
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " аж блиснули гострі задні різці його симпатичної пащі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c5e22f1-3459-4b0e-9073-212d8cce9184",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2415,
+      2416
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8043ceac-57d1-4796-87eb-e97cd05c3277",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2416,
+      2417
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ніби почувши моє занепокоєння, Барс розплющив очі й потягнувся, вигнувши спинку та позіхаючи, аж блиснули гострі задні різці його симпатичної пащі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ніби почувши моє занепокоєння, Барс розплющив очі й потягнувся, вигнувши спинку та позіхаючи, аж блиснули гострі задні різці його симпатичної пащі.",
+ "concept": "SYNTAX"
+}

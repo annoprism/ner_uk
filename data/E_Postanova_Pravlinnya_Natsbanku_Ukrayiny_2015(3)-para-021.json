@@ -1,0 +1,391 @@
+{
+ "id": "9da669b5-43ae-4afa-b87f-83ecc32ee5b8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "28dc20b1-b541-47ec-9148-a75d2cddbc46",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "97f302cd-815b-4111-ace2-7495addaa04a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "956f1efe-1564-4b89-a72a-263d6eb6215e",
+       "type": "number",
+       "value": "4",
+       "textRange": [
+        5001,
+        5002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e76dcff-fd3a-4044-bcd7-779b5e4e1e45",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        5002,
+        5003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d40fd61-c60e-4871-82bb-45f9807fb72c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5003,
+        5004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b49e7465-a81e-4d7a-8b0c-da7fc61ac510",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        5004,
+        5006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6102209c-114b-49f5-9a9b-436e9ddd4d9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5006,
+        5007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72b7688b-ba56-40d7-88b6-93b14e58c887",
+       "type": "word",
+       "value": "дорученням",
+       "textRange": [
+        5007,
+        5017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e188b42-ed9c-43ee-b61e-429618457f46",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5017,
+        5018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5b87b94-6049-4815-9790-5326f0330d26",
+       "type": "word",
+       "value": "фізичних",
+       "textRange": [
+        5018,
+        5026
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1f65c90-361a-425a-ba70-94f69ee1849c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5026,
+        5027
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aef8e392-f951-4553-973c-2b96552d08a2",
+       "type": "word",
+       "value": "осіб",
+       "textRange": [
+        5027,
+        5031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e86a8c5f-fc0f-4e4e-9a26-64bc7f49133d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5031,
+        5032
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dcce846-c834-4ea5-bde6-30951d7565f3",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        5032,
+        5034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ee29248-b7b6-4fbe-b127-8b481841f499",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5034,
+        5035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c199e9e-48ff-4277-89a5-deacc3b3f42a",
+       "type": "word",
+       "value": "межі",
+       "textRange": [
+        5035,
+        5039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f8736f7-1417-4719-b7fc-83d857758cd3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5039,
+        5040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "b9b48bd8-50b0-46f2-a390-04281461592f",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          5040,
+          5047
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "dab22abf-61c0-403c-853e-fa9923839ec1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d1cb1574-4cd5-423a-bf83-2ff912241629",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5047,
+        5048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b70321c0-4d18-4bbf-8b23-bd9103c573f6",
+       "type": "word",
+       "value": "здійснюються",
+       "textRange": [
+        5048,
+        5060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59f7d691-8d24-462a-aa3e-361c36ff6bcc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5060,
+        5061
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "216488af-ab4e-434a-a863-52e84a287af1",
+       "type": "word",
+       "value": "перекази",
+       "textRange": [
+        5061,
+        5069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36102731-4c3a-4f44-8d87-37656edc17cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5069,
+        5070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea3f9e58-0f58-4a52-ae07-afbd9d6e42cf",
+       "type": "word",
+       "value": "іноземної",
+       "textRange": [
+        5070,
+        5079
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7acc5a81-c8fd-4d14-9494-cbdfd5675da0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5079,
+        5080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8215d58-0e7c-4834-96d3-4145f64c3c93",
+       "type": "word",
+       "value": "валюти",
+       "textRange": [
+        5080,
+        5086
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d9d21b1-7ba7-4802-9cf0-5c2f83893976",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5086,
+        5087
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d75ba6e-09cc-4b71-bca4-d22394bc6a61",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        5087,
+        5089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d386d6c-43f4-4586-83d8-ec2cc634d46a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5089,
+        5090
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e99e6823-0874-44ef-81f6-a7f0334d63d5",
+       "type": "word",
+       "value": "поточними",
+       "textRange": [
+        5090,
+        5099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c44beab7-77b5-4a8e-b9bd-02ff8517daaf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5099,
+        5100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18fe6c8c-56ae-4d33-93f7-28bdfc62c006",
+       "type": "word",
+       "value": "валютними",
+       "textRange": [
+        5100,
+        5109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2020c652-d298-4bc5-a049-61dac410b6db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5109,
+        5110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7795c108-f419-408b-b7d3-0b5111549c1a",
+       "type": "word",
+       "value": "неторговельними",
+       "textRange": [
+        5110,
+        5125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43a6fd62-746a-4233-8b1d-c2f1a317ac3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5125,
+        5126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25aa05da-0ed2-48ef-bbe8-c86a307ac581",
+       "type": "word",
+       "value": "операціями",
+       "textRange": [
+        5126,
+        5136
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "4) за дорученням фізичних осіб за межі України здійснюються перекази іноземної валюти за поточними валютними неторговельними операціями",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3e063641-11e7-44c2-8dd3-c2de9445f96a",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      5136,
+      5137
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8b04a496-6f9b-48a7-836c-edd2d920d582",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5137,
+      5138
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "4) за дорученням фізичних осіб за межі України здійснюються перекази іноземної валюти за поточними валютними неторговельними операціями:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "4) за дорученням фізичних осіб за межі України здійснюються перекази іноземної валюти за поточними валютними неторговельними операціями:",
+ "concept": "SYNTAX"
+}

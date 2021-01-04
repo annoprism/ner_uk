@@ -1,0 +1,813 @@
+{
+ "id": "2e841ad8-c994-4afb-b0c5-13945d06c91d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9e8f403f-2222-4bb8-9bbf-117a04318c28",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "76e3f3dc-3f82-440c-a10d-867a5eebeae3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "982fa84b-59d8-4f5a-be90-ed4b3afc6303",
+       "type": "word",
+       "value": "Потім",
+       "textRange": [
+        5464,
+        5469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a73a145-5c92-4385-bcfa-0712d946ada6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5469,
+        5470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "835b4bdc-b020-418a-b118-d385a1ff6b9b",
+         "type": "word",
+         "value": "Орел",
+         "textRange": [
+          5470,
+          5474
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e52c8c2d-66c2-4a4d-9b39-a96196721918",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4c379c37-5514-4e74-8c66-e1c8c067ab41",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5474,
+        5475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fee09fb-a24b-4e77-afb9-e9ca28a763a0",
+       "type": "word",
+       "value": "виконав",
+       "textRange": [
+        5475,
+        5482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4967111a-0443-4ca0-b71e-561bf6135ba8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5482,
+        5483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d5456ba-e325-412e-9acc-b51d9947e78b",
+       "type": "word",
+       "value": "вправи",
+       "textRange": [
+        5483,
+        5489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eba0646f-f8a0-4f42-b4e6-49e619afa4d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5489,
+        5490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89da0712-74db-4c89-ae77-4a15ac415fe4",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        5490,
+        5493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0dd90b8-64e3-42a6-9f95-c746b264f19f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5493,
+        5494
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "371653ae-d402-4cd8-843e-598a6265f566",
+       "type": "word",
+       "value": "шиї",
+       "textRange": [
+        5494,
+        5497
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Потім Орел виконав вправи для шиї",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d06f97d-78d4-42fd-8963-ed46adc44e12",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      5497,
+      5498
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9e3209cf-f214-4b47-b5c8-b435c5015982",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "651bcc8e-4176-4c5c-ac8e-a2c604611e98",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5498,
+        5499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "354e3839-f6a9-4c8c-8e96-5d4b04953ac7",
+       "type": "word",
+       "value": "вправо",
+       "textRange": [
+        5499,
+        5505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "794711a2-0df0-4b80-bc7f-de43d0eecee1",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5505,
+        5506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2512bf3d-5847-4e81-a27a-10fd4ead7be0",
+       "type": "word",
+       "value": "вліво",
+       "textRange": [
+        5506,
+        5511
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вправо-вліво",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb065ded-933f-4fb3-a8d0-a415bb5b581d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5511,
+      5512
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2568c242-7397-4f64-b8a7-254a291719fd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b889b6b7-f092-417d-a3ad-357cf8590915",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5512,
+        5513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6ed7ad1-8af0-4c4a-b4f1-f8192fa4b7ea",
+       "type": "word",
+       "value": "вправо",
+       "textRange": [
+        5513,
+        5519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1e4d3a7-55fd-4957-bbe7-de8560514b8b",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5519,
+        5520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d842a1fa-9111-46d6-a10a-456371a9a427",
+       "type": "word",
+       "value": "вліво",
+       "textRange": [
+        5520,
+        5525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42d309e0-15b8-4cc5-b871-ceb87452f9b4",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        5525,
+        5528
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17e47331-05f9-4af7-b75f-15498da099bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5528,
+        5529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1622858d-e345-4a89-b6c2-e8689e3ed7da",
+       "type": "word",
+       "value": "Овва",
+       "textRange": [
+        5529,
+        5533
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вправо-вліво... Овва",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b577f052-cb00-4185-b222-5ddb0b7f767b",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      5533,
+      5534
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Потім Орел виконав вправи для шиї: вправо-вліво, вправо-вліво... Овва",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "efdd056e-48ed-4ee3-aa1d-e720219dae63",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "10a23354-d2b1-4539-8842-4c6bea673e85",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "15870afa-e6f6-477d-b093-c05b383fc0c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5534,
+        5535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56142ec8-c6df-45fc-9370-c94235121950",
+       "type": "word",
+       "value": "Повернувши",
+       "textRange": [
+        5535,
+        5545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e881af8f-6da6-4812-9d5b-e7068687d012",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5545,
+        5546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db39c0e4-bbb1-4605-84de-85ca767cc579",
+       "type": "word",
+       "value": "шию",
+       "textRange": [
+        5546,
+        5549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0052a826-ccc4-4d84-95c8-bf84f3bfd613",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5549,
+        5550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abd46960-61b0-4b48-b634-c427b34471d9",
+       "type": "word",
+       "value": "ліворуч",
+       "textRange": [
+        5550,
+        5557
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Повернувши шию ліворуч",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "76195431-5ad2-4ea5-a2ae-dbb57c72dd6a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5557,
+      5558
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e327fdf8-5db6-4f9e-a1c0-65932d57dfcd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "33bcd274-a8d4-40df-9411-c1ad7a23bddd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5558,
+        5559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46a1d35b-5550-4841-b64d-682e05137764",
+       "type": "word",
+       "value": "птах",
+       "textRange": [
+        5559,
+        5563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44bb3dbc-da04-4454-be17-02ae1c44e09f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5563,
+        5564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57a096c7-a68b-4fdf-9f4d-54b5020e4a36",
+       "type": "word",
+       "value": "закляк",
+       "textRange": [
+        5564,
+        5570
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " птах закляк",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "afeb472a-f3c0-437a-b811-29a3a4d18490",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5570,
+      5571
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Повернувши шию ліворуч, птах закляк",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "07c01ed5-b832-4624-bb9e-3ecec6aca08b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "efc4b276-d5c6-45b3-8427-8cdf5614bc7a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "24961abd-8776-4e0d-8f9c-f1f8e982540a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5571,
+        5572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17a05f3d-f2a8-460b-8dba-a08c3d23a7cb",
+       "type": "word",
+       "value": "Зовсім",
+       "textRange": [
+        5572,
+        5578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eedb5fbf-0647-452a-b190-e47d0fda1e68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5578,
+        5579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88151f06-874a-4176-a1fe-3aed6c5f281a",
+       "type": "word",
+       "value": "поруч",
+       "textRange": [
+        5579,
+        5584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afa8c00a-552b-47f3-a888-1abc97b44bb2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5584,
+        5585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4c12cd7-e478-4ad3-adf8-401ab562cf5a",
+       "type": "word",
+       "value": "серед",
+       "textRange": [
+        5585,
+        5590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a8f53e4-5f1e-46da-a3ec-0cd678829422",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5590,
+        5591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ede97a3-d5f7-4378-965f-dbbdedf5d0f3",
+       "type": "word",
+       "value": "гілля",
+       "textRange": [
+        5591,
+        5596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a69f1101-588f-4d85-8ec1-b4668750fce9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5596,
+        5597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbddff1c-7d2d-4150-95c0-0a256f03f1a8",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        5597,
+        5601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c92695b-72a4-448b-b9c5-e1a264f68d6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5601,
+        5602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5337f534-ebcc-4de1-9b8b-38a92807eef8",
+       "type": "word",
+       "value": "щось",
+       "textRange": [
+        5602,
+        5606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7eba243-55a7-4671-9d11-71dd8d683eba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5606,
+        5607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ae5796b-009f-4941-8948-20910c1fb3f5",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        5607,
+        5609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe093cf4-e658-4cd0-8bdd-105f13209f83",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5609,
+        5610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af3822c2-13d8-4451-9937-febed72d244d",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        5610,
+        5611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a6b0e88-08ea-4600-b12b-b0c1a056613d",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5611,
+        5612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9005858-07d2-44a2-8fd5-e444f00ae6b8",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        5612,
+        5613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28c2b58b-890a-4b6b-a9e8-d381a52f74c7",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5613,
+        5614
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abf0843e-8945-4342-a6b9-6e5aedfee93b",
+       "type": "word",
+       "value": "аке",
+       "textRange": [
+        5614,
+        5617
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37608175-a83a-4ba6-b95e-c8aa5fbc3497",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        5617,
+        5620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29ada1c0-f6f0-4d6a-8140-8848eddeb210",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5620,
+        5621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "914a37ac-22dd-4e5d-96d3-18ec83d77c69",
+       "type": "word",
+       "value": "Мову",
+       "textRange": [
+        5621,
+        5625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32fbbd37-bdc4-4a07-8dfd-5dcaa71f4916",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5625,
+        5626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63785958-3845-4977-bf32-c917d4433abe",
+       "type": "word",
+       "value": "йому",
+       "textRange": [
+        5626,
+        5630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdc10051-ae70-4ae4-bce9-cd48c7d63f1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5630,
+        5631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf67e54e-ed82-4503-b237-6a17e663bb3c",
+       "type": "word",
+       "value": "відібрало",
+       "textRange": [
+        5631,
+        5640
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Зовсім поруч серед гілля було щось та-а-а-аке... Мову йому відібрало",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95307725-311f-4b32-b274-4e1bbee24492",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5640,
+      5641
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Зовсім поруч серед гілля було щось та-а-а-аке... Мову йому відібрало",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "1caaf566-0727-4829-a3f7-d075bdd6b6a8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a1919c5c-2a73-4892-b27b-3ef0f01a44d4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1dd74886-77cc-439f-a8be-2832c1328c57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5641,
+        5642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d110e64-7604-4a8d-a8da-caba0c268823",
+       "type": "word",
+       "value": "Пір'я",
+       "textRange": [
+        5642,
+        5647
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c208748c-cc06-4ebe-9733-904984a9ee08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5647,
+        5648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74965055-689a-4629-ad0a-ad531b0fa3b9",
+       "type": "word",
+       "value": "настовбурчилося",
+       "textRange": [
+        5648,
+        5663
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Пір'я настовбурчилося",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ad89b44e-040e-47b0-b016-21f21decfae1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5663,
+      5664
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6a01fe91-8cd2-47dc-b918-5d01e5f71954",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5664,
+      5665
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Пір'я настовбурчилося.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Потім Орел виконав вправи для шиї: вправо-вліво, вправо-вліво... Овва Повернувши шию ліворуч, птах закляк Зовсім поруч серед гілля було щось та-а-а-аке... Мову йому відібрало Пір'я настовбурчилося.",
+ "concept": "SYNTAX"
+}

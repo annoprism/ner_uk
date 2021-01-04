@@ -1,0 +1,891 @@
+{
+ "id": "872a1bcb-aa15-4e29-93ed-53457a750dc9",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d902ee9c-5891-4db4-b256-93bb92c45a83",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "49f982d1-6eeb-4e9a-b9e5-310007250284",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c2d394fc-fa36-458e-a7b5-486a25849a96",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        8515,
+        8516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "beffcef8-14ce-4deb-8040-4687210f769f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8516,
+        8517
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "5df05b4c-26fa-4f39-be8f-8ae77e9fec10",
+         "type": "word",
+         "value": "Петро",
+         "textRange": [
+          8517,
+          8522
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c916c1ca-5cfe-4a9e-8794-0d75d4bb2fc5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "dc926b9f-b0df-4ea8-a888-75118ec08ef3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8522,
+        8523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa50f663-b774-4c92-8f0a-d921c467a4aa",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        8523,
+        8524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "327e9f48-c9e6-43cf-bcbe-8dd6b059957e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8524,
+        8525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d6fe552-47c9-40d1-afc4-f45bbc58f24b",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        8525,
+        8529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b6c1e1c-55a0-4cab-a55f-196138c39e03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8529,
+        8530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5d71edf-15d8-419c-8299-dcf37335afe5",
+       "type": "word",
+       "value": "воля",
+       "textRange": [
+        8530,
+        8534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7551bd94-c09b-48cf-98cc-fa7a86709aaf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8534,
+        8535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab0f72b2-0503-4b91-b20a-a0e3d7639970",
+       "type": "word",
+       "value": "вибирати",
+       "textRange": [
+        8535,
+        8543
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А Петро — його воля вибирати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf426651-6a1b-4cbb-aa76-cb244704ecbb",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      8543,
+      8544
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fa5a5aa0-73c4-44d3-abb6-b8f5e4aa4603",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2efb8e1b-1d9f-402e-8269-b2081b4cd7dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8544,
+        8545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3949e5cc-31d1-4d7b-9abd-23c6a5e574b6",
+         "type": "word",
+         "value": "Аделя",
+         "textRange": [
+          8545,
+          8550
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4b13dce9-02fa-4325-b813-d345401003f9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1c9883b3-6a60-4037-a889-6f424c11825e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8550,
+        8551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "540694fa-ff88-45da-ad19-e5abd1c31074",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8551,
+        8553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a45b879e-ada3-47a7-826d-488bcfe469e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8553,
+        8554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0562e763-a753-472b-8fa6-1947b3c22a79",
+       "type": "word",
+       "value": "може",
+       "textRange": [
+        8554,
+        8558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d499ec90-d3fa-4474-9bab-7bf921601b7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8558,
+        8559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff103406-f67e-4e67-b5c7-ea9b39fba59e",
+       "type": "word",
+       "value": "стати",
+       "textRange": [
+        8559,
+        8564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d51cb256-2367-4cf9-94aa-6c51d97d5736",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8564,
+        8565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b85757d9-748a-483d-ad74-952639490283",
+       "type": "word",
+       "value": "матір’ю",
+       "textRange": [
+        8565,
+        8572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "942aa9dd-5ee1-4a06-86d3-fae1cde7c0d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8572,
+        8573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf152d48-7290-4dd1-9b43-29df29494993",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        8573,
+        8577
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3baa4b3b-9a62-4104-a914-b8bd5c41f349",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8577,
+        8578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d633932-8ab3-4c80-bba0-23fd8a02d2cd",
+       "type": "word",
+       "value": "дітей",
+       "textRange": [
+        8578,
+        8583
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Аделя не може стати матір’ю його дітей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b472b81d-aa7e-467b-b62b-c9e39383df39",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8583,
+      8584
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f441ef45-9eda-46d9-a7d1-456d9272b8f9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c54d6eeb-5c64-4afe-a79e-51faa603b156",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8584,
+        8585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c543279-26ad-427e-9a1b-f72dfa858370",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8585,
+        8587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56df3cc6-8fc4-4fec-9eda-fa2a4bf77271",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8587,
+        8588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3872b1dd-72fa-475b-8b04-b825c2a82c97",
+       "type": "word",
+       "value": "може",
+       "textRange": [
+        8588,
+        8592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc8f5b84-be88-405c-9714-4e799d986519",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8592,
+        8593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6afe3662-7774-452e-b54c-a1e122953e52",
+       "type": "word",
+       "value": "сповнити",
+       "textRange": [
+        8593,
+        8601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd7e9b8d-9d90-456b-a14b-11f7f35cb294",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8601,
+        8602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a0e212b-7ae5-44aa-b346-ce0834bcd731",
+       "type": "word",
+       "value": "обіцяного",
+       "textRange": [
+        8602,
+        8611
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не може сповнити обіцяного",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3299cfb5-7107-47a1-b625-f39cd6d8dcdb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8611,
+      8612
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "55c0ad42-a6b0-4f48-b73c-8be44a88a541",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ec59a7bc-7643-4b2f-9413-0b7e02a3a90a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8612,
+        8613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967d0fb5-b86a-4bff-aa04-afcef3b5b72f",
+       "type": "word",
+       "value": "ніхто",
+       "textRange": [
+        8613,
+        8618
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5112a5b-4a67-44b4-a2e7-900b632821fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8618,
+        8619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "613a8d22-69a6-4faf-a3ee-64c7da43f896",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8619,
+        8621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "420d701f-fcdf-429f-a165-6e2224dd4dcf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8621,
+        8622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05bd16f3-3f12-463e-9c6b-4d4f16c40d3f",
+       "type": "word",
+       "value": "судитиме",
+       "textRange": [
+        8622,
+        8630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6eae701-c4c3-4024-bf7c-2181d2fa6112",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8630,
+        8631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86f56e28-5e19-486d-92ca-f45dafaf6175",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        8631,
+        8635
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ніхто не судитиме його",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a91695fe-ce89-47f9-9070-9aaf0a7e15f6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8635,
+      8636
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f1ab061-868a-4849-b1c5-c51c0d4fe0d1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8e2ae786-c7b2-41ed-bb58-108d390ccc3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8636,
+        8637
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40da7b6c-09ab-4570-8c05-c04ed23b864b",
+       "type": "word",
+       "value": "коли",
+       "textRange": [
+        8637,
+        8641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75855c67-669b-4799-88bd-663a4ac07455",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8641,
+        8642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8119d14-d808-4253-b1d7-d3f40aa89561",
+       "type": "word",
+       "value": "б",
+       "textRange": [
+        8642,
+        8643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d807b014-e658-4cb0-8df8-2af0edbd8b26",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8643,
+        8644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5fb8154-b42c-4077-a2c0-d5f3f55f91b3",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        8644,
+        8647
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc7454d8-acfd-4cc3-b8b7-d2b6da71378a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8647,
+        8648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d60e0de-9f8c-417a-b229-15556fdf5f2c",
+       "type": "word",
+       "value": "відступився",
+       "textRange": [
+        8648,
+        8659
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "131ad7a4-be31-425a-be4b-6f4bef97f1d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8659,
+        8660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecccf531-5f3f-4f25-86bd-11149cbba27b",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        8660,
+        8663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3fd52e5-a5d8-4a0c-9f46-70971cc6bb8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8663,
+        8664
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7cc38ab-431b-46b8-a1ef-c394474a4138",
+       "type": "word",
+       "value": "неї",
+       "textRange": [
+        8664,
+        8667
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коли б він відступився від неї",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f39c3c2f-519f-4ec9-8a84-4bf4b9d5f5c4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8667,
+      8668
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А Петро — його воля вибирати: Аделя не може стати матір’ю його дітей, не може сповнити обіцяного, ніхто не судитиме його, коли б він відступився від неї",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "803ea2fd-230f-4057-9bc3-81835836bdb4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "474a248c-c45e-47da-9c4e-f56a1c10cfa2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "61972649-0ba1-4a97-8df5-cb8a107ac1dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8668,
+        8669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6f99800-8dcd-4604-9b26-07f3bf61901e",
+       "type": "word",
+       "value": "Інші",
+       "textRange": [
+        8669,
+        8673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb849f61-acd2-4b54-9687-6d383dc96a7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8673,
+        8674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "815e2726-7739-4aa4-849d-5cfbb3016381",
+       "type": "word",
+       "value": "люди",
+       "textRange": [
+        8674,
+        8678
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61a251b0-964d-4f18-bd58-fabacaeb59b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8678,
+        8679
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b5a783c-831e-4e90-b031-28248373a120",
+       "type": "word",
+       "value": "судитимуть",
+       "textRange": [
+        8679,
+        8689
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Інші люди судитимуть",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "84937d66-2be7-477a-85ec-68043c2205cd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8689,
+      8690
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e95da50-a79d-4472-9207-412972b88420",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7d49be35-997a-4ab3-9916-2ccdadab811b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8690,
+        8691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21fd7113-b354-49fd-905a-27b649c4084d",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        8691,
+        8694
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f62923c3-3797-459f-9d11-df6e4700ad04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8694,
+        8695
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b97a0977-00a1-4557-b645-c64d7ce25ce6",
+       "type": "word",
+       "value": "тільки",
+       "textRange": [
+        8695,
+        8701
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffdfb874-078a-41fe-baff-7427b8a47135",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8701,
+        8702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b526b6e-0c8e-47ef-922a-723170d572dc",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8702,
+        8704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c70fbf0-0feb-4062-a117-6f28ae1a5989",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8704,
+        8705
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bb0e9c6-a05f-4973-9a1e-0a1269b1b96c",
+       "type": "word",
+       "value": "ми",
+       "textRange": [
+        8705,
+        8707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ce9c74c-aafa-4979-9fec-50bcb9560908",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8707,
+        8708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90d0a1e3-16ba-4f88-94bf-530e7c732c14",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        8708,
+        8709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac537f83-8cdb-4f6e-94bf-8969ec293dd2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8709,
+        8710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0d3101cf-84de-404d-b191-553126cbda02",
+         "type": "word",
+         "value": "Аделею",
+         "textRange": [
+          8710,
+          8716
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ed28ed74-26fa-4d5e-a982-b7796162f340",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " але тільки не ми з Аделею",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d1b7de46-9c9e-4aa4-9f0a-5137c9322a21",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8716,
+      8717
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "786e479d-af1f-48e9-9236-521d641c36ae",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8717,
+      8718
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Інші люди судитимуть, але тільки не ми з Аделею.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А Петро — його воля вибирати: Аделя не може стати матір’ю його дітей, не може сповнити обіцяного, ніхто не судитиме його, коли б він відступився від неї Інші люди судитимуть, але тільки не ми з Аделею.",
+ "concept": "SYNTAX"
+}

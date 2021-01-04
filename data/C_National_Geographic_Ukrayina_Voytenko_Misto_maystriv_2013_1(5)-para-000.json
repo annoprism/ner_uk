@@ -1,0 +1,219 @@
+{
+ "id": "fad650b8-f23d-44b5-aadb-7f87ce5da3bf",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0aa24b0a-8994-461f-b6be-f51048286711",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7c8e89f2-d04d-47d2-ab11-0de3f85b5755",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cf232e1a-3e6f-416c-95d4-68e3a27d9115",
+       "type": "word",
+       "value": "Народитися",
+       "textRange": [
+        0,
+        10
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80e1c473-eff6-441a-9443-50578c68a0df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10,
+        11
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12e8d0a0-0038-43da-b453-17089917743d",
+       "type": "word",
+       "value": "художником",
+       "textRange": [
+        11,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25affeaa-eb8a-4021-b167-dcc63fde811d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7aa32a17-e87b-4930-8a6a-a629e7fa86d7",
+       "type": "word",
+       "value": "можна",
+       "textRange": [
+        22,
+        27
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Народитися художником можна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e5023028-bb23-46ca-8448-3f2a8d518815",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      27,
+      28
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ef9eed8-3b9b-4245-aa62-41b76739703b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "731842c7-1cfa-420c-8a7a-93752e151bec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        28,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1235545e-a5e6-4c47-991c-6bdca8235137",
+       "type": "word",
+       "value": "якщо",
+       "textRange": [
+        29,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29708d3c-cdef-436e-93ad-7771f2a7d83d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        33,
+        34
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d92f777a-8581-44e3-bee5-9b99babac973",
+       "type": "word",
+       "value": "місце",
+       "textRange": [
+        34,
+        39
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9943bfb-544f-440b-8b26-dda17dd29e82",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        39,
+        40
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "234c8d62-9595-41fe-ae8e-59bb79e4445f",
+       "type": "word",
+       "value": "народження",
+       "textRange": [
+        40,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4102fcc9-f811-4494-ae58-4c00d77840ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        50,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25b4ad38-2663-41bc-9e45-13a264d1c32e",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        51,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34f64813-7a71-493d-9b97-f23604a967a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        52,
+        53
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "6779ca7c-33c4-4f70-82c0-c167e3649bf8",
+         "type": "word",
+         "value": "Петриківка",
+         "textRange": [
+          53,
+          63
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "796e9d91-856c-4965-a88d-a9019031e288",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " якщо місце народження - Петриківка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "343fc379-36f9-4f7e-a464-3d6bef5017ed",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      63,
+      64
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "23fc4088-18be-4ba1-8683-9c648f59cba5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      64,
+      65
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Народитися художником можна, якщо місце народження - Петриківка.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Народитися художником можна, якщо місце народження - Петриківка.",
+ "concept": "SYNTAX"
+}

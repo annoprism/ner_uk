@@ -1,0 +1,515 @@
+{
+ "id": "d00a480b-1c1a-405d-8a20-a22b2e524781",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "baeba054-ebef-4e7c-acf9-b9a494e8b3da",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "87f96804-1447-491c-b8c2-d0e57ce636dc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "eb0feb69-8595-40bd-ae2c-1699ad6718f7",
+       "type": "word",
+       "value": "За",
+       "textRange": [
+        840,
+        842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bfedd2d4-f1c7-4b80-9945-80e4691a3917",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        842,
+        843
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a051b59-4ad2-464d-85f3-e62487ba21cf",
+       "type": "word",
+       "value": "словами",
+       "textRange": [
+        843,
+        850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91c74911-2d0f-4760-b4f5-01b27abe44ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        850,
+        851
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d27dd287-1ee0-4eb4-a746-ec05fab1bbf4",
+         "type": "word",
+         "value": "Сакала",
+         "textRange": [
+          851,
+          857
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "77446131-e82e-4049-9fb2-65770a823fec",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "За словами Сакала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c0981b0-5344-4e67-b3e0-5a88e8789baf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      857,
+      858
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ea953c1b-32a4-47df-9f6a-f4473dc299a1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b4c6795d-c3ae-4f62-9002-fa3d4995d45c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        858,
+        859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35150db7-2257-4422-a3d3-a4a04ac7f738",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        859,
+        862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f83ca7a4-e88e-4e06-9ed6-edc566f83aa5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        862,
+        863
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ca2e322-d4e2-4a0d-9ea7-2308bd37b2f9",
+       "type": "word",
+       "value": "час",
+       "textRange": [
+        863,
+        866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edeae8c7-3778-47ca-ad2e-24ae41e8089a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        866,
+        867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b22c9c0e-7918-4422-b4ce-5d84567d9973",
+       "type": "word",
+       "value": "розслідування",
+       "textRange": [
+        867,
+        880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b8099d1-a55b-4522-a8b2-2e8c7bbd75ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        880,
+        881
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9db4cc46-74a4-4fa4-b86d-66d1d4a4fd8c",
+       "type": "word",
+       "value": "призначено",
+       "textRange": [
+        881,
+        891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb4972b6-a722-4cd2-b279-0953f3f295dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        891,
+        892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f0af1f8-8234-4955-b451-9e87ddb74ab6",
+       "type": "number",
+       "value": "200",
+       "textRange": [
+        892,
+        895
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a746fb0-6aa0-4625-b2d0-3e7cee066f3e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        895,
+        896
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f7762bc-61e0-4bd8-809b-0ccec5cf9d74",
+       "type": "word",
+       "value": "експертиз",
+       "textRange": [
+        896,
+        905
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " під час розслідування призначено 200 експертиз",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cc7cd7a9-3f02-40a0-9eb7-374f21e330eb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      905,
+      906
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0c206bda-77fa-4358-bac2-dc537c31a97c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "549d7614-03c8-4a46-a38a-4de8d8630e29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        906,
+        907
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36cbe622-506d-4289-ac2b-104d2086c22c",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        907,
+        910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "836dd244-532c-4a83-a30a-b119bb9be5bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        910,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b787c6f-7725-43f3-b607-c3074b2f31b4",
+       "type": "word",
+       "value": "розслідування",
+       "textRange": [
+        911,
+        924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24fbeb09-9e69-4746-8a12-bb7459092a2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        924,
+        925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6792203c-c1cd-4edf-a839-b8515902a037",
+       "type": "word",
+       "value": "залучено",
+       "textRange": [
+        925,
+        933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b80f1e4-1a17-4ef4-839a-c0847736799c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        933,
+        934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89459c4f-b5b5-4ac1-b6a6-452418898683",
+       "type": "number",
+       "value": "200",
+       "textRange": [
+        934,
+        937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c9a29c4-27a0-400a-8ae6-0f925bccdb84",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        937,
+        938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50308a58-3825-460c-8625-d78903955b5f",
+       "type": "word",
+       "value": "співробітників",
+       "textRange": [
+        938,
+        952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a346fdbc-c36d-4ca3-a819-67fcd3a8a07c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        952,
+        953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07b8a968-395e-4b8a-9224-f8118b4700cf",
+       "type": "word",
+       "value": "правоохоронних",
+       "textRange": [
+        953,
+        967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb247ee2-5e69-4a21-8977-83166eaf7853",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        967,
+        968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59e1f860-fee3-4a8b-a7ba-31a7976e2230",
+       "type": "word",
+       "value": "органів",
+       "textRange": [
+        968,
+        975
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " для розслідування залучено 200 співробітників правоохоронних органів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "218f22dc-a951-4dde-bc6a-f31c0f5f6bde",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      975,
+      976
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7cd911ec-9f2f-4669-9368-e8cc2434e695",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "def5233d-c198-4679-a15e-5161dc38e96c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        976,
+        977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20790162-eeab-4f18-8cf0-0ce4a0f90bb3",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        977,
+        978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d915e486-7b50-4c44-b9d2-8dea973a2669",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        978,
+        979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da0b8f0d-3f4d-4885-9f48-fb8df4548824",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        979,
+        983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27e336fa-9022-49d0-b58f-3b2c35ab3d3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        983,
+        984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2b6391c-1f8a-4913-8099-48c9e7547f58",
+       "type": "word",
+       "value": "числі",
+       "textRange": [
+        984,
+        989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a432ef6-a874-4752-a287-4aa2a08e12c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        989,
+        990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd413ad9-0afa-4d23-ac51-917eee4ed795",
+       "type": "number",
+       "value": "146",
+       "textRange": [
+        990,
+        993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87c8d090-78d5-4a4e-be18-0ac74bab9186",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        993,
+        994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90ae1815-848e-4197-9bc8-b6016827b2f9",
+       "type": "word",
+       "value": "слідчих",
+       "textRange": [
+        994,
+        1001
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у тому числі 146 слідчих",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2a4f8687-a16d-47cf-9efa-cc59a87d279a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1001,
+      1002
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ab3e182d-3223-4eda-b7c9-936a89c5566c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1002,
+      1003
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "За словами Сакала, під час розслідування призначено 200 експертиз, для розслідування залучено 200 співробітників правоохоронних органів, у тому числі 146 слідчих.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "За словами Сакала, під час розслідування призначено 200 експертиз, для розслідування залучено 200 співробітників правоохоронних органів, у тому числі 146 слідчих.",
+ "concept": "SYNTAX"
+}

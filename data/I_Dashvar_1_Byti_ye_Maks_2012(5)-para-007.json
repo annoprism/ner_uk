@@ -1,0 +1,581 @@
+{
+ "id": "7bf16bf9-6495-4058-bdef-72e80daac4d7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "12c8d531-c735-4dd5-b93d-ed5d978a7b84",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e544eceb-e49b-4446-b72a-fa32f6906aaf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "660cdf3a-5c9d-482e-ba02-9dc47f02bef4",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2489,
+        2490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c24ebba8-a7d5-494d-bd45-d4cf88fbfaf6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2490,
+        2491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8184ec77-9a1b-464c-9bff-5a0d231a555d",
+       "type": "word",
+       "value": "Добре",
+       "textRange": [
+        2491,
+        2496
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Добре",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "56c299d6-d30f-458e-832f-4dda2da46dd8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2496,
+      2497
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9577e6b5-40f6-458f-84a7-2a48b9b6e563",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6ee44ec3-5f50-4cb9-81f2-d9cc8c563e41",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2497,
+        2498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82c954d2-e649-4daa-9d25-d138ac89a011",
+       "type": "word",
+       "value": "пані",
+       "textRange": [
+        2498,
+        2502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32c8801e-4527-4d9c-9352-757cf00c31b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2502,
+        2503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "97394d8b-b95c-4886-ad05-18190a325b57",
+         "type": "word",
+         "value": "Доро",
+         "textRange": [
+          2503,
+          2507
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f1a374d6-6cf1-42a8-a9db-0e07f496ef15",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " пані Доро",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba59a750-5eb7-4eb9-8bf8-e1b8fb34248a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2507,
+      2508
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8d57e5b5-a34d-4da6-9aed-707eca7fd342",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "50725746-5c1e-4a21-9bc5-0c6785dbaad6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2508,
+        2509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b6acdfe-24c1-4f28-9456-46a7f3c38986",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2509,
+        2510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81a56ff7-1766-4152-b825-8c9e4fac9ecd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2510,
+        2511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdcc1cb3-9eb1-45f8-a5b2-1f85feb2010a",
+       "type": "word",
+       "value": "секретарка",
+       "textRange": [
+        2511,
+        2521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "401f8676-f4bf-4d9f-8aff-01f2b2caba3e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2521,
+        2522
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9890ef22-aa11-44ac-bb56-2de46de8e194",
+       "type": "word",
+       "value": "показує",
+       "textRange": [
+        2522,
+        2529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7467253-91f8-4a06-988c-6b53e9f5a339",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2529,
+        2530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcde80e1-d398-4e94-a166-e14e81343af3",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2530,
+        2532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85465037-bba2-4829-8660-574294423c13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2532,
+        2533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dcd0c09-7f3f-4637-a627-6be3e496d8ac",
+       "type": "word",
+       "value": "підземний",
+       "textRange": [
+        2533,
+        2542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b45c368-d290-4e71-9d87-6be5ac1dfd9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2542,
+        2543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0e49bc9-0106-4798-8f75-648fca9350eb",
+       "type": "word",
+       "value": "перехід",
+       "textRange": [
+        2543,
+        2550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b2cedfd-dcb1-46d9-9037-e6611d253a69",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2550,
+        2551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12e45791-02a7-45bb-9957-70b4ff0f82c1",
+       "type": "word",
+       "value": "неподалік",
+       "textRange": [
+        2551,
+        2560
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " - секретарка показує на підземний перехід неподалік",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "94ce9937-422d-488f-9869-b756e10fe22a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2560,
+      2561
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Добре, пані Доро, - секретарка показує на підземний перехід неподалік",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b46fbbda-1179-4de2-b722-eaefe2fc572a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2951007c-fd9f-4c61-abd0-aaffc21c4877",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0521f8cf-4b4b-4ee3-a9b9-b0e88f408144",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2561,
+        2562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50f25696-0235-4f8a-8e3d-cde94951fb66",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2562,
+        2563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e22f08d7-5e39-404e-9d03-1556100f6259",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2563,
+        2564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c8296f8-7943-4488-ad2c-4fae4bdde038",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        2564,
+        2565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae3d5b21-5206-467f-86db-56c3210f2f79",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2565,
+        2566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28bacb1f-ca5e-4313-94d8-067a73bffab9",
+       "type": "word",
+       "value": "біля",
+       "textRange": [
+        2566,
+        2570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdb31a34-545e-45ae-b8ea-433122c27fde",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2570,
+        2571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7aacd602-c7f7-412f-b767-1fdb54d39703",
+       "type": "word",
+       "value": "переходу",
+       "textRange": [
+        2571,
+        2579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aaf36157-b59d-45ce-8b4c-e19528f80dc9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2579,
+        2580
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "983f14ed-b5cd-4165-81ab-e6e834ce8e48",
+       "type": "word",
+       "value": "диск",
+       "textRange": [
+        2580,
+        2584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2c12652-2541-4725-9a23-1f30d0706948",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2584,
+        2585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dacb1dcf-30bd-4b32-afbf-6b6d99ff6f7d",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        2585,
+        2587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1bfae140-874b-4b57-887a-2833e0f2a28e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2587,
+        2588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "341dcadb-bcb1-4985-81bb-f65f3a70337b",
+       "type": "word",
+       "value": "фотографіями",
+       "textRange": [
+        2588,
+        2600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "448c6cd3-a7f1-44f0-b34d-33e033a3e27a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2600,
+        2601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9a7ad5e-35a2-4ebf-a23e-c932959f2346",
+       "type": "word",
+       "value": "заберу",
+       "textRange": [
+        2601,
+        2607
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " - Я біля переходу диск із фотографіями заберу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "de83a165-588e-4c0d-8425-50db808af2f0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2607,
+      2608
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "525e77d1-8b55-4bec-9053-bf36a7fdd7f3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1b95aac0-2730-4101-9801-98045ee5be72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2608,
+        2609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09390829-5cd4-49a2-b3e9-d1f643438608",
+       "type": "word",
+       "value": "словом",
+       "textRange": [
+        2609,
+        2615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfc51dc9-f818-4118-a9e7-78e176903280",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2615,
+        2616
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0d54da8-d011-499d-8b38-e10e57582b32",
+       "type": "word",
+       "value": "перекинуся",
+       "textRange": [
+        2616,
+        2626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b0246eb-5f39-4d40-a28f-1751414162ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2626,
+        2627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf42d344-bf37-4c4e-a8bd-94e7529fda16",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2627,
+        2628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "052852c8-2088-4190-b432-697fcace59ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2628,
+        2629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b30e54b-cc64-4a2f-8b49-238f83724d4a",
+       "type": "word",
+       "value": "повернуся",
+       "textRange": [
+        2629,
+        2638
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " словом перекинуся і повернуся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6ba6b124-6194-48e6-8ac1-b722f36123da",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2638,
+      2639
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef54f1fb-05ee-4dc1-a739-4f547712e8f8",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2639,
+      2640
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " - Я біля переходу диск із фотографіями заберу, словом перекинуся і повернуся.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Добре, пані Доро, - секретарка показує на підземний перехід неподалік - Я біля переходу диск із фотографіями заберу, словом перекинуся і повернуся.",
+ "concept": "SYNTAX"
+}

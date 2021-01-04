@@ -1,0 +1,959 @@
+{
+ "id": "e5f4068c-7951-4807-bc14-c52e14104b32",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2dbc11a5-3acb-47c4-9802-3e6c8f3e7979",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "49983bdf-deb9-4581-ba0f-47a342112f75",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "359e04ed-b0ab-40a0-b347-64c0687d585b",
+       "type": "word",
+       "value": "Робота",
+       "textRange": [
+        1860,
+        1866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe61a2a6-c2e1-4b91-81c8-f8038cd6f983",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1866,
+        1867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54ecee81-715b-49ee-a770-9be5981541b4",
+       "type": "word",
+       "value": "стилістів",
+       "textRange": [
+        1867,
+        1876
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Робота стилістів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0c73505e-bdad-4420-bf58-1b138c610997",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1876,
+      1877
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4894c3c7-aeeb-4536-9590-6e202988d9b3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e33a6fe5-da8d-487a-abe4-6e47fdae5f2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1877,
+        1878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70598e40-fda9-4fd0-845f-e67369e6ba5e",
+       "type": "word",
+       "value": "візажистів",
+       "textRange": [
+        1878,
+        1888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b253789-74ca-4bfc-91ba-4e14316e8a5e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1888,
+        1889
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e77dd17-3c0d-4260-a073-d8090fab03ae",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1889,
+        1891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbab39f7-da78-44cb-bd70-d0a119d7d474",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1891,
+        1892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "626b480e-2aef-45f9-ba16-818dccd957a7",
+       "type": "word",
+       "value": "українських",
+       "textRange": [
+        1892,
+        1903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b388847-2e49-4b78-9438-f3572faa36ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1903,
+        1904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1513a64-67ff-44b1-a1a1-bfed86a4bd8f",
+       "type": "word",
+       "value": "кутюр’є",
+       "textRange": [
+        1904,
+        1911
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " візажистів та українських кутюр’є",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "45a5f451-dee1-465b-bb12-5a6befab88c2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1911,
+      1912
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2498a26a-faad-44ef-a471-476e723a2e50",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f2dbbccf-dff4-4e7a-8265-e9f4ac5a5ef3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1912,
+        1913
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9c30ac1-5576-4111-85b2-2737aab6594c",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        1913,
+        1915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f0f13c7-2ebb-43dc-9e31-288c5bdc9a0b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1915,
+        1916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0872e7ad-e24f-46c4-9fe6-9dea2cbff5c8",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1916,
+        1917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d341cf0a-a50e-447a-9cfc-35e98005b1f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1917,
+        1918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd7415a9-257e-417b-8ac0-a9d019a2bf0a",
+       "type": "word",
+       "value": "майстрів",
+       "textRange": [
+        1918,
+        1926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f882bf9-aa86-4792-bc5d-c7e4263c28a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1926,
+        1927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f267ba6-4fbe-4a91-afcd-c3c8063ef13b",
+       "type": "word",
+       "value": "декорацій",
+       "textRange": [
+        1927,
+        1936
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як і майстрів декорацій",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "33e70499-381d-4ae7-9321-905b9bbbc482",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1936,
+      1937
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ec7639b-d7e2-42a3-af45-40b0209fe9f1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "395d9e16-105b-4c76-8804-1bcc3da1c376",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1937,
+        1938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b8a68bd-5afd-4fbc-800e-dedb7b63a60f",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1938,
+        1939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dff75250-4e0c-411f-a79a-ce6abba7e124",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1939,
+        1940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e8e38b5-c270-4f7f-aaf6-97ba9ed2ce64",
+       "type": "word",
+       "value": "цьому",
+       "textRange": [
+        1940,
+        1945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46f6b88e-eeb0-489f-8d22-42bc853bbc27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1945,
+        1946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0288224-57b3-4860-9634-33e12835e9f5",
+       "type": "word",
+       "value": "фільмі",
+       "textRange": [
+        1946,
+        1952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e419382-e6bf-4f5d-b22f-b01a8f3c647e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1952,
+        1953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc864290-c82a-4db5-aef9-e614a13de2b7",
+       "type": "word",
+       "value": "заслуговує",
+       "textRange": [
+        1953,
+        1963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21843408-fe51-4185-9185-2da29a89200c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1963,
+        1964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c58adf8c-3715-4995-be5b-1ca080389364",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1964,
+        1966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0608e82e-45af-49aa-94c7-bfdfad8d2171",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1966,
+        1967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0359463-022b-4f83-a999-713f3e2d8995",
+       "type": "word",
+       "value": "окрему",
+       "textRange": [
+        1967,
+        1973
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d342f6c0-e5ce-4b91-9f97-1389b9f0521e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1973,
+        1974
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f95bfd54-206f-49aa-a0e1-d70ee08dc99f",
+       "type": "word",
+       "value": "похвалу",
+       "textRange": [
+        1974,
+        1981
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у цьому фільмі заслуговує на окрему похвалу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb1709be-381b-4382-925b-f683a609b877",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1981,
+      1982
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Робота стилістів, візажистів та українських кутюр’є, як і майстрів декорацій, у цьому фільмі заслуговує на окрему похвалу",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0ebfa9b7-cf5a-425c-91f6-c6c59ef97a14",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fa4f3f53-adca-4ca9-a794-89a2cf71d92b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "174369d8-ad9b-4ccb-981f-5ba604e5efa5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1982,
+        1983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "058d3014-3022-46e6-947e-72604254070e",
+       "type": "word",
+       "value": "Кожний",
+       "textRange": [
+        1983,
+        1989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0169a711-c5b8-4f60-8ede-c76c6fbffb2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1989,
+        1990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1a8d735-5eb1-4080-8e11-05acb363f132",
+       "type": "word",
+       "value": "образ",
+       "textRange": [
+        1990,
+        1995
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Кожний образ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d58e357f-2ed8-4267-89c9-e28815fed256",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1995,
+      1996
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef8aebec-0972-4561-84e7-99eab26a2c3a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d319d1e6-2e6a-4861-b1f3-3ec6d7c16a73",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1996,
+        1997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f545925-4e80-4342-806e-1960ba919b7a",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1997,
+        1998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3761ac69-2b94-447b-8a17-ac299390b19e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1998,
+        1999
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4406c44-09a8-434c-bd51-5a585fff0a35",
+       "type": "word",
+       "value": "якому",
+       "textRange": [
+        1999,
+        2004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c07928d-6cf4-4b1e-825e-8848805cd266",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2004,
+        2005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce6c42af-db1a-40d7-be3d-5d62339b4f85",
+       "type": "word",
+       "value": "поставала",
+       "textRange": [
+        2005,
+        2014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8c1a4d1-c55c-4cc5-8f5f-2a1e6102b890",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2014,
+        2015
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1fb0720c-91bf-4df8-8058-881048343b6f",
+         "type": "word",
+         "value": "Тіна",
+         "textRange": [
+          2015,
+          2019
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "bb50a41b-d4cf-4e1a-b455-8e7470054cb2",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2019,
+          2020
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4a85617b-7bf3-47e3-801e-b954477927ed",
+         "type": "word",
+         "value": "Кароль",
+         "textRange": [
+          2020,
+          2026
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8e725c9d-3241-4d17-91ed-a9caae60da6f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " у якому поставала Тіна Кароль",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "31fc9e54-c3c4-4416-bab9-6075a8553cd5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2026,
+      2027
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f1ceec4d-dd56-4fd9-baab-bead6a9af6f0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "832a2879-70f8-4689-942c-7226966d0457",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2027,
+        2028
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e0e8a84-bec6-4189-83a1-ad65d5c2a556",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2028,
+        2029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "832f9308-8eba-4e08-a77c-b4fa276df1e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2029,
+        2030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "047d88d1-e88f-4c65-a7ac-f9963590475c",
+       "type": "word",
+       "value": "справжній",
+       "textRange": [
+        2030,
+        2039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41106541-f2ca-4add-a2db-718695b6e3bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2039,
+        2040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd1dbc69-0828-40cc-8aef-a3280065e96c",
+       "type": "word",
+       "value": "витвір",
+       "textRange": [
+        2040,
+        2046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bb88685-88b1-40b3-abb0-6b1752f3fd4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2046,
+        2047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdde8f6a-9b86-458d-ba6d-fbd7090bc9dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2047,
+        2048
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b95a2dca-f14f-4440-a0c5-f81ca04f3b20",
+       "type": "word",
+       "value": "мистецтва",
+       "textRange": [
+        2048,
+        2057
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – справжній витвір  мистецтва",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "012e72f4-bdc9-4d16-832f-56af3df4188b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2057,
+      2058
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Кожний образ, у якому поставала Тіна Кароль, – справжній витвір  мистецтва",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "86616c79-cf27-4b2a-9433-3479c61df4aa",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9d6aac89-0715-4e32-864c-edc8b7dfa4ea",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8d076ac4-c97b-4479-a1db-fa7418141ba9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2058,
+        2059
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27faa7d7-f169-4537-b4c3-119ff01e203b",
+       "type": "word",
+       "value": "Довершений",
+       "textRange": [
+        2059,
+        2069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6d0c6e5-3192-43b1-beef-473fc56c0690",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2069,
+        2070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed64cc09-3350-4a5a-ab03-560104582f2c",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2070,
+        2071
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a2371c5-3af0-4d7c-8553-6807c6bafb60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2071,
+        2072
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41249536-7f89-4ae9-aa5c-d31136549173",
+       "type": "word",
+       "value": "бездоганний",
+       "textRange": [
+        2072,
+        2083
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Довершений і бездоганний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b3bb8015-58b0-407c-acca-ac13aa4e7e63",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2083,
+      2084
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Довершений і бездоганний",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b53906eb-a5a7-4670-9101-c4028016f03c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b5444e98-bcb9-4112-8f13-8f1cdb367cb5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "934ae360-fd86-40c9-9850-ab1549887483",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2084,
+        2085
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fe31bff-7632-4c62-8518-ddc4635db8cf",
+       "type": "word",
+       "value": "Зі",
+       "textRange": [
+        2085,
+        2087
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74e29234-fe96-4b2b-99f3-ce2ff7858060",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2087,
+        2088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f2631b9-7c1c-486f-a236-99fd8096b543",
+       "type": "word",
+       "value": "стовідсотковим",
+       "textRange": [
+        2088,
+        2102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baf409ac-539e-400d-879b-154782281403",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2102,
+        2103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6912136b-ece2-45ab-848d-e0c8b7d4cc64",
+       "type": "word",
+       "value": "улученням",
+       "textRange": [
+        2103,
+        2112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5b98ccd-0a7f-46c5-94e0-4da6af8f889a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2112,
+        2113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e584b49a-178b-43c6-9209-2343252fdcf0",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2113,
+        2114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c14ae4bc-a963-4991-b072-2d55a1212cec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2114,
+        2115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73da1a38-4c46-45f9-9720-befe5694c7c7",
+       "type": "word",
+       "value": "контекст",
+       "textRange": [
+        2115,
+        2123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67b84d36-df18-4d25-a877-7505f219210b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2123,
+        2124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68bbdd52-4dd0-41e2-9f1f-1d92fd9d9f44",
+       "type": "word",
+       "value": "композиції",
+       "textRange": [
+        2124,
+        2134
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Зі стовідсотковим улученням у контекст композиції",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b6b4c6c1-ab0b-4c58-a66a-5fd27410c6a0",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2134,
+      2135
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e2e43c1d-81f7-4045-929d-86b8304564e6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2135,
+      2136
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Зі стовідсотковим улученням у контекст композиції.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Робота стилістів, візажистів та українських кутюр’є, як і майстрів декорацій, у цьому фільмі заслуговує на окрему похвалу Кожний образ, у якому поставала Тіна Кароль, – справжній витвір  мистецтва Довершений і бездоганний Зі стовідсотковим улученням у контекст композиції.",
+ "concept": "SYNTAX"
+}

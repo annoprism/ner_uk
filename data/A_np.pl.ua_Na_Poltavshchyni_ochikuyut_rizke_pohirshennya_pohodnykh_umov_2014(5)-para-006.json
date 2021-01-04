@@ -1,0 +1,867 @@
+{
+ "id": "3bf59277-614a-4744-ab8b-78b104951a0c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9dcc0dce-2d61-460d-bcb8-32b54a51f55e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5a381caf-b8be-49ed-bee1-d5c5d575170b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4b1c27e0-9152-410d-9045-0b9c75fc54b3",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        1703,
+        1705
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d0ab9cf-44dc-4190-b802-20b430a8f47c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1705,
+        1706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c699664-df44-44d2-acb7-f37b9674f9fb",
+       "type": "word",
+       "value": "акваторії",
+       "textRange": [
+        1706,
+        1715
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a4f4c0c-105f-486f-911e-ba6692c3ba00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1715,
+        1716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "486ea98a-c9cf-480a-80b5-dedd77831955",
+         "type": "word",
+         "value": "Чорного",
+         "textRange": [
+          1716,
+          1723
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3de246d6-160a-4552-bb51-b2629c19b341",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1723,
+          1724
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "563e42b0-cd3a-44f8-9b96-6c0f8d69d680",
+         "type": "word",
+         "value": "та",
+         "textRange": [
+          1724,
+          1726
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "aebcd96e-65da-4ac8-8c23-050bcf7eff41",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1726,
+          1727
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8abd84c4-6729-44a2-bd05-982cac1ba7e2",
+         "type": "word",
+         "value": "Азовського",
+         "textRange": [
+          1727,
+          1737
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cb4b6227-fd4a-4924-9e78-0f129dbabac9",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1737,
+          1738
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1f861b80-5b3d-41b7-8b6c-99f6bd9ea66c",
+         "type": "word",
+         "value": "морів",
+         "textRange": [
+          1738,
+          1743
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "10c5f31f-de07-498f-afdc-2226a43bb944",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "27963f86-7651-4c65-8a3a-5726ea11f52a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1743,
+        1744
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49640775-676e-410b-a547-492d5a243435",
+       "type": "word",
+       "value": "очікується",
+       "textRange": [
+        1744,
+        1754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6250ab0-b13c-4a16-bbaa-0e5b8a76a931",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1754,
+        1755
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12511afc-74a7-4377-b58c-012f1f5980e5",
+       "type": "word",
+       "value": "штормова",
+       "textRange": [
+        1755,
+        1763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "194ee25e-e771-4837-891a-81f06b5ab533",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1763,
+        1764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ff7ed86-a392-4a13-aaa3-5b3040ba7187",
+       "type": "word",
+       "value": "погода",
+       "textRange": [
+        1764,
+        1770
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "На акваторії Чорного та Азовського морів очікується штормова погода",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8afbc629-1879-4666-9d3e-0ce526e4a5a7",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1770,
+      1771
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b61173be-9054-4762-af6b-29c4f4327fba",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "65ef9a9b-cd6b-42ce-b534-9a08f4556924",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1771,
+        1772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d645cb2-3afe-4f40-a429-d97d495bc962",
+       "type": "word",
+       "value": "посилення",
+       "textRange": [
+        1772,
+        1781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc6f845a-b942-4e5f-8bff-0ba52bcd43f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1781,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d25738cb-4a0b-44f4-b384-5ddaf97b0e22",
+       "type": "word",
+       "value": "вітру",
+       "textRange": [
+        1782,
+        1787
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b23e722-2c60-425d-9aff-8e2bc3b4ebc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1787,
+        1788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f42d0ae-128a-4b43-96ad-5fe6b9fe04db",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        1788,
+        1790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af07da5e-6b69-45cb-8672-dad99cac1c22",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1790,
+        1791
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e60c696-ad63-4250-985d-52b6b10291e0",
+       "type": "number",
+       "value": "19",
+       "textRange": [
+        1791,
+        1793
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f264d9b9-3b51-40ef-acc8-166efef152ea",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1793,
+        1794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "579ad58f-f39f-4da1-a419-ce797ab6dcb7",
+       "type": "number",
+       "value": "24",
+       "textRange": [
+        1794,
+        1796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09a7b6f5-7a53-4683-9e30-d9d581eb1d71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1796,
+        1797
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b059f2f-c9ba-4d23-b29e-153a28ee9334",
+       "type": "word",
+       "value": "м",
+       "textRange": [
+        1797,
+        1798
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c73a926b-963b-4132-916a-10743004ac55",
+       "type": "whitespace",
+       "value": "/",
+       "textRange": [
+        1798,
+        1799
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35d15716-4d7c-4a99-b098-55addb68cf5d",
+       "type": "word",
+       "value": "с",
+       "textRange": [
+        1799,
+        1800
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " посилення вітру до 19-24 м/с",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6b579f6b-3f51-4b77-b2f8-d2febc7c7585",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1800,
+      1801
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a64f85c6-0f85-4315-8fad-7a01fee0cfc8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0f9f9272-2745-4b2f-ac50-5429ca17d3a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1801,
+        1802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4cd124a-c7bd-4991-b7ad-5651c526bfd7",
+       "type": "number",
+       "value": "29",
+       "textRange": [
+        1802,
+        1804
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a0a8db1-1c12-4ec2-bbde-61a3e175691f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1804,
+        1805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ede706c-2844-41db-a725-edc9984fbe78",
+       "type": "word",
+       "value": "грудня",
+       "textRange": [
+        1805,
+        1811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5161d688-9e88-46a9-b551-108131b540fe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1811,
+        1812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "230221e7-5aba-4bf0-a7f8-ed36fcff7435",
+       "type": "word",
+       "value": "пориви",
+       "textRange": [
+        1812,
+        1818
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de7b969f-abea-49f6-badc-6719cb19bd62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1818,
+        1819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd089937-32ba-4432-b809-8713c90a6861",
+       "type": "number",
+       "value": "25",
+       "textRange": [
+        1819,
+        1821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5a1bf51-b5ed-4fd6-984f-eefc6cfe1a82",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1821,
+        1822
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cf92787-7ab8-4095-819e-629398796022",
+       "type": "number",
+       "value": "30",
+       "textRange": [
+        1822,
+        1824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81a02544-0269-4566-bab0-c6084e1af38f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1824,
+        1825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fe94d35-c777-47e3-b38f-35a1a083cc85",
+       "type": "word",
+       "value": "м",
+       "textRange": [
+        1825,
+        1826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb5a3968-d46b-4697-8c1f-9130b2c9a848",
+       "type": "whitespace",
+       "value": "/",
+       "textRange": [
+        1826,
+        1827
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6390f930-82a3-496e-b578-46b7097f9ea3",
+       "type": "word",
+       "value": "с",
+       "textRange": [
+        1827,
+        1828
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " 29 грудня пориви 25-30 м/с",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "60afe719-53df-40bd-85ee-c460e2e63391",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1828,
+      1829
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6899b125-52c8-415f-988c-960a452bae3b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8270f75f-4831-4261-8175-c312f733b277",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1829,
+        1830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df9a6a00-1126-4703-8369-149695d33e34",
+       "type": "word",
+       "value": "висота",
+       "textRange": [
+        1830,
+        1836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98766911-bfae-4b8c-94e9-12ec2368f106",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1836,
+        1837
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00bd667f-f927-4709-84b1-75164671769d",
+       "type": "word",
+       "value": "хвиль",
+       "textRange": [
+        1837,
+        1842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcadc620-0fcd-4672-9e63-11c15a48f46e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1842,
+        1843
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "782abed3-3066-41ea-954e-dd829d38d94a",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1843,
+        1845
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f36e568-fcb1-43e0-bc5f-b5c50ba85e80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1845,
+        1846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "817963d7-c7ea-4712-ae94-f98c880ad109",
+         "type": "word",
+         "value": "Чорному",
+         "textRange": [
+          1846,
+          1853
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a7134768-673b-493b-b96e-63a4af46d8d3",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1853,
+          1854
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8ad1ef82-f804-4e22-af57-db4982d51caf",
+         "type": "word",
+         "value": "морі",
+         "textRange": [
+          1854,
+          1858
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "06d696d1-2cbb-468b-9778-b5f8cfc9731e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "11af855f-e4b4-46b3-a18f-97995121a854",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1858,
+        1859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b3ecfdb-eae8-4be1-b5cf-d62487cd6d32",
+       "type": "number",
+       "value": "20",
+       "textRange": [
+        1859,
+        1861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81dc1c99-da8a-4018-9ab7-1941c7f1d2d2",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1861,
+        1862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5099808-fe45-4da3-9fc5-e06263b1af4d",
+       "type": "number",
+       "value": "40",
+       "textRange": [
+        1862,
+        1864
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff824a33-536a-43d8-bb50-8f54b015c4a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1864,
+        1865
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d386573d-85ec-46fa-a851-105192d34b2b",
+       "type": "word",
+       "value": "дм",
+       "textRange": [
+        1865,
+        1867
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " висота хвиль на Чорному морі-20-40 дм",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b7f0bbda-67e1-4196-9b94-be814c920f75",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1867,
+      1868
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d1a8801e-fa74-41c6-aeb0-e5b8a33bf77a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7451efff-be24-4a6e-91d6-290b17bc1253",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1868,
+        1869
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0964d88f-af89-4fc9-8495-23b40a845532",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1869,
+        1871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8da0502b-f011-4df0-ae1c-641fb1c44d72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1871,
+        1872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "d3d8ab71-270c-47f7-ab34-3a5eeda6af95",
+         "type": "word",
+         "value": "Азовському",
+         "textRange": [
+          1872,
+          1882
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7402469d-6fd8-44f3-9986-3c55a5c46a02",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9305be02-aea7-4515-b86b-6957c4e73898",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1882,
+        1883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "113477a1-8a4e-4b34-9a50-5059b6690883",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1883,
+        1884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "248c6ccb-0d91-4ec1-929c-c7c919f14fbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1884,
+        1885
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9595d4d5-7930-4f1f-9e34-02116c8dca8f",
+       "type": "number",
+       "value": "13",
+       "textRange": [
+        1885,
+        1887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2fa806f-ffdf-4dae-8ccd-2eae35210ea9",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1887,
+        1888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d7f32c3-04d8-4acc-a4ca-7ad35365f947",
+       "type": "number",
+       "value": "20",
+       "textRange": [
+        1888,
+        1890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "486ca939-292e-4b2a-a98e-7b50fb5b1490",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1890,
+        1891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85c5640a-a3bc-494b-a4a4-2cf92f4b9284",
+       "type": "word",
+       "value": "дм",
+       "textRange": [
+        1891,
+        1893
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " на Азовському – 13-20 дм",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7b9648a4-ca43-43d8-8d98-1b3da9ad1cb6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1893,
+      1894
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "113c844b-4e96-4302-aeba-be3a97636e6b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1894,
+      1895
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "На акваторії Чорного та Азовського морів очікується штормова погода: посилення вітру до 19-24 м/с, 29 грудня пориви 25-30 м/с, висота хвиль на Чорному морі-20-40 дм, на Азовському – 13-20 дм.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "На акваторії Чорного та Азовського морів очікується штормова погода: посилення вітру до 19-24 м/с, 29 грудня пориви 25-30 м/с, висота хвиль на Чорному морі-20-40 дм, на Азовському – 13-20 дм.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,739 @@
+{
+ "id": "7e34d906-6c2a-4895-8185-a3f21ea92fa9",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "57305804-968e-44de-90b6-16d9b70a545b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d4f18205-77b8-4b0e-9d9e-40f12c66c4b2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "b9aa4cf4-3c8d-4326-bf1c-c0e6b56664a3",
+         "type": "word",
+         "value": "Наталя",
+         "textRange": [
+          3025,
+          3031
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7225d633-3eda-41da-a717-3bc9038969dd",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Наталя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bf877a99-c943-4f6a-af4e-c524258e3f45",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3031,
+      3032
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a2c9b0fa-f1e0-4ac0-b425-9d3ebac570fd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "99004095-df49-422b-8a5a-1c89ce04aa47",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3032,
+        3033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78b1bf19-a3e9-4c4c-8b62-6eabf784fcd4",
+       "type": "word",
+       "value": "котра",
+       "textRange": [
+        3033,
+        3038
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6046bb11-5a7b-4155-9ae1-5de2c0b5cefb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3038,
+        3039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef70fdc8-8bf7-4841-adec-53fdcbb5a06a",
+       "type": "word",
+       "value": "вирізнялася",
+       "textRange": [
+        3039,
+        3050
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0be424eb-a6f8-4370-a048-a879dc0d11cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3050,
+        3051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c33d47ae-5ba3-440c-b935-073dafd45789",
+       "type": "word",
+       "value": "недовірливістю",
+       "textRange": [
+        3051,
+        3065
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3fda46b8-9f8a-4ea2-8602-c9fedc8ad444",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3065,
+        3066
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cbd4f4c-f792-4711-a256-9b4fa17c0a6c",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        3066,
+        3068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4813b9b5-e6dc-4295-bf0d-0a4700dd1b8d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3068,
+        3069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0373c145-4ab1-4234-a8fc-4ec6485048b4",
+       "type": "word",
+       "value": "людей",
+       "textRange": [
+        3069,
+        3074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0692227e-f8aa-431e-af5e-c9b798bc5bb4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3074,
+        3075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba93bb77-17b9-458f-abc2-468527244aa0",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        3075,
+        3077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0608adc2-55c5-475d-b632-71e4c8a92939",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3077,
+        3078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a294b7d8-9915-416a-879a-f48461238d55",
+       "type": "word",
+       "value": "несприйняттям",
+       "textRange": [
+        3078,
+        3091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d57233b-2a20-4f44-93f3-f61318b808bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3091,
+        3092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d99e70e-fae1-4472-8e71-fd7a914dc721",
+       "type": "word",
+       "value": "чоловіків",
+       "textRange": [
+        3092,
+        3101
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " котра вирізнялася недовірливістю до людей та несприйняттям чоловіків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "85429c15-311a-4b95-9b98-a8d10895945c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3101,
+      3102
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e72c162c-8b50-4942-8a61-a7898ba05a1f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7b90fa5d-3779-4ef9-8e38-9feb0ac0c88e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3102,
+        3103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0ebb410-93d3-4e01-9e61-6bd7f712107b",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        3103,
+        3105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5a877df-8426-4d0f-924e-4dc9b033e404",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3105,
+        3106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "734e9ba8-e5e6-40f6-b443-36a482742f5e",
+       "type": "word",
+       "value": "могла",
+       "textRange": [
+        3106,
+        3111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f964bbd-0183-4c4e-99a5-972885a4337f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3111,
+        3112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e1e1167-27a6-459d-985a-102b563dce15",
+       "type": "word",
+       "value": "повірити",
+       "textRange": [
+        3112,
+        3120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b90120d4-4616-43fb-af21-47cb7891b4ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3120,
+        3121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39eea30e-d10b-46a2-8047-43060533b599",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        3121,
+        3123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6b19a1b-ffb3-418b-ab4e-b3b75dca3b04",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3123,
+        3124
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a76f21a8-acac-49e6-9b4e-d811131d725d",
+       "type": "word",
+       "value": "прийняти",
+       "textRange": [
+        3124,
+        3132
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не могла повірити та прийняти",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "05c5d5a2-a11a-463c-a223-717a9f4ef9c0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3132,
+      3133
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae5bdba5-83cf-4648-b90f-4b13906d6493",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "db356843-def7-4b5b-a35f-f2559a375b4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3133,
+        3134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46b6d8a9-7059-4be8-a2e3-f3dec222ac96",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        3134,
+        3136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b1e0e1c-93c8-45a9-894f-99f1f56a83af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3136,
+        3137
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31b41dfd-7b5c-40f4-a552-7a9383d29126",
+       "type": "word",
+       "value": "цю",
+       "textRange": [
+        3137,
+        3139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1515320-5573-45c5-b4df-75b07119dff9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3139,
+        3140
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d547cab2-d978-47c0-b7c0-1b77414d0281",
+       "type": "word",
+       "value": "людину",
+       "textRange": [
+        3140,
+        3146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa9a431c-a3b2-4e03-9b1b-b2728defd3f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3146,
+        3147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b4dfe07-804c-40a2-938e-2521b98df53c",
+       "type": "word",
+       "value": "вона",
+       "textRange": [
+        3147,
+        3151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93cd176a-61e3-471a-889e-c22bb523156a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3151,
+        3152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69cf72e2-7b60-466c-8934-04af6c920a95",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        3152,
+        3155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa5d9a81-034d-4e7a-b3ae-3699ec496118",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3155,
+        3156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a71b78c9-bbcc-42d3-a538-84e511698379",
+       "type": "word",
+       "value": "впустила",
+       "textRange": [
+        3156,
+        3164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ac003fa-0472-44f3-855f-1127f505ad3b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3164,
+        3165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "261f155c-5d88-42e7-ac00-e5c00d024470",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        3165,
+        3166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcf9a489-fb0a-44f1-99c4-8f76e8c50d29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3166,
+        3167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "186d31e0-d60a-48f6-bc20-7f652036c777",
+       "type": "word",
+       "value": "наше",
+       "textRange": [
+        3167,
+        3171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b9770c4-ed23-4e45-928c-aede9ce7662b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3171,
+        3172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1bfac9af-a78c-4e8e-8fa8-4d84847dcf22",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        3172,
+        3177
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що цю людину вона вже впустила в наше життя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ebadf830-09dd-45e3-802d-385853161de4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3177,
+      3178
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Наталя, котра вирізнялася недовірливістю до людей та несприйняттям чоловіків, не могла повірити та прийняти, що цю людину вона вже впустила в наше життя",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2e676ec1-7098-4c08-abed-fc8c6c90e0aa",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "15388c4a-b141-4dc1-9d80-ede81ed2f18e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "06de613a-cc69-4646-b059-08298e62848f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3178,
+        3179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "633b700b-2ba7-45d9-aaf8-b0d2b4069cbb",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        3179,
+        3181
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a71a48ca-7d74-4eb4-8781-00924b197aa9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3181,
+        3182
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f682aa4-5b88-4556-bff9-c0709baa84e9",
+       "type": "word",
+       "value": "свого",
+       "textRange": [
+        3182,
+        3187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c05369ba-6bc9-44f8-94fd-84fc59bc5d60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3187,
+        3188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1708761-b6d8-4bdf-b1db-23aaba2cbd3e",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        3188,
+        3193
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " До свого життя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2b3f9875-d28c-476b-82b7-52f5d34613a5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3193,
+      3194
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b90967ed-b545-4bec-b2bf-fa17a8f2a21e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fdc5e034-7242-4ac5-a249-be420e92314a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3194,
+        3195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4972d679-2a63-4cfb-a013-941e314d3a0d",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        3195,
+        3197
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ba8b5f6-a31a-408f-864f-c68ba9f69c7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3197,
+        3198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b62c174d-2d5c-43e2-aedc-e9b07fb2f4cc",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        3198,
+        3203
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a5929e2-5d30-44dd-ab60-baf061731376",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3203,
+        3204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c078d87e-79ea-4b2c-a9d6-088760b3a063",
+       "type": "word",
+       "value": "свого",
+       "textRange": [
+        3204,
+        3209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50f5bc2d-647b-4dc5-8053-334f5bf77889",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3209,
+        3210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e21a1cd5-34e5-4c28-b11a-9600e5a4bfe4",
+       "type": "word",
+       "value": "сина",
+       "textRange": [
+        3210,
+        3214
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " до життя свого сина",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "44303cd5-c28b-4148-b385-d5694994f6bc",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3214,
+      3215
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "48a5a3c5-49f9-4488-a8fd-1e837da1f58b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3215,
+      3216
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " До свого життя, до життя свого сина.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Наталя, котра вирізнялася недовірливістю до людей та несприйняттям чоловіків, не могла повірити та прийняти, що цю людину вона вже впустила в наше життя До свого життя, до життя свого сина.",
+ "concept": "SYNTAX"
+}

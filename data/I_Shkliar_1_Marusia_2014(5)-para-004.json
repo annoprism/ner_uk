@@ -1,0 +1,168 @@
+{
+ "id": "9350fd89-fb17-4346-86ea-c7b0f89e8368",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e027c80c-c281-4f22-ad75-2e9374b2e306",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7ff0e223-0489-4297-a77d-1b5a066e2a83",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "99089b62-4914-4be7-9c95-d421d90f7210",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        1269,
+        1270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ff3bac9-aa53-4a0c-be99-2089465a4575",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1270,
+        1271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eac55582-4cc6-433d-a3fa-e58ec3b82b4b",
+       "type": "word",
+       "value": "Ідемо",
+       "textRange": [
+        1271,
+        1276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df08efca-069e-426d-a210-1f0586487d22",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1276,
+        1277
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fae3fbe8-6db2-474f-9074-fc7e1434adf8",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1277,
+        1279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0778134f-b397-4822-9697-e50181212067",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1279,
+        1280
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "7d124c4e-23e7-4660-ba1c-fcf12c3be9d2",
+         "type": "word",
+         "value": "Львів",
+         "textRange": [
+          1280,
+          1285
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4cc70426-0f16-4a4e-9f8f-59869078c7a0",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ff360347-9bad-444d-b070-f9e0b4d10fc1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1285,
+        1286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b481936c-8d1f-491e-9ff7-f8fb64cc46b1",
+       "type": "word",
+       "value": "через",
+       "textRange": [
+        1286,
+        1291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2a4c5fd-34ff-47d8-9408-0c34e8961340",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1291,
+        1292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "04a60ca2-f8dd-4dbd-bb40-5717b3369fc4",
+         "type": "word",
+         "value": "Київ",
+         "textRange": [
+          1292,
+          1296
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6e288bb7-8bcd-46e7-a1ef-94395582f633",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "— Ідемо на Львів через Київ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fbcb12cc-6d8e-4099-93d9-5e5e21985850",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1296,
+      1297
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "08490ce4-5fa8-4da2-86d1-b2d480893e14",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1297,
+      1298
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Ідемо на Львів через Київ.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Ідемо на Львів через Київ.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,1411 @@
+{
+ "id": "3c60034e-1925-4c33-aac2-076c65ce0542",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d162fcb3-9f68-4b3b-80f4-135a7d8fff47",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b2368041-58e0-49cb-ad2d-1af6a26d920b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "772c6193-020d-41c1-9f68-9cf7d9fd1c4a",
+       "type": "word",
+       "value": "Свідомо",
+       "textRange": [
+        1499,
+        1506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "923477da-25dd-4eba-bef8-aa4ce33bd910",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1506,
+        1507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "172af14d-d63f-46a1-91cd-921baf8b02f7",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1507,
+        1509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6875213-f208-49a8-be08-9cbd802eb05c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1509,
+        1510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "288f3229-6191-4569-9eea-e264b07c08cb",
+       "type": "word",
+       "value": "несвідомо",
+       "textRange": [
+        1510,
+        1519
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Свідомо чи несвідомо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b02f39ba-d42c-42ed-b7ac-4720075b78f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1519,
+      1520
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "24ec6be5-32c1-4106-a781-3586cc0ecf87",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "95b33ffa-a161-4950-b1df-a3b4958b2242",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1520,
+        1521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6f54224-ced1-4c6d-939c-c066b424f94a",
+       "type": "word",
+       "value": "копіюючи",
+       "textRange": [
+        1521,
+        1529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91d9f02b-7bb6-46a4-8484-8a72f1f02139",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1529,
+        1530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0157fab6-e549-4861-abe2-658b94c4f881",
+       "type": "word",
+       "value": "теорії",
+       "textRange": [
+        1530,
+        1536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "955b3d56-bb90-42ec-812a-c9b28b8874ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1536,
+        1537
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "91f981d0-15a0-4353-9bf9-e0a10c0291ee",
+         "type": "word",
+         "value": "Месмера",
+         "textRange": [
+          1537,
+          1544
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7f54510f-b7e8-4dac-8a0a-b0c3a829d2e3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "15132a9c-3f95-43af-a87d-9e62fb81fbd4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1544,
+        1545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4c2694a-e378-44b4-8543-cc580e97c02f",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1545,
+        1547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "223ec096-2a42-47e1-a5df-f51f53a86036",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1547,
+        1548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5b845ca-faec-4258-ac86-e6b35f439476",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1548,
+        1550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ef1fa0b-c75f-4286-8d17-1a4f2c58d4ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1550,
+        1551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e666a053-1d26-4275-be89-bc13ce37851b",
+       "type": "word",
+       "value": "копіюючи",
+       "textRange": [
+        1551,
+        1559
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " копіюючи теорії Месмера чи не копіюючи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c9066c6-11c1-48cd-b780-98bb1600d70f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1559,
+      1560
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f85141ea-5d98-4b6e-86cf-aa96a1208ebc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5591c928-c4af-4a79-8a89-a1ce2abb5403",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1560,
+        1561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94078f63-e62b-4ad5-bb38-d0cbb8f68e02",
+       "type": "word",
+       "value": "нова",
+       "textRange": [
+        1561,
+        1565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34baa580-4f9c-467b-800e-4402a2b9142b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1565,
+        1566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6c0962d-5aa0-4e73-8ff7-fa21991198a2",
+       "type": "word",
+       "value": "естетика",
+       "textRange": [
+        1566,
+        1574
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d32cf58a-19aa-4af1-81d9-1a1c265026cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1574,
+        1575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ba82e87-dfaa-4e6a-b380-4c609c2d257e",
+       "type": "word",
+       "value": "романтичної",
+       "textRange": [
+        1575,
+        1586
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c594a97-d966-4f41-aa67-aed762de9b25",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1586,
+        1587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d3ffb3f-f4c9-4b14-a9f1-4361873c0f2c",
+       "type": "word",
+       "value": "епохи",
+       "textRange": [
+        1587,
+        1592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb758297-15f0-4680-99ed-ed2dc31b26a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1592,
+        1593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b44935bc-c9ef-4332-b8d9-fdc58006f0f1",
+       "type": "word",
+       "value": "творила",
+       "textRange": [
+        1593,
+        1600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27ee8715-8a26-4a3e-8a44-2e4c13bb619f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1600,
+        1601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b076d57c-1b82-4005-b7cd-03f73c4bd7a2",
+       "type": "word",
+       "value": "світ",
+       "textRange": [
+        1601,
+        1605
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нова естетика романтичної епохи творила світ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5957ebe9-fb0c-4197-9493-3393b3c1382e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1605,
+      1606
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "71960943-2e94-48e1-8905-6df7f0deeb08",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "957b38b3-64af-4117-8594-e9a6b99d039f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1606,
+        1607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5c9ee99-37f3-4d8a-aa70-cb8e329ae914",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        1607,
+        1609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b67347f-c471-44b0-925f-fb0bf4da8377",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1609,
+        1610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df5b0a96-af6e-4494-b75e-1524aab888fe",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        1610,
+        1613
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d0ae2bd-6511-4f3c-bb93-e853296dce68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1613,
+        1614
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "345ba753-b9e9-4b60-a1ef-f33928e3a201",
+       "type": "word",
+       "value": "керується",
+       "textRange": [
+        1614,
+        1623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc52ba0d-5129-48fa-acaf-1433fb331add",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1623,
+        1624
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4a920fa-149a-47eb-9b75-c7c98bfc9281",
+       "type": "word",
+       "value": "законами",
+       "textRange": [
+        1624,
+        1632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967baea3-59dc-4685-b5a6-1776f5eca830",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1632,
+        1633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f72fad24-a3c5-4813-bca5-32f49d6c294d",
+       "type": "word",
+       "value": "магнетичного",
+       "textRange": [
+        1633,
+        1645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70d2aa7f-d2c9-4fa1-bbb7-7a4f85961b49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1645,
+        1646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34b5e617-5262-40c4-a251-ffe7366068c4",
+       "type": "word",
+       "value": "тяжіння",
+       "textRange": [
+        1646,
+        1653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd2518a9-c888-4d5e-a3ba-87dab7656913",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1653,
+        1654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb19b9c6-f6df-4541-a8c9-755532e4f5da",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1654,
+        1656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60ce5b83-f0b0-4c79-b1a9-3a3b98152f9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1656,
+        1657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1655fac8-07e3-4463-9fad-8168e608087b",
+       "type": "word",
+       "value": "відштовхування",
+       "textRange": [
+        1657,
+        1671
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де все керується законами магнетичного тяжіння та відштовхування",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5de64125-2309-447a-8bb2-158aaf064f41",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      1671,
+      1672
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "08ef32dc-87fb-40d7-bff9-24918f99c184",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ebe5c5cb-9d64-4392-8c5e-360753182811",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1672,
+        1673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a32a3a7-6cf5-4d3f-bf58-898d30e80af1",
+       "type": "word",
+       "value": "де",
+       "textRange": [
+        1673,
+        1675
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59592932-0029-4ed2-9180-896c8a1b6076",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1675,
+        1676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cb2ce94-18df-4705-89aa-ab6c26e09fb6",
+       "type": "word",
+       "value": "душі",
+       "textRange": [
+        1676,
+        1680
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06a02383-f920-4609-9cf1-107351e02243",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1680,
+        1681
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d766f0ef-0a96-4f7a-8b32-e0d7bda380ba",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1681,
+        1682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1869baad-8c48-4f64-9c69-7984686cb57b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1682,
+        1683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7f7456c-f061-4ea0-a8ab-d38882611fed",
+       "type": "word",
+       "value": "тіла",
+       "textRange": [
+        1683,
+        1687
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78e679fd-215f-4239-adfb-1d213bd6dd50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1687,
+        1688
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3b7d73d-ed1a-4ab7-95b8-59d0efa4b973",
+       "type": "word",
+       "value": "втрачають",
+       "textRange": [
+        1688,
+        1697
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d447cbf0-8a76-4b77-ab66-4635cdd64d2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1697,
+        1698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90cca1f4-7c51-4246-9bf9-9bba84c8afbc",
+       "type": "word",
+       "value": "свою",
+       "textRange": [
+        1698,
+        1702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03148294-81c6-4b6d-aac2-6035b79d5458",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1702,
+        1703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f15eb3a6-4b25-4547-a79c-85e727416862",
+       "type": "word",
+       "value": "самостійність",
+       "textRange": [
+        1703,
+        1716
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ac0fa63-32bd-464f-8aa9-353dafd7cd5c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1716,
+        1717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e37da65-ab65-492b-b93c-d4f3611e28dc",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1717,
+        1718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39f56506-d782-4c09-b923-d73224e8d2f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1718,
+        1719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c697e23-d057-4386-ae51-ee34b175c780",
+       "type": "word",
+       "value": "підпадають",
+       "textRange": [
+        1719,
+        1729
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "237cee94-6b0c-4789-9f48-1a6e8044b505",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1729,
+        1730
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2c06c24-1f1d-4fcc-aa8a-52efe628c24c",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        1730,
+        1733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2cfa61b-b6e2-4385-b9c4-4954c260bd72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1733,
+        1734
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0f90395-4ab8-44d1-9d4b-556e77117526",
+       "type": "word",
+       "value": "вплив",
+       "textRange": [
+        1734,
+        1739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e322ca53-a93b-4045-a583-a3c553820eb0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1739,
+        1740
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9d160be-15ec-48b5-ae6f-090a008627f3",
+       "type": "word",
+       "value": "магнетизерів",
+       "textRange": [
+        1740,
+        1752
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " де душі й тіла втрачають свою самостійність і підпадають під вплив магнетизерів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "24375942-c993-41d2-ab79-ba3086989394",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1752,
+      1753
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Свідомо чи несвідомо, копіюючи теорії Месмера чи не копіюючи, нова естетика романтичної епохи творила світ, де все керується законами магнетичного тяжіння та відштовхування; де душі й тіла втрачають свою самостійність і підпадають під вплив магнетизерів",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "95aa97b9-ce82-4c01-9fdb-fa6d22812f79",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "90c1f10c-eba0-4686-aba7-e01399f67dc2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a5c02d33-6430-407d-961d-1bacfc6324aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1753,
+        1754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c84dfde-af77-44ba-8939-42f23ca2c716",
+       "type": "word",
+       "value": "Де",
+       "textRange": [
+        1754,
+        1756
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ddc09b3-d6cc-46a0-a30f-24b247fcc1e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1756,
+        1757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a558c88b-842f-4665-908c-a4473d8cf990",
+       "type": "word",
+       "value": "людська",
+       "textRange": [
+        1757,
+        1764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf50b212-a629-4370-b79e-cc2f20c62099",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1764,
+        1765
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e221256f-4be0-47e0-849c-0c2fbfe2172c",
+       "type": "word",
+       "value": "воля",
+       "textRange": [
+        1765,
+        1769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e95f9a1-89bd-4de4-bfbe-022853f0178b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1769,
+        1770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52e39ebc-dac4-4fd2-a2f3-7f7ec9726b26",
+       "type": "word",
+       "value": "ставала",
+       "textRange": [
+        1770,
+        1777
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae519b13-d202-4095-a1ff-6ad7fd61706f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1777,
+        1778
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "715b731a-ed4a-4d81-8e10-a617ba3df418",
+       "type": "word",
+       "value": "безсилою",
+       "textRange": [
+        1778,
+        1786
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d293112-5718-473c-bc7f-6d0f704c1989",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1786,
+        1787
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a26938c6-1a15-4f1c-8e0a-ca7d173f6af7",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        1787,
+        1790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90866acf-627f-4a28-8dec-034b7732af78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1790,
+        1791
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a43f58d0-1475-4d99-8750-6412b0c7f38f",
+       "type": "word",
+       "value": "дією",
+       "textRange": [
+        1791,
+        1795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29ad9efd-388c-4c8d-9ff8-35af9d5d3fb7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1795,
+        1796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb2db418-7f71-4710-abf1-d42a4b505172",
+       "type": "word",
+       "value": "надіндивідуальної",
+       "textRange": [
+        1796,
+        1813
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18fec3fd-4940-4495-a58d-cf39c3e720b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1813,
+        1814
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "249e5c6d-dbbd-44ab-88b4-9d1d71c5b5f3",
+       "type": "word",
+       "value": "сили",
+       "textRange": [
+        1814,
+        1818
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fef8550-cf50-44c6-b4cb-518bc9f440fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1818,
+        1819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4491578-42d3-4ba2-bef8-87338ba2beae",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        1819,
+        1820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bf1d959-8ded-409a-b022-d84ef201e146",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1820,
+        1821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad7f5120-8060-48a7-8886-b4daa8927478",
+       "type": "word",
+       "value": "байдуже",
+       "textRange": [
+        1821,
+        1828
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Де людська воля ставала безсилою під дією надіндивідуальної сили — байдуже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0dd0f506-8c80-4a8c-96d1-0ee0315274b2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1828,
+      1829
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "981c33af-eef5-4e92-85f0-f4aed2cd6586",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2b0e12cf-444c-4a42-a16b-ff42fd3980d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1829,
+        1830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbf44ca8-e3a2-4526-bafb-971a70fa3726",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        1830,
+        1832
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e26b847-3e36-41d1-a5d8-30b560f23fc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1832,
+        1833
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5272afbd-111c-4a49-86c5-068abd9f3c7b",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        1833,
+        1835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6198bf8a-bc4a-408c-b705-b34a14727668",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1835,
+        1836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f90cc4b0-4be7-40c1-9834-8761c3391939",
+       "type": "word",
+       "value": "називають",
+       "textRange": [
+        1836,
+        1845
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як її називають",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b981e415-44b1-4566-ba19-b306fba99da5",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1845,
+      1846
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5f011c2d-8d9a-46cf-8819-4fd4cbb079a7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7e0304c2-be3d-42de-82b1-57400df3f2a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1846,
+        1847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a24c63bf-fecc-4e86-9230-45ad4bbfed7b",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1847,
+        1848
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9aa6e59c-ea94-4126-84b4-9231cd906311",
+       "type": "word",
+       "value": "флюїдами",
+       "textRange": [
+        1848,
+        1856
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1468a368-58d8-4bf4-8315-b5d9ecf54c88",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1856,
+        1857
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «флюїдами»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "04279029-67e8-4232-9bf9-9b6a4afbb108",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1857,
+      1858
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b864609d-0f51-42fc-8177-248fad4fbad4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "93fd10f7-4683-4a4f-ae02-61cd262d81a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1858,
+        1859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43576f66-5dcf-4d5c-9358-73ad1e6c0873",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1859,
+        1860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ff6b64e-70c8-4dcd-af4a-6930583c14f1",
+       "type": "word",
+       "value": "життям",
+       "textRange": [
+        1860,
+        1866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8578ec18-2903-43e2-a2fe-135c559d687c",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1866,
+        1867
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «життям»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4e2848ef-5f1e-4e6b-a423-a929903591a6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1867,
+      1868
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ea27770-6c26-411c-8e5b-91eb2a5d2ff5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a7016dad-cc8b-45b2-be76-785d9b5f72e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1868,
+        1869
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05442996-69f0-41d7-a389-b2e91b1e1116",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1869,
+        1870
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18942960-82d5-4d4c-98a4-e933c8f4cc92",
+       "type": "word",
+       "value": "світовою",
+       "textRange": [
+        1870,
+        1878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fea11a56-7eb6-48d1-a03d-676dab767a95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1878,
+        1879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9915a73-efd0-48ed-bf42-f6d28388dcbc",
+       "type": "word",
+       "value": "душею",
+       "textRange": [
+        1879,
+        1884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08b7bcb0-3d63-4e7c-ace2-ff7182da8716",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1884,
+        1885
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09f906e6-5b41-4070-a967-5c4006978b55",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1885,
+        1886
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c767e43-f88c-4acf-b575-3a431f338b60",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1886,
+        1888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ed682c4-77de-4af2-99b3-67414290e5ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1888,
+        1889
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc7c6cf4-cc86-40ae-8b0b-3f040c8e349b",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1889,
+        1890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ff96fca-672a-483f-9628-6455b9efd279",
+       "type": "word",
+       "value": "абсолютним",
+       "textRange": [
+        1890,
+        1900
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecdb081f-8fde-4c0d-a0fc-374f08480187",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1900,
+        1901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8822e74-9cec-4dcd-a9d9-57affe59d474",
+       "type": "word",
+       "value": "духом",
+       "textRange": [
+        1901,
+        1906
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54338da4-5baa-4a93-8d65-feb5eed75bb1",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1906,
+        1907
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «світовою душею» чи «абсолютним духом»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c4118ae1-7a9d-4ed1-b092-d6d147822709",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1907,
+      1908
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e82bb2e4-06c6-4cab-83f1-53ff41b615a1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1908,
+      1909
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Де людська воля ставала безсилою під дією надіндивідуальної сили — байдуже, як її називають: «флюїдами», «життям», «світовою душею» чи «абсолютним духом».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Свідомо чи несвідомо, копіюючи теорії Месмера чи не копіюючи, нова естетика романтичної епохи творила світ, де все керується законами магнетичного тяжіння та відштовхування; де душі й тіла втрачають свою самостійність і підпадають під вплив магнетизерів Де людська воля ставала безсилою під дією надіндивідуальної сили — байдуже, як її називають: «флюїдами», «життям», «світовою душею» чи «абсолютним духом».",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,239 @@
+{
+ "id": "8e737700-dde7-45d8-9c02-feb81dd2427f",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ac3ee590-948f-473a-b53a-1757dcd90eef",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "490cc96b-d375-4134-80b1-28ba00e887fb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0fac5c51-3006-407e-989d-429d16ba3851",
+       "type": "word",
+       "value": "Панок",
+       "textRange": [
+        8361,
+        8366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc697fbb-b334-4378-bd01-d4939cd0687b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8366,
+        8367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8d980e4-dd5f-470a-8ec5-b2d7869c24f8",
+       "type": "word",
+       "value": "хотів",
+       "textRange": [
+        8367,
+        8372
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eec8a32a-2def-4d2a-8c64-450cedb192b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8372,
+        8373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e00da85e-8925-4940-84db-51bfb46e1c95",
+       "type": "word",
+       "value": "іще",
+       "textRange": [
+        8373,
+        8376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "504ee2e4-4729-42c1-a45f-a19b8181929a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8376,
+        8377
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8906fb41-a2ee-4300-b30d-e348e7685e1d",
+       "type": "word",
+       "value": "щось",
+       "textRange": [
+        8377,
+        8381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a856d3f9-c06c-4590-9de4-bb59f3fc45ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8381,
+        8382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e35c947-e50b-4e09-8047-cfdae06c13af",
+       "type": "word",
+       "value": "понавигадувати",
+       "textRange": [
+        8382,
+        8396
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Панок хотів іще щось понавигадувати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c1d32ff-63d9-4488-952d-a0ef24f79865",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      8396,
+      8397
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e8e3d748-29e6-43eb-b302-c842250a8a9a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3ab25f52-94e1-4a69-a3f1-134ad5107534",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8397,
+        8398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7a85c41-8f53-4aa9-9414-b557a0733c79",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        8398,
+        8401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b79a4fe3-ed2a-42fb-b1cd-98fccede1af4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8401,
+        8402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "86179d83-bf71-4621-9f76-ccf4fb3eb722",
+         "type": "word",
+         "value": "Наталочка",
+         "textRange": [
+          8402,
+          8411
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "eede02f3-9c42-4d28-9631-bc48f5216698",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "73e55b2e-7a5c-4aba-8b24-1be0eea74c45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8411,
+        8412
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6895aa14-1532-4e86-9a3d-844eacab6d22",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        8412,
+        8414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2310450-1a3e-4a31-9ddf-2d288eef3f6b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8414,
+        8415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da1cc5f7-5d05-4511-9de7-4d2170e44d2b",
+       "type": "word",
+       "value": "дала",
+       "textRange": [
+        8415,
+        8419
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але Наталочка не дала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90b14758-ed9c-44b5-82b3-3f1ad2c52e9f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8419,
+      8420
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0ea81b5-76a0-460f-8585-35e6f19ba399",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8420,
+      8421
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Панок хотів іще щось понавигадувати, але Наталочка не дала.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Панок хотів іще щось понавигадувати, але Наталочка не дала.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "472a4d65-5586-47bb-9cb6-84e991d91bd8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b21efaad-b203-40ba-8cdd-67ed070c62f3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1f972348-c6d9-44de-884c-44229e4f2221",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a3b69820-a59f-4ebe-bf7e-5c78127d51c8",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        7372,
+        7373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d66368a8-3c34-4321-b3e7-1c02840fabae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7373,
+        7374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03d21d49-216e-4789-bdb6-0cdd4acd789a",
+       "type": "word",
+       "value": "Привіт",
+       "textRange": [
+        7374,
+        7380
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "– Привіт",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1fb48964-05a3-45be-9853-04229fbc0f10",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      7380,
+      7381
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "– Привіт",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8c25ed5f-9b35-4ce1-bc78-e84ef0f0d573",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c8ed2e33-d1ca-455b-a4e8-bd4cf952668b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "19661596-1f41-4170-9437-4e13ae72ce36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7381,
+        7382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5a3d718-883a-4073-8607-35402b71948d",
+       "type": "word",
+       "value": "Звичайно",
+       "textRange": [
+        7382,
+        7390
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Звичайно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc43119d-65a5-4d43-af97-724fd8009176",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7390,
+      7391
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "89310080-5b6a-4861-83a7-752f257d0165",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "064ca223-94fb-4363-9784-62eedd6e698b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7391,
+        7392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd0f9133-87e1-4404-aff6-da306f74a203",
+       "type": "word",
+       "value": "заходь",
+       "textRange": [
+        7392,
+        7398
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " заходь",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1389bb59-7fea-4ae4-bcaa-3cb18c2aa8ec",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7398,
+      7399
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2afb6aee-e4d8-4e1c-b443-251e318f4dbf",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7399,
+      7400
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Звичайно, заходь.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "– Привіт Звичайно, заходь.",
+ "concept": "SYNTAX"
+}

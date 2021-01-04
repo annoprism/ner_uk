@@ -1,0 +1,1045 @@
+{
+ "id": "1e68cc57-5518-4d80-ba15-4fa577136c86",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9937771b-9cdf-4913-b8d1-cef5ef4b0739",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "86b92d56-33a9-434e-b754-fc827b802132",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cb424716-c6f0-48ab-996f-b5f6385a248b",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79c753a1-8787-457b-946c-cfaa73819644",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "2a4d1e76-b554-4d30-b939-7debbee01207",
+         "type": "word",
+         "value": "Кіровограді",
+         "textRange": [
+          2,
+          13
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e6df5506-6167-4195-b120-14c813c3d678",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1c800234-7d99-43b5-8da3-c7ffd53ebd06",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13,
+        14
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "216e188d-62ac-426b-b424-c55290b80545",
+       "type": "word",
+       "value": "голубів",
+       "textRange": [
+        14,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fb58f43-8ea4-45d7-a75a-cf8a455b48d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5b3d714-60ba-4d58-845e-76a2b8a368a6",
+       "type": "word",
+       "value": "косить",
+       "textRange": [
+        22,
+        28
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3e55675-f97f-44a5-82b3-9407468b6644",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        28,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "369a4ebb-2fce-44da-a69a-909f63a09130",
+       "type": "word",
+       "value": "дивна",
+       "textRange": [
+        29,
+        34
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a91c049e-149c-4406-8abb-b8db854522f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        34,
+        35
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef2f404c-27e1-4bb5-af1f-0e137a25355c",
+       "type": "word",
+       "value": "хвороба",
+       "textRange": [
+        35,
+        42
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У Кіровограді голубів косить дивна хвороба",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "022b19c7-ec20-4ac5-8e51-f3ae4ec8b4f1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      42,
+      43
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У Кіровограді голубів косить дивна хвороба",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "96b37bdb-eefe-48a3-a9e5-915b2cb1182a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4889682b-a9f6-4b46-b6a0-b9c3b61fd3c2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ee2ab998-29f2-47cb-9836-57784b37a68a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        43,
+        44
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b1253d7-f4a7-41eb-ad18-3bfcc1b81144",
+       "type": "word",
+       "value": "Останнім",
+       "textRange": [
+        44,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "806df255-15a9-4f3b-895c-af8e77db92ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        52,
+        53
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b0f06a0-dd86-4b81-a9f0-c55f8c7c0d2b",
+       "type": "word",
+       "value": "часом",
+       "textRange": [
+        53,
+        58
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67697177-a263-4b83-8d50-ae028f94902d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12bdb404-479a-4a00-8046-c15c07a80348",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        59,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6252b0ee-7003-4d75-bf74-30ed50d5e9b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        61,
+        62
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "954241dc-5448-4351-9bbb-5dbc07ad6ab0",
+       "type": "word",
+       "value": "дорогах",
+       "textRange": [
+        62,
+        69
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Останнім часом на дорогах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "71230d24-f88f-4a4e-b494-8471e74e2fb5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      69,
+      70
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c0d6b8a2-c00b-4b36-8b95-b0b09461eb84",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f47dbc9d-ffa2-4800-9a42-86cfab587fca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        70,
+        71
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3261225-39df-40da-996d-cb728fa0d01a",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        71,
+        72
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0df1062b-898f-4758-83b0-397f133218b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        72,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "599d030a-341e-4831-8f42-70167e962ba1",
+       "type": "word",
+       "value": "дворах",
+       "textRange": [
+        73,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e77e6d5f-188d-49d1-b6b5-46b6f2054c08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        79,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d337244-a7e6-4612-a157-421ffb0f79ae",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        80,
+        81
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "603de35c-fbb8-4227-91ff-60f1ae87cdbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        81,
+        82
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b765278b-abd5-4767-9cf7-118e07b08723",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        82,
+        83
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51844140-e562-43dd-808f-7801a6f83a7e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        83,
+        84
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "077a105d-5c02-43ce-99bc-91a6378f5252",
+       "type": "word",
+       "value": "скверах",
+       "textRange": [
+        84,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed6162ca-cf35-436b-8db1-4a0744efaa51",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f316c811-523b-4ca7-ad37-387c301d874a",
+       "type": "word",
+       "value": "можна",
+       "textRange": [
+        92,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d85ad53-6884-4b19-8fdb-017c921915ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed0251e8-c733-4a2d-811b-e1664af82d44",
+       "type": "word",
+       "value": "помітити",
+       "textRange": [
+        98,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78c4d7f0-bacc-4a09-8bf2-bd66f7ad75bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        106,
+        107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5df94b8-3a9b-480a-9e5d-1279960246b9",
+       "type": "word",
+       "value": "кволих",
+       "textRange": [
+        107,
+        113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc5f78d4-94df-4ac4-8ef4-ea4a2b83a1d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        113,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e298e1f4-8721-48ea-a7d8-6db4fbd1a08b",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        114,
+        117
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97a4cce3-6a1f-45a0-892b-4fdd2d6fa00d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        117,
+        118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0f7c5a3-e034-4230-bf13-b61850cf384c",
+       "type": "word",
+       "value": "мертвих",
+       "textRange": [
+        118,
+        125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b4d744f-1d51-4942-b664-212a14213e0e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        125,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "accff436-efa3-4bc7-ad59-acb3dfbc6ef9",
+       "type": "word",
+       "value": "птахів",
+       "textRange": [
+        126,
+        132
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у дворах і в скверах можна помітити кволих або мертвих птахів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "351911c1-556e-496a-971b-d0ff8c2259bf",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      132,
+      133
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Останнім часом на дорогах, у дворах і в скверах можна помітити кволих або мертвих птахів",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "86ed690e-fb66-4ae8-9c5a-b3d6a8a7f0be",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9403fc22-cb4b-4aa3-9f3d-a15f16636453",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c94fae53-a3b1-4558-95d9-5dde46221c6b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        133,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62db1dee-75de-43b2-9280-bcca876c1872",
+       "type": "word",
+       "value": "Хворі",
+       "textRange": [
+        134,
+        139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e302bd66-8d85-4e9a-ae01-5ff2ae4cc22d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        139,
+        140
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b67cbcd0-1fd9-4aff-a1df-d12f68bace50",
+       "type": "word",
+       "value": "голуби",
+       "textRange": [
+        140,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fea490b-3f84-4005-8b1c-ab22906502bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        146,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "883bc84f-6b3f-4c38-bd41-7a609b19b339",
+       "type": "word",
+       "value": "мають",
+       "textRange": [
+        147,
+        152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae5fcae1-5b36-4fd4-a68b-747806f34f2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        152,
+        153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2234d2c3-02fd-444a-965f-0c3c40836d70",
+       "type": "word",
+       "value": "підозрілий",
+       "textRange": [
+        153,
+        163
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b68be178-da33-42d7-8ba8-8fe22abe6d88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        163,
+        164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e20ac631-2964-4b08-9b96-62ea75b59bad",
+       "type": "word",
+       "value": "вигляд",
+       "textRange": [
+        164,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa52b82e-f8e0-4913-a93d-7747c5353a47",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        170,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd97294c-8ad1-4623-a004-f10b32e77ba4",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        171,
+        172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a886390-6981-4bbb-abac-6b3dc23050a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        172,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06611187-4f80-4bc8-b284-25b5a55eeed4",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        173,
+        177
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21f1aed2-f975-4e21-b580-a9cebee2c317",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        177,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "948f3c6a-53b4-49e7-997c-81a14ef39749",
+       "type": "word",
+       "value": "повільні",
+       "textRange": [
+        178,
+        186
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хворі голуби мають підозрілий вигляд – вони повільні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dbb1158b-b384-4987-a19e-78748ec32e54",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      186,
+      187
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c894fa70-dbbc-4768-ae69-75fee99c5665",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e2e9f457-c391-4ad2-9783-6f2f585789c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        187,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72a3cfe5-44b8-49ad-a028-a9a70c009257",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        188,
+        190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfc9a54b-1cad-40a4-b2c5-462f023f6674",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        190,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e4bfe9e-4f05-4a87-a23b-e82065c36d1f",
+       "type": "word",
+       "value": "відлітають",
+       "textRange": [
+        191,
+        201
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не відлітають",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "405877de-8a7c-457a-a5c3-c5ccb225ccd7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      201,
+      202
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c3fd46f8-fa2d-4323-9275-ec48a37c0b92",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bf4d78bd-ce05-489d-a394-0ff7ffe71300",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        202,
+        203
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc8430ae-177b-4f91-89af-d26f043366c4",
+       "type": "word",
+       "value": "коли",
+       "textRange": [
+        203,
+        207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2a528eb-b6af-4906-9dcc-a10528b62f93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        207,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86ea84e1-bbf9-4ca1-bcb3-cf0b3cb806c0",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        208,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b79216b-7f57-4d5f-ae06-412789331ea8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        210,
+        211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9538d5bd-cb90-4f0c-b5b2-b74732ea77d2",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        211,
+        214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "423077a9-cbb3-457f-9b05-8f7b8bc13b67",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        214,
+        215
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "019110be-54ea-4c6c-b82f-345ac5f7c3c8",
+       "type": "word",
+       "value": "підходять",
+       "textRange": [
+        215,
+        224
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3df567d0-2b2e-4d5c-aeac-e829b4fef323",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        224,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3b13c52-6bd4-4943-a7ab-ee597de2411e",
+       "type": "word",
+       "value": "люди",
+       "textRange": [
+        225,
+        229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20609399-e2fe-4d3f-af1f-3af9621d0ffe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        229,
+        230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "714d2456-ecbf-4977-bdd8-c384b4d1da69",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        230,
+        233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8fa1e34-1ef0-463f-90d1-37e0dc75db9c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        233,
+        234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc0615c9-c00c-452d-83de-f4c8ece22dd5",
+       "type": "word",
+       "value": "собаки",
+       "textRange": [
+        234,
+        240
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коли до них підходять люди або собаки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aca18273-4392-45fc-8954-06f06c3c63ad",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      240,
+      241
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb77647f-707b-4000-9f1b-9204844742da",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d593f1cd-4da8-4c1c-8c74-ec6735699758",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        241,
+        242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4189a93-6d71-4fdf-83ae-69a591e97a36",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        242,
+        243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0709c462-f400-474b-963b-b20fef530cf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        243,
+        244
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1eb3d699-0368-4cf9-afdc-949df2c7273f",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        244,
+        245
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a40cbcad-9ec9-446c-90a2-c9bac60d3f85",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        245,
+        246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7a1f9a2-8374-4849-8954-cbc7ea510d1e",
+       "type": "word",
+       "value": "деяких",
+       "textRange": [
+        246,
+        252
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ed15990-f8e5-4d8f-bb94-cf923cc7cdf3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        252,
+        253
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0948d8b-079a-4b5e-bf37-85b3575d49b3",
+       "type": "word",
+       "value": "голови",
+       "textRange": [
+        253,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fee30928-e56e-45d0-93fe-d3d01a50cbcc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        259,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50d2bdb2-9803-4e4d-b27d-9f302446b6e3",
+       "type": "word",
+       "value": "нахилені",
+       "textRange": [
+        260,
+        268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f832936-8df1-4b5c-b2b4-a5d0a8a60236",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        268,
+        269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "643ac9fe-c5a5-4ad5-b7de-f3f4fbdfd1e9",
+       "type": "word",
+       "value": "убік",
+       "textRange": [
+        269,
+        273
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а у деяких голови нахилені убік",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "149cc904-915f-4d7d-99bd-62933dbc0fe0",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      273,
+      274
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1fb385f3-2f7a-4c08-b82e-af0a998690f3",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      274,
+      275
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хворі голуби мають підозрілий вигляд – вони повільні, не відлітають, коли до них підходять люди або собаки, а у деяких голови нахилені убік.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У Кіровограді голубів косить дивна хвороба Останнім часом на дорогах, у дворах і в скверах можна помітити кволих або мертвих птахів Хворі голуби мають підозрілий вигляд – вони повільні, не відлітають, коли до них підходять люди або собаки, а у деяких голови нахилені убік.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,815 @@
+{
+ "id": "dda3875d-ad43-4632-a502-d3838efde629",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "39be6d6d-8757-4da6-bacf-a21a818e90f2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3cfa5ac8-2f15-440f-9e8b-e2da242c4a9e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f36d44b8-18ae-45d2-b953-0948f73f0fe4",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        145,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c06933a6-0705-4120-adc2-8d18969baa25",
+       "type": "word",
+       "value": "Ну",
+       "textRange": [
+        146,
+        148
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "«Ну",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dee1e34a-e104-4c4f-b15d-cc4e434e1c09",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      148,
+      149
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4cb552c9-1e12-4929-9d6a-752caae8e615",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fd861a4d-5864-410a-a729-9049a8b0978c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        149,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2333f8ea-260f-4490-b2fb-0d434e7edb12",
+       "type": "word",
+       "value": "хоч",
+       "textRange": [
+        150,
+        153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dce95154-b74b-4f9c-af3e-7efccabc0a72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        153,
+        154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64dc1f93-37dc-424a-a733-320f80b40d94",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        154,
+        157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86a32a1b-fd22-404d-bbda-246ed6acbf7b",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        157,
+        158
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хоч так»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba4c93c9-c317-4909-90bb-198bfb8eb454",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      158,
+      159
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a60183c9-a527-415e-89d3-df049bbc47cd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7bc787c4-50cc-4d3b-bf11-11b81d297591",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        159,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd05070a-f05a-4117-927f-28a82b0fee76",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        160,
+        161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "839ec0ef-1034-4b6f-b9d2-1831b3f7dbad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        161,
+        162
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f3120fe-0922-468e-885c-9a47aa8e77e9",
+       "type": "word",
+       "value": "подумав",
+       "textRange": [
+        162,
+        169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6eadbdc1-d230-4c41-8a1e-6e2d73289a66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        169,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e4d1eda3-1686-4351-a318-299891526688",
+         "type": "word",
+         "value": "Славко",
+         "textRange": [
+          170,
+          176
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "becc2845-1159-4fa9-9f7c-625a7ac8e011",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " – подумав Славко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6bf7f0b9-d468-41d4-9a4a-c1b9abc9a68a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      176,
+      177
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "«Ну, хоч так», – подумав Славко",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ee19f9fd-fc34-4545-9460-71d7061d6d32",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c6840767-c5c5-4506-9632-b234a8da6dfd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0fa0e741-fd95-4f34-ac77-525ae9c30f11",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        177,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "277bd19c-e8ff-45f7-ba6b-d54c56c8e9a5",
+       "type": "word",
+       "value": "Гелікоптер",
+       "textRange": [
+        178,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c18c553e-299e-4899-9c99-94779c37d389",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        188,
+        189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5f860a9-1822-4eb0-a613-5474813e6e11",
+       "type": "word",
+       "value": "швидко",
+       "textRange": [
+        189,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13e41011-0311-43c7-b35e-4faa605cdee9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        195,
+        196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af62ccdc-029b-4482-a0db-02f49086072e",
+       "type": "word",
+       "value": "наближався",
+       "textRange": [
+        196,
+        206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1b52dcd-385a-4ba0-a613-bc10d1392c2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        206,
+        207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84306626-6829-4ab1-ab91-eae4b3a65315",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        207,
+        209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "652c459b-c07b-419f-a8a8-f8dc5fb59a08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        209,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5e9c50d-c61b-4078-9f71-4eb518b55886",
+       "type": "word",
+       "value": "землі",
+       "textRange": [
+        210,
+        215
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Гелікоптер швидко наближався до землі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9c520706-8ab7-4e6d-9703-2e6321276e9e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      215,
+      216
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Гелікоптер швидко наближався до землі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "37269d10-ea42-4ffa-8534-6b1f01d90b50",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "89f4ce91-a0e1-4760-8500-06438008c460",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b066051f-57ba-4cd7-9219-b6c0fd2b1036",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        216,
+        217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f2fda0b-3b19-4aac-be50-0dd576e857bf",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        217,
+        218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a6f2a45-e989-49fe-8f44-06942e2e9575",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        218,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cd943d4-117e-436f-b613-5ebe2abfc70c",
+       "type": "word",
+       "value": "якийсь",
+       "textRange": [
+        219,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a20002c-58fc-45e0-be36-101645565b35",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd61904f-343a-45e8-baba-611d1cf3e3e0",
+       "type": "word",
+       "value": "момент",
+       "textRange": [
+        226,
+        232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36d910cd-ac18-4eac-b9a8-8a66e4d2763a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        232,
+        233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c861f45c-ace3-4608-9cc2-51ff763c157e",
+       "type": "word",
+       "value": "пілот",
+       "textRange": [
+        233,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea4b38b8-48fc-420f-87ea-7053e1a06880",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        238,
+        239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dfaa0b1-479a-44f9-b7c0-362acaf41ea8",
+       "type": "word",
+       "value": "побачив",
+       "textRange": [
+        239,
+        246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "561e7808-b339-4cf5-8092-d865fa388916",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        246,
+        247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e180a7d4-3833-4854-8284-2803105224df",
+       "type": "word",
+       "value": "посеред",
+       "textRange": [
+        247,
+        254
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6381c8d-bcb9-4e99-bf6f-af9e2e041ddb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        254,
+        255
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a96b79e0-db19-435b-823f-b59721e43196",
+       "type": "word",
+       "value": "оцього",
+       "textRange": [
+        255,
+        261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb1e6f6e-e7fc-4daa-8be4-d45e254d05fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        261,
+        262
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d9f3d0d-7c7d-4182-b4e4-53908abef4f2",
+       "type": "word",
+       "value": "жовтого",
+       "textRange": [
+        262,
+        269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8ac4241-ea60-4448-bd5b-aef407fdcc2d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        269,
+        270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2037e292-2bb5-453e-a7f3-c93d2b774af7",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        270,
+        271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43bdf904-49c2-4fff-9f79-4c97d633dbb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        271,
+        272
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0579b34e-ebfe-4bde-803e-b4350a346865",
+       "type": "word",
+       "value": "червоними",
+       "textRange": [
+        272,
+        281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdbdea10-583c-4f82-a41f-842128221f8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        281,
+        282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9efcc8e8-efd3-4fc4-878d-9769c8def702",
+       "type": "word",
+       "value": "цятками",
+       "textRange": [
+        282,
+        289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c605944-0a82-43be-807a-97425275d188",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        289,
+        290
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bec5b2e1-42c3-43a3-8723-46cd1153f989",
+       "type": "word",
+       "value": "моря",
+       "textRange": [
+        290,
+        294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "986b0784-edb6-43d8-b883-9ca458ec018e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        294,
+        295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd508c8f-d17c-4db6-aa64-3f2cd27b0de9",
+       "type": "word",
+       "value": "відблиск",
+       "textRange": [
+        295,
+        303
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7740f03-efe5-42d8-beca-bc2944fc1df8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        303,
+        304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf04709b-c2b9-4ee8-89f5-72c121f132e7",
+       "type": "word",
+       "value": "неба",
+       "textRange": [
+        304,
+        308
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " У якийсь момент пілот побачив посеред оцього жовтого з червоними цятками моря відблиск неба",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9e77b5f1-7b00-456d-8c07-5bf699079da9",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      308,
+      309
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " У якийсь момент пілот побачив посеред оцього жовтого з червоними цятками моря відблиск неба",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c91778f8-8fd2-4818-8fa8-d7f905c43b2c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "30f4c113-9382-4313-b2c2-b854eafba500",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "79cd9a90-e90f-42d5-94e9-4c0b768fabab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        309,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1895a78e-8ed5-43d0-ad7d-d8d3b5837da5",
+       "type": "word",
+       "value": "По",
+       "textRange": [
+        310,
+        312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8f68893-8885-4503-8ec4-34ad56b58fb1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        312,
+        313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcd50da7-806e-4e72-99fb-31bb4c6ef71b",
+       "type": "word",
+       "value": "правому",
+       "textRange": [
+        313,
+        320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af5e430a-8679-4a4c-aa4e-291dd8df6fea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        320,
+        321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebd9ef25-edb9-42d2-96b0-8df34f354bb3",
+       "type": "word",
+       "value": "борту",
+       "textRange": [
+        321,
+        326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c0a684f-4675-40b6-8ab4-d32a27f18758",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        326,
+        327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eda2ea0a-73ea-4a44-8229-0980780a8b76",
+       "type": "word",
+       "value": "внизу",
+       "textRange": [
+        327,
+        332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4c880ed-47b6-473c-95c6-54495ec5b946",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        332,
+        333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5869116-93a9-4d18-8fe9-9ca92aeadf9a",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        333,
+        337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46dc670c-6dfb-4190-b923-c86ab442752a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        337,
+        338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d415ad4f-222f-45fc-a69d-5fd76716933c",
+       "type": "word",
+       "value": "невеличке",
+       "textRange": [
+        338,
+        347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "117330d9-bec2-4026-9f43-ff6f41b4a376",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        347,
+        348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a073a304-b50c-4420-96ca-e34a06d3376d",
+       "type": "word",
+       "value": "болітце",
+       "textRange": [
+        348,
+        355
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " По правому борту внизу було невеличке болітце",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5b1f2859-a0ec-4b73-ad1b-b34492c8521e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      355,
+      356
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0d412283-4cac-482b-8d19-b6bf11758228",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      356,
+      357
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " По правому борту внизу було невеличке болітце.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "«Ну, хоч так», – подумав Славко Гелікоптер швидко наближався до землі У якийсь момент пілот побачив посеред оцього жовтого з червоними цятками моря відблиск неба По правому борту внизу було невеличке болітце.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,411 @@
+{
+ "id": "14a9f75b-b684-433d-bb44-f37307b5cf09",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "c289787c-28c9-4734-bbe6-0520f4047ad6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "22e55cd0-eec9-4fa9-9975-65531aa6528c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6738e04e-1cff-46b6-bc6b-dcdfb07eaec4",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2776,
+        2777
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b58e7a15-f97e-49a6-ae5d-0ec11d9231c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2777,
+        2778
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ae0a651-f0e7-4e44-9dc4-433bde479c3c",
+       "type": "word",
+       "value": "Куди",
+       "textRange": [
+        2778,
+        2782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35e6792b-df5d-4721-8ace-4fb06133702d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2782,
+        2783
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88c41b0c-8740-49da-9d8b-4c248d98294e",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        2783,
+        2784
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a3fabc8-e4e2-4d42-a8c3-74e65dc3471d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2784,
+        2785
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f862414-440e-4eb2-9984-58816d7eac5e",
+       "type": "word",
+       "value": "поділася",
+       "textRange": [
+        2785,
+        2793
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Куди я поділася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "686a41cd-9203-4af7-8e3f-026a71ccdeb7",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      2793,
+      2794
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Куди я поділася",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "111ba463-ae92-47e7-aa40-43eef9746816",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "68d6435e-52c0-4e44-9570-f3e5413b7d43",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f2a2be6c-d4a8-468f-bf6f-e89f0e31b855",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2794,
+        2795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93c2979f-45ed-4709-813c-c37079a9fc3c",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        2795,
+        2796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcd85eac-e599-4a24-958e-fcd0d2b29d66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2796,
+        2797
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "011c10f8-6baf-4d58-b527-985e247c8fca",
+       "type": "word",
+       "value": "забігала",
+       "textRange": [
+        2797,
+        2805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "523cf7c2-a185-4393-9098-8ffddd4e66a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2805,
+        2806
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "5b606d6e-6ce8-4060-a2d7-70566b10c405",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          2806,
+          2810
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4ca81ec3-8318-461b-8c18-a87a63b565da",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — забігала Киця",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a85377d3-5970-4adb-b390-046d66fd2ad7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2810,
+      2811
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7fd23648-b0d3-4ee6-9d4e-f8c96b398cf4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "abc05ccf-6c98-436d-a3ef-8e36ecce8385",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2811,
+        2812
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c598304d-bb10-43e3-a1bd-b6e39c56b36f",
+       "type": "word",
+       "value": "шукаючи",
+       "textRange": [
+        2812,
+        2819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "346eb8a7-13a3-4a3b-86c6-d1dca302b12c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2819,
+        2820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c634a482-d9ea-4cf9-8a76-463abe25aa51",
+       "type": "word",
+       "value": "себе",
+       "textRange": [
+        2820,
+        2824
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " шукаючи себе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0730645e-f93a-476d-a458-d6d70a9a4a77",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2824,
+      2825
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — забігала Киця, шукаючи себе",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b57450ed-75c0-4344-a0e8-a328581ca16d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "39048ba6-0a04-4c40-a670-14836aa763a8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5325424e-3ba6-4e76-ba35-da3b6a43c175",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2825,
+        2826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51ddf4f0-67b2-471a-808b-d682dee4c580",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        2826,
+        2830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11206492-c208-4ccd-9ec8-ddf2dfb82a27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2830,
+        2831
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c14c3815-b66e-44ed-b6b3-a4884ad0f854",
+       "type": "word",
+       "value": "була",
+       "textRange": [
+        2831,
+        2835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df5883bf-2f7d-42e2-93f1-75ec48893b89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2835,
+        2836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d04eaf1-36af-4b01-96f9-31bb980c7977",
+       "type": "word",
+       "value": "вкрай",
+       "textRange": [
+        2836,
+        2841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93ef17b3-a3bc-4683-a2bc-1f938869f4a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2841,
+        2842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "554be3b2-9183-4773-9a3a-256cb6f1cc8b",
+       "type": "word",
+       "value": "стурбована",
+       "textRange": [
+        2842,
+        2852
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a3196c7-44b0-4fc3-8318-605f1b9f1b94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2852,
+        2853
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ea11e37-4976-4a31-8b23-2f768f16d013",
+       "type": "word",
+       "value": "такою",
+       "textRange": [
+        2853,
+        2858
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49b4e202-f9ab-4e65-99ad-05c032034e6d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2858,
+        2859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51a49427-efef-4c53-96a6-d29bfabe3708",
+       "type": "word",
+       "value": "несподіванкою",
+       "textRange": [
+        2859,
+        2872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98440481-b146-4831-b911-52f8cfefdaf5",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        2872,
+        2875
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона була вкрай стурбована такою несподіванкою...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a351b66b-7c99-4f08-acdb-c2027fe68c51",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2875,
+      2876
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона була вкрай стурбована такою несподіванкою...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Куди я поділася — забігала Киця, шукаючи себе Вона була вкрай стурбована такою несподіванкою...",
+ "concept": "SYNTAX"
+}

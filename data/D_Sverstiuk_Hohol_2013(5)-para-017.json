@@ -1,0 +1,495 @@
+{
+ "id": "32b44dfa-15f4-48da-9e64-f29bdc9c2769",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e0651a5a-0089-485c-8032-a3e700d5f2f8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2bb6a339-35f1-44ef-8306-c68bcf32d872",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "83228fe3-47f9-4256-bea1-c9ba1c5ceb98",
+       "type": "word",
+       "value": "Відомо",
+       "textRange": [
+        3901,
+        3907
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Відомо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5292c1aa-9ce0-47cf-bb1d-22f1ec93da56",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3907,
+      3908
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e57e35f8-d3cf-4f3f-91b1-476991c8a823",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bb1de072-5ccc-482f-8b96-95425d67f7e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3908,
+        3909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45ab9aa0-37bd-4340-a225-ee056f4f3e55",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        3909,
+        3911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d5c9f6b-4ac9-49e2-b469-7b6de97d63dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3911,
+        3912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3bf3f710-3485-49e0-aa6d-630acc1164d9",
+         "type": "word",
+         "value": "Гоголь",
+         "textRange": [
+          3912,
+          3918
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "93a4232f-2cc8-4b0f-b76f-8aebe13c74f7",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що Гоголь",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a01443e3-6adc-4db1-bfc2-850d838a866f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3918,
+      3919
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0dd1d9be-c9c6-42db-9177-215ddfcb9381",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ba5943b6-9e50-49b4-bb8f-481a827d3f43",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3919,
+        3920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9de96067-206c-487a-b200-c09051543051",
+       "type": "word",
+       "value": "вражений",
+       "textRange": [
+        3920,
+        3928
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c18ae93f-5276-4e95-bc53-7967abfa57da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3928,
+        3929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4e1bb2b-3637-407a-aaa7-ac44fc3ee7e7",
+       "type": "word",
+       "value": "надто",
+       "textRange": [
+        3929,
+        3934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97a01687-0690-41ea-b0f4-c4d1477e74c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3934,
+        3935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a701aa3-b904-4911-8a40-182901f91c78",
+       "type": "word",
+       "value": "драматичним",
+       "textRange": [
+        3935,
+        3946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dac2559e-c73a-492c-b166-332a746bcbe7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3946,
+        3947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd5a84ad-1f54-4c2b-873f-bcf8cdfe9baa",
+       "type": "word",
+       "value": "сприйняттям",
+       "textRange": [
+        3947,
+        3958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "922cb680-2eca-4cbe-8c4b-370bf686a2a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3958,
+        3959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff24d8fb-2a61-4bd0-932a-eeb9395bc9a5",
+       "type": "word",
+       "value": "першого",
+       "textRange": [
+        3959,
+        3966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c593def-b41d-4af0-93fd-17d8d7178c03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3966,
+        3967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "134680c4-89c5-4aa8-92be-73991bbc4469",
+       "type": "word",
+       "value": "варіянта",
+       "textRange": [
+        3967,
+        3975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8da59113-e3f7-4894-94db-79905253212c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3975,
+        3976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4745aac6-0d29-4e1e-86cb-5d7ecd10c90a",
+       "type": "word",
+       "value": "твору",
+       "textRange": [
+        3976,
+        3981
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вражений надто драматичним сприйняттям першого варіянта твору",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3453a011-abe8-4b7a-8576-489200e0777c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3981,
+      3982
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aaa539bf-1b3d-425a-9e0f-c66b08668f05",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e8e441f7-7994-448d-b90d-bdf988420908",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3982,
+        3983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "883fe5e1-d1da-4741-be5a-272ecd91cac7",
+       "type": "word",
+       "value": "змінив",
+       "textRange": [
+        3983,
+        3989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80e85492-180d-4205-b22e-0f19ba880b85",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3989,
+        3990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9d4a663-89ff-4db5-a4c8-0852b38f4ec1",
+       "type": "word",
+       "value": "тональність",
+       "textRange": [
+        3990,
+        4001
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a21c8de6-cd55-434d-9409-695b59a20874",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4001,
+        4002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24ae643c-e88e-42c6-9140-8914d34d7511",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        4002,
+        4003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93954668-9f3f-4af5-9e41-e75a3b6aa6f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4003,
+        4004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce38b6b3-fdfe-473b-81f8-a1678e525881",
+       "type": "word",
+       "value": "показав",
+       "textRange": [
+        4004,
+        4011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92378bda-071d-413e-9eb8-535a8a8e1579",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4011,
+        4012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c2c3d5e-476f-4705-bf24-90182eb958c8",
+       "type": "word",
+       "value": "своїх",
+       "textRange": [
+        4012,
+        4017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c0f07f6-99e9-407d-a760-1e68af38c1ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4017,
+        4018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71c0f740-dd28-43bb-9b49-a7fc79382116",
+       "type": "word",
+       "value": "героїв",
+       "textRange": [
+        4018,
+        4024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc828b57-e04f-4283-874a-bfd8776899ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4024,
+        4025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cdfa8f7-09c1-461a-b1c8-7a75da701659",
+       "type": "word",
+       "value": "більш",
+       "textRange": [
+        4025,
+        4030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18ff87a3-0c0b-45ed-9c9d-24173fb853f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4030,
+        4031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0baa5550-74b0-4c95-9555-08c82b9da0e3",
+       "type": "word",
+       "value": "схожими",
+       "textRange": [
+        4031,
+        4038
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d388d3c7-4b72-481d-b173-56cac8099c70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4038,
+        4039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0314caf9-7af3-4658-bd0e-cae183fd401c",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4039,
+        4041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e26d2510-1f9c-4bb2-a4c4-d534dd8ca997",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4041,
+        4042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c71675d-ea56-4b1a-9e13-7874059a68ff",
+       "type": "word",
+       "value": "людей",
+       "textRange": [
+        4042,
+        4047
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " змінив тональність і показав своїх героїв більш схожими на людей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fdc65deb-291d-47a4-9edf-fc7626cfe84e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4047,
+      4048
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "618cf0b6-cc62-4224-92d7-8803da796e1f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4048,
+      4049
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Відомо, що Гоголь, вражений надто драматичним сприйняттям першого варіянта твору, змінив тональність і показав своїх героїв більш схожими на людей.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Відомо, що Гоголь, вражений надто драматичним сприйняттям першого варіянта твору, змінив тональність і показав своїх героїв більш схожими на людей.",
+ "concept": "SYNTAX"
+}

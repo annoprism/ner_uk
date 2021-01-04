@@ -1,0 +1,140 @@
+{
+ "id": "d053b48e-0634-4b2b-8750-1ccd7665a7c0",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0c07f3e8-6878-4666-8ca6-03bdefd8ee57",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "92d5eaec-e6a9-4cb6-85c3-87c72fcbadd0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "032d0f79-d152-425f-bc67-1ef49c3f5c53",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        1544,
+        1546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db5f709d-4624-497c-b580-4cb165e45fc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1546,
+        1547
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5acc6f23-5c08-4406-b3f7-086efc1d4940",
+       "type": "word",
+       "value": "вірите",
+       "textRange": [
+        1547,
+        1553
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Не вірите",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "671ba570-bf2a-457f-accf-031859e42f6c",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      1553,
+      1554
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Не вірите",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a1b493f2-4cdd-407f-a057-2174eca078df",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "461f7fd6-c64b-436d-8c67-51636b2f455d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fc00e621-5e80-4e10-98ec-8aba40cf4ded",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1554,
+        1555
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbaf3447-2940-4e7e-b72d-f142222518c1",
+       "type": "word",
+       "value": "Читайте",
+       "textRange": [
+        1555,
+        1562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c7b3713-f105-4e36-957f-d3eff045f1d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1562,
+        1563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b8a5689-4c15-47eb-9789-51e271860ecd",
+       "type": "word",
+       "value": "далі",
+       "textRange": [
+        1563,
+        1567
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Читайте далі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3f0451a8-c316-4a57-802e-d73260653464",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1567,
+      1568
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "016de5c4-ab77-4de8-b780-966dc54305a2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1568,
+      1569
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Читайте далі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Не вірите Читайте далі.",
+ "concept": "SYNTAX"
+}

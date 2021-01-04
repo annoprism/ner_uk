@@ -1,0 +1,619 @@
+{
+ "id": "9ded909e-e04c-41d9-87d4-1c3cef1cde0b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5aced605-acef-48f5-a671-1b3afd6e549b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "79b2c263-2698-4a57-94f8-50d1dcb1e01e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "30143459-9c48-4404-9380-7f4dc3a8247d",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        2254,
+        2255
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c25f0e52-92f7-4d0d-a1c2-8d946b2563b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2255,
+        2256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "10c633bf-657c-4a54-ac89-2c13c7446c83",
+         "type": "word",
+         "value": "Жака",
+         "textRange": [
+          2256,
+          2260
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3111008a-07b5-4a1a-9f04-180316b49ae3",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2260,
+          2261
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d5503d17-5d13-43ce-93f8-a85e14314e72",
+         "type": "word",
+         "value": "Дерріда",
+         "textRange": [
+          2261,
+          2268
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "84f34dfa-4767-4b09-916b-b64fd754300b",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "82dae9be-826f-4496-bb43-4be49626701b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2268,
+        2269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5678d6f-da8f-48c8-b0e2-ee488978e3a7",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        2269,
+        2270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4eb52b1-4610-4f16-93dd-9b40fcaeef1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2270,
+        2271
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fad4cc44-c202-4545-a28b-a37d371dddc8",
+       "type": "word",
+       "value": "поняття",
+       "textRange": [
+        2271,
+        2278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f38f922f-946a-4f8a-b0f6-b1ad144c127c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2278,
+        2279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c750c74b-db5e-45dc-b37b-68dd1833e285",
+       "type": "word",
+       "value": "pharmakon",
+       "textRange": [
+        2279,
+        2288
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У Жака Дерріда є поняття pharmakon",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "25912176-a14e-49f8-bacc-f34b64c0a1c5",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2288,
+      2289
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe0508f3-b575-4833-895a-6d74b3e0e0c3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d40f92cd-5a5d-4b6f-b396-c22fd11f0ea3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2289,
+        2290
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09ebbd92-fd15-497b-ab72-990949f398d7",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        2290,
+        2292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b64b6279-2951-4fea-bdee-01c8dccff303",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2292,
+        2293
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e35a59cc-e8d9-4c16-9fc6-2ddfba424e05",
+       "type": "word",
+       "value": "давньогрецьке",
+       "textRange": [
+        2293,
+        2306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c17ae85-bc15-470f-83d7-6632981e0a4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2306,
+        2307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5143717-e404-4811-ab67-48512036c172",
+       "type": "word",
+       "value": "слово",
+       "textRange": [
+        2307,
+        2312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e1f98f4-94fd-4b40-90d6-a6bd52056574",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2312,
+        2313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a94520d8-a945-457c-8cfb-6b1cad78f99f",
+       "type": "word",
+       "value": "позначає",
+       "textRange": [
+        2313,
+        2321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea777a87-ae22-4c11-b388-cddd894518b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2321,
+        2322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6137629-3bc4-43ab-a168-a9ab5f68e4f4",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2322,
+        2323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdcdd3c5-180f-472b-ac8a-4ae137d9a019",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2323,
+        2324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9589af6-3667-45b3-bb55-5159a7b3698e",
+       "type": "word",
+       "value": "ліки",
+       "textRange": [
+        2324,
+        2328
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " це давньогрецьке слово позначає і ліки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9cb9d80-ec4f-4fc8-82c2-6866afe1f638",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2328,
+      2329
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b1d47cdc-fba2-493b-9da9-c9b025cb09c1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1c3fac4f-39f1-4e4b-bcd7-730a4d3cc7e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2329,
+        2330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19c9b2a9-b12c-41a5-85ee-3d32e4875dea",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2330,
+        2331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0171e96f-ba0f-4432-b687-fdde8d9f0963",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2331,
+        2332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a0bf0fd-b31a-4770-951d-4094d7c6f287",
+       "type": "word",
+       "value": "отруту",
+       "textRange": [
+        2332,
+        2338
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і отруту",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0290b57-f26c-46a3-b9d6-d37fbc7d22d1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2338,
+      2339
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У Жака Дерріда є поняття pharmakon: це давньогрецьке слово позначає і ліки, і отруту",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "708a11c8-098e-4b19-813f-f5c46e893560",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f9732a47-445e-495b-b6b9-abbbd8c00003",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9d924dbe-268c-475b-a6f8-03a710e54446",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2339,
+        2340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4962e8c1-52a9-4d89-8b9e-8ebeb79fd6e4",
+       "type": "word",
+       "value": "Усе",
+       "textRange": [
+        2340,
+        2343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebe86aae-5881-4a96-a566-a4f66488a30e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2343,
+        2344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25b0b2c7-7043-4a13-b76b-a4fb9961e605",
+       "type": "word",
+       "value": "залежить",
+       "textRange": [
+        2344,
+        2352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd5d8761-c9d2-4342-acce-76d645c886b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2352,
+        2353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a01b571-68b0-4ecf-8ac7-75b8a8134544",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        2353,
+        2356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "170152e1-6917-46e1-99d8-48225a145993",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2356,
+        2357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61ae5af8-cbb5-4038-8d78-83c544cdb378",
+       "type": "word",
+       "value": "стану",
+       "textRange": [
+        2357,
+        2362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d99f0d50-45fe-498c-aa1d-1e027745b6e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2362,
+        2363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1510ca50-f83c-4e2f-bcac-dd0bdcd3a786",
+       "type": "word",
+       "value": "організму",
+       "textRange": [
+        2363,
+        2372
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Усе залежить від стану організму",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "08188dd2-cee5-4c7d-910e-d17a8ae26626",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2372,
+      2373
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1b55262d-93c1-4f45-8e6b-b24d743cc47d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6611c28f-dab6-4bea-98e3-efea8de101c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2373,
+        2374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "950ae4a7-f0fe-4386-a112-f9aae1371bab",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        2374,
+        2377
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d88b0490-6281-4c9c-87ac-26a4a5b5dc1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2377,
+        2378
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e74e0cd-6be6-46f5-a057-f42bbd404874",
+       "type": "word",
+       "value": "дози",
+       "textRange": [
+        2378,
+        2382
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " від дози",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cc41c05f-1cd6-4179-965e-8548c4b5b885",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2382,
+      2383
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0983dfce-8e19-4fde-808b-ea2e4de2d780",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "271427ea-03ff-42bd-870f-56a46d8d2879",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2383,
+        2384
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0da7c953-1c57-4a22-8684-49c1cabe9324",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        2384,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f360de4-a7aa-43c9-a8c5-ccb7f31957a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a0c5e7c-61e2-4ae9-a2fb-315c7184478b",
+       "type": "word",
+       "value": "характеру",
+       "textRange": [
+        2388,
+        2397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e699a32-95a4-4591-9cc8-f7184cad637c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2397,
+        2398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a696977b-afd3-4920-a4c7-6113184e2b7a",
+       "type": "word",
+       "value": "хвороби",
+       "textRange": [
+        2398,
+        2405
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " від характеру хвороби",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bf49f40f-c40e-4761-93ce-cc45144ccca5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2405,
+      2406
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9093e32f-cd4e-422b-bf8c-e2affbf944be",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2406,
+      2407
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Усе залежить від стану організму, від дози, від характеру хвороби.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У Жака Дерріда є поняття pharmakon: це давньогрецьке слово позначає і ліки, і отруту Усе залежить від стану організму, від дози, від характеру хвороби.",
+ "concept": "SYNTAX"
+}

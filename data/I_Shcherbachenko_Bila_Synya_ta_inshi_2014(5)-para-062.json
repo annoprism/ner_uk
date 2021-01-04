@@ -1,0 +1,141 @@
+{
+ "id": "dab2a0d2-3673-40ab-973c-2616389a0db4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7d9f137a-3497-4959-b90c-a48a639ed4ec",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "cc0ee68c-10c5-478a-9397-e4fdde53a43a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "50d38f11-7258-459a-b60a-e05abc669897",
+       "type": "word",
+       "value": "Та",
+       "textRange": [
+        7026,
+        7028
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb711dac-6d43-47e2-bffe-1b62f6a7d876",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7028,
+        7029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5a88c21-155a-4aa3-9ef6-f644ac0f7e95",
+       "type": "word",
+       "value": "хіба",
+       "textRange": [
+        7029,
+        7033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9cc09656-49fd-491e-aca8-a812ff4a867d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7033,
+        7034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "a355d114-ba44-48f8-aece-1dc78e1640db",
+         "type": "word",
+         "value": "Киці",
+         "textRange": [
+          7034,
+          7038
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "cdcff006-6d13-418b-9746-c7355ac28a62",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "88fe21c1-0284-4a41-93f0-a31471dbd113",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7038,
+        7039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85723007-7beb-4f5b-a290-48f58e21911d",
+       "type": "word",
+       "value": "бувають",
+       "textRange": [
+        7039,
+        7046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8aaa709-0b42-4756-89af-6ba0d3ce9e48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7046,
+        7047
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b063651-e9f4-46b4-b8ad-5ba2b9ef8ad6",
+       "type": "word",
+       "value": "страшними",
+       "textRange": [
+        7047,
+        7056
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Та хіба Киці бувають страшними",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "23d49b38-bb50-4c30-9fd5-2834c201b769",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      7056,
+      7057
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2acbdff-e96f-42e4-82ab-ebc0d380aee7",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7057,
+      7058
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Та хіба Киці бувають страшними?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Та хіба Киці бувають страшними?",
+ "concept": "SYNTAX"
+}

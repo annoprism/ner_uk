@@ -1,0 +1,71 @@
+{
+ "id": "92fcc7eb-9720-43ff-b0fa-ae15225b19f6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b6c56e42-8914-4f68-a137-ae89b8ef2695",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "293ffe18-d5b7-4221-9c98-f16eea97ff77",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3d96774a-0786-4121-bf91-0c4bab4baa97",
+         "type": "word",
+         "value": "Біла",
+         "textRange": [
+          1992,
+          1996
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "49a481d3-f44f-454d-944e-51193592d182",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1996,
+          1997
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "77c2f630-ac76-46a2-9006-fab3421756ab",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          1997,
+          2001
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8f71de6c-4f8c-40bd-9a40-eb1dbe3a3a69",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Біла Киця",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3737805b-12f9-40ca-9176-a465aabfe4cb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2001,
+      2002
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Біла Киця",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Біла Киця",
+ "concept": "SYNTAX"
+}

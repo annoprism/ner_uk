@@ -1,0 +1,944 @@
+{
+ "id": "c407b7e1-1502-465b-8915-22821ecfe749",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e0fd2edf-1e33-4b20-8fb8-95942722404f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0295382e-756c-4c1f-8291-bb790481426e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "95731cb3-db7b-4cd8-a892-c68e79a99758",
+       "type": "word",
+       "value": "Одна",
+       "textRange": [
+        5724,
+        5728
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1559130a-6b0e-42d1-9f0a-1ff0469ad03f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5728,
+        5729
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f0d66ab-4691-4ff0-8493-866d299cc3bf",
+       "type": "word",
+       "value": "Киця",
+       "textRange": [
+        5729,
+        5733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "091e3a12-d28b-4f43-b637-157b33204fce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5733,
+        5734
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8dd0f57-be0d-42e1-90b8-76aa7fefaf4e",
+       "type": "word",
+       "value": "дуже",
+       "textRange": [
+        5734,
+        5738
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f50fbec5-4fcc-4c33-b8b7-85996273b237",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5738,
+        5739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "019f4d52-33c7-4f71-9d75-af67f83c88ab",
+       "type": "word",
+       "value": "тішилася",
+       "textRange": [
+        5739,
+        5747
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Одна Киця дуже тішилася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "857185f0-9676-41a7-8c47-77722a947f01",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5747,
+      5748
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae2d9fb3-d6d9-4c22-9bc6-bc55aab08627",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "aa1baf83-2e4b-4e57-a616-abd6a922e0a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5748,
+        5749
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "275142fe-bbac-4977-a5a6-3f24d9b6d596",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        5749,
+        5751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "071437c1-194e-4734-9308-a939f3586b8d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5751,
+        5752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "327cf6b8-5698-4f6d-b3e8-868ae48cb202",
+       "type": "word",
+       "value": "настала",
+       "textRange": [
+        5752,
+        5759
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc297a60-6a34-4dc5-af54-fbe406e5e083",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5759,
+        5760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2fac150a-52d9-4b88-83ce-ecac4d8e1ec8",
+       "type": "word",
+       "value": "весна",
+       "textRange": [
+        5760,
+        5765
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "661ca602-5425-486d-9452-8c5b96c57276",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5765,
+        5766
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "074bb2da-973c-4290-9f32-c8c5378dc1af",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5766,
+        5767
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61d2e5ad-6285-4c42-b068-ca661d97b500",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5767,
+        5768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73ed2313-5e5c-455b-ae35-bd0cfd65069b",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        5768,
+        5771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f86066e3-bd8e-42f9-a667-c87e34980443",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5771,
+        5772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de4f5cea-c591-4b14-9ebb-0aa5da05201b",
+       "type": "word",
+       "value": "навколо",
+       "textRange": [
+        5772,
+        5779
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3bb3ca8-67b0-4390-905d-c3dc6708783a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5779,
+        5780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9eb1d3e2-aedb-41dc-aca5-ea91d367a8ec",
+       "type": "word",
+       "value": "зазеленіло",
+       "textRange": [
+        5780,
+        5790
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що настала весна і все навколо зазеленіло",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a086c641-a7c0-4578-8c7d-2aed2fcd84ec",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5790,
+      5791
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Одна Киця дуже тішилася, що настала весна і все навколо зазеленіло",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "747ef598-1728-490d-b1b6-2af4057a95b3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d9f4742a-71dc-4a58-ac0d-53e50176d940",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3cdddecb-f4eb-464d-bc2e-afdffddb798f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5791,
+        5792
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d0b6232-f557-46d1-afd3-c679c0b7cdc5",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        5792,
+        5796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "618c51e2-07f2-4447-ad35-f9baa321c0ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5796,
+        5797
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "006ad1ae-8163-442f-8bbb-00733e675a11",
+       "type": "word",
+       "value": "вийшла",
+       "textRange": [
+        5797,
+        5803
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2eca1156-aa4e-41e0-b426-ff91a5b443ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5803,
+        5804
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54c32aba-6d9a-4cf0-85d5-f904efa44ff3",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5804,
+        5806
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b64a1843-9557-4865-8fb9-dc259240c874",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5806,
+        5807
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "618517b9-32a9-41f7-ada8-d4ea81e68325",
+       "type": "word",
+       "value": "вулицю",
+       "textRange": [
+        5807,
+        5813
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона вийшла на вулицю",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2702421a-fcc8-4722-bfff-0b5701bcfaf8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5813,
+      5814
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e5486ab-019a-45d8-8e2c-78439e436043",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9c28eb36-35ae-41ca-9efa-fc8cb477e7c7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5814,
+        5815
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41b05861-ca26-435d-8d77-3f427d78a98a",
+       "type": "word",
+       "value": "потягнулася",
+       "textRange": [
+        5815,
+        5826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26165ddb-8f2d-4d29-a2b0-bbba076b47a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5826,
+        5827
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78713b01-dee5-4b83-8ca0-4a9b10f7fa5b",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5827,
+        5829
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88d3d9eb-a58a-439c-923a-12f78d46ca00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5829,
+        5830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "665f0eae-56b7-42ea-bc58-3da6f5e44370",
+       "type": "word",
+       "value": "шовковій",
+       "textRange": [
+        5830,
+        5838
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dee4606-edfb-474c-8db9-556f83c945df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5838,
+        5839
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd262972-a653-4da5-a76b-08e8cfef1025",
+       "type": "word",
+       "value": "травичці",
+       "textRange": [
+        5839,
+        5847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51600212-abf5-4348-9baa-86d1780f77fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5847,
+        5848
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0166ff58-24ab-47ff-a87a-f658a15dafbc",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        5848,
+        5850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8184da4-68c3-43dd-a98a-539619cb6aa4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5850,
+        5851
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "794e2cc4-1ab6-4a16-9429-3e1905ea4391",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        5851,
+        5854
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5e8377a-1a7f-4f4a-8460-67148fbb2ceb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5854,
+        5855
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf524675-cfc2-473f-96a7-291af9633090",
+       "type": "word",
+       "value": "радості",
+       "textRange": [
+        5855,
+        5862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba1bea09-1f5c-42c7-a5b8-e552ef9c837c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5862,
+        5863
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b2df1a9-f121-413b-becb-7c6a6243bebe",
+       "type": "word",
+       "value": "замуркотіла",
+       "textRange": [
+        5863,
+        5874
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " потягнулася на шовковій травичці та від радості замуркотіла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "edca73ca-c6f7-4b3e-a3e8-0ebc888bfded",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5874,
+      5875
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона вийшла на вулицю, потягнулася на шовковій травичці та від радості замуркотіла",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "7d82161e-75ee-42e2-9d12-323f8249c768",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0ba56ac1-3889-4c2e-883f-a98439247c72",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9ec0429e-8af8-4787-b9d1-5b08726ca9bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5875,
+        5876
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0362d104-56a9-46e4-a69d-89251535fbdc",
+       "type": "word",
+       "value": "Виверталася",
+       "textRange": [
+        5876,
+        5887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "387e18a2-98a8-4e42-a014-f4691901dbbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5887,
+        5888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa57b2b7-b3dd-4372-809f-7b824d0f0e66",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        5888,
+        5890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "282c81ce-7cae-4bfc-8f60-9f71e4a8463b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5890,
+        5891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b65de6c-99d6-4476-8a19-2ffe21e563aa",
+       "type": "word",
+       "value": "одним",
+       "textRange": [
+        5891,
+        5896
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "046a3ba4-2320-4faa-b649-0c6040dfb53f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5896,
+        5897
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7181565-5cdd-4fa7-8744-40d14557049e",
+       "type": "word",
+       "value": "бочком",
+       "textRange": [
+        5897,
+        5903
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Виверталася то одним бочком",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5f259903-d207-4be4-8bf1-46f38fd3f7a8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5903,
+      5904
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90ff7850-5505-4708-9361-c59e961a4f54",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8195706c-c2d1-4d9e-8a2c-e7c7c1d1fa35",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5904,
+        5905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ab87073-1ac4-4b26-876c-cb74356e33a1",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        5905,
+        5907
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23cd73ac-12b9-42d2-8f13-87622514fd4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5907,
+        5908
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02c15355-e280-4a79-a204-a43eaf26283d",
+       "type": "word",
+       "value": "іншим",
+       "textRange": [
+        5908,
+        5913
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " то іншим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "46d762d0-b089-4396-ad26-57e7cf11386e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5913,
+      5914
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Виверталася то одним бочком, то іншим",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e0374da7-05ee-4efc-8f3f-9b74282f8006",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b7eca5ad-fa2b-4271-aaa4-b8b0ac513a4e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "43394010-b4c7-4616-b9fc-f0ffb7e760ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5914,
+        5915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "193b962a-9dd9-457e-b9b6-8b6e38a96274",
+       "type": "word",
+       "value": "Сонячне",
+       "textRange": [
+        5915,
+        5922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b679a8d-a58b-4866-a7af-d6000bc1b92f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5922,
+        5923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf4d2f9d-f6d9-4b32-8b4a-bc319ef6db6f",
+       "type": "word",
+       "value": "проміння",
+       "textRange": [
+        5923,
+        5931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d6130f5-a5d0-4cb1-8b4d-fbe3f8a98d94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5931,
+        5932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9a27fc6-fe06-4020-b3ff-39f70883d8ef",
+       "type": "word",
+       "value": "пестило",
+       "textRange": [
+        5932,
+        5939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04c32b32-fa22-4fea-8619-75744d9a8800",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5939,
+        5940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e03299f1-bb0e-434f-a76e-1c025d21f87a",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        5940,
+        5942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f307d4b7-c53e-4864-abe7-78667af4d20c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5942,
+        5943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53879ed2-e5b3-484b-9640-70dff06f2ebf",
+       "type": "word",
+       "value": "хутро",
+       "textRange": [
+        5943,
+        5948
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Сонячне проміння пестило її хутро",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "56796e93-e316-43e1-955f-ca7eb5a2d667",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5948,
+      5949
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a6524396-9b21-4949-9831-991feeaa4414",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0937e78a-f9dd-44fc-b877-6a97012386b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5949,
+        5950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f94ca78c-396c-4985-b1e1-3f070a33da2f",
+       "type": "word",
+       "value": "легенький",
+       "textRange": [
+        5950,
+        5959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b187eb1-b488-4fd1-a547-7b320f02cb3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5959,
+        5960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65d77028-1402-4cbf-850f-031c98a86d3b",
+       "type": "word",
+       "value": "вітерець",
+       "textRange": [
+        5960,
+        5968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "535daeed-6499-496b-b923-6cb8344a3b1b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5968,
+        5969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "264b6fa2-ee4a-48bd-9f8e-bf526da746ac",
+       "type": "word",
+       "value": "лоскотав",
+       "textRange": [
+        5969,
+        5977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1b298a2-8d1b-427c-ab5a-22128289e844",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5977,
+        5978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f122bd4-40bf-4a8e-b8d8-4a61bbd725f2",
+       "type": "word",
+       "value": "вуса",
+       "textRange": [
+        5978,
+        5982
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " легенький вітерець лоскотав вуса",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4cdb7374-6b9d-49e1-a2ae-1b66b32ed0fb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5982,
+      5983
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e997a14-973b-463c-b353-93a8664c5a09",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5983,
+      5984
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Сонячне проміння пестило її хутро, легенький вітерець лоскотав вуса.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Одна Киця дуже тішилася, що настала весна і все навколо зазеленіло Вона вийшла на вулицю, потягнулася на шовковій травичці та від радості замуркотіла Виверталася то одним бочком, то іншим Сонячне проміння пестило її хутро, легенький вітерець лоскотав вуса.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,444 @@
+{
+ "id": "5fe1e43e-2d3b-4e70-a10c-9c17fa4f925d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "092bb9e1-bf5c-4b52-9fa0-b2a491d7361b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b9c2af67-f853-43a7-bd30-de7fcc52edca",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ba42a7ba-2b4f-45dd-a2bc-fa6245a1db73",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        5775,
+        5779
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27f15afd-c093-4946-94e3-177c72656770",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5779,
+        5780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50e00e5b-8914-4d78-9aa9-dfef536c60d5",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        5780,
+        5781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dba3a00c-b935-4d13-a946-15562b20f40d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5781,
+        5782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3901383f-21f2-4ace-906e-7db0cbaec75c",
+         "type": "word",
+         "value": "Микола",
+         "textRange": [
+          5782,
+          5788
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "af2c5546-9796-44d2-a4a9-98ce1d3884ad",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "efa1e053-8732-4815-9993-4f6bd3dd97e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5788,
+        5789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "861df092-f101-4713-b477-f18b8b59300e",
+       "type": "word",
+       "value": "повернувся",
+       "textRange": [
+        5789,
+        5799
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1ef5327-ddca-4ba0-99ed-20e69a559573",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5799,
+        5800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15976d6d-76e2-4a88-975a-36c9ab153ea5",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        5800,
+        5801
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a491d06-f706-4960-a0ed-c0bf00b34f3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5801,
+        5802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2ac994c-ac47-4e41-ac01-3bb5b76fb93d",
+       "type": "word",
+       "value": "двома",
+       "textRange": [
+        5802,
+        5807
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bfc1119f-4c81-4035-ad34-bd5afc85474c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5807,
+        5808
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c3ebfc7-be6f-438e-8f2e-fbfb2c4af781",
+       "type": "word",
+       "value": "філіжанками",
+       "textRange": [
+        5808,
+        5819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae881365-2355-4a95-bf3d-57aa6ca0a10c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5819,
+        5820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "971406a4-7ca3-44bb-b4ba-679b9b974db3",
+       "type": "word",
+       "value": "кави",
+       "textRange": [
+        5820,
+        5824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "295724cf-cb2b-4e4f-8793-6c6880d24397",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5824,
+        5825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca40219f-0f7f-40fc-aae4-f76f242b445e",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5825,
+        5827
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f60c3629-4582-4ec2-962b-bc95d2f8d58b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5827,
+        5828
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed530bd-f8dd-4058-98a1-a351ba1d9575",
+       "type": "word",
+       "value": "тацечці",
+       "textRange": [
+        5828,
+        5835
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли ж Микола повернувся з двома філіжанками кави на тацечці",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e573e76b-98bc-4d10-be3d-e4eba81bc221",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5835,
+      5836
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95c09bca-539f-4292-834f-af28f8925028",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b2f39e1e-286d-44e2-8358-6c4e3c6268cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5836,
+        5837
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d577fdd0-5df2-485a-84c8-7c20e50f3f8e",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        5837,
+        5839
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe7371f5-c1a8-4e65-89ab-30bd33ba279c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5839,
+        5840
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6abf9b57-87b3-4643-a62d-a5b7d9bf7854",
+       "type": "word",
+       "value": "парувала",
+       "textRange": [
+        5840,
+        5848
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що парувала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f48d5647-20a8-4241-ae5d-056fd24035b0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5848,
+      5849
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c072d8f2-371a-4f87-86c7-4c01e953ad70",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1eb449a2-bdc4-48f1-ad58-e8d7f8d3e957",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5849,
+        5850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "22eb1217-a4b4-408a-9c0d-d5740401f147",
+         "type": "word",
+         "value": "Коза",
+         "textRange": [
+          5850,
+          5854
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fbf1738c-16c5-4ebe-9b9c-87f065805cab",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3bd96a5b-d45c-4fc8-b118-7762b40f2476",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5854,
+        5855
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc8411e1-ac1b-4f54-882b-61460d3a4876",
+       "type": "word",
+       "value": "навстоячки",
+       "textRange": [
+        5855,
+        5865
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baca89ad-09cc-4689-93da-e163971e6b33",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5865,
+        5866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a401217-0cc7-4774-bcc9-e3ea0b553527",
+       "type": "word",
+       "value": "розглядала",
+       "textRange": [
+        5866,
+        5876
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f69793fa-7757-4425-ae63-42e888a3c7ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5876,
+        5877
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba1568f3-c01d-48a4-a5ed-cb175e8b1ffe",
+       "type": "word",
+       "value": "книжки",
+       "textRange": [
+        5877,
+        5883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28ba3948-9591-41a2-bd98-12d250850c43",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5883,
+        5884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79f4d24f-0eed-4b97-a282-f75c3038d35e",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5884,
+        5886
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5195aef-b13b-4341-8358-9f752bdb47ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5886,
+        5887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce5c9e18-a951-4bcb-b1b0-c08e322792d1",
+       "type": "word",
+       "value": "стелажах",
+       "textRange": [
+        5887,
+        5895
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Коза навстоячки розглядала книжки на стелажах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a85756d8-99db-456c-808e-efc8d3a82bf2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5895,
+      5896
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6f1a79db-5374-49dc-b230-d99dd81d9fec",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5896,
+      5897
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли ж Микола повернувся з двома філіжанками кави на тацечці, що парувала, Коза навстоячки розглядала книжки на стелажах.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли ж Микола повернувся з двома філіжанками кави на тацечці, що парувала, Коза навстоячки розглядала книжки на стелажах.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,242 @@
+{
+ "id": "e58287a1-1d9f-4f37-a205-f3aba388d97a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d5e49bef-30af-47c7-8432-51706c6450d3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "549b016d-faf9-4d10-8bf4-fb74439b11c9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "30e63650-b420-4d0e-9ffe-c0e44befcad3",
+       "type": "word",
+       "value": "Група",
+       "textRange": [
+        2433,
+        2438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cedbcd3-2927-4b42-989e-a43897c294c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2438,
+        2439
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10765f29-a4ff-4f1f-b3e8-0d26d75894ee",
+       "type": "word",
+       "value": "В",
+       "textRange": [
+        2439,
+        2440
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Група В",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4c23395e-381c-4536-9e2f-ad5970f668a4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2440,
+      2441
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Група В",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "260de76b-710f-42e8-bd09-de8427876c37",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c35b45be-d598-431c-86db-11bafc8efb68",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b79c5b7e-e801-4078-b4c1-80ab0198824c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2441,
+        2442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "eb4b2537-9243-4ec4-ad68-725ed5a412f9",
+         "type": "word",
+         "value": "Іспанія",
+         "textRange": [
+          2442,
+          2449
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d9080289-4067-48d6-80a3-60f2fbd9c7f6",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f15cc8be-d233-4bb0-8be2-fe9c32fed75a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2449,
+        2450
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40f072ec-5eac-4635-a2a7-928dd883f95d",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2450,
+        2451
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81e7de6b-3e94-49f3-9942-3c2e629b7bd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2451,
+        2452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "9c3ff681-cc0b-49c8-a8f3-8e3a8d6eb87d",
+         "type": "word",
+         "value": "Чилі",
+         "textRange": [
+          2452,
+          2456
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "276526ac-7c0b-41da-85c4-357f56603e22",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8013fee5-d4ad-4a98-96bc-b7a311147a4c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2456,
+        2457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c4c1ab2-6f4b-422a-a61e-24feb2e76f23",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2457,
+        2458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a31ee3f-0656-4690-973d-5e958d2122bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2458,
+        2459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3da9bacb-6246-4e65-b326-bfc3d82b3f7d",
+       "type": "number",
+       "value": "0",
+       "textRange": [
+        2459,
+        2460
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Іспанія - Чилі - 0",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54acd808-2a10-4aea-b5f6-db99e4ce5044",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2460,
+      2461
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b5a6cd70-7b5c-43fb-8527-fbe1bea8194c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "54971413-d2e8-4384-b7b3-44daa402fd08",
+       "type": "number",
+       "value": "2",
+       "textRange": [
+        2461,
+        2462
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "2",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3062e420-aea7-49e0-8cd0-b7ebbb9a895d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2462,
+      2463
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ebed8e7a-c09f-4614-80df-5b1d0ac3bdde",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2463,
+      2464
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Іспанія - Чилі - 0:2.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Група В Іспанія - Чилі - 0:2.",
+ "concept": "SYNTAX"
+}

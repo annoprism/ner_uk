@@ -1,0 +1,101 @@
+{
+ "id": "22e6e0e7-cd53-4dfd-a535-04a28185b738",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a14cf5da-e86e-41d7-afe7-5a5696c8b7f8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2088b820-9699-494e-8b74-34e653adfca2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6b2e11ae-e0e5-4f65-8715-455e47aad5fb",
+       "type": "word",
+       "value": "Дивно",
+       "textRange": [
+        0,
+        5
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5801309b-2e39-4b97-92df-0302fb3e0c20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71f97c19-d7b4-4106-95a5-30c4dcdedf9e",
+       "type": "word",
+       "value": "влаштоване",
+       "textRange": [
+        6,
+        16
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44fb0aa3-8534-4481-82aa-375980394093",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16,
+        17
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "526598e5-c402-4d8a-89aa-cc567682e996",
+         "type": "word",
+         "value": "Семисвіття",
+         "textRange": [
+          17,
+          27
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "26a80625-8aaf-4f1a-8c16-3f667a166e8c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "27e94a97-8187-4721-8de4-a807607cad92",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        27,
+        30
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Дивно влаштоване Семисвіття...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b0967d59-e786-4900-9837-a24ed2feaff1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      30,
+      31
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Дивно влаштоване Семисвіття...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Дивно влаштоване Семисвіття...",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,607 @@
+{
+ "id": "5751d768-3df0-46ba-8c9f-e200bc3f26c4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "63484f1f-e2d2-4600-bae1-c29b6a39ab2e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9476f962-f5e8-4590-ad9f-9e361688b444",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "b8b7c9e4-bf87-4c04-8007-dab51ec51748",
+         "type": "word",
+         "value": "Станімір",
+         "textRange": [
+          2881,
+          2889
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c767bbe3-0115-48dd-abd7-bb7c109f4cd8",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "23f7ca1c-2683-49d6-9eb1-df7f7e2acd78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2889,
+        2890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12eef4f0-dfa4-4058-9b03-e7a9c5100573",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        2890,
+        2892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be18b498-f8db-485c-940c-b1e04dcde130",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2892,
+        2893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "08116bb8-fcea-45ed-bb84-41b73ca69915",
+         "type": "word",
+         "value": "Гірняком",
+         "textRange": [
+          2893,
+          2901
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5991b5be-c94f-4d26-8941-105375eee193",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "208548d7-4d9f-4bfc-8e42-f80eeb1691d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2901,
+        2902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd5e1fb2-f571-40b2-809c-4d278e1ed276",
+       "type": "word",
+       "value": "теж",
+       "textRange": [
+        2902,
+        2905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d071f0d-9090-4933-b38a-e64d1b2d4c4d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2905,
+        2906
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2246082-f0b8-47a4-a5e0-2ca0c94ce3f7",
+       "type": "word",
+       "value": "потяглися",
+       "textRange": [
+        2906,
+        2915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed27bfce-39cf-42ce-97bd-548b7115b6e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2915,
+        2916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7c03c6c-8795-407e-81b8-2d66a8fa3fb9",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2916,
+        2918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aef72fff-ff9a-4e00-ac9c-80ddd1fb6232",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2918,
+        2919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b91a283c-2d63-49e1-9419-6d2cdbd90401",
+       "type": "word",
+       "value": "кобур",
+       "textRange": [
+        2919,
+        2924
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Станімір із Гірняком теж потяглися до кобур",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "12ecbe96-b16a-4b2b-a99b-9416bb6e3767",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2924,
+      2925
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90a80813-531a-4e1a-8be5-0935706c60e6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "02aa1519-a651-4793-b72b-c505c5f08a97",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2925,
+        2926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c52d312-d62a-4d0a-89eb-eb14f70ffb55",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        2926,
+        2929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de2444c7-1ccc-4ef8-bf2b-dc9c49bb8656",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2929,
+        2930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04a69838-653a-4582-ac4f-641524b33307",
+       "type": "word",
+       "value": "тут",
+       "textRange": [
+        2930,
+        2933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ebbd3f4-4f25-4b9b-8fce-2fb88ebd4db3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2933,
+        2934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "040abd8c-cfe0-4f0b-81b2-6935b1011430",
+         "type": "word",
+         "value": "Шуліка",
+         "textRange": [
+          2934,
+          2940
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "dff9d822-070a-4f45-a9c8-6c29a6ff7cff",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "598844a6-68d7-4c30-b8bb-83ed0bcc45e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2940,
+        2941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b0647ca-0a70-4f7d-ac87-72e3c8a66ca1",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        2941,
+        2942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce3d5758-bf4f-4a42-9c81-3d56d5d36731",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2942,
+        2943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fa8d1a0-d536-4d7f-8074-4462a8acbf5f",
+       "type": "word",
+       "value": "собі",
+       "textRange": [
+        2943,
+        2947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9a974d8-4566-4821-b9e2-ff9f24a309e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2947,
+        2948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28e8aa70-cc22-47b5-baad-983d52a57e2b",
+       "type": "word",
+       "value": "прибрав",
+       "textRange": [
+        2948,
+        2955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31480ad2-5aba-4c64-a34b-222e69492886",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2955,
+        2956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d0b44fa-ee65-42da-b400-9dfff26a255f",
+       "type": "word",
+       "value": "військову",
+       "textRange": [
+        2956,
+        2965
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f72720af-ba1d-4181-a3b1-9c58431245a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2965,
+        2966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5820d21-229a-458b-9a12-4dcc0274bad8",
+       "type": "word",
+       "value": "позу",
+       "textRange": [
+        2966,
+        2970
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але тут Шуліка й собі прибрав військову позу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "48d61690-f696-49cb-b3e0-10559cfebdd0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2970,
+      2971
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6e449ed1-f404-48d7-8085-8934a618412a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d8a9eb35-c963-43ab-9a07-266f948a9797",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2971,
+        2972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eff59899-1a85-41d9-8d7b-dfab44ab9242",
+       "type": "word",
+       "value": "витягся",
+       "textRange": [
+        2972,
+        2979
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " витягся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9935ccb-eca5-46db-b2e3-b4786fa5aa28",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2979,
+      2980
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5eaceead-b1bc-4a97-973c-76a80d838783",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d5a4b7c5-d87a-4a5f-8dde-c3af3aa7ef7b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2980,
+        2981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16bbd4e1-5a9d-4cf8-b6eb-aacb8a100b2a",
+       "type": "word",
+       "value": "розправив",
+       "textRange": [
+        2981,
+        2990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d55595c-2bf4-4fae-87bb-55ab70a8156b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2990,
+        2991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "602b6d30-c840-4904-a8f1-414efcf9c529",
+       "type": "word",
+       "value": "плечі",
+       "textRange": [
+        2991,
+        2996
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розправив плечі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "59c2c10e-c86c-4469-ba4e-bc68cba69029",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2996,
+      2997
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e98e8c2a-576b-4bcd-b762-aec9e27b5015",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c81ab385-57f3-463f-84ee-570592a28173",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2997,
+        2998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6c8020d-1f07-4938-8694-327df7ad6bc7",
+       "type": "word",
+       "value": "розпушив",
+       "textRange": [
+        2998,
+        3006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c44b033d-5b23-4d10-9741-52c026bf33bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3006,
+        3007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8afb1ca7-189e-47cf-9479-3b7d1c10c483",
+       "type": "word",
+       "value": "вуса",
+       "textRange": [
+        3007,
+        3011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b140a54e-ceba-49ca-9bf0-27c7a83202b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3011,
+        3012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "282235f5-a787-4849-beb1-93f70d8e5071",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        3012,
+        3013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ae322d6-3f68-4b2f-a748-120a1a44157c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3013,
+        3014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "882f7038-08a2-4813-8b85-3cb4d97a7ef4",
+       "type": "word",
+       "value": "сказав",
+       "textRange": [
+        3014,
+        3020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ae17729-3e07-4d94-9369-71ef1917aca7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3020,
+        3021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3d089ab-ab55-4477-92c2-14074ae5afaf",
+       "type": "word",
+       "value": "отаманським",
+       "textRange": [
+        3021,
+        3032
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24c349d9-2f85-456a-9445-7267fd963d9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3032,
+        3033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1be1f343-a344-456a-a17d-af0d2a9b323e",
+       "type": "word",
+       "value": "голосом",
+       "textRange": [
+        3033,
+        3040
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розпушив вуса й сказав отаманським голосом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e07217db-0bae-4dd0-932a-b9261566d6e0",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      3040,
+      3041
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "007cf76b-93bd-473f-803f-2d0de32573d9",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3041,
+      3042
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Станімір із Гірняком теж потяглися до кобур, але тут Шуліка й собі прибрав військову позу, витягся, розправив плечі, розпушив вуса й сказав отаманським голосом:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Станімір із Гірняком теж потяглися до кобур, але тут Шуліка й собі прибрав військову позу, витягся, розправив плечі, розпушив вуса й сказав отаманським голосом:",
+ "concept": "SYNTAX"
+}

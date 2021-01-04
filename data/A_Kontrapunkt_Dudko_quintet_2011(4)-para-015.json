@@ -1,0 +1,101 @@
+{
+ "id": "995aa582-45af-42fa-b168-56047cd90545",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "52615ef5-59f4-4e34-9100-776e42249946",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "90fcaa19-c6b6-46e1-9c76-6d8d39dc9656",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e82bd269-cc94-4a68-9cbb-131b6982a4a9",
+       "type": "word",
+       "value": "Хто",
+       "textRange": [
+        5584,
+        5587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e786cb6e-3adc-4afd-b06e-64b1117e98c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5587,
+        5588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4703522-71ba-489b-969d-80b7620a609e",
+       "type": "word",
+       "value": "така",
+       "textRange": [
+        5588,
+        5592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7837a082-076d-4081-b288-166dcb86051b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5592,
+        5593
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "4596eff4-fdd8-4c81-8400-3e8ffbd5478f",
+         "type": "word",
+         "value": "Софія",
+         "textRange": [
+          5593,
+          5598
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "96f4e62c-29ed-421b-804e-aaf5df0b5151",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Хто така Софія",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "79455a3f-ed8f-458d-ae70-389466380a72",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      5598,
+      5599
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2d8856d7-e4c2-4d7a-ac33-f48c9077bd1f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5599,
+      5600
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Хто така Софія?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Хто така Софія?",
+ "concept": "SYNTAX"
+}

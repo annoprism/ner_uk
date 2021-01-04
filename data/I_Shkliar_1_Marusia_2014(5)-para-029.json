@@ -1,0 +1,219 @@
+{
+ "id": "2bc5f05e-5d0b-4551-8d3d-ca094788d6d0",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0d863700-065a-4e1c-b172-217eb7e9ceb3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "57f73277-c0a5-47e7-b4e0-282953604b85",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c7e35e88-02ec-467c-910b-e849fcfa52a1",
+       "type": "word",
+       "value": "Голова",
+       "textRange": [
+        5972,
+        5978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2df20bda-0f67-4896-8261-043b8f68e603",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5978,
+        5979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "554b5265-9d44-4991-85cd-fd2717f28087",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        5979,
+        5983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afabef9a-b1b1-4a61-8855-3d1f9c17e8b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5983,
+        5984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce67f267-e0f7-4141-9dae-d9864f3d4ec6",
+       "type": "word",
+       "value": "впала",
+       "textRange": [
+        5984,
+        5989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5e941ee-ff74-4033-bd23-5e523079b845",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5989,
+        5990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "433df357-ac79-485d-ada9-0a0c9d76a20e",
+       "type": "word",
+       "value": "набік",
+       "textRange": [
+        5990,
+        5995
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Голова його впала набік",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3a934ce4-9ac6-49bf-aa54-c1116cecb4b9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5995,
+      5996
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1538c5f2-fb50-4be2-a8eb-c1f64d6fe32c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4e21889e-9d79-46e2-bed9-bfb847943c1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5996,
+        5997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ac78ae6-0b7c-415f-859d-2468023319bf",
+       "type": "word",
+       "value": "наче",
+       "textRange": [
+        5997,
+        6001
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f53d9136-5fee-4723-87de-da0f4915afaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6001,
+        6002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5919fc16-e9c3-4f94-a15d-b484cd9254cf",
+       "type": "word",
+       "value": "отаман",
+       "textRange": [
+        6002,
+        6008
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2124858c-852c-4ffe-b42c-b970d7250486",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6008,
+        6009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "a1c16976-35d6-4316-bf00-24fa399cb2a7",
+         "type": "word",
+         "value": "Шуліка",
+         "textRange": [
+          6009,
+          6015
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9a9ceec6-b8f2-4a4d-90fd-d73dea530aa3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "844ca884-1fcf-4cd3-90b1-40c4b1427f91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6015,
+        6016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b760606-e1e5-4633-b146-253d012a6fb3",
+       "type": "word",
+       "value": "заснув",
+       "textRange": [
+        6016,
+        6022
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наче отаман Шуліка заснув",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0f1f2335-863d-4625-9e8b-3cc6175eb537",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6022,
+      6023
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "44a03077-489e-4b2b-a7d7-3a48c82962c2",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6023,
+      6024
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Голова його впала набік, наче отаман Шуліка заснув.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Голова його впала набік, наче отаман Шуліка заснув.",
+ "concept": "SYNTAX"
+}

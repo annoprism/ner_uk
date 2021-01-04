@@ -1,0 +1,121 @@
+{
+ "id": "97060103-348a-4e9a-8164-090b0b04e7c8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "86ed2c9a-5c43-4b5b-a559-a5914efd0340",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fe7b36cc-4329-4621-98ad-df3deab21935",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fc9acc05-3615-4a42-9829-d24b55b973c3",
+         "type": "word",
+         "value": "Аркадій",
+         "textRange": [
+          5849,
+          5856
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ea2e2797-88e2-45ba-ac92-895ca8625dac",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          5856,
+          5857
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ef95b00b-ec8a-4587-a503-87f7de9a9fe3",
+         "type": "word",
+         "value": "Петрович",
+         "textRange": [
+          5857,
+          5865
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "70c08d11-79d7-45a3-911c-b7afa96ae11e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "080a9180-6910-485f-9348-2935b284f93c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5865,
+        5866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9639b0f6-a326-407b-a3f2-671ac048cdbe",
+       "type": "word",
+       "value": "чинив",
+       "textRange": [
+        5866,
+        5871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00fd309a-7fc7-470e-8906-196eb9201423",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5871,
+        5872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c55aefe-e3bd-4d4f-90a5-91bed7529d34",
+       "type": "word",
+       "value": "інакше",
+       "textRange": [
+        5872,
+        5878
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Аркадій Петрович чинив інакше",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf8446f8-846b-4ab6-b5d7-c324f40c2547",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5878,
+      5879
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f3363838-a01c-495b-8795-05386b2fdb7c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5879,
+      5880
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Аркадій Петрович чинив інакше.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Аркадій Петрович чинив інакше.",
+ "concept": "SYNTAX"
+}

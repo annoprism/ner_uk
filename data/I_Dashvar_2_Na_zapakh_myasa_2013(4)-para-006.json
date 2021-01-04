@@ -1,0 +1,305 @@
+{
+ "id": "53f2c46c-c8cd-422e-8d11-b96740480a66",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f10205e2-1aef-41fc-9a6e-6f0c74d38de1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "24440ea4-894e-4683-b48b-00213d41c9ec",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "28e1cffb-c052-48dd-a524-e365159a2003",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        903,
+        904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb85992e-f3c8-4cd7-be1b-34b7fca97a21",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        904,
+        905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b70196a6-6259-4b51-9232-adfd1ddbe196",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        905,
+        906
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb769494-304c-48ff-91b5-32367da16c34",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        906,
+        907
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f74bbb2d-afbd-4740-850b-f972110859f4",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        907,
+        908
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51be6c50-0061-43ea-bd3e-1083f11fe949",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        908,
+        909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fc45587-6038-4039-9a49-da2ec3e16e79",
+       "type": "word",
+       "value": "нормі",
+       "textRange": [
+        909,
+        914
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Я в нормі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2506a35d-b7e7-4300-a96c-90415be38b16",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      914,
+      915
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e98373bc-5fed-45b6-a2c3-e038ac3ef9b9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c64f3ef1-5d1f-4c5c-bcef-8c7be2910afd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        915,
+        916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "508b7dd8-e479-4c77-9161-857bd361edf2",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        916,
+        917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60e66cfd-a8b8-4eb6-9d67-11b8ada0ae51",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        917,
+        918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5763b624-576c-4653-a432-88deec9a4b4d",
+       "type": "word",
+       "value": "тоскно",
+       "textRange": [
+        918,
+        924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c0ad837-0d33-4040-a9bd-89347b248b91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        924,
+        925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "309abd6d-60cf-486c-b4a5-a57205b9ac4e",
+       "type": "word",
+       "value": "сказала",
+       "textRange": [
+        925,
+        932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3e93056-a402-40a1-ae54-64a97975a48a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        932,
+        933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "023b1426-37d7-4e9f-a5ec-a65cacd698dc",
+         "type": "word",
+         "value": "Сандживу",
+         "textRange": [
+          933,
+          941
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4c3e3383-bef3-4d93-a2be-8cf92fadc054",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — тоскно сказала Сандживу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "65592f4f-4016-4814-a165-92846dc86643",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      941,
+      942
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Я в нормі, — тоскно сказала Сандживу",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "434c7337-025a-4b47-a0cc-22cc1b05e1fb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2a6bc70b-500c-40e3-bcff-4f3cc0a051ed",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a512f064-296f-4fda-acdc-28a0e3e075e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        942,
+        943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7950288-71f9-41fb-b66f-e888167ebc49",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        943,
+        944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2dcf0e7-3f9d-4e1d-ac21-a3fa16fb6a1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        944,
+        945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7571dc2-af5a-43a9-8484-92b0cb1dcd80",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        945,
+        947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c97c559-43b1-41b6-b1bc-d01eeb7b5510",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        947,
+        948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fc430a2-b201-43b2-8148-26d59a5bd46e",
+       "type": "word",
+       "value": "повішуся",
+       "textRange": [
+        948,
+        956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98fe9bdc-0c03-4ac0-a2f1-7c8af71d5414",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        956,
+        957
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Не повішуся…",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8306743b-2164-4d06-9adf-210ee52dd09f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      957,
+      958
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Не повішуся…",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Я в нормі, — тоскно сказала Сандживу — Не повішуся…",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "d3fc165a-8f39-42a0-91d4-dbe5f8dbfb17",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9b506790-049a-4e30-a977-2a7a95fa890a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8e477cd0-6c4f-468a-9ae5-dc24f8f1b00c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1ac835bb-4cf5-458a-b1dd-9232b466a5af",
+       "type": "word",
+       "value": "double",
+       "textRange": [
+        5546,
+        5552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90378f2c-a1b3-405d-97cf-02e9d90e883a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5552,
+        5553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe59c3a0-aea8-4fbd-9166-436971245698",
+       "type": "word",
+       "value": "х",
+       "textRange": [
+        5553,
+        5554
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "double х",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e3b9c0c7-a698-4074-80d1-41f4257ee57d",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      5554,
+      5555
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "24d4bbaf-57f1-43e3-b212-cd0709699f55",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5555,
+      5556
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "double х;",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "double х;",
+ "concept": "SYNTAX"
+}

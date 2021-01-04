@@ -1,0 +1,763 @@
+{
+ "id": "06beacac-8acb-4796-97ee-20349347b112",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "5f2403b7-89b7-47fc-b63c-c9fd0ef3d864",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ec064a6f-dd04-46af-bfc7-500f6ca1b8ba",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f995e3a3-05a5-4420-a134-ebc4e0fea858",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        4929,
+        4930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1aed0fbc-8575-4ada-98c1-0de704ce1d71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4930,
+        4931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c44e171a-6c10-42c4-ae03-18e23546c750",
+       "type": "word",
+       "value": "випадку",
+       "textRange": [
+        4931,
+        4938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7a072b8-0fda-4351-8ce6-ffa62713a6ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4938,
+        4939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd44b6f5-1132-4f53-8357-f7675262b8de",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        4939,
+        4941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c96005bd-64f3-4bac-b5d7-318b60cef77d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4941,
+        4942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f906d94f-088d-45eb-9a6f-b16c2ef0e02a",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        4942,
+        4943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "f89d74d7-faa5-4dbd-a778-aeacd8d3be49",
+         "type": "word",
+         "value": "Sofia",
+         "textRange": [
+          4943,
+          4948
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "17adfdb5-c6d5-4587-9875-01830e60da5a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "fd2a0afb-2877-4465-a265-231991546a24",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        4948,
+        4949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ab0a7f8-76a2-44b7-b13a-0e8eb811b4b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4949,
+        4950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25e69027-3888-4347-99a6-9f065ed4b650",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        4950,
+        4953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f139ec3-042e-4286-85c9-27b02cd0dc32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4953,
+        4954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f78c4fee-b7bf-48d2-b006-0af1d486cf88",
+       "type": "word",
+       "value": "відбувалося",
+       "textRange": [
+        4954,
+        4965
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f416165-872d-4547-bea8-0fc9713e3fd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4965,
+        4966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccd8b181-e4ed-49c2-b2cb-1418e3ff22fe",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4966,
+        4968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc0658db-d706-41a8-9711-cbe12894b384",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4968,
+        4969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ed507d0-7f6b-456c-a93b-76b8855c0f06",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        4969,
+        4972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4e10341-8378-4a89-a32c-be16017a63f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4972,
+        4973
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15683eb3-0de6-4e1f-ba05-fd2fadd06f65",
+       "type": "word",
+       "value": "стрімко",
+       "textRange": [
+        4973,
+        4980
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У випадку із «Sofia» все відбувалося не так стрімко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "467354b4-71eb-484a-94f5-8553db13d89e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4980,
+      4981
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У випадку із «Sofia» все відбувалося не так стрімко",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "bf3b9315-abd4-49d6-98ff-d8fd8632dc40",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a65931dc-acae-49cf-9520-44339a978343",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "43c069c4-dc92-4b30-b02d-251bd1550060",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4981,
+        4982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fe5814a-1bcb-4c10-9b48-8956f653176f",
+       "type": "word",
+       "value": "Програму",
+       "textRange": [
+        4982,
+        4990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07da4e60-b332-4974-81f9-0c229295039e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4990,
+        4991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cbf0ff7-788a-406a-b753-ba6f425b49b7",
+       "type": "word",
+       "value": "доволі",
+       "textRange": [
+        4991,
+        4997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8861d919-2bbd-43fb-8133-0c6035b1ac5b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4997,
+        4998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55bddedb-e6b0-4b18-b9bb-19d18871317a",
+       "type": "word",
+       "value": "довго",
+       "textRange": [
+        4998,
+        5003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7861b746-e840-4ab9-ab8d-82d4092ae33a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5003,
+        5004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5f6340c-8453-495e-9ef7-dca373545e9f",
+       "type": "word",
+       "value": "готували",
+       "textRange": [
+        5004,
+        5012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f1d2910-4679-4147-8587-ebd948b74827",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5012,
+        5013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "078c0dad-2ee1-4944-aa7e-163698d8b17f",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        5013,
+        5014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "febc51ea-a5d1-4e6c-b6a9-cb09a54e322e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5014,
+        5015
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f099365-a1a7-4a66-bca5-06fceff8f7ca",
+       "type": "word",
+       "value": "записували",
+       "textRange": [
+        5015,
+        5025
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Програму доволі довго готували й записували",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6b1a8cb6-adaf-4ec6-bcf2-52433482e641",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5025,
+      5026
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ec9717f-8eaa-40f8-9573-095e28e5d01c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4fd38251-2942-457e-a65f-4b9d199952a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5026,
+        5027
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91711df3-2ba3-4c1a-94d8-c79a6b3f6560",
+       "type": "word",
+       "value": "сам",
+       "textRange": [
+        5027,
+        5030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fd305ce-ef19-40c9-9b11-1a951b16748b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5030,
+        5031
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d291d6d8-3ff5-467f-b150-2a1025d6f5bb",
+       "type": "word",
+       "value": "диск",
+       "textRange": [
+        5031,
+        5035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86f7c9a4-44fd-4fa2-9367-2c9fc0e0fcb8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5035,
+        5036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b75f08b-f001-404d-9fcb-c7f0a7fdf280",
+       "type": "word",
+       "value": "вийшов",
+       "textRange": [
+        5036,
+        5042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "387b76a6-63fb-470f-86a5-f86f44741ab9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5042,
+        5043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a06df31-eca5-4a9d-8cad-01e12c108e20",
+       "type": "word",
+       "value": "восени",
+       "textRange": [
+        5043,
+        5049
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ad55a35-9858-4692-b4dd-2ab9a7ef34cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5049,
+        5050
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "488e1bac-d7bd-4bad-9a8c-053a4f1a467e",
+       "type": "number",
+       "value": "2010",
+       "textRange": [
+        5050,
+        5054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a240e717-690a-4061-907e-9f7dacdc8990",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5054,
+        5055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c6db748-a5b2-45e8-a409-e21e69ceeb13",
+       "type": "word",
+       "value": "го",
+       "textRange": [
+        5055,
+        5057
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сам диск вийшов восени 2010-го",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dfad3f9f-b82a-42cf-a20b-b47199ff5b1a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5057,
+      5058
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "828c537e-7a7e-4765-aae1-7fc096d9037b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa99a97a-fbcc-4883-8d46-82775afcff5d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5058,
+        5059
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70456a58-e978-4e58-8a2f-44c486eb2297",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        5059,
+        5060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2079f07-7e21-4e05-a3b7-983eba1a7b5b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5060,
+        5061
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1af0b3f-6d6c-40e3-8aaf-b67cd70ad905",
+       "type": "word",
+       "value": "офіційно",
+       "textRange": [
+        5061,
+        5069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7c5c2b5-a240-4378-b4f0-6a172c40b77d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5069,
+        5070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa69fa59-5fb5-4570-b8df-fb93a374ba41",
+       "type": "word",
+       "value": "презентували",
+       "textRange": [
+        5070,
+        5082
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "934c8e0a-4583-426f-808e-03435c5497a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5082,
+        5083
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ddd4712-3395-4011-807a-55ae1c7afe3c",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        5083,
+        5087
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d2229e6-3fc8-46b8-9c1f-8165a25783e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5087,
+        5088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "514e2df7-757b-49f6-9399-d9b2203d2e80",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        5088,
+        5092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f89d4ac2-80f8-44c0-9b5c-bac94768626e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5092,
+        5093
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1ce0642-27d3-4020-8471-1b083c35ddd0",
+       "type": "word",
+       "value": "нещодавно",
+       "textRange": [
+        5093,
+        5102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fba25672-c3fa-4179-b326-ad9ca52d737d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5102,
+        5103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4efc19fc-b681-4c27-96b0-589c6e6936cf",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        5103,
+        5104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17fb704b-b41e-43b5-bf7d-7c1772068ec1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5104,
+        5105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9505d68-d83b-41d0-93d8-46b43495c640",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        5105,
+        5106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "697995e8-7323-44f1-82b5-c9c327509974",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5106,
+        5107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f67052a-7466-4cce-89ff-f31e7a5d0bea",
+       "type": "word",
+       "value": "травні",
+       "textRange": [
+        5107,
+        5113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf54fca5-9b70-4a15-a84b-5b054124f84a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5113,
+        5114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f98ad9b-fb91-455f-ba8d-edb7c3edee46",
+       "type": "number",
+       "value": "2011",
+       "textRange": [
+        5114,
+        5118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3bd0413c-a4a9-41f6-b591-da18dbe760cc",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        5118,
+        5119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31d2606e-a9c4-4272-8d53-baf323b9ba1a",
+       "type": "word",
+       "value": "го",
+       "textRange": [
+        5119,
+        5121
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а офіційно презентували його лише нещодавно – у травні 2011-го",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "135ebeb2-2343-44b3-9d24-0a484380f888",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5121,
+      5122
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2ff801e1-e223-4134-8bc8-d291d69d1fb6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5122,
+      5123
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Програму доволі довго готували й записували, сам диск вийшов восени 2010-го, а офіційно презентували його лише нещодавно – у травні 2011-го.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У випадку із «Sofia» все відбувалося не так стрімко Програму доволі довго готували й записували, сам диск вийшов восени 2010-го, а офіційно презентували його лише нещодавно – у травні 2011-го.",
+ "concept": "SYNTAX"
+}

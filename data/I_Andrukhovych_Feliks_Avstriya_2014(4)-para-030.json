@@ -1,0 +1,1199 @@
+{
+ "id": "3ac06d76-d240-4ca9-8fd8-07b68ab0c0ec",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3eb69866-66e4-4eb6-a8d3-c7fc20ca225e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "68208270-85b7-4857-91f8-bf07a53d1c98",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa0b7985-9864-4961-bf1a-930b1d01b22a",
+       "type": "word",
+       "value": "Сам",
+       "textRange": [
+        12760,
+        12763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e367d904-a124-4807-8f8f-1225b161ce98",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12763,
+        12764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "ac576b7d-c864-45e3-863a-21f2c1f0a41d",
+         "type": "word",
+         "value": "Петро",
+         "textRange": [
+          12764,
+          12769
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "07d1a776-7e3e-4b4f-9ffe-d13a34da6ec1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f69da5bf-efc7-4ce8-9e8e-8b68118d08ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12769,
+        12770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27fd9e6f-f26b-43f8-b8de-ce8baa5d9322",
+       "type": "word",
+       "value": "називає",
+       "textRange": [
+        12770,
+        12777
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "222b031a-1ea6-49a0-ae42-e728e0099417",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12777,
+        12778
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52c0dabf-bc4b-445d-8081-d370875cad3c",
+       "type": "word",
+       "value": "віллу",
+       "textRange": [
+        12778,
+        12783
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb8fadbf-f017-4f9c-8b39-a473444e7557",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12783,
+        12784
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0297d32-1f47-4a35-aa82-8ed2fcc2c055",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        12784,
+        12785
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4f6c8a7-d128-493b-8bed-400310aa8e6a",
+       "type": "word",
+       "value": "підводним",
+       "textRange": [
+        12785,
+        12794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c81057e-dc89-48f5-9ee7-5109f1f4755a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12794,
+        12795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b60fae38-4a64-4c20-9821-218c299162e1",
+       "type": "word",
+       "value": "палацом",
+       "textRange": [
+        12795,
+        12802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e10773b7-fbab-4f39-9ba3-032371766720",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        12802,
+        12803
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Сам Петро називає віллу «підводним палацом»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6364037a-4232-4ebc-9d12-5871249e6d08",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      12803,
+      12804
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Сам Петро називає віллу «підводним палацом»",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ab74489a-c70f-4037-b4f1-fa00e33506c8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7d2c9d4a-6043-41d6-a188-9efd6f3662da",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "855a35ed-3c05-4dd2-9f19-67f136554a2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12804,
+        12805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2935a29-9885-45ec-9dd6-58a2b7346222",
+       "type": "word",
+       "value": "Каже",
+       "textRange": [
+        12805,
+        12809
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Каже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "95794dfe-82ef-499a-85ae-b3ccd86bd7ed",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12809,
+      12810
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "781c79a5-3fd6-42d0-8c0d-8a3c57f7a4ed",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "05d4fce0-772c-42fa-ae09-44dc7555deb3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12810,
+        12811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8aa40f42-f102-42ba-bd96-f49056dfcad4",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        12811,
+        12813
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdecc4c3-d5a1-4e20-b553-441e27278cf8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12813,
+        12814
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2801e4bb-35c2-4c28-bd83-7c8a17ea33ab",
+       "type": "word",
+       "value": "візерунки",
+       "textRange": [
+        12814,
+        12823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3de932e-00dc-4d28-9aea-ff439ec0ecdb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12823,
+        12824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f37fe58-ceaf-4e24-8a6a-be453140a5c5",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        12824,
+        12825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4000e702-cea4-4d42-a8d7-4466856e3399",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12825,
+        12826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f2627f7-c587-4c9e-a87b-1a459fab855a",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        12826,
+        12828
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97825f1d-c5af-495e-8ab7-6a1e5f9f6792",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12828,
+        12829
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "112aab20-eff8-4bfa-a61a-6b92f10e2805",
+       "type": "word",
+       "value": "морські",
+       "textRange": [
+        12829,
+        12836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f721557e-62b3-499f-90f8-9bb94aa75341",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12836,
+        12837
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e8b412f-c00c-4dac-92c7-ac9f2f5b5537",
+       "type": "word",
+       "value": "течії",
+       "textRange": [
+        12837,
+        12842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "280783d3-34e9-4997-8172-1d803bf3c9fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12842,
+        12843
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8ac352a-bb4f-4d86-9389-3cf3dbb76e2f",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        12843,
+        12844
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05c570d6-bd44-44ac-a94c-24a431984bf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12844,
+        12845
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87d82f54-7d26-479a-aa25-6408d6695a57",
+       "type": "word",
+       "value": "стеблини",
+       "textRange": [
+        12845,
+        12853
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98f9603b-6588-4ab4-8c83-973ec2e17f5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12853,
+        12854
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04be2f7a-f3f8-418f-8aa1-195f51e8b3cb",
+       "type": "word",
+       "value": "водоростей",
+       "textRange": [
+        12854,
+        12864
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що візерунки — то морські течії і стеблини водоростей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "df83bb5d-0e85-4e31-8f22-14b26a551c38",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12864,
+      12865
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "27fb0697-d8d3-41ae-8be7-48e53f93258d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d7e8f16c-db8b-4b36-8cf8-2e4821cd6f50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12865,
+        12866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abe645cf-fd27-47b9-8f20-ed4f13191cb1",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        12866,
+        12867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e512c0a-6aee-4647-81ad-1f1c7fa96693",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12867,
+        12868
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93e970bf-3563-44aa-8377-bf97366b21db",
+       "type": "word",
+       "value": "пащі",
+       "textRange": [
+        12868,
+        12872
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69258f4f-2c63-4c38-9bf7-8b5440a93891",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12872,
+        12873
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2706cf7e-28a3-4084-9c5e-650fb1898e8d",
+       "type": "word",
+       "value": "вікон",
+       "textRange": [
+        12873,
+        12878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15288e6f-53ff-4cd3-afd9-246f337c6f3e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12878,
+        12879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "402f3951-a7a9-43d7-8642-780c3feb32bf",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        12879,
+        12880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "637758d7-5fb9-424e-80c4-98f01f5ac078",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12880,
+        12881
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f50b20d1-8bcb-4da2-8b20-f1f4f41a412f",
+       "type": "word",
+       "value": "голови",
+       "textRange": [
+        12881,
+        12887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "921ef1cb-fb7b-43be-b0d6-32186cf38cc3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12887,
+        12888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fe1a501-7204-4c4e-8bb9-2f5d9cfd3d7d",
+       "type": "word",
+       "value": "риб",
+       "textRange": [
+        12888,
+        12891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4ecb4ef-f048-4f2e-8165-202572e78cb8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12891,
+        12892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "780d8dda-ebd4-45c4-810c-6bdacc844c5d",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        12892,
+        12894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f37d4d8-c292-4c8e-88a5-854f48329dd1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12894,
+        12895
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "929d87f3-7bb5-48b3-a1c6-6d06b1922446",
+       "type": "word",
+       "value": "глибоководних",
+       "textRange": [
+        12895,
+        12908
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7f2c49b-6265-4d74-a6e1-c770a029dcd5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12908,
+        12909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3ccdc01-098b-4476-9df3-0f8d727d4b4b",
+       "type": "word",
+       "value": "створінь",
+       "textRange": [
+        12909,
+        12917
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а пащі вікон — голови риб та глибоководних створінь",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e00ad0f8-de67-4bc5-9c22-a8b8d00c3176",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12917,
+      12918
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9d29b8e0-0520-4183-98b0-a0f48b5ba7c5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5ddf8ee5-accf-4960-8c01-119adde00ee4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12918,
+        12919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a418090-3e5e-469b-aee5-9eb8cc0f2a30",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        12919,
+        12922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5d0c13c-30e6-4b73-a33c-9b2ca9278a89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12922,
+        12923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15197d28-4ca7-4aaa-a3b6-51699eba3645",
+       "type": "word",
+       "value": "нас",
+       "textRange": [
+        12923,
+        12926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff0ecdfd-4ceb-4660-ad2c-630c575372f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12926,
+        12927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "207d23cd-bc2e-4eab-92d7-2606c823cf23",
+       "type": "word",
+       "value": "охороняють",
+       "textRange": [
+        12927,
+        12937
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " які нас охороняють",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f9b37258-9669-4b41-b9f9-f4a1e3a49fc9",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      12937,
+      12938
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Каже, що візерунки — то морські течії і стеблини водоростей, а пащі вікон — голови риб та глибоководних створінь, які нас охороняють",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "53e35d3d-ee74-46b8-9cda-26f66d0a5b4d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bf788ce0-3aaa-40b6-af05-b390adaa07f4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa7514cc-e76b-49c1-a4c0-fe8a7efa9dfe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12938,
+        12939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5c2e903-50dc-49df-a833-942281ade59d",
+       "type": "word",
+       "value": "Каже",
+       "textRange": [
+        12939,
+        12943
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Каже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed8577b0-ad70-47f4-8660-ff96ee92a6da",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12943,
+      12944
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b71d75ef-3d6b-4d79-a6e7-df508e54cfe4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "510e46ae-391d-44d6-8bea-9b557d7b5310",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12944,
+        12945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45d8e03f-f257-4eeb-98f4-81c2f5814e56",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        12945,
+        12947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d980bec-9927-48a1-a722-f17ea1641a1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12947,
+        12948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d8059d3-370f-4837-83d0-9c54d7ff550b",
+       "type": "word",
+       "value": "мріяв",
+       "textRange": [
+        12948,
+        12953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ee5a0b96-e58a-4b64-96da-447f6e5392ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12953,
+        12954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1955873d-7e01-43e3-a59c-5d1024554937",
+       "type": "word",
+       "value": "стати",
+       "textRange": [
+        12954,
+        12959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40034828-fd37-43c3-911e-033d734eb54d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12959,
+        12960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7e48d58-c5ac-4739-b64b-641fce87b635",
+       "type": "word",
+       "value": "мандрівником",
+       "textRange": [
+        12960,
+        12972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eaea2749-14ab-48b8-8048-76eaac362801",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        12972,
+        12973
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d5c17f7-350a-4f94-8111-92a268d17803",
+       "type": "word",
+       "value": "мореплавцем",
+       "textRange": [
+        12973,
+        12984
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що мріяв стати мандрівником-мореплавцем",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cbea1660-b93d-4291-832a-dc67e417db7e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      12984,
+      12985
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7d67c3f5-0c95-4a83-8aa5-bdf703881ee7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1f7bc4a2-08ac-4938-8bc1-96d3185c5a58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12985,
+        12986
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5eecf463-23cb-485d-bbc6-bb9d300bd27f",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        12986,
+        12989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d555c2a-0f2c-49f5-a89f-bb55dd98f722",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12989,
+        12990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b667bb7-9db4-42ed-8d22-95b2834da325",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        12990,
+        12993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6774574-bace-4552-830d-b7f252fa7107",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12993,
+        12994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b8fe6db-ed47-4821-9a97-e043536e3ad0",
+       "type": "word",
+       "value": "насправді",
+       "textRange": [
+        12994,
+        13003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "014f6285-f4dc-4d59-9094-68f2e9da11a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13003,
+        13004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf920cb9-e894-4685-9b6a-4d95c5147179",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        13004,
+        13005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d94371b-94ce-45a7-9eb8-75f9112e98e6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13005,
+        13006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec9e5fdd-a801-4366-bc9a-7ca23c9227a3",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        13006,
+        13008
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d263bbcf-c211-40cc-a837-276755a050c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13008,
+        13009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6a8b879-8356-4030-bf90-74aae7b66d9b",
+       "type": "word",
+       "value": "певен",
+       "textRange": [
+        13009,
+        13014
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але так насправді й не певен",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f02791a-d55a-4e27-bbc8-492e42b87c3b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      13014,
+      13015
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d70135a7-be51-4068-9c0a-16323cbb805f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ba5396da-006f-44de-a48e-7b2e7acc2c84",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13015,
+        13016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8490bc05-4e44-4705-af65-00a1ba28dd4e",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        13016,
+        13018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96bdfe3b-ea20-4768-ad02-deb55e4c956c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13018,
+        13019
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf3e41b1-510b-40ff-abad-266c3fb7bf52",
+       "type": "word",
+       "value": "те",
+       "textRange": [
+        13019,
+        13021
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "002e8afa-efa9-4d90-bdd0-25092b56883c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13021,
+        13022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "548291c5-c368-462b-b110-fb756fe5688a",
+       "type": "word",
+       "value": "море",
+       "textRange": [
+        13022,
+        13026
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "565cbd88-a005-49eb-a825-3b1471b76291",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13026,
+        13027
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b34c38f2-db18-4b33-9fb2-2984153568d3",
+       "type": "word",
+       "value": "існує",
+       "textRange": [
+        13027,
+        13032
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи те море існує",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8817b106-bdc7-41d3-a132-32d872f653a4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      13032,
+      13033
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5cf5b906-fbcb-4c03-be7f-25718cfeb040",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3ae7261c-8bb3-465a-ab09-1ebed1e17556",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13033,
+        13034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f72bea6-d410-4212-96fb-d697ad6e87d5",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        13034,
+        13036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d66389e2-ee5a-4498-bc6d-01a334884c80",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13036,
+        13037
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d51e46c1-2724-4b34-888c-6d49b9dfffc6",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        13037,
+        13039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "242eb341-86b7-4a1c-8755-4db8ee97abda",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13039,
+        13040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7b836d5-3a50-40c6-9a31-e1edfad46cb2",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        13040,
+        13042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bc91cea-c3a2-4c54-bb3a-29078a0c16e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        13042,
+        13043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "daa29a1a-6079-4cb5-845b-23088ba732eb",
+       "type": "word",
+       "value": "байки",
+       "textRange": [
+        13043,
+        13048
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи то не байки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "62e8537a-b668-47d3-9b32-289ebe80df85",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      13048,
+      13049
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ee8903b-7f6b-4e88-a62f-497e711e7365",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      13049,
+      13050
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Каже, що мріяв стати мандрівником-мореплавцем, але так насправді й не певен, чи те море існує, чи то не байки.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Сам Петро називає віллу «підводним палацом» Каже, що візерунки — то морські течії і стеблини водоростей, а пащі вікон — голови риб та глибоководних створінь, які нас охороняють Каже, що мріяв стати мандрівником-мореплавцем, але так насправді й не певен, чи те море існує, чи то не байки.",
+ "concept": "SYNTAX"
+}

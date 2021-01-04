@@ -1,0 +1,255 @@
+{
+ "id": "f1b6cf95-7cf7-4ae3-88dc-92a5e95e9420",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "be467ae5-7fac-445b-ab39-359ec46fa173",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a7b49af2-d164-4e48-9fec-5199f5592854",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "113ba4c5-44ca-4f01-a8da-dc91c7bef771",
+       "type": "word",
+       "value": "Повернувся",
+       "textRange": [
+        758,
+        768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d10d63a1-683f-4960-9e0a-fd9c979d1aa3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        768,
+        769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50bb5313-7543-4c16-b970-55b461bddf24",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        769,
+        770
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dff395fa-ccf2-4783-8303-7d0a9bf2bf34",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        770,
+        771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e83c5a8c-a6f5-49dd-b721-5a691971ca9e",
+       "type": "word",
+       "value": "дім",
+       "textRange": [
+        771,
+        774
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Повернувся у дім",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c5cce078-798c-45e2-a5ce-fcd9d32d9622",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      774,
+      775
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7cfc1279-016d-49c8-8e25-b660f696d5f0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8a24c890-dcb9-4672-948c-b73a8b5f0331",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        775,
+        776
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64b960a6-3759-41d1-ae39-f58c5c51850a",
+       "type": "word",
+       "value": "засів",
+       "textRange": [
+        776,
+        781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c0f8ca0-a898-42b4-9266-217928b18849",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        781,
+        782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4573348b-498e-41dc-8426-4990dfc8f6ae",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        782,
+        783
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1217b1d1-094b-4d3e-98e1-3f96f667debd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        783,
+        784
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b94b4c86-8ddb-4161-8974-797ef1de58b9",
+       "type": "word",
+       "value": "Інтернеті",
+       "textRange": [
+        784,
+        793
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " засів в Інтернеті",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b6b63244-33ac-4e63-a3d6-854d8ffc2f8e",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      793,
+      794
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93666844-573f-429b-b3c9-dfd981a8bf48",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "446511a4-740e-4165-b2d3-dd85799ab99e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        794,
+        795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7099fcdb-63e9-4234-8a5d-b5d0093d5526",
+       "type": "word",
+       "value": "Андалусія",
+       "textRange": [
+        795,
+        804
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Андалусія",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "758d4e5d-f1ad-4d9b-a27d-6d9f4b755730",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      804,
+      805
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aabc63c3-dbdc-4fa8-814b-c17bd55ff664",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "50408351-edc7-4300-8251-8837fe06df68",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        805,
+        806
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "50561641-31d5-48ec-b9b3-3220670ebfa2",
+         "type": "word",
+         "value": "Андалусія",
+         "textRange": [
+          806,
+          815
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8b8c5505-b287-41cc-b14a-4f0b8a111338",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "122ff95a-2ba4-4d6d-be59-05670260fd11",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        815,
+        816
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Андалусія…",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "abcc6b0b-8cda-4a9c-b4f6-fc37e7bc6ba1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      816,
+      817
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Повернувся у дім, засів в Інтернеті: Андалусія, Андалусія…",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Повернувся у дім, засів в Інтернеті: Андалусія, Андалусія…",
+ "concept": "SYNTAX"
+}

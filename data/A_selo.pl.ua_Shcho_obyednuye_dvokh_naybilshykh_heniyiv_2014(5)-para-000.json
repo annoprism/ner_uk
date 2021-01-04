@@ -1,0 +1,600 @@
+{
+ "id": "6658ed6c-efcf-48c4-9967-1a113d193b9d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "871b17df-0bd4-4f3f-90bd-a2ecebbe23e3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4d18fada-cb90-4fa1-8df7-d10b26f4dc07",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "201dcb2b-fa13-4670-a8b3-59cd5c5a826c",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96285409-3b5e-4c15-8264-32339fc79d76",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9aa5928-8ce8-427a-a63a-5174467b4def",
+       "type": "word",
+       "value": "геніальний",
+       "textRange": [
+        2,
+        12
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "994dedc9-6b57-4520-be28-44caf14c39cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f285de37-379e-4137-b7fb-22f4edfabd61",
+       "type": "word",
+       "value": "український",
+       "textRange": [
+        13,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aad58609-3ba8-4093-b5c7-7108fefc262d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        24,
+        25
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "103d8a57-8a40-4ffa-b7b7-e25e73d85f48",
+       "type": "word",
+       "value": "поет",
+       "textRange": [
+        25,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "030bf741-475d-4a3a-ac09-a261b5040157",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        29,
+        30
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "89fdc43c-8dc7-44ed-a0f1-249d25b99efb",
+         "type": "word",
+         "value": "Тарас",
+         "textRange": [
+          30,
+          35
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7ea8f78d-6e7d-491a-8ec3-1ec262e3e602",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          35,
+          36
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "10bc1a55-e35e-4d7e-ba2b-15907a639ada",
+         "type": "word",
+         "value": "Шевченко",
+         "textRange": [
+          36,
+          44
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d942e4bc-6ad5-429b-a347-c45b62f105a2",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "І геніальний український поет Тарас Шевченко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "15f70afd-682b-4d53-85e2-c2fee09c7e42",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      44,
+      45
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "796cd45c-3936-44b9-b03c-72c72434f584",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f81a3efb-f313-4b91-9eec-a2fe05a2d86f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        45,
+        46
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82c86994-bbc6-45c1-9768-61c1b34c06e3",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        46,
+        47
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3c03c65-dded-4420-a723-5626687a140f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        47,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8fca7643-294b-4419-bdaf-c681719fc22c",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        48,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76049f2c-7098-4b0c-8e31-81d0e9c2cd6a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        50,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72f39d20-ac28-405b-a258-d40895d544f5",
+       "type": "word",
+       "value": "менш",
+       "textRange": [
+        51,
+        55
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8f64434-b319-4904-8840-48e23f02caf0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        55,
+        56
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4581829b-bbea-440b-b163-57cbbdd88372",
+       "type": "word",
+       "value": "геніальний",
+       "textRange": [
+        56,
+        66
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "400343fc-ee21-4c72-aaf0-424a4c02049a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bc5a85e-0128-4ce6-a073-e0ed8d75885b",
+       "type": "word",
+       "value": "англійський",
+       "textRange": [
+        67,
+        78
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37604550-3603-4c7f-809f-10075f1c1e11",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        78,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38923356-9937-46c6-834c-73cb0bcb7305",
+       "type": "word",
+       "value": "драматург",
+       "textRange": [
+        79,
+        88
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7cae05ca-3689-4952-83c4-9137b02a127c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        88,
+        89
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "14aea9eb-04f9-48d2-bb42-9bed7ad56c56",
+         "type": "word",
+         "value": "Вільям",
+         "textRange": [
+          89,
+          95
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c71af7b9-5e83-404d-8c91-225716f9a136",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          95,
+          96
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c1ae8b01-af61-4e22-9991-f25f6252d11b",
+         "type": "word",
+         "value": "Шекспір",
+         "textRange": [
+          96,
+          103
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9897fd2f-b9dd-4b6b-bf74-8a87405e6089",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5482106f-430a-451b-806c-bf8431088250",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        103,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "384cd142-2934-45bf-92c3-26825d6c8771",
+       "type": "word",
+       "value": "були",
+       "textRange": [
+        104,
+        108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac1942b5-e35b-4220-8eb7-eb1fca583366",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        108,
+        109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "672f4e42-5e33-42fc-8385-d0d362600528",
+       "type": "word",
+       "value": "звичайними",
+       "textRange": [
+        109,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b4510dd-fc99-490b-ad0d-b029ae2ff199",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9774627-5485-40ae-ad35-41d129805dd6",
+       "type": "word",
+       "value": "земними",
+       "textRange": [
+        120,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e3a6dc8-7b05-4562-aed5-be8908642b6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        127,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b318b3ab-34dc-4c3c-bebb-671a391234f8",
+       "type": "word",
+       "value": "людьми",
+       "textRange": [
+        128,
+        134
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і не менш геніальний англійський драматург Вільям Шекспір були звичайними земними людьми",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3abe61e5-cafa-4c56-85e7-36d320acb443",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      134,
+      135
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "921fd2fd-efdf-4c6f-98d3-26be95099d3c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d5e25f49-02d6-41a5-90f0-576c9d1de74c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        135,
+        136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2851a83-61d9-405e-a969-fb94e83da0fe",
+       "type": "word",
+       "value": "чуттєвими",
+       "textRange": [
+        136,
+        145
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чуттєвими",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "46e07fb1-90df-4d7c-9d27-d7592f9daac7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      145,
+      146
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f0dc85ea-38db-44c8-b172-9a754af6518d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cd045039-f794-4726-b0d8-e5fe41b13ec5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        146,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "883084bb-77f3-4b58-ad2d-ac83e658e66d",
+       "type": "word",
+       "value": "вразливими",
+       "textRange": [
+        147,
+        157
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вразливими",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bfcda868-6dcc-4d01-a671-68fda75a8cc0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      157,
+      158
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "55d682cf-802f-45ca-a68f-611e8225c0ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "47e20a84-b0e0-4a23-8d90-c82242846b7b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        158,
+        159
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1707d01b-0a53-468e-b35b-c1f611f852a6",
+       "type": "word",
+       "value": "небайдужими",
+       "textRange": [
+        159,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf597f55-96fa-4ccc-9fe7-7481655f0a56",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        170,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67aba7cd-fe2a-4f5f-92b9-99f8ab4a3f7c",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        171,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f38b4812-ee4d-4225-87a7-d7e25bebdcc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        173,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a586935-ff8f-4873-b065-06a194df1318",
+       "type": "word",
+       "value": "жіночої",
+       "textRange": [
+        174,
+        181
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24d3ffd8-5d67-4eaf-bb60-6cf203ebebd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        181,
+        182
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3ef787f-f935-4ba9-af38-1c8ac05c686b",
+       "type": "word",
+       "value": "вроди",
+       "textRange": [
+        182,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2779f88d-c52b-45a4-8d94-0fecf024addf",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        187,
+        190
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " небайдужими до жіночої вроди...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0af49955-477c-4652-8a1c-a7696199dc20",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      190,
+      191
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "І геніальний український поет Тарас Шевченко, і не менш геніальний англійський драматург Вільям Шекспір були звичайними земними людьми: чуттєвими, вразливими, небайдужими до жіночої вроди...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "І геніальний український поет Тарас Шевченко, і не менш геніальний англійський драматург Вільям Шекспір були звичайними земними людьми: чуттєвими, вразливими, небайдужими до жіночої вроди...",
+ "concept": "SYNTAX"
+}

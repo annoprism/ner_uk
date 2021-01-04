@@ -1,0 +1,861 @@
+{
+ "id": "dec3b75d-e98c-4788-baf6-112ede28d413",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "47ec4596-0cc2-4bf9-8599-00ffeced42ae",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9ac1bbba-fc82-4dc6-a616-5f7a0d5d028b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e1000fd1-204c-496f-a9e0-442f3171b68d",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2177,
+        2178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "694656c5-e491-426d-a4ee-656052396734",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2178,
+        2179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efd20162-f45b-4d80-820e-9880af123e4f",
+       "type": "word",
+       "value": "Привіт",
+       "textRange": [
+        2179,
+        2185
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "– Привіт",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9b4f21d4-b40b-499e-be17-89fce96cdb94",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2185,
+      2186
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7e455e12-1134-41e8-9226-60c52521c7e4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c8d9377f-ad33-47aa-8f99-70a345bd8af8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2186,
+        2187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e1f1815b-c92a-44db-927b-a38613666563",
+         "type": "word",
+         "value": "Ромку",
+         "textRange": [
+          2187,
+          2192
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "59ee84e3-aefb-41f8-a29c-23c33ef412d7",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Ромку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "94b2e6fc-21f5-4f78-8af4-51e95fe95023",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2192,
+      2193
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ec45295f-809c-45d5-9b32-241e9f163d2c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dc78e85e-e58b-4b77-968d-8b11db0b51d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2193,
+        2194
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95014a71-aa0d-49d4-93ff-7591cd3487e2",
+       "type": "word",
+       "value": "повернувся",
+       "textRange": [
+        2194,
+        2204
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " повернувся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2dcef529-b1df-4136-9b41-c5c86f5bcaaf",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      2204,
+      2205
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "– Привіт, Ромку, повернувся",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "29f3d3cb-e107-4811-b2ab-f39d4001b721",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "79c062bb-f794-4fba-9e60-372a9f0ffd05",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5db1654a-a38a-47ff-a3b1-9f9a34480e9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2205,
+        2206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92aaa3a0-5791-4492-8d60-355ec1d2e759",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2206,
+        2207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e2077bb-e654-4bc1-9737-0e2c21d06496",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2207,
+        2208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0cd15f5d-a3c8-400d-a47a-6736636fd247",
+         "type": "word",
+         "value": "Оленка",
+         "textRange": [
+          2208,
+          2214
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a1c02a6e-39c2-4d2d-92c1-babf38ceb062",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e84008e1-0b62-4275-acb9-c76e993f50b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2214,
+        2215
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92e3a5e8-0d14-4d50-9628-925f2d5e7791",
+       "type": "word",
+       "value": "знову",
+       "textRange": [
+        2215,
+        2220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44b03a41-0645-4c68-a0cd-567de2e24067",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2220,
+        2221
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca0e3a74-13f8-48ca-b68e-2242e8fbf541",
+       "type": "word",
+       "value": "почала",
+       "textRange": [
+        2221,
+        2227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85ffa84a-b9f8-49d7-a8e3-c4b9328d2437",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2227,
+        2228
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce1c6609-9ae4-4ad6-8983-b3f1127f70a5",
+       "type": "word",
+       "value": "плавно",
+       "textRange": [
+        2228,
+        2234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5fe50d1f-e856-4b37-975c-28bac0b6920d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2234,
+        2235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78755968-6f8c-4b65-963c-5c67f7b374e5",
+       "type": "word",
+       "value": "рухати",
+       "textRange": [
+        2235,
+        2241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcf13c20-b900-47bc-9055-e277dc2fecd3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2241,
+        2242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4c4061d-bb85-4a8d-b658-7ee669b647be",
+       "type": "word",
+       "value": "ногою",
+       "textRange": [
+        2242,
+        2247
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – Оленка знову почала плавно рухати ногою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c43f3423-a63f-45ce-ae5b-953d2d63e3fa",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2247,
+      2248
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ce5118c-d221-4d70-854a-f8e1d467bfe1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "47de8b0a-1e32-4910-b3c6-bd5031b6f496",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2248,
+        2249
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00f767e9-eecc-4a3c-9690-2c146746f009",
+       "type": "word",
+       "value": "розганяючи",
+       "textRange": [
+        2249,
+        2259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c5335c7-446d-416a-a9ed-f983b2a96227",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2259,
+        2260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d9a3108-c31e-42de-93e2-1d15d1a7a739",
+       "type": "word",
+       "value": "мильну",
+       "textRange": [
+        2260,
+        2266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "569887a5-60c7-4c62-85e8-d3fa02b19577",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2266,
+        2267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6841a52c-140e-4a12-91a3-7cac3c7fc9b3",
+       "type": "word",
+       "value": "піну",
+       "textRange": [
+        2267,
+        2271
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розганяючи мильну піну",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ee3c4ead-debc-4483-ad8a-85fce7151c8f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2271,
+      2272
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "03e462b4-7e8c-4fbe-9921-f091dc7826ef",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0fd4d0ca-b79a-4300-8b2c-f6fd70d5e2d2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2272,
+        2273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32377037-6bbc-4aa6-9bb9-9359e4cfab7d",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2273,
+        2274
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b86724b0-5b25-4b59-8cc9-40ba9f67d0ff",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2274,
+      2275
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d25807dd-0a05-4129-aca5-a0168239aef8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c28ed51b-96f8-4b25-9bad-0e655e750bc0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2275,
+        2276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d275899-9f61-4dec-8546-1fcbf71854aa",
+       "type": "word",
+       "value": "відкинувши",
+       "textRange": [
+        2276,
+        2286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c80dbe4-6fa6-4912-b1ca-1be5e39c19fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2286,
+        2287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33a78b44-5597-4301-a84a-2c221ed503a7",
+       "type": "word",
+       "value": "руки",
+       "textRange": [
+        2287,
+        2291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ce76aa9-97ad-444f-9936-d44ae7aa5628",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2291,
+        2292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0e3f8eb-8ac3-4d52-91ce-d79f3c41dc18",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2292,
+        2294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cbc19a3-cdc3-4ec3-9122-784f2dc1e74f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2294,
+        2295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ad02eb8-ad60-4bc1-9c2e-5368843b0481",
+       "type": "word",
+       "value": "бортики",
+       "textRange": [
+        2295,
+        2302
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " відкинувши руки на бортики",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "99dc591e-4149-4391-9b56-3a888916e960",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2302,
+      2303
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b21f7684-eebe-4251-bb97-03c8abf42f28",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e81f80e2-154c-43f5-a3d6-59333067669d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2303,
+        2304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6de1df69-099e-4416-9daa-d208c4b25a8d",
+       "type": "word",
+       "value": "розслаблено",
+       "textRange": [
+        2304,
+        2315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09fffd53-aac7-4741-846a-0a1790f58250",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2315,
+        2316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbf942b9-a8f3-4d18-815e-07be50d52d03",
+       "type": "word",
+       "value": "сповзла",
+       "textRange": [
+        2316,
+        2323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c06c3ae2-922c-44d0-bc6f-fcfeac745ce6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2323,
+        2324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0826e53-869b-443e-b2c0-33c896a7bdfc",
+       "type": "word",
+       "value": "вглиб",
+       "textRange": [
+        2324,
+        2329
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cffa28a6-e3f4-4a89-8c65-7b1c78e15a64",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2329,
+        2330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5a15873-f2be-4e97-842b-eb02774c6b57",
+       "type": "word",
+       "value": "ванни",
+       "textRange": [
+        2330,
+        2335
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розслаблено сповзла вглиб ванни",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ebbc9ff-c90c-41e9-abdc-6c15d5f4cc67",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2335,
+      2336
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " – Оленка знову почала плавно рухати ногою, розганяючи мильну піну, і, відкинувши руки на бортики, розслаблено сповзла вглиб ванни",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a52709dd-0e21-4401-80f1-6b1356dbf4cd",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4aa50b25-c674-4481-b164-802528e73333",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "385d656d-2ce1-4b76-b612-9456cecd8a57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2336,
+        2337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5f03e20-469d-4da9-9ed2-df0b937dc2c8",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2337,
+        2338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bec96f4c-fd2c-48c4-a5a8-eb5c003cab6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2338,
+        2339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "966806f0-5ab9-4c85-a9f0-1c012f0c213b",
+       "type": "word",
+       "value": "Що",
+       "textRange": [
+        2339,
+        2341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f48e6b5-d52f-45e3-bdf3-52a3109fc150",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2341,
+        2342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52034f08-7489-4ed9-8a7e-895be212ddf9",
+       "type": "word",
+       "value": "смачного",
+       "textRange": [
+        2342,
+        2350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e6bd0c9-8db4-4a76-a190-3edc6ccf525a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2350,
+        2351
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3742709a-e560-4b88-a865-469f22543810",
+       "type": "word",
+       "value": "маєш",
+       "textRange": [
+        2351,
+        2355
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – Що смачного маєш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b24d67d6-75eb-40a3-a7f7-cd86671dfd40",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      2355,
+      2356
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " – Що смачного маєш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "06a0b2e1-e7bd-407a-9247-c68c547ea3bd",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c146e37f-b817-488e-a625-40b29395eaa3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e7be4f64-8a8d-43ee-95f1-3481ee4217ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2356,
+        2357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "400bf423-3bda-47b2-8bda-d73f5ba50133",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2357,
+        2358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8abc6fca-0682-4c33-865e-efed8272b2c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2358,
+        2359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17c8fe70-666d-4ab4-8979-cf0fce84c870",
+       "type": "word",
+       "value": "запитала",
+       "textRange": [
+        2359,
+        2367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2743ece6-00af-4c8b-bc8d-acbb1d1495d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2367,
+        2368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6a69a91-c0d1-4ed0-b038-b07b517bc849",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2368,
+        2369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7f9adde-6db0-44fb-bfd9-ea1063b160f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2369,
+        2370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e3beb8d8-0a6f-43c7-8344-1014679b1175",
+         "type": "word",
+         "value": "Романа",
+         "textRange": [
+          2370,
+          2376
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b61cc1b2-d4ce-4eef-854b-f8ac7f9faacd",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " – запитала в Романа",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eefff9ac-f729-4351-b6d1-27f9653c8ff4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2376,
+      2377
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "228ed0bf-7aac-4cc0-8316-d66c5d978a7a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2377,
+      2378
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " – запитала в Романа.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "– Привіт, Ромку, повернувся – Оленка знову почала плавно рухати ногою, розганяючи мильну піну, і, відкинувши руки на бортики, розслаблено сповзла вглиб ванни – Що смачного маєш – запитала в Романа.",
+ "concept": "SYNTAX"
+}

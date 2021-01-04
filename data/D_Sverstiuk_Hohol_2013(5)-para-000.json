@@ -1,0 +1,71 @@
+{
+ "id": "136e0aaa-efed-4ba2-b68b-0037595115d1",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "65a4a51c-0df3-44e2-83e7-152b098ecdc3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "55e8bba8-f507-449e-9f3f-5e3910f0b76b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fa9350b8-d46c-437c-b8e4-14cb8e89a1e6",
+         "type": "word",
+         "value": "Гоголь",
+         "textRange": [
+          0,
+          6
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a8446f37-41c6-4720-8c9e-b761319b9367",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a9ea3c4a-9bab-4e02-afe3-2a9bf6cd8638",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b76f8bf-4a1e-450b-a669-483a21f354d4",
+       "type": "word",
+       "value": "інтертекстуальний",
+       "textRange": [
+        7,
+        24
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Гоголь інтертекстуальний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3baeb817-47bc-4d51-bf61-4881afb9a83f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      24,
+      25
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Гоголь інтертекстуальний",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Гоголь інтертекстуальний",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,569 @@
+{
+ "id": "5d7451e7-640a-4d22-a1a8-47ae2008179c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "220d7e53-9f36-444e-b689-440110e33ddc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "96fcef17-75d6-4fd1-8b94-9678ac389aad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ba6bf7cf-8e5c-4c13-9371-3a725d929ca1",
+       "type": "word",
+       "value": "Відповідно",
+       "textRange": [
+        1220,
+        1230
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Відповідно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "44e15150-80f4-4db3-a53f-8e0bd49cdeb8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1230,
+      1231
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8e999879-9ec5-43ce-8759-62891699faad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b3888131-bf0c-453a-b17f-6dce3f0561ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1231,
+        1232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d83c6122-62a3-49d2-ac83-593ecccb88a5",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        1232,
+        1235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b59eb295-36bb-41c0-b725-4f406434d68e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1235,
+        1236
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "eb8a4f0f-23a1-4e2e-8a78-2a98a3bf05ba",
+         "type": "word",
+         "value": "Порошенка",
+         "textRange": [
+          1236,
+          1245
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "70c88d30-4722-4476-931a-f8c2a760f925",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "32d6c422-4c29-4690-9937-742284778e27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1245,
+        1246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "075911f8-7e49-473e-a03c-416f08a66d5e",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1246,
+        1247
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed9bc5ed-343b-4994-9757-4b26f7ed421f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1247,
+        1248
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "810b7181-5fd2-4a3c-9cea-02f19edb23fe",
+         "type": "word",
+         "value": "Кличка",
+         "textRange": [
+          1248,
+          1254
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7a1e72dd-3672-4452-bda4-f6e9c2be4341",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2d7f9e19-3a5c-4c70-8169-8615cb0eb73d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1254,
+        1255
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "00e1b271-d1be-4a64-941f-51d3926fb898",
+         "type": "word",
+         "value": "Онули",
+         "textRange": [
+          1255,
+          1260
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "69859b03-7064-42d2-a4c8-5c5552d1364b",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5945e069-0df2-44e6-9fb1-482b40f92f71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1260,
+        1261
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c3655e5-8714-40e3-b162-b0ba1486735a",
+       "type": "word",
+       "value": "можуть",
+       "textRange": [
+        1261,
+        1267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c9684b7-f4c4-4907-8802-60a25d35fc1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1267,
+        1268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc2527e5-9cfa-4191-9fa5-4afdec3502f3",
+       "type": "word",
+       "value": "забути",
+       "textRange": [
+        1268,
+        1274
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " про Порошенка і Кличка Онули можуть забути",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06d62aee-7149-413c-94cc-d3d7380dbc59",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1274,
+      1275
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a0827855-d2b2-4733-a84b-5e19d5032562",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a8b8dcf7-cee3-4379-934a-833560d6a4e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1275,
+        1276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3e082e0-a25b-451f-8a9d-0a6150c3f23b",
+       "type": "word",
+       "value": "нікому",
+       "textRange": [
+        1276,
+        1282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b16e4a8a-a792-4a13-8af5-2263cd425f9c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1282,
+        1283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c6d4fa0-b36d-44fc-8a5d-81a5b18f696b",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1283,
+        1285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5cb184bd-7df4-49b7-8f8a-5d33c3887010",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1285,
+        1286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8874143b-7cb0-4579-a5b3-7d559cb40357",
+       "type": "word",
+       "value": "подобаються",
+       "textRange": [
+        1286,
+        1297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b67cc59-1c35-422c-8b76-0d46986c6a01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1297,
+        1298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d7a1a75-095d-482e-a75b-5af1f99cb7a5",
+       "type": "word",
+       "value": "люди",
+       "textRange": [
+        1298,
+        1302
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нікому не подобаються люди",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "15bb773a-954d-407f-8c16-2be0bd22a170",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1302,
+      1303
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8f6d1ed9-09f0-4d34-a6db-62d03fc626e7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "840fd327-8e86-4253-9d99-1e1a9a7b5a65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1303,
+        1304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7efa3630-3607-4289-a947-ebe3e6b2c281",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        1304,
+        1307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f99e6826-eccc-4399-ba08-c0fd5b4ad036",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1307,
+        1308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f1a1a93-f3a8-495c-8e3e-827dc528a42a",
+       "type": "word",
+       "value": "йдуть",
+       "textRange": [
+        1308,
+        1313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b54bd0d0-66eb-45a6-8cfd-afcb585a61e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1313,
+        1314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11b9b717-7002-4bd1-8c51-b44ef1ecceda",
+       "type": "word",
+       "value": "усупереч",
+       "textRange": [
+        1314,
+        1322
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5322aef6-3b93-446a-a426-57d5a7db1cb9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1322,
+        1323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "003b4e10-a0a5-41f2-afa4-ea57c6916829",
+       "type": "word",
+       "value": "генеральній",
+       "textRange": [
+        1323,
+        1334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "945e59b9-19dd-4b82-8720-285c9bec87b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1334,
+        1335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6b52056-5468-4a73-96fa-dc40be4a18d7",
+       "type": "word",
+       "value": "лінії",
+       "textRange": [
+        1335,
+        1340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ffc054a-8b68-4d5a-adc3-9e4eb11b8fa8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1340,
+        1341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2bfeb3e-3bc9-4b12-8ef5-88a1d3c80c79",
+       "type": "word",
+       "value": "партії",
+       "textRange": [
+        1341,
+        1347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61cfe19f-9e52-4cdd-9c63-a25b95e26e01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1347,
+        1348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c56f127-ba38-4a14-bc2c-6055268ccc18",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1348,
+        1349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d4155d8-1c1e-4c06-82bd-3efacd9ffa1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1349,
+        1350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28ed8adc-5792-41e1-9e91-d1a555ec246c",
+       "type": "word",
+       "value": "намагаються",
+       "textRange": [
+        1350,
+        1361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6dd3409-2055-4322-9f93-f84be16dedc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1361,
+        1362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdab85c7-1fc6-4db0-a251-7108a8f0ab1b",
+       "type": "word",
+       "value": "поламати",
+       "textRange": [
+        1362,
+        1370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "252aee1e-3b9b-4cb8-b1fb-0e650afc474b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1370,
+        1371
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8d3474e-bedd-42b3-9b7d-80c43bb2ab4e",
+       "type": "word",
+       "value": "всі",
+       "textRange": [
+        1371,
+        1374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51d5dff1-526f-4a98-8fe8-0876dd456ea5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1374,
+        1375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e0bdc45-5ca1-4ae6-b8dd-5106bbd66f54",
+       "type": "word",
+       "value": "хатки",
+       "textRange": [
+        1375,
+        1380
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " які йдуть усупереч генеральній лінії партії і намагаються поламати всі хатки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d4d39d48-6a44-4495-b399-7e57e10b1c85",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1380,
+      1381
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fd0aa98e-1d02-47d8-9ca8-d8b12f76bc6f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1381,
+      1382
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Відповідно, про Порошенка і Кличка Онули можуть забути: нікому не подобаються люди, які йдуть усупереч генеральній лінії партії і намагаються поламати всі хатки.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Відповідно, про Порошенка і Кличка Онули можуть забути: нікому не подобаються люди, які йдуть усупереч генеральній лінії партії і намагаються поламати всі хатки.",
+ "concept": "SYNTAX"
+}

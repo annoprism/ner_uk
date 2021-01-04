@@ -1,0 +1,637 @@
+{
+ "id": "b3901aa2-e7cd-4792-8ff9-fb3150eb712a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6670e8c5-bb02-463f-ac64-b1dfe96b1493",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0ce4bf97-cb0e-4016-b68f-cad9225c5278",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "69efe9eb-aee8-43d2-bd46-d41ff38266a1",
+       "type": "word",
+       "value": "Великість",
+       "textRange": [
+        1660,
+        1669
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6de2057e-7ee2-4274-b4d4-d1970bcd8a99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1669,
+        1670
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49d2b8dd-243d-4bcd-bdcf-1606dc75e06b",
+       "type": "word",
+       "value": "духовного",
+       "textRange": [
+        1670,
+        1679
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f728e239-1e6d-4d71-9b67-9531a7baf727",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1679,
+        1680
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9f66c0c-1e3d-4e97-a2b1-d567dfd90b0b",
+       "type": "word",
+       "value": "світу",
+       "textRange": [
+        1680,
+        1685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f907be1-a394-456c-bb70-f927e15ffbd3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1685,
+        1686
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cfe7a94a-7ca8-4ebb-8afd-7d2237f09ea1",
+         "type": "word",
+         "value": "Шевченка",
+         "textRange": [
+          1686,
+          1694
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d0696b8e-ea96-48c8-8c18-24ee56f4c4a4",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Великість духовного світу Шевченка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c07b7359-54c0-4480-85e0-c594c3533abb",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1694,
+      1695
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "67f8fc99-2915-437a-a6b9-89acaefc8ed9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cc2e11d7-3907-4cfc-9283-e4404bb16e45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1695,
+        1696
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "305804a6-a944-468f-bd41-655b100d6a22",
+       "type": "word",
+       "value": "надпотужна",
+       "textRange": [
+        1696,
+        1706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51492abf-30bd-418c-8e09-268886724ccd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1706,
+        1707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "adbe18d8-5693-4f52-9933-a071220f4da8",
+       "type": "word",
+       "value": "сила",
+       "textRange": [
+        1707,
+        1711
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ecd9730-f4b1-4277-bc5a-16e078e8ca86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1711,
+        1712
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c276aee7-e1aa-498b-90d8-980ff038cfbb",
+         "type": "word",
+         "value": "Шевченкового",
+         "textRange": [
+          1712,
+          1724
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f3fe4f64-ac3d-4fe6-8b91-ac24fd3d25fb",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2100e264-72cb-42a7-beaf-2561e8123eb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1724,
+        1725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f8f52af-1ac1-44ae-bef8-9dbcea5769e5",
+       "type": "word",
+       "value": "слова",
+       "textRange": [
+        1725,
+        1730
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11f9a5a6-418a-4dd1-91d8-02a8c116a204",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1730,
+        1731
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "235fec26-9ded-47af-a3b6-9f73fdd115ed",
+       "type": "word",
+       "value": "спонукають",
+       "textRange": [
+        1731,
+        1741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84ec568b-c6dd-4eca-bc71-3095e5f6ac3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1741,
+        1742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46fd9c23-0c8d-412a-b1db-23fdcc47054d",
+       "type": "word",
+       "value": "нас",
+       "textRange": [
+        1742,
+        1745
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77a4cd52-9a26-416c-8edb-64c97ec660cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1745,
+        1746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "823a7af2-b779-4334-a2c4-2a9f9d6db1be",
+       "type": "word",
+       "value": "реалізувати",
+       "textRange": [
+        1746,
+        1757
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b77687d4-9b35-458f-9b1e-cd34f7cbfa40",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1757,
+        1758
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3969251-2ef4-4891-99cd-861bff39cd0a",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        1758,
+        1760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1cab71a-99d2-41bf-80f8-d05daa38a7ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1760,
+        1761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af125083-730e-4800-8663-562ce3e7f269",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1761,
+        1762
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fce02187-da2f-440f-a6a7-e200a504d9df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1762,
+        1763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94fb4989-8cde-4ab5-9759-4fca0d0f5d39",
+       "type": "word",
+       "value": "практично",
+       "textRange": [
+        1763,
+        1772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1ae35c9-0fe3-4d9a-9590-2f9621777cf9",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1772,
+        1773
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "234d1646-a317-4f90-a218-f7df8d1ed9ba",
+       "type": "word",
+       "value": "духовній",
+       "textRange": [
+        1773,
+        1781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9728449b-5dec-4b91-9d02-477e2a8b4cad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1781,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad4b017b-a6d6-4c3e-8a2d-f8b432800d51",
+       "type": "word",
+       "value": "діяльності",
+       "textRange": [
+        1782,
+        1792
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " надпотужна сила Шевченкового слова спонукають нас реалізувати їх у практично-духовній діяльності",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6a5cec0d-fb33-465a-a93b-27293ff56765",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1792,
+      1793
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Великість духовного світу Шевченка, надпотужна сила Шевченкового слова спонукають нас реалізувати їх у практично-духовній діяльності",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "dbfd145d-5cf0-4a2b-95b1-c3c6610b844d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c9d4d802-c694-457f-b1d0-ae50a594560f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9d22a535-b32e-4c85-9a58-d1dccca61e3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1793,
+        1794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c451444-16cd-4366-83f3-ecab4c870f89",
+       "type": "word",
+       "value": "З",
+       "textRange": [
+        1794,
+        1795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c9adfba-ef89-4198-a507-5d975b09ba45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1795,
+        1796
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "af0a231d-3085-4fa9-882f-584629805fbe",
+         "type": "word",
+         "value": "Шевченковим",
+         "textRange": [
+          1796,
+          1807
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f81d55ae-304b-47f1-9d06-b310eea53608",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "779cfa28-e477-4957-a401-c9a962a4161f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1807,
+        1808
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25254d28-332a-4fe1-806c-21b5346cb271",
+       "type": "word",
+       "value": "словом",
+       "textRange": [
+        1808,
+        1814
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6de6911-38de-41d7-944a-ccc809331b99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1814,
+        1815
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89e3a0ad-8da0-4506-9edc-18987e2fceb8",
+       "type": "word",
+       "value": "ми",
+       "textRange": [
+        1815,
+        1817
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d403c1f2-bcfd-43c5-b2ed-babc151e2445",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1817,
+        1818
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f65b75a-409d-4ae1-aabf-1e0d79c3d6e7",
+       "type": "word",
+       "value": "духовно",
+       "textRange": [
+        1818,
+        1825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a4eac09-bd08-4737-920d-9f7cd6d3a372",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1825,
+        1826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "592aeb78-9abe-4677-ae80-46632059c3cf",
+       "type": "word",
+       "value": "міцніємо",
+       "textRange": [
+        1826,
+        1834
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " З Шевченковим словом ми духовно міцніємо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a7bcd24a-827f-4278-bed9-d877341278f1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1834,
+      1835
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3544d2c1-e32a-4d07-b17e-6545ebbb692b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f07bcf8e-32ea-44e4-a58b-32248ae8dcf0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1835,
+        1836
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ea90bb0-1c7f-43b0-81ca-2924c905c840",
+       "type": "word",
+       "value": "очищуємося",
+       "textRange": [
+        1836,
+        1846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18951f99-1fb3-4d73-9f56-47d8d03deffc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1846,
+        1847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6876e09f-7344-4e37-a2ef-8da3481432b8",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        1847,
+        1850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebe556ba-1c2a-4b79-927b-2b1a3a27cf2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1850,
+        1851
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58527297-4e84-44fc-a821-f84d9fc10f05",
+       "type": "word",
+       "value": "усілякої",
+       "textRange": [
+        1851,
+        1859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7091d5ec-ecc6-4363-8177-49c7b05eb5d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1859,
+        1860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bffaa783-e23c-4082-a22e-d0a568170d94",
+       "type": "word",
+       "value": "скверни",
+       "textRange": [
+        1860,
+        1867
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " очищуємося від усілякої скверни",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "634b4940-01bd-4978-8c82-7fa81de6faff",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1867,
+      1868
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f7de63fc-66c4-4bba-9750-225aef3fe892",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1868,
+      1869
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " З Шевченковим словом ми духовно міцніємо, очищуємося від усілякої скверни.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Великість духовного світу Шевченка, надпотужна сила Шевченкового слова спонукають нас реалізувати їх у практично-духовній діяльності З Шевченковим словом ми духовно міцніємо, очищуємося від усілякої скверни.",
+ "concept": "SYNTAX"
+}

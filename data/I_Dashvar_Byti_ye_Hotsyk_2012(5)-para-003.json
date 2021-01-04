@@ -1,0 +1,1250 @@
+{
+ "id": "b4a62a11-9b2a-4bb5-ae17-0a00d9f69a06",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "da2e39e8-b588-4a67-84c8-8478ea50afc7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d43bc601-81b6-4fd6-aa9c-6dbc8b11682f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b35114dc-8c74-4199-a9d6-578f64f63b17",
+       "type": "word",
+       "value": "Всю",
+       "textRange": [
+        177,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e8f0563-54ce-432b-9e0e-8297ab5a1504",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        180,
+        181
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c07c53e5-be16-48af-847d-a8ea915e5c9d",
+       "type": "word",
+       "value": "ніч",
+       "textRange": [
+        181,
+        184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81f59e9b-5e4e-448d-980e-a044528ffdf8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        184,
+        185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e4d44c14-3d34-4679-8116-2217ffd7a4de",
+         "type": "word",
+         "value": "Ілія",
+         "textRange": [
+          185,
+          189
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8658476c-7482-488f-a235-7e24f5e1ce8a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9203eb65-e6ba-401e-aca3-9681569f4cf1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        189,
+        190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "873d3496-9bba-4963-a040-8821a4d141e4",
+       "type": "word",
+       "value": "просидів",
+       "textRange": [
+        190,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad783a25-3765-4b59-901a-b503c64effb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "889793d7-5b6b-4c89-bd62-b3ab423e3efa",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        199,
+        202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49069907-83ee-4da2-aa9b-c9a5e81de6b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        202,
+        203
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dc34714-cdb4-4e06-a858-d557376c48e5",
+       "type": "word",
+       "value": "сну",
+       "textRange": [
+        203,
+        206
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Всю ніч Ілія просидів без сну",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52fa1a7e-073a-4aef-a70f-c4cf4c333688",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      206,
+      207
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Всю ніч Ілія просидів без сну",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ba70c22e-92be-4f18-bc1e-eaf41ba048c0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "cf53d95f-a92d-4372-9be1-df9fa2d2a045",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a5ed01a5-c8e5-4b67-b3e0-7f34375da3da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        207,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5e5fe5d-b2bf-4f25-984c-37c11180cd69",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        208,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "836fc6f3-0956-4906-9eca-716ee3e73e21",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        210,
+        211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4947834-e155-4755-8f8f-5a9add2aa038",
+       "type": "word",
+       "value": "світанку",
+       "textRange": [
+        211,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7a606d0-8cdd-4783-bc07-6745343188a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        219,
+        220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60695cab-066a-4ac0-a84d-8eb531e4906b",
+       "type": "word",
+       "value": "вийшов",
+       "textRange": [
+        220,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2039251-0411-46cf-aa3b-ace41570a36c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        226,
+        227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81cea946-be5f-4d9e-ace3-6fbbbf4ba4ed",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        227,
+        228
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c82dedf5-19d8-4bb9-9e6f-5af886279deb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        228,
+        229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48c15b7c-4ff2-4b14-ab31-784318f666b6",
+       "type": "word",
+       "value": "двір",
+       "textRange": [
+        229,
+        233
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " На світанку вийшов у двір",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "07702b1a-7177-46c0-b5a7-ebbcf2755fd3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      233,
+      234
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b13b0daa-74d7-4882-acbe-e1ee08d3068e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1b8eb4ee-bd0b-46ae-b6f1-d70ad3107cb8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        234,
+        235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2aff83fa-187e-48c7-8d49-8df755b981ac",
+       "type": "word",
+       "value": "відчинив",
+       "textRange": [
+        235,
+        243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d216b14-ef94-457c-8ae1-9874bc8c0957",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        243,
+        244
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdb2012f-2b48-441a-b6ae-a3d777cabb1f",
+       "type": "word",
+       "value": "хвіртку",
+       "textRange": [
+        244,
+        251
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " відчинив хвіртку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "77bf47cb-0bdc-453f-bc8f-fbc5e1ebbc4e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      251,
+      252
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9a8c6118-6ba6-4199-a2fc-9eee590a9f80",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "175abb9c-134b-4715-a51f-243fc96cff17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        252,
+        253
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1847f39-3f73-41fb-8b70-b1c4fc13994f",
+       "type": "word",
+       "value": "став",
+       "textRange": [
+        253,
+        257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ae56d24-1009-4e90-8a75-9163ba7130c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        257,
+        258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da4586a5-a0fc-4c46-97a9-18ec7e61c9f6",
+       "type": "word",
+       "value": "посеред",
+       "textRange": [
+        258,
+        265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e97ec977-2ee6-4d1b-9f85-e2e9c92a4fa1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        265,
+        266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d833ce6e-85b2-4b29-88a3-54985fa777d7",
+       "type": "word",
+       "value": "вулички",
+       "textRange": [
+        266,
+        273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "944a64d9-a28d-497d-992b-0d7d6a074f7b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        273,
+        274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c9ec2b4-f44e-4012-a294-82bf1ea9b39e",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        274,
+        275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3534db9a-c17e-4803-9d51-8d462a0074e5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        275,
+        276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9cb29037-1773-465a-ba4e-289149ba37df",
+       "type": "word",
+       "value": "легкому",
+       "textRange": [
+        276,
+        283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c692f4db-3c1f-4496-a79e-e8727ba718ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        283,
+        284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4238bbd2-771d-49bd-8393-7487503da24c",
+       "type": "word",
+       "value": "светрі",
+       "textRange": [
+        284,
+        290
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " став посеред вулички у легкому светрі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "860f3903-1b90-4a68-8f51-025255294569",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      290,
+      291
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0da9398-6393-49ef-aa32-6f01d133eee3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0b94a064-108b-4d5e-86db-4624f3da2ed4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        291,
+        292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59de761e-7a20-405c-adb7-0f1d1fb7eee4",
+       "type": "word",
+       "value": "хоч",
+       "textRange": [
+        292,
+        295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1c797e4-2972-4137-b6ee-1fa890aa326c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        295,
+        296
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25823351-2ce1-4821-b34a-c0c65ec23a94",
+       "type": "word",
+       "value": "осінь",
+       "textRange": [
+        296,
+        301
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d146240-3288-484d-8b9c-4c68812af969",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        301,
+        302
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ad189a1-285a-4b06-b177-9baa48118d3d",
+       "type": "word",
+       "value": "морозила",
+       "textRange": [
+        302,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce3f639c-32d3-4b62-9771-9040aca5a438",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        310,
+        311
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2925a13a-7db2-4efb-b211-0ac238963534",
+       "type": "word",
+       "value": "листя",
+       "textRange": [
+        311,
+        316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd6200e6-9f96-4fd8-96b6-4d64cb9b16b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        316,
+        317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "026c1f3b-63fa-47db-acce-775e36ca7b6a",
+       "type": "word",
+       "value": "білим",
+       "textRange": [
+        317,
+        322
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хоч осінь морозила листя білим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "09dec8a0-9668-420d-a12e-3ecb87e115b3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      322,
+      323
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " На світанку вийшов у двір, відчинив хвіртку, став посеред вулички у легкому светрі, хоч осінь морозила листя білим",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "40d0739a-2b78-46ac-b4d2-ac0b991ad5b4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "988c1de5-6630-4f76-97df-77467a98d205",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f679e1e8-b204-4a1f-9e66-a54c927110f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        323,
+        324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90a0a120-32a3-40af-b168-deb6841ae92c",
+       "type": "word",
+       "value": "Якби",
+       "textRange": [
+        324,
+        328
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d165dae-563c-44d1-b848-460280ef6a78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        328,
+        329
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eea5cee0-5bdc-410e-bd53-ac57634b75fd",
+       "type": "word",
+       "value": "мама",
+       "textRange": [
+        329,
+        333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4549385e-6839-4eec-924d-ef87339996d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        333,
+        334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "211782e4-db0c-4ded-88aa-1dba92970fff",
+       "type": "word",
+       "value": "побачила",
+       "textRange": [
+        334,
+        342
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Якби мама побачила",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3b661824-ef56-46b1-84d5-da8fe71d9c10",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      342,
+      343
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4ea6fa20-fa74-4610-b661-2aabd51483cc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4d9f49a7-dcd0-4b4d-850c-c0ace2cfc619",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        343,
+        344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea31ef1d-9ea5-4cff-8d42-381e8328f39b",
+       "type": "word",
+       "value": "захлинулася",
+       "textRange": [
+        344,
+        355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb9b57bb-3136-4b34-a0b6-d9b0bc732f5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        355,
+        356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e9195ac-8f46-4056-8d39-61f9c53e710c",
+       "type": "word",
+       "value": "б",
+       "textRange": [
+        356,
+        357
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " захлинулася б",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e90c47ad-6e37-4889-8f13-10d6c806df21",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      357,
+      358
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cf483b50-dcd7-48ca-b924-9ba69d987272",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0a882631-4b60-4bbd-a8ed-14ee963044ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        358,
+        359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29136b73-7e25-40fd-8cb9-0d1aaa151289",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        359,
+        360
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce81052c-66ed-44c5-b612-2f77fcd97888",
+       "type": "word",
+       "value": "Захворієш",
+       "textRange": [
+        360,
+        369
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Захворієш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc32fd46-8572-4be7-9c52-ff04975d51e2",
+     "type": "punctuation",
+     "value": "!»",
+     "textRange": [
+      369,
+      371
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Якби мама побачила, захлинулася б: «Захворієш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "7d2c3a78-1487-41d1-97fc-6a595b26419b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2f720e1b-75af-4e46-b39d-3cb8bf5e83e1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "67d0dd5b-2fcf-45f6-be23-de3371b89f50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        371,
+        372
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5057d86a-949e-4de8-8dcf-62a431b033e0",
+       "type": "word",
+       "value": "Іліїні",
+       "textRange": [
+        372,
+        378
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86bac4b5-a568-4ec4-85d2-b76f2953d9c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        378,
+        379
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b66b4ef-cefc-414e-bc83-426ff3bd2e3a",
+       "type": "word",
+       "value": "нирки",
+       "textRange": [
+        379,
+        384
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5ede30c-d8f7-4b19-950d-fe1ba3c3769c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        384,
+        385
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5711a151-a710-4038-8143-acaba97fe68c",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        385,
+        386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57a144c1-38dd-4fb7-a703-b56d4f885efa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        386,
+        387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a72bcef-31b8-4268-af88-7ff9134b4a67",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        387,
+        390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ac5f4fa-58ab-4cda-abc3-2a1d88662cbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        390,
+        391
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9480381-6a8a-43c2-92c7-b9615d1cee7f",
+       "type": "word",
+       "value": "маминих",
+       "textRange": [
+        391,
+        398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e82001e5-1466-4a56-830c-51221a507c97",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        398,
+        399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6636774b-43e7-4330-96a2-cb8604a766cf",
+       "type": "word",
+       "value": "нагадувань",
+       "textRange": [
+        399,
+        409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "171b3e45-c26d-451a-a54d-072b17440915",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        409,
+        410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2757d95-b7a6-4656-a96a-d25462815d49",
+       "type": "word",
+       "value": "миттєво",
+       "textRange": [
+        410,
+        417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16974a7e-1b01-4301-8154-baeabfce6137",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        417,
+        418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1140317b-5a0a-4310-a704-33980f369fcc",
+       "type": "word",
+       "value": "відгукувалися",
+       "textRange": [
+        418,
+        431
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63b107a0-0036-4c93-bf3b-dcee47b3fe15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        431,
+        432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d4820cb-8d7b-443e-a826-87b8fcc1c0c9",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        432,
+        434
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "128e89d7-9f23-45bf-9bec-1b6db3d42edc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        434,
+        435
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dd93b83-8475-4719-891f-546b39116798",
+       "type": "word",
+       "value": "найменше",
+       "textRange": [
+        435,
+        443
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64eca2bb-3b4f-44aa-a9ba-e09a89e45a79",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        443,
+        444
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbac1ef5-8120-4561-8562-4676e98cd081",
+       "type": "word",
+       "value": "переохолодження",
+       "textRange": [
+        444,
+        459
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Іліїні нирки і без маминих нагадувань миттєво відгукувалися на найменше переохолодження",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6b278cd-5917-44e5-8136-3fdcde450606",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      459,
+      460
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Іліїні нирки і без маминих нагадувань миттєво відгукувалися на найменше переохолодження",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "47c2ef0d-6017-43eb-9555-ef104465b4b5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bd8c3e32-789d-401e-9742-33149a65b873",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e3225699-51c8-4c8a-ae39-46d716f80be4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        460,
+        461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7b770af-7100-48c6-a8f5-3625f9f7da6e",
+       "type": "word",
+       "value": "Та",
+       "textRange": [
+        461,
+        463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf5791a1-1d69-456c-883a-2fec08e4cd2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        463,
+        464
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d1ea1d8-5655-40e4-bc6b-c447b29012c2",
+       "type": "word",
+       "value": "нині",
+       "textRange": [
+        464,
+        468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc3af94c-70a1-42b1-a345-293955893b07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        468,
+        469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe10b1d6-be29-4b6a-b317-5531bc384e05",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        469,
+        470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4d77948-dbf8-44ad-99b9-48b6e7bb85bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        470,
+        471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "586f4138-0507-4d6a-ad0e-9116885bef39",
+         "type": "word",
+         "value": "Ілія",
+         "textRange": [
+          471,
+          475
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "246d0287-915d-4be2-97a2-c594e1df6a59",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "75f7615c-ec16-45ab-9fea-8aa656375204",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        475,
+        476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f72e28e4-2e41-49a7-84b8-0c49a9dd1f12",
+       "type": "word",
+       "value": "прислухався",
+       "textRange": [
+        476,
+        487
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Та нині — Ілія прислухався",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "744ae534-08f3-42e9-b2cc-dad9d4a03f49",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      487,
+      488
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb8b008a-cfe7-41a0-a016-ceecca6cf1ff",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f887da0e-7fd4-462e-9379-8a4a280b73fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        488,
+        489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38d9edf3-d99c-4777-8c7c-95a528b6b25d",
+       "type": "word",
+       "value": "дивувався",
+       "textRange": [
+        489,
+        498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d450adfc-a3bc-4b96-bee9-9c625affc861",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        498,
+        499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2247a463-36fe-4435-9b0f-647cdc88dd3c",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        499,
+        500
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a501224c-1bd8-4a96-8af5-b42df2b650e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        500,
+        501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cce00e0-fb15-4f09-b261-8b442c59cbf7",
+       "type": "word",
+       "value": "мовчали",
+       "textRange": [
+        501,
+        508
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дивувався — мовчали",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ea445da-950e-439d-ae27-bcfca2b984f3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      508,
+      509
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2f64bd48-0012-4327-8437-d9d18bbecb7f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      509,
+      510
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Та нині — Ілія прислухався, дивувався — мовчали.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Всю ніч Ілія просидів без сну На світанку вийшов у двір, відчинив хвіртку, став посеред вулички у легкому светрі, хоч осінь морозила листя білим Якби мама побачила, захлинулася б: «Захворієш Іліїні нирки і без маминих нагадувань миттєво відгукувалися на найменше переохолодження Та нині — Ілія прислухався, дивувався — мовчали.",
+ "concept": "SYNTAX"
+}

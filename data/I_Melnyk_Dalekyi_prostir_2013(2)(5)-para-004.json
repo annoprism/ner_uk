@@ -1,0 +1,130 @@
+{
+ "id": "d50f0fc2-57e3-46d8-b016-293113ce67e7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "83e89fb0-6607-46bf-a197-61aa3d38b609",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9333cc9d-f671-44bb-88de-908f73857df1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d91ff5fe-940e-4236-b618-08b51b822153",
+       "type": "word",
+       "value": "Б",
+       "textRange": [
+        1085,
+        1086
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Б",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a629d5be-a5a0-4bd6-890f-cd4aae5932d7",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1086,
+      1087
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Б",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "97267e2f-31e5-4a38-923b-444ce1675cf9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ba170db3-f6e8-4a6c-b268-05e73c36d0b6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9ac6d200-b9f9-4d05-ad67-7820b0da2cda",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1087,
+        1088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c605223e-62ae-4a9d-9ed8-a549fafad7d1",
+       "type": "word",
+       "value": "Наш",
+       "textRange": [
+        1088,
+        1091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "596baddf-6d5a-4fa8-9277-064cbf6393b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1091,
+        1092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42031c9a-f04e-41e6-b00a-6325bf68919a",
+       "type": "word",
+       "value": "світ",
+       "textRange": [
+        1092,
+        1096
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e96b1b74-cae0-4897-a3cd-eaad635a1d1b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1096,
+        1097
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1abfc906-be71-47d0-a0e5-b47ca8f7ffa5",
+       "type": "word",
+       "value": "залежний",
+       "textRange": [
+        1097,
+        1105
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Наш світ залежний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "61bd3057-a247-46fa-90ed-7686f16aa084",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1105,
+      1106
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Наш світ залежний",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Б Наш світ залежний",
+ "concept": "SYNTAX"
+}

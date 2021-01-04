@@ -1,0 +1,735 @@
+{
+ "id": "a08235f7-36a8-4592-9eb7-1adccf129255",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2d149015-7b3a-4eee-8fa0-f5fa3ae00881",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "34df700c-07b1-47ca-bd1c-bac54b58e3be",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "face12ef-27af-4d23-a930-f54161f48d58",
+       "type": "word",
+       "value": "Вони",
+       "textRange": [
+        1541,
+        1545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1e5215d-a50d-48fa-96b4-f51a17d0afc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1545,
+        1546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e999efbc-089a-4eff-844a-292382b3814b",
+       "type": "word",
+       "value": "скликали",
+       "textRange": [
+        1546,
+        1554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b434f8e-56fc-4fba-a90d-e2179e3d16e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1554,
+        1555
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "31475654-dd26-402d-93d3-72744926c9fd",
+         "type": "word",
+         "value": "Тимчасовий",
+         "textRange": [
+          1555,
+          1565
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6bc527b6-e5d8-4f6b-8bd6-aaa33c2d0da2",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1565,
+          1566
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0aac9618-eaa1-4bff-b211-744386ba50ea",
+         "type": "word",
+         "value": "комітет",
+         "textRange": [
+          1566,
+          1573
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4f29a37f-a1e2-475a-b11b-742cc303ef8e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Вони скликали Тимчасовий комітет",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06ef78be-44f9-4b36-b6eb-ec4714955f53",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1573,
+      1574
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "76fe6bef-a8f1-4cba-95cb-f5f567e31706",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "30080336-16cd-4f3f-9417-a759268a216a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1574,
+        1575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3abff4e1-cbab-46ec-b1d6-5e19799c1d4a",
+       "type": "word",
+       "value": "аби",
+       "textRange": [
+        1575,
+        1578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cff0f4a2-4e14-4b76-a4b8-0664103441d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1578,
+        1579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79bd8d02-0009-445b-bd6f-e306302c68a5",
+       "type": "word",
+       "value": "вирішити",
+       "textRange": [
+        1579,
+        1587
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " аби вирішити",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9b001f3a-8887-4c92-a992-2a772a8820b9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1587,
+      1588
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "17895c58-c1b6-4e49-887d-10672a4f36fc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "acf48b4c-6db8-46f5-93cd-7d3aef9daf19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1588,
+        1589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a58cbcd8-eb43-42e1-9af2-77b5205ca4bf",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1589,
+        1591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f30b8c3f-5fd4-4d9b-a48f-974d5034d490",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1591,
+        1592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8b9ebe9-beb8-41f2-90ea-a1a7918fac36",
+       "type": "word",
+       "value": "повинні",
+       "textRange": [
+        1592,
+        1599
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "deb79d8c-3539-43aa-a813-67e57d9f74cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1599,
+        1600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8d0d775-9633-417e-a9b8-28a41c8ab5d5",
+       "type": "word",
+       "value": "тривати",
+       "textRange": [
+        1600,
+        1607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65ac4715-1f66-43f5-9953-ea349a87a0e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1607,
+        1608
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0af5cb9-ebf1-4954-bee4-294f6b401b88",
+       "type": "word",
+       "value": "наукові",
+       "textRange": [
+        1608,
+        1615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c10d8f3c-72de-4733-9c04-d19bb70c4acd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1615,
+        1616
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46baebf4-9da2-430f-88ae-8e69d465b5e5",
+       "type": "word",
+       "value": "розробки",
+       "textRange": [
+        1616,
+        1624
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2a539d5-510b-4583-baed-57b274a47c00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1624,
+        1625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f09291bf-52cc-4a42-bb4d-b56870ff085c",
+       "type": "word",
+       "value": "далі",
+       "textRange": [
+        1625,
+        1629
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи повинні тривати наукові розробки далі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8927480e-6de9-4d2b-87f0-a70b85a9221e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1629,
+      1630
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Вони скликали Тимчасовий комітет, аби вирішити, чи повинні тривати наукові розробки далі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "498efb30-d76f-4f14-8abf-9811716950e5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6264429f-d646-4d24-9b18-ab98c5f916e4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6fe078c0-521c-4974-996a-84abb6b06993",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1630,
+        1631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84aeb3d4-da76-45f5-8c4d-737154268380",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        1631,
+        1635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a1f2f50-31c6-47fc-a799-8f3a965c4e1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1635,
+        1636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bee95a5-01a1-4c06-81d5-33136a465534",
+       "type": "word",
+       "value": "його",
+       "textRange": [
+        1636,
+        1640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69d9c1fb-7d2a-462b-9633-e7c40f888616",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1640,
+        1641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b310751d-7b8c-4d89-8eb5-0f0088466114",
+       "type": "word",
+       "value": "спитали",
+       "textRange": [
+        1641,
+        1648
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Коли його спитали",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5f3ac75b-a176-4f75-9e44-ebfb57dea872",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1648,
+      1649
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "16c2c031-8c12-4482-bffa-7b8c32d11155",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "39851ac4-4771-4d13-a1e6-a2c0b906e39a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1649,
+        1650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b288781d-5a1b-49ea-810a-02739c8238d5",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        1650,
+        1652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "048d5d44-a3d7-4082-8bd1-6e564b33eee1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1652,
+        1653
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e7c4fcb-a38f-490b-9148-6fcf5be25636",
+       "type": "word",
+       "value": "підтримує",
+       "textRange": [
+        1653,
+        1662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7853c0a9-25db-42c8-a1f7-744a819d30ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1662,
+        1663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc9eca93-07d6-42b6-a3d9-603c5a5cf29a",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1663,
+        1666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "035e7f9a-b784-4692-9508-92d6f6a8d4ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1666,
+        1667
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f2e8d98-32d7-4e8a-b89c-7cdf7bb81f66",
+       "type": "word",
+       "value": "ідею",
+       "textRange": [
+        1667,
+        1671
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d37f9eb-430d-47ed-ae0c-93f228f38c1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1671,
+        1672
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0aa04ca9-1b0e-46e2-b716-a456d4423381",
+       "type": "word",
+       "value": "проведення",
+       "textRange": [
+        1672,
+        1682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "090ea7fe-5b4e-4713-9063-befa77421848",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1682,
+        1683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d828360-50ac-447a-ab64-00cb5999a88d",
+       "type": "word",
+       "value": "випробувань",
+       "textRange": [
+        1683,
+        1694
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "451231b2-fa40-4033-96a2-31b700934d91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1694,
+        1695
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64f7b1b6-11a3-4f47-813c-1e7e11bf6f13",
+       "type": "word",
+       "value": "ядерного",
+       "textRange": [
+        1695,
+        1703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81b3095e-b760-4e5d-b3cc-d8df1c26500a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1703,
+        1704
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b57bb97-79dc-485b-870e-76dfb96c62f9",
+       "type": "word",
+       "value": "пристрою",
+       "textRange": [
+        1704,
+        1712
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи підтримує він ідею проведення випробувань ядерного пристрою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "67a0f442-6cef-4dd2-974a-8db8c1f28729",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1712,
+      1713
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "41bf9464-452b-44d1-a9cf-e8609d42d8d5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a9276087-68cb-41c8-bce8-f4f26f141449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1713,
+        1714
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba530605-53b9-40b6-b546-283d697a70a5",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1714,
+        1717
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " він",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fd1d6a8a-a76f-4824-8388-80bb4793bbcd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1717,
+      1718
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d00f5ddb-26b4-4e20-bb89-10819f370247",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3ebf8450-95a3-47cd-988b-29d5b8f05ea2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1718,
+        1719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66be99af-cddd-464c-944f-dba9362c8ea5",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1719,
+        1721
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d9e8f98-c147-4451-aae7-cbdce74c884b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1721,
+        1722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bfcfd4b6-b141-4f3f-a614-956cf75fe1ab",
+       "type": "word",
+       "value": "вагаючись",
+       "textRange": [
+        1722,
+        1731
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не вагаючись",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "55e12cef-dae7-4e33-8303-2a65895083fc",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1731,
+      1732
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ce1be886-ad80-4474-8765-f21fdd1ac833",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f5a37218-d297-4f40-b360-f064fe1e91a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1732,
+        1733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cc4b702-5dce-402e-8b1d-c361e7ed68a2",
+       "type": "word",
+       "value": "дав",
+       "textRange": [
+        1733,
+        1736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01fe57c2-0620-44b5-973d-2015a9941df3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1736,
+        1737
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d67bd118-5799-461c-990b-7db9a87b3227",
+       "type": "word",
+       "value": "згоду",
+       "textRange": [
+        1737,
+        1742
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " дав згоду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c94ff2ce-57e6-4d7b-af30-e5d410d12a63",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1742,
+      1743
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8fcb1fba-bc17-49c2-ba7e-19c6a0083411",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1743,
+      1744
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Коли його спитали, чи підтримує він ідею проведення випробувань ядерного пристрою, він, не вагаючись, дав згоду.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Вони скликали Тимчасовий комітет, аби вирішити, чи повинні тривати наукові розробки далі Коли його спитали, чи підтримує він ідею проведення випробувань ядерного пристрою, він, не вагаючись, дав згоду.",
+ "concept": "SYNTAX"
+}

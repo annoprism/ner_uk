@@ -1,0 +1,860 @@
+{
+ "id": "4cbc09f3-058a-46ab-85de-a7f9d3b792c4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e6145df3-17be-404d-b1f8-c31fc7d25087",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d7736ccc-c17e-4cdd-a028-f2cb2feb324e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4ee8e1b8-de89-4113-9aae-0ffac5ca43d1",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        136,
+        140
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d053cfb7-b72c-4180-ab9c-020df6df6b95",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        140,
+        141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a326846-c82a-40f5-a5b3-7f06a1fa2039",
+       "type": "word",
+       "value": "киця",
+       "textRange": [
+        141,
+        145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61bf31a7-5aff-4607-baee-ded3dd616437",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        145,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "920ed18c-537e-4d64-a0d4-3ab1ce31cfcf",
+       "type": "word",
+       "value": "подорослішала",
+       "textRange": [
+        146,
+        159
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли киця подорослішала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "da502335-c745-4241-823d-bbfa40510dfe",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      159,
+      160
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe58e11f-6768-4f97-9035-cf7434305ddb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b6991cad-db4b-445d-ad45-1e9a4a4d289c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        160,
+        161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83aa745b-393a-4f8b-afc5-016df69e95cc",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        161,
+        162
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf7c7115-8eb7-4136-807c-2400418602a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        162,
+        163
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bb4b9ce-7305-420e-acc7-2abf8e839db1",
+       "type": "word",
+       "value": "неї",
+       "textRange": [
+        163,
+        166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "901e2a98-f973-438b-bf7d-f1ac96921394",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        166,
+        167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac8c375a-d15b-4e8e-a6e9-a1b03bd73c87",
+       "type": "word",
+       "value": "народилося",
+       "textRange": [
+        167,
+        177
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91705b18-d535-485f-b144-d448cf226f3b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        177,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e739e5f0-4640-40fc-9178-f1321dec90a7",
+         "type": "word",
+         "value": "Кошеня",
+         "textRange": [
+          178,
+          184
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "843dc1a2-7024-4d9f-8a98-f681db267263",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " у неї народилося Кошеня",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3cc2c18e-8ad8-4d0f-ade3-a4c2279fa097",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      184,
+      185
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли киця подорослішала, у неї народилося Кошеня",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "31fa6109-b7f6-4530-bb65-02113b980dcc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7b098035-6b0d-4094-84ef-364e82356060",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9dab67c7-04b7-4bb5-bcd2-4b9d74c4c77d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        185,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ac2fda1-bcdb-48ea-b4f4-2bd952ff2bfb",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        186,
+        190
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "17eecd40-fff1-435f-8128-3cb55b1ee604",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      190,
+      191
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6bbadb26-bcdd-4dfb-a42e-30d0b251fee0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f110163a-b1b4-4c3b-b99e-82f2e9d50520",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02c06abd-63d1-4a38-88b9-d0bbdbae4450",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        192,
+        194
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5459e7dd-758b-4ba9-b97b-02979dfdb879",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        194,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b31cd1d-813a-4181-b33e-ed2e69efc9cc",
+       "type": "word",
+       "value": "кожна",
+       "textRange": [
+        195,
+        200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40e06b00-5323-48c8-8667-1607c74c071a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        200,
+        201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54e99331-eb4c-4ff3-8577-f3c7178a4cbd",
+       "type": "word",
+       "value": "матуся",
+       "textRange": [
+        201,
+        207
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як кожна матуся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c9033128-d3bb-485b-b597-bb750327906a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      207,
+      208
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "640dda28-3d3b-4e19-a64c-db27e4b2003b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "af65f912-8bbb-46b4-9ebb-5802c1baf320",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        208,
+        209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "231a0d68-5b59-432d-9e6e-5166a34853f4",
+       "type": "word",
+       "value": "любила",
+       "textRange": [
+        209,
+        215
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71b05d7e-6a49-4ee0-ba4b-3720686a65ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        215,
+        216
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "facfcb3d-baa0-4a46-8ac0-800ef1aeae05",
+       "type": "word",
+       "value": "своє",
+       "textRange": [
+        216,
+        220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "798ed141-4174-4553-8b77-a98fe1439b88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        220,
+        221
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79087be8-241e-4e2f-9498-23dde1beb158",
+       "type": "word",
+       "value": "дитятко",
+       "textRange": [
+        221,
+        228
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e6d2804-09ee-42d7-86e7-d84f9f9b3bf6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        228,
+        229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f7c4d18-72dd-4958-8bc7-2fcf342e1489",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        229,
+        230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cf3b4d9-74af-47ba-ad4d-e7b00b650bd7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        230,
+        231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5ec0743-8fe2-4c87-9ac3-5ed8ec725e6f",
+       "type": "word",
+       "value": "нічого",
+       "textRange": [
+        231,
+        237
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b7827fe-a58c-4e43-a2f4-0ea8f1bebb30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        237,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c691839-44be-4fb2-bb3c-636d30f1a495",
+       "type": "word",
+       "value": "особливого",
+       "textRange": [
+        238,
+        248
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76f87f51-8356-479c-9c03-6c554bbfbcaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        248,
+        249
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93807e13-cdfe-43df-9807-d7118b69e684",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        249,
+        250
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccb83768-0043-453a-9da7-2cd6463c43fe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        250,
+        251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6354e8bc-7614-46fc-a096-4d62f234541b",
+       "type": "word",
+       "value": "ньому",
+       "textRange": [
+        251,
+        256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f869c47d-b79a-45b9-ab32-fe1902ce2472",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        256,
+        257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1240b0c9-91e3-461f-9e4a-043d9cea0a9e",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        257,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e7a52fe-bffe-4372-9240-722692238828",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        259,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7571c07-0c40-4c3c-9539-f0f56bdec110",
+       "type": "word",
+       "value": "помічала",
+       "textRange": [
+        260,
+        268
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " любила своє дитятко і нічого особливого в ньому не помічала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff6f821f-9c4d-4576-8ac0-e5fb80974fd8",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      268,
+      269
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона, як кожна матуся, любила своє дитятко і нічого особливого в ньому не помічала",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8bcf8058-4d63-459e-bc01-be857181d3d1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1ed90a77-4b32-44fc-b9d0-81a2e27656ee",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c1e8cb0a-5aac-4062-82e6-04bc8352a8e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        269,
+        270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc2a1120-874a-4207-a0cd-13e9d64d121c",
+       "type": "word",
+       "value": "Хоч",
+       "textRange": [
+        270,
+        273
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6fa46f5-784a-4ad2-926e-7b03327b8e49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        273,
+        274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1c55aa5-a943-4164-84e8-2e3c350a95b3",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        274,
+        275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "313cb3d9-67a0-482c-adb7-4dbe0f59003f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        275,
+        276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d191bac-e4c9-4231-afae-b2c694c06502",
+       "type": "word",
+       "value": "вважала",
+       "textRange": [
+        276,
+        283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "648bd359-6319-4909-9865-b7046a62ff94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        283,
+        284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9f3ae31-e123-4b55-b1eb-25cf0cf99464",
+       "type": "word",
+       "value": "найособливішою",
+       "textRange": [
+        284,
+        298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "211d8e11-5f02-41f4-b03f-4c46fb82a60a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        298,
+        299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7a4e1ac-c9be-4827-a9a4-fa40fb52e7c9",
+       "type": "word",
+       "value": "дитинкою",
+       "textRange": [
+        299,
+        307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0726fc72-dc68-4bb7-b01c-4372cb3e92c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        307,
+        308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8cfc9870-ab91-4429-a74e-a7c5baa84af3",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        308,
+        309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3e99c71-3e4c-4184-97eb-11970e12566d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        309,
+        310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ceae9190-8502-449a-93bd-a7de0d244e56",
+       "type": "word",
+       "value": "світі",
+       "textRange": [
+        310,
+        315
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хоч і вважала найособливішою дитинкою у світі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "26594513-7031-48e5-ac87-3a690d6710b1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      315,
+      316
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хоч і вважала найособливішою дитинкою у світі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a405cb7b-82c9-4aa3-b696-94ea0166f505",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fdc5060e-0af8-4858-aeda-5f660dcdb3a8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "42443d49-1f23-4953-a181-b196ccc52b25",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        316,
+        317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "acbf0b88-9c0f-4909-bedf-b5205ce765f1",
+       "type": "word",
+       "value": "Та",
+       "textRange": [
+        317,
+        319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b623fe1a-d843-47e9-a16e-c2698b7fff99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        319,
+        320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67a7ea8c-1aaf-4074-a98b-7c02b2f94ab8",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        320,
+        323
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "506c544e-8b44-4a5d-b387-eb668a770a01",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        323,
+        324
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "506d35a1-2fb9-425d-a183-0723cf274572",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        324,
+        325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba1741aa-e583-43e1-94b7-656665b0d960",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        325,
+        326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "7b6c0d6e-8799-4cd0-9ad2-37b02c086a93",
+         "type": "word",
+         "value": "Кошенятко",
+         "textRange": [
+          326,
+          335
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "37fa8b45-d844-403b-b8ee-8c2919851cd3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0bda1ab6-9fb8-4c5e-8fab-44e7863f90ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        335,
+        336
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b03e8343-d879-4189-ac9d-63934f00f440",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        336,
+        340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b53d9d58-c362-4729-b21d-cb7df968227c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        340,
+        341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "877f18ed-9064-4377-a356-1bf5afdd2b92",
+       "type": "word",
+       "value": "незвичайне",
+       "textRange": [
+        341,
+        351
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Та все ж Кошенятко було незвичайне",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f4725c57-7dc9-47d3-937d-f4adbd058dbd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      351,
+      352
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bbcf3b6b-3681-4868-9907-e4b97db10d43",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      352,
+      353
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Та все ж Кошенятко було незвичайне.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли киця подорослішала, у неї народилося Кошеня Вона, як кожна матуся, любила своє дитятко і нічого особливого в ньому не помічала Хоч і вважала найособливішою дитинкою у світі Та все ж Кошенятко було незвичайне.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,567 @@
+{
+ "id": "ba262c07-0204-44ea-bed7-62f023c1a0f6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "96a4155b-2d5a-4ce2-9de4-065125a8d342",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "07d95498-85fb-411c-832d-b58e67a6b5ac",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "596abc65-af27-4751-8f36-e87c76ac7094",
+       "type": "word",
+       "value": "Ця",
+       "textRange": [
+        6901,
+        6903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ae8b7c2-bd33-47d7-a656-3131207c0638",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6903,
+        6904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0861eadd-8f0a-453c-b018-5cbc4c84bf1d",
+         "type": "word",
+         "value": "Киця",
+         "textRange": [
+          6904,
+          6908
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "95faf9d1-59f6-4641-ac68-c7f1c8ed9565",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0ff144af-f648-4114-8c5f-1035dc926827",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6908,
+        6909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73b5c4ab-fcce-48ae-b8c2-abc012eb11f6",
+       "type": "word",
+       "value": "дуже",
+       "textRange": [
+        6909,
+        6913
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57c63042-b23a-4d57-bccf-bf4822e43525",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6913,
+        6914
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "baa48e4b-0bf7-4e95-a48a-1ab08dc6360f",
+       "type": "word",
+       "value": "сором'язлива",
+       "textRange": [
+        6914,
+        6926
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Ця Киця дуже сором'язлива",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "79188a05-6f73-4407-a694-257a289b5743",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6926,
+      6927
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ця Киця дуже сором'язлива",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d506ea0a-b6f3-4605-aac5-e759e982be16",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "77c549c5-23c5-4d8e-b657-03123e9877c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "128e326d-dd7c-406f-80d1-e835cfd55107",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6927,
+        6928
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4f38b5c-461f-4c95-be4e-5784bf7d0295",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        6928,
+        6929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7cdb224-3673-4701-8056-ad259f832294",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6929,
+        6930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e7b3b2a-b739-463c-824e-f2342f5df834",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        6930,
+        6933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5850d60-dbab-4d85-b362-753df5ce8431",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6933,
+        6934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "132bfbc4-d8b8-45ab-9727-a010ac622752",
+       "type": "word",
+       "value": "тому",
+       "textRange": [
+        6934,
+        6938
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " А все тому",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c68eb810-16ca-4325-b32e-c275fe24c3ff",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6938,
+      6939
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e78cf051-5036-434d-86bf-b4102315128e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0158c9b0-d99c-45fe-8511-164287647c10",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6939,
+        6940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e90a9179-b09c-4146-8e33-c8af15bf4cfe",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        6940,
+        6942
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef8b0647-9c78-4a99-accd-8b8331238a58",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6942,
+      6943
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74970894-0503-4534-9c89-dd41c20077fe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b4a7f91b-e9d4-4003-9f97-580afb0cfd3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6943,
+        6944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1ddc76c-5a24-48d6-90ea-3003646cd868",
+       "type": "word",
+       "value": "ледь",
+       "textRange": [
+        6944,
+        6948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b779b3ad-73dd-4df7-b9f0-8561d1d92c29",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6948,
+        6949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08f8a7a0-df7c-4fca-81db-242e36cc6a84",
+       "type": "word",
+       "value": "побачивши",
+       "textRange": [
+        6949,
+        6958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "954f4539-721d-45c8-8611-eae860c886fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6958,
+        6959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bc790c3-0fbf-4ebb-8a80-ec001bde6aff",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        6959,
+        6961
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ледь побачивши її",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b02d3c0a-b7d6-43dc-85f2-09aeda956ca5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6961,
+      6962
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "67861705-f88a-486d-8690-954f1eb4b3af",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a07eca60-3670-46f2-8709-99c1aaaa1b28",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6962,
+        6963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "418e7b56-3a15-41dd-9f38-e1d3f3516ccc",
+       "type": "word",
+       "value": "усі",
+       "textRange": [
+        6963,
+        6966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "591dce02-1872-41cb-9358-e51bcf46e5bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6966,
+        6967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "612241f3-fb04-438e-9cb1-f9ead6f5ce75",
+       "type": "word",
+       "value": "чомусь",
+       "textRange": [
+        6967,
+        6973
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "271b3b98-7cb2-44c1-89a8-3c370ba62177",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6973,
+        6974
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e09d6146-94f9-4983-96bc-c3b33eca28ba",
+       "type": "word",
+       "value": "розвертаються",
+       "textRange": [
+        6974,
+        6987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f9e020b-6184-47df-8b39-5e5212431447",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6987,
+        6988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3bb5fe6-e131-4b5f-a098-a89a09435d24",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        6988,
+        6989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "043f2005-6bdd-473c-a314-93f82b2fcde8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6989,
+        6990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6021520b-dc50-49bb-9917-17b1916f2645",
+       "type": "word",
+       "value": "ідуть",
+       "textRange": [
+        6990,
+        6995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95118e18-8838-4967-8474-0795e8b74b71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6995,
+        6996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "660a8fc4-1cbc-4e5e-bdbf-eaa65bb00d86",
+       "type": "word",
+       "value": "іншим",
+       "textRange": [
+        6996,
+        7001
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b11aa5cc-d52c-4c4e-9fc8-640036961c15",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7001,
+        7002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "535c6d74-340d-44a5-9e13-a22421201820",
+       "type": "word",
+       "value": "шляхом",
+       "textRange": [
+        7002,
+        7008
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " усі чомусь розвертаються й ідуть іншим шляхом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "201c4b91-3505-4fa2-a4a4-f7ea1bf6d1e1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7008,
+      7009
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " А все тому, що, ледь побачивши її, усі чомусь розвертаються й ідуть іншим шляхом",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a6e0b4ab-5c86-4f9c-b9cb-f44787b3187a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "10d16a9f-1435-4c72-aaea-01492805cd3c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b1dbf8f9-6581-45e8-9133-28e595355653",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7009,
+        7010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "409ecdbc-c844-42bf-865b-e328d1f9c706",
+       "type": "word",
+       "value": "Усі",
+       "textRange": [
+        7010,
+        7013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39bc3dcb-2129-4de3-9869-0d46d8c1cf2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7013,
+        7014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb03763f-1f13-4039-a4b9-36037b19e475",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        7014,
+        7016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aef38bcc-dc42-42bc-a1ce-44c760a47c7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7016,
+        7017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d1518cd-f59f-4f35-8cf4-bf0b9a229ac5",
+       "type": "word",
+       "value": "бояться",
+       "textRange": [
+        7017,
+        7024
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Усі її бояться",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d8b292d-17fb-4881-8935-1970cb2868a6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7024,
+      7025
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "67e590e9-7dee-4e17-b460-7bcf7d46f0a5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7025,
+      7026
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Усі її бояться.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ця Киця дуже сором'язлива А все тому, що, ледь побачивши її, усі чомусь розвертаються й ідуть іншим шляхом Усі її бояться.",
+ "concept": "SYNTAX"
+}

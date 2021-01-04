@@ -1,0 +1,809 @@
+{
+ "id": "cce0dcf9-20f8-44e1-b639-8f80590d9bca",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6cad224e-f41c-418e-8733-1258a13c83b7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4e34d273-e075-436a-a963-12a1d7de73e3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3f30f4cb-d3b7-4d9c-9569-13de3a9982fb",
+       "type": "word",
+       "value": "Ставши",
+       "textRange": [
+        1291,
+        1297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f601f39-b76d-45b0-9446-12e951057b12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1297,
+        1298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdca7e96-808a-4fd8-95d1-54078f94c9fe",
+       "type": "word",
+       "value": "спиною",
+       "textRange": [
+        1298,
+        1304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "974c2929-46fc-45f2-ace9-79d0bd14cbdb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1304,
+        1305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "588932fd-800d-4b01-82e8-e6e589358832",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        1305,
+        1307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6aa31ce4-cf93-4a47-8833-67a74c6c4c8b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1307,
+        1308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f14deef3-9f42-474b-a27d-10c1078e424d",
+       "type": "word",
+       "value": "пройми",
+       "textRange": [
+        1308,
+        1314
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Ставши спиною до пройми",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1d959801-b74a-49ae-807a-aefb475d2405",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1314,
+      1315
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bff11eef-3abd-42b7-9429-83a227794a7b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "68ecb11c-9974-409c-b51d-34019b7d9dc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1315,
+        1316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "50695ac6-9756-4b7e-9290-f737206dcacc",
+         "type": "word",
+         "value": "Левченко",
+         "textRange": [
+          1316,
+          1324
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e5b36b94-a7cb-4efe-912e-8daf8b799b76",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Левченко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f01c29c3-2b1e-4d29-9543-affd9d3de4f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1324,
+      1325
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78f144e3-7090-4978-8405-96f9cc799cc7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f45226de-eed7-473a-bbc1-1bbe3182e608",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1325,
+        1326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd308220-f9e5-48b3-b7e3-ccbc9dcc16b0",
+       "type": "word",
+       "value": "плюнувши",
+       "textRange": [
+        1326,
+        1334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae9b06a1-f533-4c21-ab72-4fcfbcaabe3a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1334,
+        1335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbb5b893-6a64-4aaf-970e-7035a5154b3e",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1335,
+        1337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f1aab58-fda2-4306-9801-6da4065bd01f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1337,
+        1338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5dc6bcac-efca-4ca6-8b40-1eced53c43fa",
+       "type": "word",
+       "value": "устав",
+       "textRange": [
+        1338,
+        1343
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " плюнувши на устав",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bc980e36-2619-4d3b-ab79-87265b49c88c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1343,
+      1344
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8b92c688-8762-4ac3-b84c-0b420f0d7753",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8ba7007b-3d72-4e45-bcfa-53963adaefe2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1344,
+        1345
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21af4747-b761-4066-9f6e-5a5283ed9fee",
+       "type": "word",
+       "value": "запхав",
+       "textRange": [
+        1345,
+        1351
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2717f694-c94b-4548-85af-2a3d024cc683",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1351,
+        1352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39033e18-b1b4-4c6b-b248-6e96e4589442",
+       "type": "word",
+       "value": "руки",
+       "textRange": [
+        1352,
+        1356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b27ff8c2-e559-4caa-83d3-f8e3217e34e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1356,
+        1357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1e5121c-346c-4800-b41f-869f5bca8a90",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1357,
+        1358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71633153-eb03-4f5e-a8ea-4407622e1b91",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1358,
+        1359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e00468df-39b7-4a21-8d64-428b55dec6a6",
+       "type": "word",
+       "value": "кишені",
+       "textRange": [
+        1359,
+        1365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0615f1b6-23dc-412d-827d-0b320124faa3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1365,
+        1366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5ad9fe3-d02a-4f75-bd07-0dc1e93d4cf3",
+       "type": "word",
+       "value": "галіфе",
+       "textRange": [
+        1366,
+        1372
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " запхав руки в кишені галіфе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e70398e4-9768-4d67-bed8-3ff461cb872c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1372,
+      1373
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ставши спиною до пройми, Левченко, плюнувши на устав, запхав руки в кишені галіфе",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "88806593-1dfd-44a7-bd34-80b7d5a49872",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8b962c24-f8f7-4566-aa15-24d7aa5fed58",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "307ff6cb-d1bc-40fa-9c5c-752d999c46ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1373,
+        1374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d17e56a-449b-4158-9433-79da7a4b4cf6",
+       "type": "word",
+       "value": "Примружився",
+       "textRange": [
+        1374,
+        1385
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Примружився",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ac9d08d-45b5-41b6-9159-eeb9df2dee3a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1385,
+      1386
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e8be89ca-c217-4bbe-8ff9-ae8933bb3801",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2fd70e85-499f-4633-ab3b-534c2833b024",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1386,
+        1387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0d6a2fd-51e6-4e93-afad-68285f87401f",
+       "type": "word",
+       "value": "намагаючись",
+       "textRange": [
+        1387,
+        1398
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9acaf48-a95b-4149-9cda-86d63d0a997d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1398,
+        1399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35b3fe7c-f005-4b36-a9b7-b15461e7322b",
+       "type": "word",
+       "value": "уявити",
+       "textRange": [
+        1399,
+        1405
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " намагаючись уявити",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e12749f3-f9bc-453e-ac07-960aed0d53ae",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1405,
+      1406
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "33c01971-bf09-45af-aead-613ca11ab4c4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c0a5d6fd-f53c-417a-a309-2dfd10549e4f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1406,
+        1407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "338ece78-3d46-487c-b3ef-38fd7da69f01",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        1407,
+        1409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "002ab72b-1619-47ca-b9c1-0fb54b5b5180",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1409,
+        1410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03fffd71-0cd7-464f-a5e3-0e904ee85b45",
+       "type": "word",
+       "value": "усе",
+       "textRange": [
+        1410,
+        1413
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f818be70-eaf8-4c72-a449-86038fa85e1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1413,
+        1414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2eed6ca0-2d8b-4572-8f12-95d94d460189",
+       "type": "word",
+       "value": "сталося",
+       "textRange": [
+        1414,
+        1421
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як усе сталося",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a3deeb60-2d92-42f1-825b-18073c91a67a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1421,
+      1422
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Примружився, намагаючись уявити, як усе сталося",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2922df25-f07c-481e-b759-07aa26839788",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9e41bbde-4181-478d-a759-ac16f78ca145",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "60bc346e-6004-4755-ad47-d786ee02d4c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1422,
+        1423
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ca0752a-cda5-45f4-a1d8-ff27a6715004",
+       "type": "word",
+       "value": "Пробував",
+       "textRange": [
+        1423,
+        1431
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06974609-0eda-46b9-9d92-674e0eb714ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1431,
+        1432
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f34a8a5-d448-4c15-9917-29125df9a993",
+       "type": "word",
+       "value": "робити",
+       "textRange": [
+        1432,
+        1438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f04523b5-0008-4f1e-96de-b585fed7de49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1438,
+        1439
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e21b2ee-c5e2-4897-9d65-a3cd0a401371",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        1439,
+        1442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b00806a-2b37-4bb7-8839-7a68ed675f38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1442,
+        1443
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1edecce0-dd41-4cd3-9b1c-41f16d305cde",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1443,
+        1444
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa571087-19ea-4dac-a848-49e34c31d276",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1444,
+        1445
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2121459c-a1f1-41df-aaa1-5014cc7316d1",
+       "type": "word",
+       "value": "раніше",
+       "textRange": [
+        1445,
+        1451
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Пробував робити так і раніше",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e32a32d7-129e-4a34-bc14-37429be201e5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1451,
+      1452
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Пробував робити так і раніше",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "95f3e865-2668-4e4f-9c59-e8b46d81610f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "26845b9e-1658-469c-b2d4-d11bcfc5a258",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a4513168-a343-4fd3-99dc-24fd6db95c40",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1452,
+        1453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f7b3ec9-66fc-4a8b-8c22-f0bc8940474f",
+       "type": "word",
+       "value": "Але",
+       "textRange": [
+        1453,
+        1456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a33bc38-2937-43f8-a3a2-8226303720c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1456,
+        1457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88880474-46ed-428a-af27-bf9aaa309d93",
+       "type": "word",
+       "value": "сьогодні",
+       "textRange": [
+        1457,
+        1465
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e1b1021-244d-46db-b60d-3544ff4fad77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1465,
+        1466
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5dd3e3e4-7741-48c0-9fd0-dbbfabbfb42d",
+       "type": "word",
+       "value": "дії",
+       "textRange": [
+        1466,
+        1469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d7bca6b-e1ff-49e3-90fe-f4a2f166f45d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1469,
+        1470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa7dc7d7-2c41-411e-93d2-ad75fefbf551",
+       "type": "word",
+       "value": "нагадували",
+       "textRange": [
+        1470,
+        1480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0ce3125-c00f-4a3c-9fd0-a263f01b8c8e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1480,
+        1481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e3f64b0-e988-4be8-85ac-cf13652cd2fc",
+       "type": "word",
+       "value": "слідчий",
+       "textRange": [
+        1481,
+        1488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "842ec2b1-5a88-4168-b5a3-8cfc04074089",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1488,
+        1489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d767e42-ea2c-48b9-bab0-5a4ea4880fe3",
+       "type": "word",
+       "value": "експеримент",
+       "textRange": [
+        1489,
+        1500
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Але сьогодні дії нагадували слідчий експеримент",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aa495efe-edf9-4734-bec2-49e30680f529",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1500,
+      1501
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "691b88eb-667d-427a-8bc4-6b9ec6c86b12",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1501,
+      1502
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Але сьогодні дії нагадували слідчий експеримент.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ставши спиною до пройми, Левченко, плюнувши на устав, запхав руки в кишені галіфе Примружився, намагаючись уявити, як усе сталося Пробував робити так і раніше Але сьогодні дії нагадували слідчий експеримент.",
+ "concept": "SYNTAX"
+}

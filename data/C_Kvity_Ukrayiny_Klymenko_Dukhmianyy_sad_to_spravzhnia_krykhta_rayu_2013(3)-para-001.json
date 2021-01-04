@@ -1,0 +1,654 @@
+{
+ "id": "a7088b31-7811-4b4b-b78f-0dcf595c17e8",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f03e0aff-5428-4b3e-bef2-27201352cc01",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5b25308a-fa34-48f2-8b6b-7722edb83cd3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6df478a9-9c43-4dc0-9fb1-e9dde1b264c6",
+       "type": "word",
+       "value": "Лавки",
+       "textRange": [
+        816,
+        821
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Лавки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6f426ff9-03ad-42cd-a601-b30d0f0fbaed",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      821,
+      822
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78fd2658-19e8-44f5-b2bc-0939b64c44a2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3741cc96-8734-44ba-ad5b-d1bd632f4060",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        822,
+        823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89a7f80a-31ef-4414-9e2c-e047b19fb632",
+       "type": "word",
+       "value": "вечірня",
+       "textRange": [
+        823,
+        830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec106aa6-f2f9-473b-b1f0-0e17a4cfd5d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        830,
+        831
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d5f1f71-967a-4dad-8983-3bc800769d99",
+       "type": "word",
+       "value": "прохолода",
+       "textRange": [
+        831,
+        840
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e5243e6-d1f6-43ac-95e8-996a1344747e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        840,
+        841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc91df1b-4aa8-45b6-b2a8-67a6b4bbb720",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        841,
+        842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "450bd824-c569-4782-ae2e-382fcfda19b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        842,
+        843
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5092e67d-2c0b-4b2f-b5d7-a0989642b2aa",
+       "type": "word",
+       "value": "приємні",
+       "textRange": [
+        843,
+        850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81965952-24b1-450f-ad34-eefcf17aa917",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        850,
+        851
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64bb1a0e-191e-45b4-89e2-a55b2d0f45d5",
+       "type": "word",
+       "value": "аромати",
+       "textRange": [
+        851,
+        858
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вечірня прохолода і приємні аромати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "38f108e2-942c-483a-a187-357b4894c2f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      858,
+      859
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "adb3bde7-1ecd-49fa-bd94-48c957a9d0f9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c1ce8635-9dc6-475c-9ab1-73b1eefad4bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        859,
+        860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14e99c20-c593-4adc-af03-f91daa6bcef1",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        860,
+        861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9471c3a-f28a-4d34-80cc-9dc0c350b81e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        861,
+        862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25d8bb81-6705-48e0-bb18-8ccee62bdd29",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        862,
+        865
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8615bf58-c0c9-406d-b751-1212ccd46593",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        865,
+        866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a32e0e4-13d0-4d44-ae95-aabb84d4ac0b",
+       "type": "word",
+       "value": "хочеться",
+       "textRange": [
+        866,
+        874
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42077117-bed1-4492-b233-a6fefb8b4a57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        874,
+        875
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1257132-23de-49bf-8319-921881dd11ad",
+       "type": "word",
+       "value": "залишитися",
+       "textRange": [
+        875,
+        885
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a597a1ea-5473-42ab-b980-f463cd39592c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        885,
+        886
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60b0db48-291e-4588-9241-1556bb4419b4",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        886,
+        887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce7bf7e1-36d9-4b79-ac52-40194f300fcd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        887,
+        888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4715c182-a7dc-4336-9392-5744368698f6",
+       "type": "word",
+       "value": "саду",
+       "textRange": [
+        888,
+        892
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і вже хочеться залишитися в саду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc3531f1-012b-4c18-b3d6-7e1d4f9493a5",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      892,
+      893
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Лавки, вечірня прохолода і приємні аромати, і вже хочеться залишитися в саду",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "344e2fd1-11dc-4152-97f9-9f33cd056a00",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9b17b365-d088-4470-998f-5c342ac7cd45",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ae7b71ca-4f46-4f35-beec-f73beb54fdb4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        893,
+        894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6b1cdd0-c2dd-48f9-9040-c32dc6d6e15d",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        894,
+        895
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "459d416b-03e3-47a9-b8d2-db50883b8dbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        895,
+        896
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d46e5d29-f5d2-496f-a1cd-ceaa3a945aa4",
+       "type": "word",
+       "value": "якщо",
+       "textRange": [
+        896,
+        900
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86657c21-6c45-43fb-83f5-71b75610ff00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        900,
+        901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c28a37ff-db93-40c8-a687-78881ed5bd3e",
+       "type": "word",
+       "value": "увімкнути",
+       "textRange": [
+        901,
+        910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55b325a9-6d3b-4587-9d9c-d2531f2aff36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        910,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c07e7927-d97c-4c10-9678-e060701b4b4f",
+       "type": "word",
+       "value": "підсвічування",
+       "textRange": [
+        911,
+        924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10e587bd-bd4a-4945-98f4-2392ba3a750b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        924,
+        925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "316479f8-22c8-4ca7-81e8-ad4987910deb",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        925,
+        927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4938cd0-49a3-41df-a477-1ce133a5e77c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        927,
+        928
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5fe69e1a-6a41-402b-ae27-0ce8b8f34dcd",
+       "type": "word",
+       "value": "ліхтарі",
+       "textRange": [
+        928,
+        935
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " А якщо увімкнути підсвічування чи ліхтарі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4e80a8fd-0836-4ec9-972a-0f99fc1f5df0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      935,
+      936
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a1c9008d-50ff-4c9a-ba43-dfb7039e41b0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d4c78c1a-005d-4a5d-801c-882eda8a58e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        936,
+        937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77837a03-4339-4cd9-b62f-736b1de3f925",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        937,
+        939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e029501-a3af-4c2d-bc29-8b36eb3c0bde",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        939,
+        940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e402f40-09f7-4a96-a6ee-ed443c0ebb07",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        940,
+        941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b21bd9c-ccc3-4a36-ac72-de07325f205d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        941,
+        942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc711b78-748f-4988-b90a-47d64c5e19d9",
+       "type": "word",
+       "value": "зовсім",
+       "textRange": [
+        942,
+        948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91d345bc-a5e6-4f12-9360-8aa15214c3d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        948,
+        949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77f0fb68-ae8b-48e0-94dc-46680669f0dc",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        949,
+        951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f82786be-5515-410f-8435-f648ed2a08eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        951,
+        952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77b6b426-8ab6-46f5-b4a1-3bcb2c502b01",
+       "type": "word",
+       "value": "хочеться",
+       "textRange": [
+        952,
+        960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "adf9206f-f4c1-4547-a96b-9cff104a89eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        960,
+        961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78d6a549-cdee-4f24-a500-e79ef5d7c27d",
+       "type": "word",
+       "value": "залишати",
+       "textRange": [
+        961,
+        969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cf3693e-9afb-4c84-a401-f5607601966e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        969,
+        970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fad62950-a4cc-47e1-baff-78833c6294fd",
+       "type": "word",
+       "value": "таке",
+       "textRange": [
+        970,
+        974
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f8b6500-8af2-42cd-a099-fa27ccf4fa19",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        974,
+        975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6fe6331f-ad22-4a96-ac0e-5703e30253f9",
+       "type": "word",
+       "value": "приємне",
+       "textRange": [
+        975,
+        982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b779b69c-7e40-4b04-b956-fa0370c4d702",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        982,
+        983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4271242-7d7a-4960-b4d1-1e9ad9f4e8ff",
+       "type": "word",
+       "value": "місце",
+       "textRange": [
+        983,
+        988
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " то й зовсім не хочеться залишати таке приємне місце",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b46297bf-167b-4ea3-9100-4e28c075631c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      988,
+      989
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9c791dfb-a8d5-4fee-900c-827e4a87c4be",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      989,
+      990
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " А якщо увімкнути підсвічування чи ліхтарі, то й зовсім не хочеться залишати таке приємне місце.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Лавки, вечірня прохолода і приємні аромати, і вже хочеться залишитися в саду А якщо увімкнути підсвічування чи ліхтарі, то й зовсім не хочеться залишати таке приємне місце.",
+ "concept": "SYNTAX"
+}

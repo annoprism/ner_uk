@@ -1,0 +1,167 @@
+{
+ "id": "e94f4f0e-1eb5-41f6-9c66-44aa99848e79",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "328c2b03-b978-4a16-9528-06066e76a548",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e24f8f2d-a799-4657-8684-186c3d6387d7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bdefea43-7a00-416d-ba66-541ddb33b383",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        692,
+        693
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52eb4600-8230-479f-84ac-98861aebd69c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        693,
+        694
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53b977ca-cdf3-435d-9411-de85aba7a151",
+       "type": "word",
+       "value": "Слава",
+       "textRange": [
+        694,
+        699
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7db44130-2074-4a2c-b915-cb58c729be89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        699,
+        700
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "107a3ad3-9837-42ab-a86f-fa0c01cc4611",
+         "type": "word",
+         "value": "Богу",
+         "textRange": [
+          700,
+          704
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "25806712-0325-40a4-8f1c-47fdd2c5171a",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "— Слава Богу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "69e6a1fa-bf25-43ea-ab1c-16bdd3c475ea",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      704,
+      705
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Слава Богу",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "482a7dcd-358f-4185-bfa9-1a482727103b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ff237d78-37eb-466b-ab10-b5dcd2c439fd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2113dcda-9da2-4712-adde-c7399b8338ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        705,
+        706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7517fa8-e473-4364-99e9-9c86707d3c49",
+       "type": "word",
+       "value": "Вам",
+       "textRange": [
+        706,
+        709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d064313b-4471-42ed-8ab4-d0d112414dc9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        709,
+        710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b28c4dd0-f66d-4d3b-8877-0239b5b07789",
+       "type": "word",
+       "value": "краще",
+       "textRange": [
+        710,
+        715
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "458c5e36-2509-45c4-9c81-db6d4d85b010",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        715,
+        716
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вам краще…",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba33c6ed-52b0-472f-8bec-6f46fb82bf07",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      716,
+      717
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вам краще…",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Слава Богу Вам краще…",
+ "concept": "SYNTAX"
+}

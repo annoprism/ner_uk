@@ -1,0 +1,1071 @@
+{
+ "id": "2739dd07-981e-470a-a823-b6276b32fc38",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "46f46a83-6edd-445e-9fdc-6ed837138e4b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1e2583b3-7483-4846-890e-f3fa87b880f9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "80b17861-072d-4be2-91c5-a601c682a8cd",
+       "type": "word",
+       "value": "Це",
+       "textRange": [
+        2504,
+        2506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d291abf6-be7b-4125-8719-01472e3be9eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2506,
+        2507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f65b7107-e834-4151-9af0-b14f75c952e0",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        2507,
+        2510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4379d2d-2d38-4ba3-9ca1-d879a132c334",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2510,
+        2511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f91817ba-7bd0-464d-89ec-12e4bf9391ae",
+       "type": "word",
+       "value": "звичайний",
+       "textRange": [
+        2511,
+        2520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd5640c4-db1c-4c28-9be1-4bfe110cf563",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2520,
+        2521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68232d94-5a7e-4863-85ba-7080892c5159",
+       "type": "word",
+       "value": "день",
+       "textRange": [
+        2521,
+        2525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78d7f13d-7185-4109-8ff4-040ac4add9b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2525,
+        2526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca388af8-019f-40de-a485-bd3b0aa6a859",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2526,
+        2527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d8fef67-0957-4f15-b689-f0bf2114514e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2527,
+        2528
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "f3ed7e9d-d233-4106-910a-c35137c7daea",
+         "type": "word",
+         "value": "Рондо",
+         "textRange": [
+          2528,
+          2533
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b6f9b16b-b944-4957-9f1b-bc4ebe5e66f9",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Це був звичайний день у Рондо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "07385d43-c3a2-4b1b-8891-ef99569c30cd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2533,
+      2534
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Це був звичайний день у Рондо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "72d0b7c4-9152-4213-9bef-290aba7b405b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "00a2a875-9777-4234-9fa0-a4cd017cbc89",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7a97b28d-58de-42dc-bf67-c14ea648c90e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2534,
+        2535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a054cee9-d0a9-4728-95ef-c4fdf3dba40f",
+       "type": "word",
+       "value": "Мешканці",
+       "textRange": [
+        2535,
+        2543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "363aa77c-4367-4281-a45c-d8429785bc41",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2543,
+        2544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40df7401-3227-470c-adfa-736578e5395d",
+       "type": "word",
+       "value": "поспішали",
+       "textRange": [
+        2544,
+        2553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0262f0da-24c5-49ed-8e69-3455737b426c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2553,
+        2554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3506ddd5-9fe4-43ed-a93b-46cd5bb40375",
+       "type": "word",
+       "value": "кожен",
+       "textRange": [
+        2554,
+        2559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6039b0b6-ba2b-44ac-ba2a-da03ba999e65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2559,
+        2560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a800326a-b003-4628-9e82-65d5fae3cac5",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2560,
+        2561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfc27d29-125a-4d12-aabc-08225c165587",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2561,
+        2562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abfd236c-236e-499d-9e1d-7fd7512acc3b",
+       "type": "word",
+       "value": "своїх",
+       "textRange": [
+        2562,
+        2567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55385531-75c8-49f0-ad55-bf8895fd1de0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2567,
+        2568
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "89a6fa25-be84-4684-9e4b-df813c915e58",
+       "type": "word",
+       "value": "справах",
+       "textRange": [
+        2568,
+        2575
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Мешканці поспішали кожен у своїх справах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "de5c4ac6-4f97-4b57-bfa0-48237098e8bd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2575,
+      2576
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Мешканці поспішали кожен у своїх справах",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "68a6df69-ed65-4105-89e6-f32a4e3c49e9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6b5a3799-d6ff-48f8-aa82-6c96826fd796",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "82c46610-ff1a-47b3-8f5b-24b6b74c274f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2576,
+        2577
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6db833a9-ce34-4f2b-96bc-94824cb69edd",
+         "type": "word",
+         "value": "Данко",
+         "textRange": [
+          2577,
+          2582
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1b3ba4b4-e19b-4175-94b8-6712c752e15e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "fbb9cde8-54a3-4b79-a32a-828103295f79",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2582,
+        2583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70a266cd-0486-4115-a753-4a52ec82fe3d",
+       "type": "word",
+       "value": "прямував",
+       "textRange": [
+        2583,
+        2591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b97c7f60-2a13-4212-baf6-1321e57cd7db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2591,
+        2592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c29fcb8-8d5f-4b0d-af05-964e1443d174",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2592,
+        2594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b44204cb-2c5a-46f6-9e13-895e6e0dc038",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2594,
+        2595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c7dba32-76b4-4584-880d-decf9963269d",
+       "type": "word",
+       "value": "своїх",
+       "textRange": [
+        2595,
+        2600
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2bf7900-d508-4fff-b671-86b726d5411e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2600,
+        2601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2c37f40-93dd-4a7b-8044-365a29c1ffc2",
+       "type": "word",
+       "value": "друзів",
+       "textRange": [
+        2601,
+        2607
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Данко прямував до своїх друзів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e71d48fd-b68e-44f1-b745-ddbec3efb5f0",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2607,
+      2608
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6f4db202-7622-4f33-b63d-dc89bf1d9ce7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3e929458-3d3c-4e6a-bd3a-343f41f00dd5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2608,
+        2609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97eb1f11-c15d-4199-a62a-e117c6bb0b5e",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        2609,
+        2611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f98ddb2b-f817-4c04-91a2-145e3c703584",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2611,
+        2612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2905da29-a14c-4247-ba21-03afdb95441e",
+       "type": "word",
+       "value": "знав",
+       "textRange": [
+        2612,
+        2616
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо знав",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9ac348f2-9a99-4c1c-b14f-7dac4517d53c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2616,
+      2617
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "360e887b-5481-4e68-8477-225154112263",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ce728e65-b558-4d56-b2bb-96d7d914cf2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2617,
+        2618
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c5e825c-29bb-4c0e-ab06-07d49feae92b",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2618,
+        2620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d56bdaec-1d60-4e09-8639-4fb2de17e76c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2620,
+        2621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "95283a12-6515-4b94-b952-a9f6ad878968",
+         "type": "word",
+         "value": "Зірка",
+         "textRange": [
+          2621,
+          2626
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fe377518-0414-4d00-ad58-f5ecc609b794",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "57f63319-c153-4256-a437-dc600c775324",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2626,
+        2627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "608ca21a-b405-41cf-9802-c8e39627cc79",
+       "type": "word",
+       "value": "саме",
+       "textRange": [
+        2627,
+        2631
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d74b0d9-b440-42e1-a3a6-97c1079a1c67",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2631,
+        2632
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a9f1826-71f5-4c1a-a767-159292db4183",
+       "type": "word",
+       "value": "повернулася",
+       "textRange": [
+        2632,
+        2643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "339efba4-87af-4d06-b20f-f808f929dccf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2643,
+        2644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c94e0984-222e-4b6e-aab4-cfaca6b7bfcf",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        2644,
+        2645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c5da4fc-3006-48e9-8d32-63bb9c2cbcf8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2645,
+        2646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed7e41ac-b0f0-468f-9991-dd4db77f50a8",
+       "type": "word",
+       "value": "мандрівки",
+       "textRange": [
+        2646,
+        2655
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e94d0563-d6df-40dd-bc85-27f814fd3924",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2655,
+        2656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6146fdda-59cb-4c8e-bc34-1417f285321e",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2656,
+        2657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72f76eef-eed2-4ebc-a3ce-6038c459c33b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2657,
+        2658
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44c8aebc-6f51-4e60-a636-71974c6fb15c",
+       "type": "word",
+       "value": "мала",
+       "textRange": [
+        2658,
+        2662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76b23ad3-70a1-451a-bdfb-4d7d85359e2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2662,
+        2663
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52f2e7a9-446a-4139-b6c1-1da39fda1f79",
+       "type": "word",
+       "value": "купу",
+       "textRange": [
+        2663,
+        2667
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "987ad0de-f628-4a49-8e74-65036b78dee3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2667,
+        2668
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38766b71-d033-4e36-8a04-bbc44be9f0bd",
+       "type": "word",
+       "value": "нових",
+       "textRange": [
+        2668,
+        2673
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f26892e-cea4-4674-80e3-99f78fa6356c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2673,
+        2674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8aa477f2-0862-45e8-a873-6421660b8d8c",
+       "type": "word",
+       "value": "історій",
+       "textRange": [
+        2674,
+        2681
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b1a65ae-8751-4f28-b9ab-cb5cc0fd8e9c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2681,
+        2682
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d1813f4-36a9-44e7-a386-324f9596f00d",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        2682,
+        2684
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52196eb2-86dd-4169-be4f-85ef4a85e137",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2684,
+        2685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5f4ae77-4d91-4c5e-9128-95360fff1a02",
+       "type": "word",
+       "value": "малюнків",
+       "textRange": [
+        2685,
+        2693
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що Зірка саме повернулася з мандрівки і мала купу нових історій та малюнків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e0b5838b-7c37-48a7-a514-97ab0c366f9f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2693,
+      2694
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Данко прямував до своїх друзів, бо знав, що Зірка саме повернулася з мандрівки і мала купу нових історій та малюнків",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ae3ecd52-d560-43f8-9857-4c9b3f357dfa",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3bcdc593-d9fe-44ca-bae2-9f36bc92471f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3db31407-d563-403c-8c70-a7ba0a80a33d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2694,
+        2695
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0351ef6a-50a5-4d68-b49b-ae84835064de",
+       "type": "word",
+       "value": "Світило",
+       "textRange": [
+        2695,
+        2702
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a800934-e7c9-4e12-959c-28a0a83d60e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2702,
+        2703
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afeff699-e7e7-45ec-a7c0-5d5c1dfcf10c",
+       "type": "word",
+       "value": "сонце",
+       "textRange": [
+        2703,
+        2708
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Світило сонце",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "21b0d996-7236-48b1-985f-70bbc51bd3c8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2708,
+      2709
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c6186c3d-8944-4272-8d45-5100f7b77820",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3726464f-8d57-4d77-b750-fb9e69184fc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2709,
+        2710
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1ce679ad-9561-4734-afb6-84bd62bdd99d",
+       "type": "word",
+       "value": "співали",
+       "textRange": [
+        2710,
+        2717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc9d396f-5e22-4372-bc13-c747667f458b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2717,
+        2718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ddf73128-3e8f-4481-9bc4-0389fd243325",
+       "type": "word",
+       "value": "квіти",
+       "textRange": [
+        2718,
+        2723
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a7d04ca-3023-46b3-b8ff-ebbdff3e23f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2723,
+        2724
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55aefd09-6292-421f-85f5-e153d014e058",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        2724,
+        2725
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4942b27f-5d8a-492a-9d27-0c0ec7257de3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2725,
+        2726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6cf3aca-c087-4401-821e-9ea6e21410ef",
+       "type": "word",
+       "value": "птахи",
+       "textRange": [
+        2726,
+        2731
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " співали квіти й птахи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8bfa6ba4-4f64-4eda-bd82-9f3d8a598f98",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2731,
+      2732
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Світило сонце, співали квіти й птахи",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "4975e773-a99c-4b49-b6b8-c2d59916ff16",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5e375008-d4bb-410d-8b10-c981db5ac342",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2270c43a-1657-48bb-a1bb-b216a4cf5089",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2732,
+        2733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d128f0af-036d-4027-aecc-70a021d1b54e",
+       "type": "word",
+       "value": "Все",
+       "textRange": [
+        2733,
+        2736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1691895-09e6-497b-a437-b85241cd26fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2736,
+        2737
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "624f7873-2fb4-4182-a6e8-4ca7c25c1d23",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        2737,
+        2741
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Все було",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43de8dff-3ab2-43fd-b4f0-2ac7262a89c3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2741,
+      2742
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4b6cf87-c4b0-4326-ad70-65377376bc46",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1ddc2c6e-1c86-46c5-b46f-25dada34d53e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2742,
+        2743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c4ce613-7f72-4262-81cc-b12d6ab2b047",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        2743,
+        2745
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97b56a74-cce5-410c-8c07-fff8af709c8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2745,
+        2746
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1d50186-6d7b-4f29-93f2-e772042d6fcd",
+       "type": "word",
+       "value": "завжди",
+       "textRange": [
+        2746,
+        2752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3a52256-9ca3-431d-87f0-29e6a9c5af66",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        2752,
+        2755
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як завжди...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1b4595f3-3114-4b39-ab17-34428c8902ae",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2755,
+      2756
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Все було, як завжди...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Це був звичайний день у Рондо Мешканці поспішали кожен у своїх справах Данко прямував до своїх друзів, бо знав, що Зірка саме повернулася з мандрівки і мала купу нових історій та малюнків Світило сонце, співали квіти й птахи Все було, як завжди...",
+ "concept": "SYNTAX"
+}

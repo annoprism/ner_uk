@@ -1,0 +1,991 @@
+{
+ "id": "50dfb8dd-bdc7-4816-9bbb-393bb7aa995c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b84353cd-3a14-47da-915c-6bc4cfbb5a2a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3118a3d7-0caf-4a64-889f-d56aa6dbf8ac",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5848300d-e76b-422d-8492-323b79a96212",
+       "type": "word",
+       "value": "Шостий",
+       "textRange": [
+        1781,
+        1787
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b7b6d46-e28e-4b56-b8c2-5641753448f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1787,
+        1788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba91761e-9275-46c8-88b7-3ecb44354d3f",
+       "type": "word",
+       "value": "сувій",
+       "textRange": [
+        1788,
+        1793
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "739d0888-0d66-4e4a-ad1c-a43ef064a8cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1793,
+        1794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "599b0470-c02f-4950-8496-b0f52d72c77b",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        1794,
+        1797
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f3e366c-30ac-4d0b-8f90-2feaf235afd3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1797,
+        1798
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70bd3569-cae5-4c8e-9a7e-a311a39b8584",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        1798,
+        1801
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab90e623-4083-406a-b85e-a357a9523554",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1801,
+        1802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fae73f17-a455-47cb-8786-20b1bea7aa71",
+       "type": "word",
+       "value": "загадок",
+       "textRange": [
+        1802,
+        1809
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Шостий сувій був без загадок",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e369921e-dcfb-41ef-968c-1018b70a016a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1809,
+      1810
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Шостий сувій був без загадок",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fc83a0f3-9ca1-46d1-a4b5-f892211a1c9a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1413083e-712a-4443-9e69-c4c772850e91",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fb627698-d345-41e4-895f-6407b1e78879",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1810,
+        1811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "526cbb93-592d-4882-946c-aad1304f5090",
+       "type": "word",
+       "value": "Одруження",
+       "textRange": [
+        1811,
+        1820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bff62ff4-50cb-42b5-84f8-c7e228102052",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1820,
+        1821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e63edd04-dcc4-46f1-b1de-008f13211e1f",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1821,
+        1822
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6d78c18-ef8d-453d-8a02-0d9466513449",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1822,
+        1823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d7be053-d2bb-4b07-97b3-6a69b7791e8d",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1823,
+        1825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "267f8273-669e-4ea5-a6c0-f199b01c97a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1825,
+        1826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cbf2251d-d8f9-444c-8ddd-ff761032fb28",
+         "type": "word",
+         "value": "Оленкою",
+         "textRange": [
+          1826,
+          1833
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "94d3106e-a26b-4d7d-a6a4-f6e9121ddb85",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Одруження з не Оленкою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "005829a5-fd47-49ff-8ce7-79f2cbf8dbd8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1833,
+      1834
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9b0f701b-d14a-461a-b090-67b2826ed048",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7d936fda-9cea-4e69-a32a-f0efd36b34a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1834,
+        1835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f24fa1e5-0ad5-4524-b397-438c61b3284b",
+       "type": "word",
+       "value": "багатодітна",
+       "textRange": [
+        1835,
+        1846
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90811edb-22a3-4420-9a01-eba65dd31ccc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1846,
+        1847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7026bc0c-c3c6-4d38-b15c-65606abf202a",
+       "type": "word",
+       "value": "родина",
+       "textRange": [
+        1847,
+        1853
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " багатодітна родина",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cca4a6ad-a0b2-4981-9fee-3de12e6f57d6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1853,
+      1854
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3d4210bf-5228-4b7c-953a-a966781f8378",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9e8ec4f1-a51c-492b-afb9-e180e6e98652",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1854,
+        1855
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a6a9364-b99b-4266-98b9-65fc6fca9f1b",
+       "type": "word",
+       "value": "господарство",
+       "textRange": [
+        1855,
+        1867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c00bb83-77d1-446f-bcf7-12b622662d08",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1867,
+        1868
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6a84ffa-f9e8-485a-9250-f04e7499eaab",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1868,
+        1869
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83514d27-022c-4ddd-af41-ea7e4f8f4f9f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1869,
+        1870
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "3c62d6eb-655a-4c0f-b25c-3869d39ffc61",
+         "type": "word",
+         "value": "Лохвиці",
+         "textRange": [
+          1870,
+          1877
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "17af0b55-a7dd-40cf-a884-7c985aed4a99",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " господарство в Лохвиці",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "895222c4-9e15-49a1-9d11-cb31e23432f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1877,
+      1878
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "838a88c9-5efb-437b-9898-6f0dc1b72f21",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "806ac8c9-a933-4810-abce-d5d706123cea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1878,
+        1879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "696103e1-f171-4fcd-89c2-44386b5f46f8",
+       "type": "word",
+       "value": "учительська",
+       "textRange": [
+        1879,
+        1890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e472805b-bc16-42ab-ab10-495729816ef5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1890,
+        1891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9505916-d49e-46ac-916b-88cb27c45813",
+       "type": "word",
+       "value": "праця",
+       "textRange": [
+        1891,
+        1896
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " учительська праця",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6da86cec-89a9-43c5-ab7f-506c9f68af79",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1896,
+      1897
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c47f1445-087c-4a9a-9cb3-02cabf579541",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9d766403-21a2-45ee-a7c6-ebe4e1c575d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1897,
+        1898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc9bf88a-7218-4420-b755-edc9e6baf004",
+       "type": "word",
+       "value": "тихе",
+       "textRange": [
+        1898,
+        1902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab34734b-0f0e-4c47-aa31-115c90659594",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1902,
+        1903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b23d4c77-2fb1-4b81-a14e-249949d99702",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1903,
+        1904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ffacd7e-a77b-4beb-97d8-7776c9886494",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1904,
+        1905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b86e7d6-75d8-44d8-8313-e5d189b68624",
+       "type": "word",
+       "value": "непримітне",
+       "textRange": [
+        1905,
+        1915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a316765-03d3-4965-b1d5-614755baa902",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1915,
+        1916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6d5b7eee-a05a-4adf-ac43-c61e70dc4cfc",
+       "type": "word",
+       "value": "життя",
+       "textRange": [
+        1916,
+        1921
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тихе й непримітне життя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b3e2bdc5-df32-46fc-b614-34b20962340f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1921,
+      1922
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Одруження з не Оленкою, багатодітна родина, господарство в Лохвиці, учительська праця, тихе й непримітне життя",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fb7aea1a-4af7-49ba-bfec-0074ac971ad4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "de02688c-e280-4bb6-b9bb-11146134b6fb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "47f495ec-8edb-4d76-ab58-c66ff2e2382e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1922,
+        1923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82bcc2cb-fe32-4a56-9804-7542d9d28c25",
+       "type": "word",
+       "value": "Відтак",
+       "textRange": [
+        1923,
+        1929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ce3e57d-7afa-4085-b89d-3a4d664fa279",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1929,
+        1930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba333095-79a8-479a-9ff0-ddd80db4f936",
+       "type": "word",
+       "value": "діти",
+       "textRange": [
+        1930,
+        1934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1167780e-403a-4ba4-95bc-30ed1825197e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1934,
+        1935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1f2bfcf-1e4a-4acc-9874-db2cf0013580",
+       "type": "word",
+       "value": "потроху",
+       "textRange": [
+        1935,
+        1942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66736da9-e2b3-42c3-aa53-e78c8b5cde52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1942,
+        1943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efa1f846-bf82-4207-8bb9-daea014d321d",
+       "type": "word",
+       "value": "вивчилися",
+       "textRange": [
+        1943,
+        1952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5c6acf0-ce8c-4cd7-8efd-1fe8f67f8619",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1952,
+        1953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0455851e-ed26-477a-b53e-5f7b0a74f449",
+       "type": "word",
+       "value": "б",
+       "textRange": [
+        1953,
+        1954
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Відтак діти потроху вивчилися б",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "605581c8-bad0-418a-bb04-d455d644101b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1954,
+      1955
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "03374ce6-3256-487b-8731-b15c2a294e58",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5eea615b-159f-493b-bbec-6fa096691f49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1955,
+        1956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb027eac-0a9d-40f4-8534-a3f6e2e44dd4",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1956,
+        1958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff6b5a38-e3d4-4e38-8b0c-26155d4eab38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1958,
+        1959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "391a2dbb-03a1-4eb7-83fd-b448395b9355",
+         "type": "word",
+         "value": "Оленка",
+         "textRange": [
+          1959,
+          1965
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e7a575c8-18a7-4272-b847-0bf0b3d3d52e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f2d99081-dca1-414b-a28d-2510b3053560",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1965,
+        1966
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f42ba3e-52bc-4fc4-9613-45b5e07eb910",
+       "type": "word",
+       "value": "померла",
+       "textRange": [
+        1966,
+        1973
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не Оленка померла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed797347-7a08-4db0-83a9-9d4a4ed2adb3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1973,
+      1974
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "41873060-8d08-4111-a8dd-59604851a240",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8402aea2-d77f-431f-ba93-8be6e3f60458",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1974,
+        1975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c96f54dc-a1ba-44ed-8659-0e34f5b0b361",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        1975,
+        1976
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49415a3b-8b6d-4416-896f-6851638470da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1976,
+        1977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23844092-ebea-49f6-8cf1-a8a477dda39a",
+       "type": "word",
+       "value": "потім",
+       "textRange": [
+        1977,
+        1982
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а потім",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "55096d14-f24e-4140-90f2-add9de514399",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1982,
+      1983
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "21dbdaae-0feb-4d75-bc49-d4a6ea88846e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "53fc29c0-09ba-4431-a943-64b276666663",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1983,
+        1984
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0fe57823-8121-491a-a48d-f0a030aed36b",
+       "type": "word",
+       "value": "через",
+       "textRange": [
+        1984,
+        1989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ca4ad56-433d-4cff-bc86-5d6f1757baec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1989,
+        1990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca063f5e-e20b-4057-b6ee-23e1c90cf4f2",
+       "type": "word",
+       "value": "кілька",
+       "textRange": [
+        1990,
+        1996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb5654a8-7d2f-48ba-ac52-a4ad96a6b5f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1996,
+        1997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9481298-7a1d-4061-8169-caba4693f83a",
+       "type": "word",
+       "value": "років",
+       "textRange": [
+        1997,
+        2002
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " через кілька років",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "87a05c2a-7d84-4627-9bb9-3589a0ba2dbf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2002,
+      2003
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ba64d550-e786-498b-8358-1868ed1a5398",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cef77100-b57f-4946-8313-56e6587dcec6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2003,
+        2004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edc27d1a-de00-41b0-9c32-af181d460008",
+       "type": "word",
+       "value": "помер",
+       "textRange": [
+        2004,
+        2009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a50d86f6-2e2d-4585-b5f8-cdee2bdc2157",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2009,
+        2010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5fc3def-0327-4fce-8d01-bd978a4c5c4c",
+       "type": "word",
+       "value": "би",
+       "textRange": [
+        2010,
+        2012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67177645-8e1a-46d8-8d70-eb75bf3d3deb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2012,
+        2013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ea4da8e-ef5b-4a0d-8ec9-1f4b87c5d889",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        2013,
+        2014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e54cf8a-f64b-4a80-ae0a-5f0f10790c58",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2014,
+        2015
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5733f58-9a5f-47dc-8177-31c17bba700d",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        2015,
+        2018
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " помер би й він",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "93c56d11-dc5f-4dba-9a54-6095a40c5659",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2018,
+      2019
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8288814c-5344-4fa4-920a-275640aba3ce",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2019,
+      2020
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Відтак діти потроху вивчилися б, не Оленка померла, а потім, через кілька років, помер би й він.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Шостий сувій був без загадок Одруження з не Оленкою, багатодітна родина, господарство в Лохвиці, учительська праця, тихе й непримітне життя Відтак діти потроху вивчилися б, не Оленка померла, а потім, через кілька років, помер би й він.",
+ "concept": "SYNTAX"
+}

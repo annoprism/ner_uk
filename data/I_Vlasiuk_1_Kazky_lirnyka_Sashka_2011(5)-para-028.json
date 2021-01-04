@@ -1,0 +1,654 @@
+{
+ "id": "d7bfa67c-8694-41ed-9662-771dfc735e8d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a955620c-2e24-4bcc-8aae-ff3d7db94dae",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f409f744-fc85-4428-97b1-bde13b1b4d3f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2bb4369c-a5f2-4d83-b1a8-aac03d02290a",
+       "type": "word",
+       "value": "От",
+       "textRange": [
+        3914,
+        3916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10c7ecfe-c72a-4552-9f07-f8114159eb65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3916,
+        3917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20ae1443-da58-4cec-86bb-a6faa630c07b",
+       "type": "word",
+       "value": "я",
+       "textRange": [
+        3917,
+        3918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7aa06bc0-fdb6-41a6-980c-b1dbf7d7c3c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3918,
+        3919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe155d6c-2443-4ab1-bfbb-63021eb7f27a",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        3919,
+        3920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "332e2977-bfe1-4975-b05a-6b243b797566",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3920,
+        3921
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a53e59a-a5b7-4a05-aa2a-2617fea5611c",
+       "type": "word",
+       "value": "полював",
+       "textRange": [
+        3921,
+        3928
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "172d1472-b6f8-4f72-8c45-63e8900cf9c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3928,
+        3929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec8e188d-018b-4442-b1e7-2f0481cdf535",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        3929,
+        3931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41956a6d-5897-42cb-80c3-747319197976",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3931,
+        3932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fa5c94d-00c6-4409-8611-d343ec0e50be",
+       "type": "word",
+       "value": "тією",
+       "textRange": [
+        3932,
+        3936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a749b2eb-965c-448d-97e1-130f1252658e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3936,
+        3937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "6792160e-8016-481f-a3de-5b948fc4e71d",
+         "type": "word",
+         "value": "Квіткою",
+         "textRange": [
+          3937,
+          3944
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4a44a42e-c516-4289-aea3-0e9df2111f6e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "От я і полював за тією Квіткою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74c92bc9-d308-49e8-b21e-442725f3f8cc",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3944,
+      3945
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37ad96d5-4ebf-4d66-9528-ad049af84e5e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "aeaad22d-92f9-4b66-9972-35b264c99c48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3945,
+        3946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "754d33de-1078-4937-85ea-bd6970ad4986",
+       "type": "word",
+       "value": "коли",
+       "textRange": [
+        3946,
+        3950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5779d3fb-855c-463f-ad6b-7da27db6bd07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3950,
+        3951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c6ba35-e94f-46a7-8c32-250af080ba0e",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        3951,
+        3954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "656afbcf-1054-442e-bcf4-e5c4458297c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3954,
+        3955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa1808b9-ab33-487b-8856-d84c9ab159e4",
+       "type": "word",
+       "value": "молодий",
+       "textRange": [
+        3955,
+        3962
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коли був молодий",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52e2c327-2bf2-426a-a3b4-479e171fe8be",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3962,
+      3963
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "От я і полював за тією Квіткою, коли був молодий",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "05b75bfe-8b38-4395-8d18-aa9a4c10c1c4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c0c47a1b-07e6-4b31-8b51-1673d327391e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4600e780-b9f3-40af-9095-82166cfcbe2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3963,
+        3964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3edfcde-8c29-46df-9b31-5c675acf0c4d",
+       "type": "word",
+       "value": "Все",
+       "textRange": [
+        3964,
+        3967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e2586f3-e7cb-4fc5-b94f-a7498340f7ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3967,
+        3968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63f4b560-81a7-415e-8a6b-352fa7c50889",
+       "type": "word",
+       "value": "мріяв",
+       "textRange": [
+        3968,
+        3973
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Все мріяв",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f3fd841e-363d-45a7-8939-88c1f1db5443",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3973,
+      3974
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eaf529aa-7f19-47ed-b6c1-de070e764ab5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f230253b-eea6-4918-aa3c-f7cd73059bec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3974,
+        3975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4b8d512-6fe8-4961-9f27-d9ee01f86e96",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        3975,
+        3977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7d77ad7-2be7-446d-b564-8818b5358098",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3977,
+        3978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cb02418-1f16-4744-8657-4632ec33b52f",
+       "type": "word",
+       "value": "мені",
+       "textRange": [
+        3978,
+        3982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e91c384-5768-40b8-be3d-0834ca4e0d72",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3982,
+        3983
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "781f3a81-a7e1-412e-9778-d0839913d4ba",
+         "type": "word",
+         "value": "Квітка",
+         "textRange": [
+          3983,
+          3989
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4af7e196-ea5d-4fbb-abd8-b381c3d97d02",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "295a52b5-5631-438f-b277-f8372ce5d4db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3989,
+        3990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44d9277a-9e57-4586-abb5-3818ca4a9002",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        3990,
+        3992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e85fa375-b1d8-4e57-9d0b-ecc8d6347ed4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3992,
+        3993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "779b89a8-81fb-4f4c-8b54-6a65492426c0",
+       "type": "word",
+       "value": "рук",
+       "textRange": [
+        3993,
+        3996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf0c6fed-8c4c-4b61-a27d-de790a28ed12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3996,
+        3997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8639de75-da9f-484d-8ecb-8078806ed82c",
+       "type": "word",
+       "value": "піде",
+       "textRange": [
+        3997,
+        4001
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що мені Квітка до рук піде",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "15aae58d-5c86-4f62-9012-91a8073db01c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4001,
+      4002
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Все мріяв, що мені Квітка до рук піде",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "34467c09-db00-43ac-aa19-1d47412f2533",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "3839c927-47f4-41c9-b38b-57880ed7deee",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "10a36cd3-4293-484b-b785-db0fbf77c456",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4002,
+        4003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61307757-2ad2-4393-8edf-2d200e84d387",
+       "type": "word",
+       "value": "Нікому",
+       "textRange": [
+        4003,
+        4009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6779a02a-e19d-45bf-93a7-61b10924e9f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4009,
+        4010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfea870c-5eea-481d-987e-3f63db669050",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4010,
+        4012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4811e029-7569-49f0-bef8-153f25e8b369",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4012,
+        4013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29466131-3798-4bd3-a1dd-60c0dda7edf3",
+       "type": "word",
+       "value": "йде",
+       "textRange": [
+        4013,
+        4016
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Нікому не йде",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f8a5ce76-35c8-4d8f-8b1f-6cc482edf9f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4016,
+      4017
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d39f203f-aad6-4026-a88b-b67f0b7a5dfa",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7abbf8c6-c751-4afa-ab0d-fd8a7768dd96",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4017,
+        4018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb42bff9-9f8a-44ce-93be-337a8e90b7d0",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        4018,
+        4019
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4df1f9c3-1c1d-490f-aaa8-7a786ef130ae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4019,
+        4020
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da32b694-b875-47d5-843e-61a1dbf46ac1",
+       "type": "word",
+       "value": "мені",
+       "textRange": [
+        4020,
+        4024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04299968-69bc-4360-968e-79f0e897f94a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4024,
+        4025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7bad09d-11ec-4bf6-9114-9cd22543808e",
+       "type": "word",
+       "value": "таки",
+       "textRange": [
+        4025,
+        4029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "621396bf-2a69-4072-a0fd-0996933de62b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4029,
+        4030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c77d8929-b1a3-41f1-85a7-4b23a78f68fe",
+       "type": "word",
+       "value": "піде",
+       "textRange": [
+        4030,
+        4034
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а мені таки піде",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "191dbe2a-0192-460c-a427-a02d6d9c5676",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      4034,
+      4035
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4eda561-2a1d-4be4-bfc8-b2efba0e40f6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4035,
+      4036
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Нікому не йде, а мені таки піде!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "От я і полював за тією Квіткою, коли був молодий Все мріяв, що мені Квітка до рук піде Нікому не йде, а мені таки піде!",
+ "concept": "SYNTAX"
+}

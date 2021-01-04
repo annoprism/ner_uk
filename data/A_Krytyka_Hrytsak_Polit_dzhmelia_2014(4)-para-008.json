@@ -1,0 +1,628 @@
+{
+ "id": "16f83c16-c13d-4568-ad0e-3fec935dab6b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b7edec16-6a75-4df5-8093-c13fd96c5320",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ba525067-4ffc-467f-a52f-8e8db64a7a1a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8087c4f3-f7c8-4590-9492-9110dd6270c9",
+       "type": "word",
+       "value": "Цього",
+       "textRange": [
+        4597,
+        4602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "32554ae0-1f89-4c93-91c6-a3b5ea2347f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4602,
+        4603
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e5542df-3cbc-4260-95e9-f53f532d001b",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4603,
+        4605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9535ada-9487-47e8-b51d-074d9b8b5332",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4605,
+        4606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a67862e-62c4-4e9c-ae93-88e3f2a92a24",
+       "type": "word",
+       "value": "сталося",
+       "textRange": [
+        4606,
+        4613
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Цього не сталося",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "625cc29c-df95-4010-a184-6cd6dd412715",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4613,
+      4614
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Цього не сталося",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e1a49bb0-3a05-459d-b257-0c5af3f1c1e7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2c0e6cd7-4acb-4896-a624-49ec1a5ed366",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9119ea80-40b0-4222-bda7-af06821ff2d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4614,
+        4615
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c70fabbc-7ece-4163-84a2-5af4e92a1db9",
+       "type": "word",
+       "value": "Справді",
+       "textRange": [
+        4615,
+        4622
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Справді",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c6ba1d90-0ddd-48fe-a910-05b4aec88406",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4622,
+      4623
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "24374930-880a-4c84-ac6f-f886f770de07",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a96b49d3-291a-4f31-8196-fa03212a7ad8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4623,
+        4624
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95010e16-9e2f-4e95-bb2a-e1b07a6e9f7a",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        4624,
+        4625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9195d46c-7077-4147-bcf9-5692fe1728b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4625,
+        4626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "001de806-80e6-4a9d-b11e-fb8a7fb9227e",
+         "type": "word",
+         "value": "Харкові",
+         "textRange": [
+          4626,
+          4633
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "823b49cc-47a2-485e-a621-ce7530bc085f",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " у Харкові",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6cdbc6d4-e4a6-4660-a498-6357363f314a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4633,
+      4634
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "68dd7a5a-0a39-457f-9591-a39d3e20dce7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ee9e4536-58bb-43dd-9382-9d3723ea9a27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4634,
+        4635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "62c6bebd-9c82-48c3-ae83-3b0242e4484f",
+         "type": "word",
+         "value": "Донецьку",
+         "textRange": [
+          4635,
+          4643
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e574e205-cf21-43ab-89eb-fb01a5259bcf",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ada81baa-5e6b-408a-9449-40b394c255f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4643,
+        4644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bb5cfa8-37eb-4628-8871-b5c372cd1772",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        4644,
+        4645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "564b3028-0772-44e5-93b5-927a53626907",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4645,
+        4646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cd40c87-0f78-4b4a-a9ae-3e7691a29c14",
+       "type": "word",
+       "value": "інших",
+       "textRange": [
+        4646,
+        4651
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9befd80-5379-4ba9-a372-2c28e9adaab5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4651,
+        4652
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbdacc7e-8597-4cfe-a2f2-ff630f7b5f5d",
+       "type": "word",
+       "value": "великих",
+       "textRange": [
+        4652,
+        4659
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e36ba1a8-42b7-47ac-a378-76efdd52dbcb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4659,
+        4660
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "752126cc-d229-46de-9932-e33bf1d875e9",
+       "type": "word",
+       "value": "містах",
+       "textRange": [
+        4660,
+        4666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a581f337-0688-4d5d-a62f-77ff2dbf6423",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4666,
+        4667
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "8b526663-0077-4f2b-9f32-0b57a4180c38",
+         "type": "word",
+         "value": "Півдня",
+         "textRange": [
+          4667,
+          4673
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "50edc6da-7e52-4e0e-9002-8854b28c8295",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "761a534b-dbaa-4ff7-b4cd-1587a5383227",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4673,
+        4674
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b848482e-9f38-4b55-b952-9351a1bcb203",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        4674,
+        4676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f48d808-3ff1-49a6-906b-8039dc04628f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4676,
+        4677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "9d429f31-ddfd-4bbe-9835-4b80cb9b89ab",
+         "type": "word",
+         "value": "Сходу",
+         "textRange": [
+          4677,
+          4682
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "946fffaf-397b-4fec-a563-3d5120f288b9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d306cee6-abcb-4d59-922e-7ad0cd2d3025",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4682,
+        4683
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c06aad65-5364-418d-8711-2ce14ab4fc51",
+       "type": "word",
+       "value": "були",
+       "textRange": [
+        4683,
+        4687
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6466ab47-3acd-4005-a598-20011e2913bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4687,
+        4688
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "445d0d70-8810-40e1-8e8e-1a700c18c55d",
+       "type": "word",
+       "value": "проросійські",
+       "textRange": [
+        4688,
+        4700
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31320f59-2c21-4e0d-a2db-935095f31124",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4700,
+        4701
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "089401c1-dc67-4ab7-8b86-647584a0b190",
+       "type": "word",
+       "value": "демонстрації",
+       "textRange": [
+        4701,
+        4713
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Донецьку й інших великих містах Півдня та Сходу були проросійські демонстрації",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b9e4c85a-939d-4536-8810-f1e97bd9f471",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4713,
+      4714
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Справді, у Харкові, Донецьку й інших великих містах Півдня та Сходу були проросійські демонстрації",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2c353eb5-056a-4f87-bbd0-b31c036831cc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "dbd6da22-85e5-418b-af52-14e3369465f8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d4a6761c-18be-4a36-9b20-eb9a8b356090",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4714,
+        4715
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6062627d-0186-4088-9c4a-dd925ecc2cd4",
+       "type": "word",
+       "value": "Але",
+       "textRange": [
+        4715,
+        4718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3fb73fe-f648-4cd8-9477-47681968033c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4718,
+        4719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34bd5038-5901-4ab4-b552-af90beb51ddb",
+       "type": "word",
+       "value": "їм",
+       "textRange": [
+        4719,
+        4721
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bdce758-c832-4979-8c6c-471af73f8f86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4721,
+        4722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e391e7a0-782d-4984-a596-9c07d75cae47",
+       "type": "word",
+       "value": "протистояли",
+       "textRange": [
+        4722,
+        4733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79567ab4-3bf1-4d69-b837-993fcfb4807a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4733,
+        4734
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9de19d7d-e110-45eb-8036-230981981595",
+       "type": "word",
+       "value": "численні",
+       "textRange": [
+        4734,
+        4742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f12fe9c0-3a22-4696-aa72-7327a40a7ca1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4742,
+        4743
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "853487cc-a7fa-42f5-8313-c4e61670139d",
+       "type": "word",
+       "value": "антивоєнні",
+       "textRange": [
+        4743,
+        4753
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d09df73-3f55-4a4a-ba58-6322386bb483",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4753,
+        4754
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6461ff2d-fe88-4ef0-840b-b1fe3ca6bbb3",
+       "type": "word",
+       "value": "протести",
+       "textRange": [
+        4754,
+        4762
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Але їм протистояли численні антивоєнні протести",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a59a0498-3caa-412b-a383-542e26d0598a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4762,
+      4763
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Але їм протистояли численні антивоєнні протести",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "604cbb8f-46ba-4e6b-98d1-8c72d2768aa3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "540d8ae2-9397-416f-b415-aded5bd42ace",
+     "type": "whitespace",
+     "value": " ",
+     "textRange": [
+      4763,
+      4764
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "895a49ce-25bc-4499-ad78-62647aab61b5",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4764,
+      4765
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " ",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Цього не сталося Справді, у Харкові, Донецьку й інших великих містах Півдня та Сходу були проросійські демонстрації Але їм протистояли численні антивоєнні протести ",
+ "concept": "SYNTAX"
+}

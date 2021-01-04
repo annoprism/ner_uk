@@ -1,0 +1,229 @@
+{
+ "id": "b28774c9-a50c-40ff-928e-7f70e9a3d1ec",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7d97a521-eb9d-4052-9335-0b818d4f1a60",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "76503d24-45ba-49ae-bbd4-f03cbffd54d4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ca6b18c5-8154-43e5-99d9-386e271d3263",
+       "type": "number",
+       "value": "5",
+       "textRange": [
+        16551,
+        16552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5f7b59b-88c9-40ab-8c9b-ecb9ceea7cee",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        16552,
+        16553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da874f36-ca21-4bbf-beec-09193afab9fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16553,
+        16554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25507123-beb2-434c-83bc-34d5bc6f9b0c",
+       "type": "word",
+       "value": "здійснює",
+       "textRange": [
+        16554,
+        16562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c732cba1-daee-4a7b-aaa1-7beaf4e74572",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16562,
+        16563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2bdbc2a-f8ca-4a7c-91b5-aabec8e133b3",
+       "type": "word",
+       "value": "інші",
+       "textRange": [
+        16563,
+        16567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "452b6709-669d-4307-9f45-6b56bde3709a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16567,
+        16568
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38ce7f0d-75ba-413b-ac9f-1193fd61567f",
+       "type": "word",
+       "value": "обов’язки",
+       "textRange": [
+        16568,
+        16577
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "5) здійснює інші обов’язки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7d7e888d-ec20-4fe6-9673-e580cd8b3146",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      16577,
+      16578
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9d8883c6-dacb-41bc-a9c9-611ac4306a52",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a9b6f93d-09f9-44af-a312-81f796b83185",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16578,
+        16579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00c42c96-214a-4af5-8dce-318fe53ad8ee",
+       "type": "word",
+       "value": "визначені",
+       "textRange": [
+        16579,
+        16588
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa1b89b9-92ba-4cbc-8fbf-ee38781d0980",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        16588,
+        16589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "24c9204f-30ea-420e-a7cd-bf6de9ca1833",
+         "type": "word",
+         "value": "Положенням",
+         "textRange": [
+          16589,
+          16599
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "70c9437c-e975-401a-b66a-190823f1b35f",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          16599,
+          16600
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "42e294c7-1a2b-4aec-a97d-9520c5f15462",
+         "type": "word",
+         "value": "про",
+         "textRange": [
+          16600,
+          16603
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "28958553-a419-44fd-b034-c96a8a39b3cc",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          16603,
+          16604
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "021ebd3b-1ec5-4933-a931-76c79d4677f4",
+         "type": "word",
+         "value": "старосту",
+         "textRange": [
+          16604,
+          16612
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bdf2dbc2-7733-4c2e-8aa0-a53381fc997e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " визначені Положенням про старосту",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cb059e21-2d64-4ad9-9c12-39f38be9e573",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      16612,
+      16613
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9cd68637-1b27-4867-8e12-d2f0fd183ac6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      16613,
+      16614
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "5) здійснює інші обов’язки, визначені Положенням про старосту.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "5) здійснює інші обов’язки, визначені Положенням про старосту.",
+ "concept": "SYNTAX"
+}

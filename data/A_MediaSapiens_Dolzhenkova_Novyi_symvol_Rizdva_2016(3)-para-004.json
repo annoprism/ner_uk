@@ -1,0 +1,870 @@
+{
+ "id": "f4a7cf30-dc51-4b42-9216-1785c0243587",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fd1a3d9a-9ea5-4a4f-b45e-398197206b24",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1b4a7e4e-5ace-4469-a633-cc89cbd34b6f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b7b4839f-733f-440a-90b7-785757469573",
+       "type": "word",
+       "value": "Хлопчик",
+       "textRange": [
+        866,
+        873
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bcea0cc3-d729-470a-a54b-aabcfa76944b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        873,
+        874
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d703a09-209e-4fdd-8ece-3ce9c49870d3",
+       "type": "word",
+       "value": "при",
+       "textRange": [
+        874,
+        877
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0111098-2737-4acb-ab33-df7e4ab442e5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        877,
+        878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a9e12e7-acc6-42a7-9840-38983d67a43b",
+       "type": "word",
+       "value": "цьому",
+       "textRange": [
+        878,
+        883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9810e82-ca19-472d-a931-3d35d472ba50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        883,
+        884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aecff3b5-01d6-4ffd-9b37-01360462a5cd",
+       "type": "word",
+       "value": "гортає",
+       "textRange": [
+        884,
+        890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba4c551b-eaf7-419e-8267-c59840f4838d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        890,
+        891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e61a53e0-f053-48ed-a452-ab42fabfeb7e",
+       "type": "word",
+       "value": "книжку",
+       "textRange": [
+        891,
+        897
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Хлопчик при цьому гортає книжку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "08d99ff3-c7f7-477d-9c59-edb7025a01d3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      897,
+      898
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "417ea12e-6f0b-42a5-b80c-cee09c681e90",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f84ed9fc-047f-4d80-a32c-a1a47f60143c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        898,
+        899
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "faf3fa72-5925-4358-ac63-500c5e9435b4",
+       "type": "word",
+       "value": "кожен",
+       "textRange": [
+        899,
+        904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e11581c-d748-4386-b57b-7d484231717e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        904,
+        905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7cb8c8c-d36a-4675-b3a2-db17b209c211",
+       "type": "word",
+       "value": "розділ",
+       "textRange": [
+        905,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63c4eae1-ec11-4aa2-90d6-dd57890770f2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        911,
+        912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "daebe697-6713-4381-ade7-c2d45248d1f4",
+       "type": "word",
+       "value": "якої",
+       "textRange": [
+        912,
+        916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d55542e0-c116-4f4f-a77a-d911873617b7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        916,
+        917
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14a4581f-1acb-4883-91d8-799cf55b7b54",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        917,
+        918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87aa033a-5db0-4699-8720-f0cea98e1c34",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        918,
+        919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d61ef1dd-dc22-4494-aa7a-caabb09f1192",
+       "type": "word",
+       "value": "глава",
+       "textRange": [
+        919,
+        924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7b4ab63-5685-4d4e-a8ac-75210b6dbaa1",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        924,
+        925
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " кожен розділ якої («глава»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8c38b56-2f35-4fbf-ae68-0de3107cfdda",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      925,
+      926
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d68523a8-a57b-4409-8099-edba58b2887c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "83407ddd-7d9c-4ded-857b-24422ac894be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        926,
+        927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c38bb596-4367-4327-b523-cef60fc5bbbc",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        927,
+        929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1ac502f-3da8-4d6e-a867-1dff52de0206",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        929,
+        930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c61fca89-5e75-4916-83e0-cca2980d5fc6",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        930,
+        931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7f37105-e131-4ada-8479-ef77a25e297e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        931,
+        932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de6a9c7b-9841-4d4c-80e1-a1a67bbf1f01",
+       "type": "word",
+       "value": "фільмі",
+       "textRange": [
+        932,
+        938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7ea0257-e6cc-4061-a8ae-a451199d9f53",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        938,
+        939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e1903d7-8351-4daf-a414-555950a6d7b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        939,
+        940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fe85f70-959a-4238-a3af-7c9771b22026",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        940,
+        941
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "563ac277-8ea8-4625-8776-c59047e6ed23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        941,
+        942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8f2471a-ae33-4a1e-aee5-51a2513270aa",
+       "type": "word",
+       "value": "чергова",
+       "textRange": [
+        942,
+        949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cda5b192-0d91-4f05-b489-73ac80e5868e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        949,
+        950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0192e29b-40da-492c-ad3f-7839c59828d8",
+       "type": "word",
+       "value": "музична",
+       "textRange": [
+        950,
+        957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4da33b85-3082-4eda-9c89-1ee6dfa2ad94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        957,
+        958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36f630f1-bb69-4c9d-8291-3afb0c8c35f5",
+       "type": "word",
+       "value": "композиція",
+       "textRange": [
+        958,
+        968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aba4d017-68f4-424e-b9cd-0f235addc599",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        968,
+        969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51de6f9c-8b78-49fc-837b-972b243b45cb",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        969,
+        970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78cd6364-4cc1-465c-835b-8c78f20dda97",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        970,
+        971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24a6325c-8e1d-4061-8cbb-7623069d7dba",
+       "type": "word",
+       "value": "виконанні",
+       "textRange": [
+        971,
+        980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3be1683a-dbf9-4eec-9cff-db201548b9d9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        980,
+        981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "069e108b-5e0c-42c3-a882-1868bd1fb248",
+         "type": "word",
+         "value": "Тіни",
+         "textRange": [
+          981,
+          985
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e8f0aa43-ede1-4e8d-990b-78e8c5bb7d16",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          985,
+          986
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "45b0fc45-4386-4835-a7dc-b8824a613262",
+         "type": "word",
+         "value": "Кароль",
+         "textRange": [
+          986,
+          992
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8d4cb8ea-0f52-4775-82f2-b8d2e8b541c7",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " як у фільмі) – чергова музична композиція у виконанні Тіни Кароль",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d8a741e4-238c-4f5e-a9d0-32873db31735",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      992,
+      993
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Хлопчик при цьому гортає книжку, кожен розділ якої («глава», як у фільмі) – чергова музична композиція у виконанні Тіни Кароль",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e46366a2-7b69-4d03-85e2-1e4f2d512209",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "399121d6-9c9f-4e3d-8cf0-b5f83ef9c7b4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1dcd5fd8-6438-4d15-96a6-4c1f38858d75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        993,
+        994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8b203aa-8a1d-4b0f-96ca-1abde2da3bd3",
+       "type": "word",
+       "value": "Що",
+       "textRange": [
+        994,
+        996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12bfc9d2-86b4-4c22-8500-b05ef0ae3a05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        996,
+        997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e9bb5d6-e9b8-44bd-9b1d-11b9a6438e53",
+       "type": "word",
+       "value": "звучить",
+       "textRange": [
+        997,
+        1004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44ac1ab2-ff0b-4226-a9f0-1f847de55bec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1004,
+        1005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "034bc7ea-64a5-4f98-85a3-f5299337dd87",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        1005,
+        1007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bfad9a4-d162-4524-8a21-4391b03f0322",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1007,
+        1008
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "317b2ac7-2fdd-4f67-b7c4-31a6a0cb17bc",
+       "type": "word",
+       "value": "своєрідна",
+       "textRange": [
+        1008,
+        1017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0533bad6-90c5-42d5-8edd-6623b69ecf07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1017,
+        1018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6e76d1e-de94-4717-b694-3a67e75004a8",
+       "type": "word",
+       "value": "музична",
+       "textRange": [
+        1018,
+        1025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d4276e8-e4d0-4c39-a963-4206190c04f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1025,
+        1026
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51a4fb36-f249-4842-9245-a5bbc3139a70",
+       "type": "word",
+       "value": "ілюстрація",
+       "textRange": [
+        1026,
+        1036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b7c6e36-4998-4e43-9aa4-3677f1b135a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1036,
+        1037
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9241b4f4-a189-448e-b61b-e9738d5fbe7a",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        1037,
+        1039
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c281366-3fbb-4f83-8103-0b9e0629c5d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1039,
+        1040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c5b6c7a-273a-4bbc-a71a-bd1018693426",
+       "type": "word",
+       "value": "слів",
+       "textRange": [
+        1040,
+        1044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd0c80e6-6749-438e-b765-19f81b94c57c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1044,
+        1045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "5c13ecd2-bbcc-4b70-9ff9-dc49956412ee",
+         "type": "word",
+         "value": "Мами",
+         "textRange": [
+          1045,
+          1049
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "be410836-64e0-40d8-97e4-3a91edae5ee5",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          1049,
+          1050
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d8b92b49-6d46-4721-9b24-510e36d3cd40",
+         "type": "word",
+         "value": "Кароль",
+         "textRange": [
+          1050,
+          1056
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "27e96bbb-9bec-471b-aeda-a156a7d29ef3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2da41a63-283b-416f-b202-6a8a99acd443",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1056,
+        1057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "288f150a-5e8e-4372-a442-9f3f92556091",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        1057,
+        1060
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c18ce9d-7c0e-48f2-825d-13e0acd3915d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1060,
+        1061
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78f9ee59-2d72-43c7-b3c6-c6992a2b67fc",
+       "type": "word",
+       "value": "вибір",
+       "textRange": [
+        1061,
+        1066
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e6ccf02-d103-429c-9f79-5900f12bf668",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1066,
+        1067
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e7f70c5-c025-4fb0-b0a6-44e14e346938",
+       "type": "word",
+       "value": "між",
+       "textRange": [
+        1067,
+        1070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7931ab83-799d-4092-bcb5-d37bbf730cf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1070,
+        1071
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1dd01cb2-18ad-4cfb-ba61-df41b3ca8346",
+       "type": "word",
+       "value": "добром",
+       "textRange": [
+        1071,
+        1077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f59607aa-7e54-46e9-887b-9c5ef3ca806a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1077,
+        1078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df4a42ea-0aa1-443b-8fc5-62c4757475cd",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1078,
+        1079
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cc77043-fa2a-4e3f-80d8-df8897b9a75a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1079,
+        1080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8903a4a6-c50a-429e-9dd1-c884b70b2c08",
+       "type": "word",
+       "value": "злом",
+       "textRange": [
+        1080,
+        1084
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Що звучить як своєрідна музична ілюстрація до слів Мами-Кароль про вибір між добром і злом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fbdffa4b-e066-4aff-a967-b903c8f5b8c2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1084,
+      1085
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c4968b84-7571-4e7b-b4d3-7bd9177fc711",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1085,
+      1086
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Що звучить як своєрідна музична ілюстрація до слів Мами-Кароль про вибір між добром і злом.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Хлопчик при цьому гортає книжку, кожен розділ якої («глава», як у фільмі) – чергова музична композиція у виконанні Тіни Кароль Що звучить як своєрідна музична ілюстрація до слів Мами-Кароль про вибір між добром і злом.",
+ "concept": "SYNTAX"
+}

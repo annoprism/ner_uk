@@ -1,0 +1,239 @@
+{
+ "id": "8219fe52-a44f-415f-ab0e-26b55a81214e",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e2b1153a-06bf-49c2-a934-dabaa4f1cc78",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a77f2553-a52d-46c0-899e-7eb5eb8bca28",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0a485cb9-be97-4333-9987-f0ab99bcc11e",
+       "type": "word",
+       "value": "Отже",
+       "textRange": [
+        2727,
+        2731
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Отже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1717707f-f732-414c-af69-8216f822b2d8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2731,
+      2732
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "78e2bba7-b4d2-4ca0-a193-b74c5e573ad6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3a8ff5b8-be04-4eff-a028-d0198a996dda",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2732,
+        2733
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "aa67ac69-4a30-4127-b14b-cbf7952a30a9",
+         "type": "word",
+         "value": "Марія",
+         "textRange": [
+          2733,
+          2738
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7f17a0c2-a6c3-4748-bb5f-84624961daa9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "bca2e03b-5d55-4af5-bb8d-28a8b8ede5d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2738,
+        2739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9ea7508-24c2-4cf6-94ec-3958ad2102ed",
+       "type": "word",
+       "value": "вистрибнула",
+       "textRange": [
+        2739,
+        2750
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf2e316d-4b6c-45c0-9369-60dab98fc8b0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2750,
+        2751
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcf2648e-b1a4-453d-b8d1-0c5dcb1d4872",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        2751,
+        2752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c3e944e-0b91-47a1-9085-c751926f3bcc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2752,
+        2753
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3fc0cda-79cd-4ebf-b099-51e0e1c8277c",
+       "type": "word",
+       "value": "вікна",
+       "textRange": [
+        2753,
+        2758
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a53d707c-db86-4c0d-8f73-92d980a51f16",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2758,
+        2759
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2132130-713c-4274-b2b5-41418f1247ae",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2759,
+        2760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dc3c7fd-3681-4640-b4fb-ed90af15cd54",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2760,
+        2761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff43763e-fd60-48e7-bdc0-336718cd2dd8",
+       "type": "word",
+       "value": "попрямувала",
+       "textRange": [
+        2761,
+        2772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43bcd8d1-e9b1-4eb3-a971-b087699620b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2772,
+        2773
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a283f26-fa7c-4168-9765-434786f485fb",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2773,
+        2775
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e1aad29-b5ba-46ef-bc7f-0f6b1cf42cbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2775,
+        2776
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ec44a33-776c-4f47-b8e3-8cd86df68aad",
+       "type": "word",
+       "value": "стайні",
+       "textRange": [
+        2776,
+        2782
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Марія вистрибнула з вікна і попрямувала до стайні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "09252d19-2b5b-4d27-86dc-cbc6832d8e2d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2782,
+      2783
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "46c34bfe-4ffb-4878-800e-d8528cecfdfb",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2783,
+      2784
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Отже, Марія вистрибнула з вікна і попрямувала до стайні.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Отже, Марія вистрибнула з вікна і попрямувала до стайні.",
+ "concept": "SYNTAX"
+}

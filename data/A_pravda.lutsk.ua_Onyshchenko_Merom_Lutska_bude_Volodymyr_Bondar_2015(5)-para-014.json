@@ -1,0 +1,352 @@
+{
+ "id": "1c9eec5b-0e14-4cba-84ce-b5dcf3d39b38",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "1c077831-3937-4ce6-937f-bc97ca11a086",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "42912665-2ffe-4308-b425-10ee9a664732",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ceee7176-e704-400d-8519-dfd47ce9b08b",
+       "type": "word",
+       "value": "Для",
+       "textRange": [
+        5254,
+        5257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d4353f4-5b6a-4320-8c23-2a28e55a49bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5257,
+        5258
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06dbfe56-cec2-438b-a7f5-750f58031fdf",
+       "type": "word",
+       "value": "чого",
+       "textRange": [
+        5258,
+        5262
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Для чого",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "491a45e8-e7e2-446d-a8e2-6e6b6df17e1a",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      5262,
+      5263
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Для чого",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "35f8f1f1-e676-4c8d-8ada-8d56587bebe7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9808e804-3d93-478a-ae1a-f8e69b45804a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "90aa7ff0-2893-4f42-867d-fa147c5fc737",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5263,
+        5264
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "718020fe-0f77-42cc-b4fc-1b13f43620ca",
+       "type": "word",
+       "value": "Щоб",
+       "textRange": [
+        5264,
+        5267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "588fac6c-2139-4b49-9a93-7c52294d11f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5267,
+        5268
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "44049f16-8791-41f7-b121-b438d53963fe",
+         "type": "word",
+         "value": "обласну",
+         "textRange": [
+          5268,
+          5275
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e5eb67fc-e4cb-4263-abda-d98ba82c163e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          5275,
+          5276
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "de8a63b0-23a4-4e3a-acf7-6366dd9b5165",
+         "type": "word",
+         "value": "раду",
+         "textRange": [
+          5276,
+          5280
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e5acfa81-8e73-418f-994f-bc153b84b432",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "78bc211d-868e-480b-99d7-8a051b065268",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5280,
+        5281
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2bc06e3b-4fa4-48be-aa76-b44cce64678f",
+       "type": "word",
+       "value": "очолив",
+       "textRange": [
+        5281,
+        5287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a15b5d39-9e6b-4016-ad8e-0ab5107dc10b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5287,
+        5288
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e55ecf01-bd8f-47b1-81a0-8eef2aedcfb6",
+       "type": "word",
+       "value": "перший",
+       "textRange": [
+        5288,
+        5294
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82e7e2bf-5d28-454a-95fc-a3d25ad444bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5294,
+        5295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6a79508-a0d5-4da1-b7b3-c6215536fb95",
+       "type": "word",
+       "value": "заступник",
+       "textRange": [
+        5295,
+        5304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6bc9efc-a926-41b9-8abb-62bd8c209325",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5304,
+        5305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73a93ec3-c2ad-42de-8cd1-fb45438918df",
+       "type": "word",
+       "value": "голови",
+       "textRange": [
+        5305,
+        5311
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Щоб обласну раду очолив перший заступник голови",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "75625d86-5fa2-4688-80b9-79ba9a610f81",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5311,
+      5312
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b0b210ee-dfbe-49ba-acd5-83495302e004",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "37bfaaa0-e25e-4039-a8c9-6a99a65a5b20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5312,
+        5313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "029f6375-a99f-4ffd-828b-7df42e48cd51",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        5313,
+        5314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49f99fdc-7381-43de-b060-48279ef1a985",
+       "type": "word",
+       "value": "свободівець",
+       "textRange": [
+        5314,
+        5325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b25a83e-d340-4a4c-bb25-7be6718cb4f2",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        5325,
+        5326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88fa4a09-27f2-434a-a963-ea625ee32c33",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5326,
+        5327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9ada0e3c-4b3c-4f1b-8117-05a918bf9f28",
+         "type": "word",
+         "value": "Олександр",
+         "textRange": [
+          5327,
+          5336
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5731eeb6-6a6f-4ec0-9300-7d275068e01c",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          5336,
+          5337
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "422214cd-27d9-4fc2-a195-e8c11b85e9b0",
+         "type": "word",
+         "value": "Пирожик",
+         "textRange": [
+          5337,
+          5344
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "952ae3d7-6e05-4de6-b956-2e3c7cd0f237",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " «свободівець» Олександр Пирожик",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "def1dcde-6b04-475b-95f3-8997282c3b8f",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      5344,
+      5345
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2fdd3926-2934-4c78-882c-971598dffc61",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5345,
+      5346
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Щоб обласну раду очолив перший заступник голови, «свободівець» Олександр Пирожик?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Для чого Щоб обласну раду очолив перший заступник голови, «свободівець» Олександр Пирожик?",
+ "concept": "SYNTAX"
+}

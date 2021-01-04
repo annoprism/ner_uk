@@ -1,0 +1,937 @@
+{
+ "id": "c5a72ef8-0bd3-4bae-b00d-a20bae3cc55a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "333a07d8-d224-44c9-8285-64d84dea4496",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "368ceb9c-a9ae-4551-916f-d0da54c1c720",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "64d87508-81ce-4f78-933d-9b984f23a2b6",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        217,
+        218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7126ffd3-d10b-490f-a0b6-983b4f558267",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        218,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b810ac6f-3315-4d84-911e-6770edaa12bb",
+       "type": "word",
+       "value": "квітні",
+       "textRange": [
+        219,
+        225
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "247decca-3826-40eb-9b8b-144fdf7f8264",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        225,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e55e6d8-3c44-49ff-8966-0885143bfa7d",
+       "type": "number",
+       "value": "1648",
+       "textRange": [
+        226,
+        230
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d06fb3b-264f-4217-8d53-884e4088d551",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        230,
+        231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11d224bb-6e3e-4e8e-83ee-7bed530a4843",
+       "type": "word",
+       "value": "р.",
+       "textRange": [
+        231,
+        233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2b34976-af5e-4e7a-ab09-0bc71efc13c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        233,
+        234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5207aca1-90f3-48e4-8cc4-8cc2b40137e6",
+       "type": "word",
+       "value": "Б",
+       "textRange": [
+        234,
+        235
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У квітні 1648 р. Б",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a99e072f-cf17-47ae-a41a-660e2da4c8fe",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      235,
+      236
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У квітні 1648 р. Б",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9b20d7d5-dac7-46fc-a3e8-56706e4b9936",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "90511ff5-08ac-45f9-a0c8-262e4af71384",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "73c8d1a7-1b24-49eb-ac02-098b2898ce74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        236,
+        237
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c5aa15e-e7ca-419f-a43e-e6ff31b29720",
+       "type": "word",
+       "value": "Хмельницький",
+       "textRange": [
+        237,
+        249
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f3a0cfe-e654-4bd9-8db7-1f6bf484a953",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        249,
+        250
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0515803f-a814-4278-be2b-5e202c077c7e",
+       "type": "word",
+       "value": "вийшов",
+       "textRange": [
+        250,
+        256
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb2efbf2-69eb-4d28-a80b-b0bc3b5f288d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        256,
+        257
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfa95c1d-cb39-4b7f-86ac-aa6a0ea8a4f2",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        257,
+        259
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12ebe278-5362-4ecb-8614-2c026bc99d8a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        259,
+        260
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "fd44881d-7adf-47d3-961d-e181c2e89553",
+         "type": "word",
+         "value": "Січі",
+         "textRange": [
+          260,
+          264
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6a1e1794-9d34-4d51-9ff0-3e5a58b36c8f",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e91bf35d-1873-4369-b253-9f1ffc9fc7a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        264,
+        265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd14c6a9-9f4f-4ccc-8cf6-40398ae2a4ce",
+       "type": "word",
+       "value": "назустріч",
+       "textRange": [
+        265,
+        274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da3dd1f4-177b-44b8-992d-4ab219b2006b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        274,
+        275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "684e8418-cd51-413d-bbb7-57ed25fbaabb",
+       "type": "word",
+       "value": "польським",
+       "textRange": [
+        275,
+        284
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f81b3f0-ba58-4fd8-842a-849f1026a190",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        284,
+        285
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "051ec652-ebe7-4f81-bd3e-6c3fa8eccd8b",
+       "type": "word",
+       "value": "військам",
+       "textRange": [
+        285,
+        293
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хмельницький вийшов із Січі назустріч польським військам",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b46e783e-3d85-4dfb-8468-0696e2c1ec94",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      293,
+      294
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "099cb3f3-98b5-4901-9af2-472a117404a0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ea62a63e-6c1c-4bd6-b500-5c4ac875d650",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        294,
+        295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "600627b5-8d44-41b7-ad4d-a60d75b9d8df",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        295,
+        297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eec56e61-5574-4c25-952b-3280fb765e94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        297,
+        298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53d3c90b-f1c9-44c0-aa41-97d6f87b1294",
+       "type": "word",
+       "value": "намагалися",
+       "textRange": [
+        298,
+        308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbfc83f7-ae44-4396-a822-ff0853da7879",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        308,
+        309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "748795b5-8d5d-403a-9c28-86914308fe70",
+       "type": "word",
+       "value": "придушити",
+       "textRange": [
+        309,
+        318
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a79675a9-9971-41dd-81f1-f9a1b3486837",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        318,
+        319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b800b094-9953-4b8e-a859-b870b94de52e",
+       "type": "word",
+       "value": "повстання",
+       "textRange": [
+        319,
+        328
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55840045-b8df-44f4-825a-15573de53809",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        328,
+        329
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2923f2ea-e250-4f13-aefd-c732b2fa2afc",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        329,
+        330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7fd01e2-27fd-48ee-8e4d-33683272039a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        330,
+        331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "a72ea7de-a3ec-4e2d-84d6-792e42cd5947",
+         "type": "word",
+         "value": "Подніпров’ї",
+         "textRange": [
+          331,
+          342
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "afd9c781-2240-4652-8b37-a77abebd6400",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що намагалися придушити повстання в Подніпров’ї",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bbc6c5af-5405-490c-adf8-e9aea0529803",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      342,
+      343
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хмельницький вийшов із Січі назустріч польським військам, що намагалися придушити повстання в Подніпров’ї",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d655e27c-d598-4877-8dde-0538cae2ad00",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "179533f0-d789-4c9a-804c-398b085ddd8c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cccae71d-8d9d-4808-835b-6ece6175c035",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        343,
+        344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f76f623b-2f5b-41fe-a1ec-a26d6938ff9d",
+       "type": "number",
+       "value": "19",
+       "textRange": [
+        344,
+        346
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef09973b-1a9a-4e6e-ab29-954865699a61",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        346,
+        347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "922e7393-d726-40d2-b985-2c1d8108d124",
+       "type": "word",
+       "value": "квітня",
+       "textRange": [
+        347,
+        353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "245795c2-a599-41d3-8f36-ed5cc3b08355",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        353,
+        354
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59c6a79c-b57f-4022-86ce-5bd04646d717",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        354,
+        355
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83e71276-5fd5-4020-8fcc-81a1f0b5375d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        355,
+        356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7811e038-b43f-4508-a9be-a35dbab2e96e",
+       "type": "number",
+       "value": "6",
+       "textRange": [
+        356,
+        357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "440b1ea7-a5ad-482b-9dcd-95b816a43a43",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        357,
+        358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18ef0024-f269-4cf7-aa4e-414762b01855",
+       "type": "word",
+       "value": "травня",
+       "textRange": [
+        358,
+        364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df14cd0c-8c65-484a-bdae-e5b575ecb5e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        364,
+        365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "397ff5de-736e-4439-8925-29d57bed04cb",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        365,
+        366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "883029b1-88ad-4fbe-a0e6-d8bb12dbabf0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        366,
+        367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83a0ea7e-3f71-466f-9d95-4c13c0cf3d8f",
+       "type": "word",
+       "value": "урочищі",
+       "textRange": [
+        367,
+        374
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "279e61a7-91ea-42f3-af3e-3ae1088c5a28",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        374,
+        375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "ae9fa1f1-78c5-4a7e-94d8-9d06f91352d2",
+         "type": "word",
+         "value": "Жовті",
+         "textRange": [
+          375,
+          380
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c95866f9-a100-493e-8e30-c70b3e60e231",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          380,
+          381
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "87f86f00-6892-4a71-b5c1-634cc674b71f",
+         "type": "word",
+         "value": "Води",
+         "textRange": [
+          381,
+          385
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "403c985d-ac82-4459-a8a0-3ec4f4d77d54",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "7f8e6bde-ed54-4123-8a06-bd159d364288",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        385,
+        386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9dae1591-bd53-4dd0-bf2d-de5ec24d7fd5",
+       "type": "number",
+       "value": "8",
+       "textRange": [
+        386,
+        387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "741d1185-23fa-4109-a0c6-c97ce90b15c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        387,
+        388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71bd8924-3bc5-466b-9f5c-9aa4fc6aa76d",
+       "type": "word",
+       "value": "тис",
+       "textRange": [
+        388,
+        391
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " 19 квітня - 6 травня в урочищі Жовті Води 8 тис",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f207da86-d42d-41f8-a26f-8162f7f7fefb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      391,
+      392
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " 19 квітня - 6 травня в урочищі Жовті Води 8 тис",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9c137cf1-c877-4a35-a8b9-3552679bef8d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "44587a08-e5df-4d05-a200-ef506b1a459e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3e9a6f8a-d98f-4894-94ab-5ffb45c98baa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        392,
+        393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23f0a4b4-05ec-42c9-a2c7-e085d63ede63",
+       "type": "word",
+       "value": "козаків",
+       "textRange": [
+        393,
+        400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8403ff4-26df-4af0-846e-c31fb122323b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        400,
+        401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae461fc9-029f-47bf-828c-e0fde77053b0",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        401,
+        402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c182a425-3ab1-492c-af25-f03dcb0322f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        402,
+        403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9fd035fb-747c-41f4-84f1-e506cbc973e1",
+       "type": "number",
+       "value": "20",
+       "textRange": [
+        403,
+        405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8921f30-e7a4-432b-8403-63507e27acc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        405,
+        406
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0eae6757-00f4-458d-afdb-11c2df3e2bad",
+       "type": "word",
+       "value": "тис",
+       "textRange": [
+        406,
+        409
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " козаків і 20 тис",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a866e222-1200-4b48-918c-1b1faf60d2c1",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      409,
+      410
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " козаків і 20 тис",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e2da747b-be6c-4e21-a3cc-da339f5ae17b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6cebd076-5bbc-4ec0-9c23-bcf542e47a79",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "297edb9c-fcb3-4488-a887-3deb34c99ddb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        410,
+        411
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ee709bf-ff66-4b09-af82-ff4ea1ccaf10",
+       "type": "word",
+       "value": "татар",
+       "textRange": [
+        411,
+        416
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e837cdc7-36b4-4c09-98d6-c57f28c207d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        416,
+        417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34903bce-0593-4688-8330-ba454e2a1117",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        417,
+        418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc234c82-3e5b-4327-a879-13b732bc4515",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        418,
+        419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6824078c-d74b-444d-9b9a-120de73ef53a",
+       "type": "word",
+       "value": "ногайців",
+       "textRange": [
+        419,
+        427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b2d9dd8-6fbd-4c72-a77f-70af99e01bc2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        427,
+        428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f7957bb-2d74-48fa-aa27-7079491e67ff",
+       "type": "word",
+       "value": "розбили",
+       "textRange": [
+        428,
+        435
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80753752-6676-4a2d-b5a5-e7d3fad0309a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        435,
+        436
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "521d3afa-7f07-4bb8-96cb-ec343f7cb855",
+       "type": "word",
+       "value": "поляків",
+       "textRange": [
+        436,
+        443
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " татар і ногайців розбили поляків",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aea74e43-d459-4a5b-ad37-01fb2acb5170",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      443,
+      444
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "295d97d7-20f0-4b2d-990f-f2d2c7f85ae1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      444,
+      445
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " татар і ногайців розбили поляків.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У квітні 1648 р. Б Хмельницький вийшов із Січі назустріч польським військам, що намагалися придушити повстання в Подніпров’ї 19 квітня - 6 травня в урочищі Жовті Води 8 тис козаків і 20 тис татар і ногайців розбили поляків.",
+ "concept": "SYNTAX"
+}

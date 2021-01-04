@@ -1,0 +1,752 @@
+{
+ "id": "76a5657f-355d-494c-9b75-9f796483fc52",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a02e060b-c2b1-4c48-8205-37769e2c4846",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4457f554-6007-4dec-ac44-2cb5aecae589",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0ccd84cd-9a8e-4daa-b7eb-bcdb8315dbf0",
+       "type": "word",
+       "value": "Стоїть",
+       "textRange": [
+        5229,
+        5235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63e48c43-7344-497a-80e3-0ecccd27863e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5235,
+        5236
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "89c7b934-3229-4b32-b1e0-6ab42f35fc8d",
+         "type": "word",
+         "value": "Пудик",
+         "textRange": [
+          5236,
+          5241
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "98417738-9ced-4027-8f1c-2cb77b336e50",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Стоїть Пудик",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "80a6fbcf-3818-4de2-80c5-407941b3f5a1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5241,
+      5242
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "25a99f82-0302-4e94-843e-06d9cb34ac25",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e4818581-be66-42a2-8c01-813f5342ccd5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5242,
+        5243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2b06c02-2737-44c2-bc07-6830f0cea43e",
+       "type": "word",
+       "value": "низенький",
+       "textRange": [
+        5243,
+        5252
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " низенький",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff313bef-678f-458e-a131-42c161dbab8f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5252,
+      5253
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "102eaaa7-7a7a-4046-bea3-30d9e5a13f4d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c69a518a-44b7-4797-b2b7-8f308fd5ff1c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5253,
+        5254
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77e622da-136d-4fc4-898b-6ad88b0c327b",
+       "type": "word",
+       "value": "товстенький",
+       "textRange": [
+        5254,
+        5265
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " товстенький",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "32e4dc05-88c7-45ea-b96f-3aaea635550d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5265,
+      5266
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c11586b4-68fb-4a47-9c89-d4afc782d467",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ea259c7c-3109-441a-9934-7ab07fe90f84",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5266,
+        5267
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3e9f12c-5777-4f26-8aee-ac8a7e5372ed",
+       "type": "word",
+       "value": "сорочка",
+       "textRange": [
+        5267,
+        5274
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc803ad5-3949-4e9d-92eb-347f2a9769ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5274,
+        5275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbb2a300-ff3d-4538-868c-3a003c88af48",
+       "type": "word",
+       "value": "дьогтем",
+       "textRange": [
+        5275,
+        5282
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c04d2e80-bddb-423e-af18-18e9c25f5337",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5282,
+        5283
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7579c3a8-b9b3-4baf-93e1-3ce6d1cc4454",
+       "type": "word",
+       "value": "вимазана",
+       "textRange": [
+        5283,
+        5291
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сорочка дьогтем вимазана",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "03d4bf7f-968e-4b3d-a096-8466b7704e15",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5291,
+      5292
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "817885b5-4485-4f31-8dc6-f0d7a6951bc5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8a6b0af5-2648-4d7e-91de-8075aa4abcc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5292,
+        5293
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76c3891b-7301-47e1-ab7f-f9eda7a0dfd2",
+       "type": "word",
+       "value": "щоб",
+       "textRange": [
+        5293,
+        5296
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bc6bc54-9395-427c-944c-5bad1ccce9a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5296,
+        5297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9ee0934-1691-4c5c-b9ca-de2fed2c4594",
+       "type": "word",
+       "value": "воші",
+       "textRange": [
+        5297,
+        5301
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3079bb57-d4db-4dcc-9271-90616b5dfcff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5301,
+        5302
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "468e7b9f-be1e-4487-8921-f3f476bd48e0",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5302,
+        5304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a0633ab5-f564-42e9-99f6-ae856c63d708",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5304,
+        5305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b33f3c1-68aa-47be-9baf-037a22a3d16b",
+       "type": "word",
+       "value": "кусали",
+       "textRange": [
+        5305,
+        5311
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " щоб воші не кусали",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eeb01f94-8e3a-4172-8dc5-6702ed8c4f79",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5311,
+      5312
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ae468e14-259a-4217-8fbe-006efc8cbf81",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f1da1fc8-9c51-4962-a35f-fc2db67a0dad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5312,
+        5313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6774afd-8b75-451c-a3fa-2effd99e8c93",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        5313,
+        5314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55a8d9ce-42ba-43ed-a786-586a7470f256",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5314,
+        5315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0ababbf9-f0cf-41b2-90db-68e92ffd4c2a",
+         "type": "word",
+         "value": "Лейба",
+         "textRange": [
+          5315,
+          5320
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e9bf5bbd-bc0e-45ce-9766-21a2ad4a955d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9c82f278-e695-47f1-8474-b03ec43b8874",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5320,
+        5321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e255422-c27c-42bf-93b8-83941f118f23",
+       "type": "word",
+       "value": "сміється",
+       "textRange": [
+        5321,
+        5329
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf3d19a6-1af6-425e-81f1-fe0aa5a3c54a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5329,
+        5330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2bef3fd4-e39c-4b19-9382-c2c5fcbdc39a",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        5330,
+        5331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84c97f57-7a39-4f8b-acf4-5d657ef1d389",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5331,
+        5332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54b16ea2-58c5-43f9-a885-1ced25ed622b",
+       "type": "word",
+       "value": "нього",
+       "textRange": [
+        5332,
+        5337
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f61e04b-0b9b-4eef-9865-a5833856632e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5337,
+        5338
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c31c305-048b-486d-9fb2-7c7297cc862d",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5338,
+        5339
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ebade7a-693d-4431-9fb4-be3149e35517",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5339,
+        5340
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "999d6788-3dac-4144-adca-b84982114c43",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5340,
+        5342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b76fb625-f313-498c-b8c8-f77bf03dfca4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5342,
+        5343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2495060-0846-484d-ab5f-062502d3d33c",
+       "type": "word",
+       "value": "стіл",
+       "textRange": [
+        5343,
+        5347
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "559523ea-782a-42c1-b15f-5daa4f9cd76c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5347,
+        5348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "48a21c22-e6af-4a58-9f9b-f5462c7b8683",
+       "type": "word",
+       "value": "виставляє",
+       "textRange": [
+        5348,
+        5357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f10d70a9-91f6-41a3-8c6f-ec3f6b199e50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5357,
+        5358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebe61f00-a4d7-4f3c-9d97-0db7568d5456",
+       "type": "word",
+       "value": "горілку",
+       "textRange": [
+        5358,
+        5365
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а Лейба сміється з нього і на стіл виставляє горілку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b2b6d08a-ebdc-48a9-863e-1d47ae2d4e05",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5365,
+      5366
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a1d14a3d-4024-4872-86d0-92c191e0b304",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9eaa98d9-cfef-4d03-8fa7-6e5873ab308d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5366,
+        5367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0f91608-e14a-4887-9f94-7b69d659e71c",
+       "type": "word",
+       "value": "хліб",
+       "textRange": [
+        5367,
+        5371
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хліб",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "77a266e5-8364-4a0c-8a8c-4e9ac84a40b5",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5371,
+      5372
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b1191e84-13c4-4681-83f7-de334540f3cf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "74502c3e-d32d-4d7f-bccc-9560b6010897",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5372,
+        5373
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b99cd61-e01b-4f0e-b6ab-8ffec1fd9aa4",
+       "type": "word",
+       "value": "нечищеного",
+       "textRange": [
+        5373,
+        5383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b73b1eb0-4dcd-4645-8b95-192a2d2f8e8c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5383,
+        5384
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "107b8049-1b02-4d17-822c-2914fa7dfbea",
+       "type": "word",
+       "value": "оселедця",
+       "textRange": [
+        5384,
+        5392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "918f22c4-e2c1-4991-8b98-09cab6f7ea94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5392,
+        5393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05c616fc-bde8-4986-83b0-62c30ff915f9",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5393,
+        5394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "feeeef71-2b59-4294-85b5-04e970dcea71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5394,
+        5395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0c43f41-55e3-47f9-98eb-0f86fdb6833c",
+       "type": "word",
+       "value": "великий",
+       "textRange": [
+        5395,
+        5402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6885d50-cc0a-4fb6-874b-983c73f7c0b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5402,
+        5403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "778f45f0-1b54-429f-94b6-55275be5f849",
+       "type": "word",
+       "value": "жмут",
+       "textRange": [
+        5403,
+        5407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "154dc192-0f62-4157-8365-85e6a74780ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5407,
+        5408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7320d045-e506-433a-9b05-c2a236595029",
+       "type": "word",
+       "value": "сіна",
+       "textRange": [
+        5408,
+        5412
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нечищеного оселедця і великий жмут сіна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06eb47da-c7b0-42b0-9839-714f25643770",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5412,
+      5413
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Стоїть Пудик, низенький, товстенький, сорочка дьогтем вимазана, щоб воші не кусали, а Лейба сміється з нього і на стіл виставляє горілку, хліб, нечищеного оселедця і великий жмут сіна",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "16800283-9daa-45f9-9407-7196efb9aee3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6737ecb1-388b-414e-90a9-a2579f648c1b",
+     "type": "whitespace",
+     "value": " ",
+     "textRange": [
+      5413,
+      5414
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a41b1499-70a1-44b9-b0b3-ca5056fa7fef",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5414,
+      5415
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " ",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Стоїть Пудик, низенький, товстенький, сорочка дьогтем вимазана, щоб воші не кусали, а Лейба сміється з нього і на стіл виставляє горілку, хліб, нечищеного оселедця і великий жмут сіна ",
+ "concept": "SYNTAX"
+}

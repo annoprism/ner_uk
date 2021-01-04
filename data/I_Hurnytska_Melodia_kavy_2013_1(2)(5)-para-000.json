@@ -1,0 +1,800 @@
+{
+ "id": "204ed0c6-9f83-45aa-9e69-dba5d443cffb",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "25ead2c8-8f36-4038-9d32-8c3ea0aac798",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6d4e76fa-4463-4422-83ae-e6e829ed971d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "04ff1c20-d7aa-4a15-8955-5c664cfb567c",
+       "type": "word",
+       "value": "Намагаючись",
+       "textRange": [
+        0,
+        11
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a35a58d-ddff-48f8-afae-fb707bd90ba7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11,
+        12
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea27bfcc-0ac5-43c7-88c7-fd2014aeb945",
+       "type": "word",
+       "value": "триматися",
+       "textRange": [
+        12,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fea55ccb-b3c4-4bf5-96e0-c5af084afb75",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58fa2615-fd1b-4be3-88b2-74cf27fa9eed",
+       "type": "word",
+       "value": "темнішої",
+       "textRange": [
+        22,
+        30
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "487f498e-450d-4222-b7f4-47b39a95711b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        30,
+        31
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2746aa53-b94e-49bd-84b4-160a1ab1a83d",
+       "type": "word",
+       "value": "частини",
+       "textRange": [
+        31,
+        38
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd4b120f-95e0-45cb-9fe2-c3f3294cd5be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        38,
+        39
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec555215-6434-4835-b2fc-b255fc05ef54",
+       "type": "word",
+       "value": "вулиці",
+       "textRange": [
+        39,
+        45
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Намагаючись триматися темнішої частини вулиці",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eccc6cff-3081-4f39-b6c0-ade6865598c4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      45,
+      46
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ac73f426-8d46-4f07-a6e4-56b46e95ce11",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4ca20e8e-f808-4e46-89c9-26625e9b4a17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        46,
+        47
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "bf3cd30c-8246-4bb4-8a01-6337eee1b636",
+         "type": "word",
+         "value": "Анна",
+         "textRange": [
+          47,
+          51
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ab874943-ca03-463a-b3de-60cb1413ad8e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0e7489cc-8e24-4160-8f99-2056fcdec91b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        51,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a9449b1-8d0a-4a0f-9d4e-fea412cdc5d5",
+       "type": "word",
+       "value": "тихенько",
+       "textRange": [
+        52,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87740303-4cc5-4bf1-9632-e7ba85fd9a81",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        60,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f9150a14-97d2-4a57-a75a-d181b2b48be5",
+       "type": "word",
+       "value": "прочинила",
+       "textRange": [
+        61,
+        70
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20cca23c-d0c7-4363-a655-7bff632d2587",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        70,
+        71
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6a96ad2-01a7-4e49-a9a3-3ddbcab23d36",
+       "type": "word",
+       "value": "хвіртку",
+       "textRange": [
+        71,
+        78
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e2c0565-0ca1-40d7-99ea-abcb262f39ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        78,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bf5b3bd-e729-4a5f-b28e-0b86658cbe28",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        79,
+        81
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24b67045-9fcb-4abf-b08e-93a5bfce2efc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        81,
+        82
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35fee680-8469-4546-8e2a-955dd1c6843e",
+       "type": "word",
+       "value": "подвір’я",
+       "textRange": [
+        82,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b713b99-9162-4a5a-aa01-2f6dddabbc50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0b9ced68-9b29-4c7e-9d7c-f1ca76063d81",
+         "type": "word",
+         "value": "Адама",
+         "textRange": [
+          91,
+          96
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "8a567357-b5e5-442c-b60e-046b52755aed",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "a59ab045-b758-4ff1-b62f-73cfb25ce501",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        96,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbdd0cc2-92e7-449d-b3ac-048c5d6871c0",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        97,
+        98
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2dd4284-fb86-4e18-8b75-810167d32721",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        98,
+        99
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "242903a9-0353-40a8-bc70-ea5ba7b44743",
+       "type": "word",
+       "value": "зайшла",
+       "textRange": [
+        99,
+        105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25c0dbe8-4176-44ed-9d00-6b5290e475d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        105,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "beb38b28-0d0e-4bbf-91b9-8f7c64458f6d",
+       "type": "word",
+       "value": "досередини",
+       "textRange": [
+        106,
+        116
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Анна тихенько прочинила хвіртку на подвір’я Адама і зайшла досередини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "38280bce-9b34-40d3-8c97-e0e36c306c51",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      116,
+      117
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Намагаючись триматися темнішої частини вулиці, Анна тихенько прочинила хвіртку на подвір’я Адама і зайшла досередини",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "15a35267-b8ca-4c04-aa60-aaf6c1c05322",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a0575ee5-4dd5-464f-abfd-bd76e50dbe1f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "90c26672-3e6f-4b16-8778-23b96d44edfe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        117,
+        118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "597ed2b6-dd77-402d-8fb7-7464099baaf1",
+       "type": "word",
+       "value": "Перевівши",
+       "textRange": [
+        118,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d596b58a-2e24-4ba6-b6c4-6cb8dedbdbd4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        127,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "063b7188-436d-480c-b2b9-79ca71e1e717",
+       "type": "word",
+       "value": "подих",
+       "textRange": [
+        128,
+        133
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Перевівши подих",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "41f724ba-b158-4cdd-9bc9-d473b02401df",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      133,
+      134
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "62f43e9c-48e7-430e-bdec-850232d792c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7589cd7e-d2d6-48e0-93a8-6ee56314f8b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2ec87c2-be6b-47d6-a759-9ee7a76ea4c1",
+       "type": "word",
+       "value": "зупинилася",
+       "textRange": [
+        135,
+        145
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " зупинилася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8ee3bd12-93c2-45c0-847b-5db3e20bdb86",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      145,
+      146
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Перевівши подих, зупинилася",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fc3af436-a5e3-45cc-98f0-f9f744cb3cb4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c2011f5c-0e69-4422-9b49-a6059e440380",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a82b0d6b-a9ba-455b-bb68-6813b86ccdba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        146,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43188196-76ec-43ce-b8c2-e0386883845d",
+       "type": "word",
+       "value": "Вона",
+       "textRange": [
+        147,
+        151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d5e61a9-fffb-44e1-9ffa-fd3d47088ffc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        151,
+        152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7286407e-22ef-4956-baf1-508f42e092bb",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        152,
+        154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2d9baa5-e479-4017-abf0-488cda93fec6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        154,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8862ea20-328f-403b-8d9d-3723d662bdac",
+       "type": "word",
+       "value": "зробила",
+       "textRange": [
+        155,
+        162
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вона це зробила",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5fef7b0d-05b9-412d-9836-9941e3d583ec",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      162,
+      163
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "07f5d3a2-2990-40ed-ae6c-c097954bdc61",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "77a63463-9fb3-4b2c-9d38-192260def9b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        163,
+        164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d4856b4-b0a4-4bda-bf15-b17531eccdc6",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        164,
+        165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d0009b5-2c13-4545-87e9-a9be24107782",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        165,
+        166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b91f834a-2cc2-4993-b1bf-c8f27b94e861",
+       "type": "word",
+       "value": "земля",
+       "textRange": [
+        166,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbd4193b-25e9-4c5c-aefc-ba34d4b5a7e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        171,
+        172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "badb4de7-f318-461f-ba31-09a1e2d000f0",
+       "type": "word",
+       "value": "їй",
+       "textRange": [
+        172,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "406d59f1-1359-4203-92f0-4ec601ab93f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        174,
+        175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01192542-6cbc-4e2c-8701-80785d4ab749",
+       "type": "word",
+       "value": "під",
+       "textRange": [
+        175,
+        178
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07c07c2b-3eb1-470a-9212-cff715de6c36",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        178,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24be27c8-d6d6-40db-9a96-3f9d9736fbe9",
+       "type": "word",
+       "value": "ногами",
+       "textRange": [
+        179,
+        185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69cbf8c1-0f71-4377-9d73-463ebcf0f624",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        185,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1031bb3-d43d-471e-91a0-71f2ed473d60",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        186,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07604440-c7bf-4791-94a3-1777b11e265e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        188,
+        189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cceebcf1-9d93-452c-ba5d-e10f7c3721c7",
+       "type": "word",
+       "value": "розверзлася",
+       "textRange": [
+        189,
+        200
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і земля їй під ногами не розверзлася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "99817210-18bc-4535-8ba6-4ab2f7043c3d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      200,
+      201
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вона це зробила, і земля їй під ногами не розверзлася",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "4a84ddc0-eafe-4750-9172-a6098d7881f8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ae13808f-36ac-4b2a-ba32-ccc605613159",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3b464f26-0cef-41d1-88bf-b783e505f1a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        201,
+        202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b07ec03-b1f2-4ef3-b4cc-054d8c57956a",
+       "type": "word",
+       "value": "Навіть",
+       "textRange": [
+        202,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19e93296-19f1-4b95-82f5-49bd1691141d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        208,
+        209
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3728d44-7565-43e8-9f15-975ff3281aa2",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        209,
+        211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3cd05567-b147-4d88-b1c8-a7c614edf8a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        211,
+        212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9f60d20-6863-4cb7-b515-feb22756509a",
+       "type": "word",
+       "value": "поворухнулася",
+       "textRange": [
+        212,
+        225
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Навіть не поворухнулася",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4f65a358-18a5-43fd-8ad3-541f02f79d3b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      225,
+      226
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3ec083b8-a629-4d07-bc09-26628c7042d1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      226,
+      227
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Навіть не поворухнулася.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Намагаючись триматися темнішої частини вулиці, Анна тихенько прочинила хвіртку на подвір’я Адама і зайшла досередини Перевівши подих, зупинилася Вона це зробила, і земля їй під ногами не розверзлася Навіть не поворухнулася.",
+ "concept": "SYNTAX"
+}

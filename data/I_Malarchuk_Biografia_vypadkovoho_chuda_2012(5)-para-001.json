@@ -1,0 +1,965 @@
+{
+ "id": "c5458973-1c1a-4809-b956-cf7fecfe85e1",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ad774a0c-9fb0-4229-b004-ce5496854b13",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a12b931e-2946-4dc6-8281-675819d37f4a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "319c7457-2e37-497d-8f1d-3e26128f9cb4",
+       "type": "word",
+       "value": "Уся",
+       "textRange": [
+        46,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be744ae7-ed4c-4406-9205-e6b40562402a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        49,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9702be9e-dd3b-4707-9d79-9cf8eea7a55e",
+       "type": "word",
+       "value": "справа",
+       "textRange": [
+        50,
+        56
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef45d2f0-9d40-482e-bb07-a3146972aad0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        56,
+        57
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "462a6c7f-662e-46e1-ac65-b06efbf79f4c",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        57,
+        58
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34c8ae65-8cdf-4550-bbfe-22856d479f9f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78ed1623-3987-499e-b15f-555e3c60394b",
+       "type": "word",
+       "value": "грошах",
+       "textRange": [
+        59,
+        65
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Уся справа в грошах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f41a035a-b3c9-477a-bd7b-3a96a60ea0d9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      65,
+      66
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2e94bb57-71e6-49a5-b8b8-b01b36eb83fd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ac148321-4333-44a3-b71b-668f92371d37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01a7539a-834a-48ef-92ed-c16294201d08",
+       "type": "word",
+       "value": "казала",
+       "textRange": [
+        67,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47f11d7a-8a1b-4125-915f-0e4c493649a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        73,
+        74
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6e343041-320d-4249-987a-4e65eedc14d8",
+         "type": "word",
+         "value": "Лєна",
+         "textRange": [
+          74,
+          78
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "49ea2ab0-8359-425a-999c-c2a921fd27f3",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " казала Лєна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b53b0e8f-6b70-4a8d-99b7-c25b4709057e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      78,
+      79
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Уся справа в грошах, казала Лєна",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "df69846d-d161-42f9-a825-7e5b1a5f42d3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d3d43861-605d-48b5-a4a3-247683520388",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d1f5af53-58ef-4473-b42d-3c705bfb767a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        79,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6da76564-2cea-43d2-91a7-c9da1872b470",
+       "type": "word",
+       "value": "Народ",
+       "textRange": [
+        80,
+        85
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebf6213b-f4e6-4e34-a5cd-f20f3eac2c20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        85,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6fdda394-52ac-469c-a817-a121a706eda4",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        86,
+        89
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "495086d2-48b1-4fa1-830c-87f189a7da54",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        89,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe46ed89-23bf-4f74-b0b6-cfa6d5c2946a",
+       "type": "word",
+       "value": "грошей",
+       "textRange": [
+        90,
+        96
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6c6dc71-f217-4320-9996-d845bd654a61",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        96,
+        97
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3242f2b4-8f18-47e6-bbb6-f3f108292e4a",
+       "type": "word",
+       "value": "страшний",
+       "textRange": [
+        97,
+        105
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Народ без грошей страшний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3c200fdd-ad07-458d-b44c-1b1f2da97206",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      105,
+      106
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6b6ae790-ce2f-4cba-b85d-9b72d6a31729",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "32bc2503-f10c-43ae-b3dc-969ed37d2b6d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        106,
+        107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8d079dc-895f-4abf-af32-b638e2556570",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        107,
+        109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5008f688-4c2a-4550-9f2f-cc2b2a5702b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        109,
+        110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a17dfb92-ffdc-44f4-b8f7-facde50d55a4",
+       "type": "word",
+       "value": "втрачає",
+       "textRange": [
+        110,
+        117
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "500baef5-dbdf-47e6-80c3-7342c686706d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        117,
+        118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbe660ef-b6c5-4461-968d-d04526749713",
+       "type": "word",
+       "value": "різноманіття",
+       "textRange": [
+        118,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64c366b8-047a-406a-bf2e-a24dad4efa07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        130,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3662f4df-5266-4289-a3d8-1eda649aa166",
+       "type": "word",
+       "value": "виду",
+       "textRange": [
+        131,
+        135
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо втрачає різноманіття виду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7506c37b-a655-4b23-b32b-3d3fa6f2d278",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      135,
+      136
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Народ без грошей страшний, бо втрачає різноманіття виду",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "81da5e5c-7a50-47b3-8344-c83013c953ec",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "146b631f-e75b-481b-aa45-4673a0bdffd2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dd8c8bf4-d87d-4d67-831f-d2a4e7fe3c1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        136,
+        137
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "290cffb5-f1e3-4e28-96c1-c9ae228c235c",
+       "type": "word",
+       "value": "Бідні",
+       "textRange": [
+        137,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b79d8480-8af4-4d24-aba0-24e51ab02ed1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        142,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39cddc44-9ccb-40ee-9e02-f2b2a59a9855",
+       "type": "word",
+       "value": "люди",
+       "textRange": [
+        143,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d46dea3e-e8d9-4584-9632-59d2b7bf6e2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        147,
+        148
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b1cb126-4692-4a2e-a7fe-aa858007584e",
+       "type": "word",
+       "value": "стають",
+       "textRange": [
+        148,
+        154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a2c77e9-ebdd-4cac-8d0a-f3173bcc96de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        154,
+        155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08da8fcb-8f90-4d0a-bef3-59ed6720732e",
+       "type": "word",
+       "value": "злодіями",
+       "textRange": [
+        155,
+        163
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcfa2180-8b37-47a6-8fbf-0b806695f9dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        163,
+        164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef2b157e-fb86-49c4-8593-b99cceb1ee72",
+       "type": "word",
+       "value": "або",
+       "textRange": [
+        164,
+        167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e45ca112-e9ae-40f5-8b08-c55cc98dc32e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        167,
+        168
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97653cf0-a568-45f6-8fa4-42fa63bcf264",
+       "type": "word",
+       "value": "філософами",
+       "textRange": [
+        168,
+        178
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Бідні люди стають злодіями або філософами",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eaa728e3-63f7-4bd5-a4df-1737b722d68b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      178,
+      179
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0b781e8-ba47-47b0-bb57-e8a99620716a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7faaaddc-011a-4742-bf15-d800261a3de2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        179,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "46922ec7-efcc-4b55-9cbf-86451f099bdc",
+       "type": "word",
+       "value": "третього",
+       "textRange": [
+        180,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efb8ef46-c933-4629-90a8-40dc9fafff66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        188,
+        189
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94ca04bb-3a62-4c23-a92e-7993a6efa9d4",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        189,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b73b9a45-db4d-428e-acc2-f2f21e4b5dd8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f4b7981-aa60-408f-bcd2-dc450768895f",
+       "type": "word",
+       "value": "дано",
+       "textRange": [
+        192,
+        196
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " третього не дано",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "34df52f0-0cf0-4999-a68a-6c72ee542159",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      196,
+      197
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Бідні люди стають злодіями або філософами, третього не дано",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "25f5fedd-fd38-4ba6-af5e-11d82a8e0501",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "976dde74-e9c3-4aea-9325-d1f9d31633ce",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "10d1d21b-5b8e-438e-9bb6-ec905f49e558",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        197,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72c6bb04-c1eb-4e4c-a2ae-7884d64345c2",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        198,
+        199
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Я",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6135b331-bb5a-47ff-9390-7673da3bb246",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      199,
+      200
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c945a3c-7d1b-4769-b684-db576f05b014",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2bc402e5-469e-48f2-b0a8-a4003422a7c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        200,
+        201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "121768e6-6e25-4195-a9ab-3efb641575a4",
+       "type": "word",
+       "value": "наприклад",
+       "textRange": [
+        201,
+        210
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наприклад",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "04c2b3d4-f400-404e-9705-ecc8c3f7f52b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      210,
+      211
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c743b5fc-11f7-425d-a9c1-552e15738f7a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "01010752-5900-4f5e-a12d-f425b506339d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        211,
+        212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a3d9ea2-9458-480c-90c3-4726b65cefb7",
+       "type": "word",
+       "value": "ніколи",
+       "textRange": [
+        212,
+        218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1054d013-ad4d-4743-9de2-5daf2bac7451",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        218,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dab7f1cb-0f50-4463-be0d-13b5630b0865",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        219,
+        221
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ec7a78a-beb3-42af-9902-1128c981dcd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        221,
+        222
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0fcd3a2-29dd-49af-82ec-71a316ce4168",
+       "type": "word",
+       "value": "мала",
+       "textRange": [
+        222,
+        226
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a142715-0507-44d4-a70a-12cce7c1c6b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        226,
+        227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c65ef9f7-93a3-4300-bd9f-08ba14f4c6d9",
+       "type": "word",
+       "value": "грошей",
+       "textRange": [
+        227,
+        233
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ніколи не мала грошей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "27894084-0187-40c3-91e1-e60216975e3e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      233,
+      234
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f6ec2709-424a-4843-a149-91b46d4a8a68",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "301a69a4-a6ae-4ef7-b7f0-720f09e4009c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        234,
+        235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f33c3112-76be-4a6d-8b08-67c9a1a410e0",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        235,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2e69719-15e1-4db1-b57e-011fc268ea3b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        238,
+        239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff3b5195-493d-474c-82de-6eeb782d351e",
+       "type": "word",
+       "value": "була",
+       "textRange": [
+        239,
+        243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "331bb7e5-33d4-4732-acb7-dc0b8eb1bbbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        243,
+        244
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1604f98c-22a2-46e4-a465-4c044e3f309d",
+       "type": "word",
+       "value": "надто",
+       "textRange": [
+        244,
+        249
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5980efb1-8aab-440f-bfbb-553c46cec22e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        249,
+        250
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2630488-3abb-45f5-9228-7afaf800f1c2",
+       "type": "word",
+       "value": "боягузлива",
+       "textRange": [
+        250,
+        260
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але була надто боягузлива",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c5ca7b1-308d-47df-9140-435428598259",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      260,
+      261
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e12e6ca2-6bc9-4e3d-a9a8-6a133a194d18",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1d17358f-bf48-4fae-82a7-4de9e25fc89e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        261,
+        262
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef0e2cca-ae34-4dd8-ac8b-ce767de2014b",
+       "type": "word",
+       "value": "щоб",
+       "textRange": [
+        262,
+        265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cadf585-8ead-477e-b7f9-fb5757ad2699",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        265,
+        266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6353597a-3e63-4b8a-a93c-41a562338ccf",
+       "type": "word",
+       "value": "навчитися",
+       "textRange": [
+        266,
+        275
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f53510c8-930d-4cbd-acaf-acd56d00e79b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        275,
+        276
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbca04e8-6db4-4b7e-8f66-1a0b5ed92e36",
+       "type": "word",
+       "value": "красти",
+       "textRange": [
+        276,
+        282
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " щоб навчитися красти",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c6e0529e-b06a-4d16-8d5e-e83ca607c897",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      282,
+      283
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c75d406-2772-49c3-b40d-3538590d9b25",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      283,
+      284
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Я, наприклад, ніколи не мала грошей, але була надто боягузлива, щоб навчитися красти.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Уся справа в грошах, казала Лєна Народ без грошей страшний, бо втрачає різноманіття виду Бідні люди стають злодіями або філософами, третього не дано Я, наприклад, ніколи не мала грошей, але була надто боягузлива, щоб навчитися красти.",
+ "concept": "SYNTAX"
+}

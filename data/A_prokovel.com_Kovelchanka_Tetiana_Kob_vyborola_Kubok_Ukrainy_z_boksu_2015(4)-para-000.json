@@ -1,0 +1,844 @@
+{
+ "id": "e0b6c162-4ca9-4168-aad7-cde2ccef141b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "561ce729-38c6-4c41-89bd-39d7a6be64ba",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6bc70ebd-b9f0-4e51-bfd8-1ec050642645",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "361ba384-2940-4e83-81be-4cbdc90d4a2c",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8436c984-ab50-4238-9705-9fcd7c2c3d6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "be7f1dec-baf5-45ca-963a-ccde90ca98f0",
+         "type": "word",
+         "value": "Чернівцях",
+         "textRange": [
+          2,
+          11
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "a9b87c21-eed1-41f7-95aa-3567bbd9f4ae",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "7761851a-5a16-4eaf-8274-f6acfda32c82",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        11,
+        12
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4a86161-5032-45ec-891a-4ec52fb8549b",
+       "type": "word",
+       "value": "завершилися",
+       "textRange": [
+        12,
+        23
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c37ea9e-ac36-4a10-b94a-8465ce9d27c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        23,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2520f421-e2b9-4b1f-b230-cb94716f584b",
+       "type": "word",
+       "value": "змагання",
+       "textRange": [
+        24,
+        32
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a6ce917-cb97-47f6-ad40-7471d30a58f2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        32,
+        33
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "c510ab63-f45c-43d7-8601-81c2ee39aa6b",
+         "type": "word",
+         "value": "Кубка",
+         "textRange": [
+          33,
+          38
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1f661eff-b12e-4f8e-a26b-38b918aad27b",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          38,
+          39
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "180a7d8c-2808-41a7-ab94-7763d6e32adb",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          39,
+          46
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b7ebbc76-2bab-473a-ba9b-58363ac133fb",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "3251011c-9010-46a5-a44f-ab4d22d87ff8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        46,
+        47
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87532436-5f9a-4b1d-a3ee-3587d8a72a73",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        47,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64a718bd-43e7-4737-b614-7e68677492a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5d3f513-2174-4a4b-a77a-02d1c21de85e",
+       "type": "word",
+       "value": "боксу",
+       "textRange": [
+        49,
+        54
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b155998b-481f-4b8f-b6b9-89aec3e43917",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        54,
+        55
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0dcfbc6b-c7a1-40e3-abb6-a3a9462ffbea",
+       "type": "word",
+       "value": "серед",
+       "textRange": [
+        55,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d8e9716-4b7e-4b12-8964-f0fc310d45b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        60,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea61cee3-9b19-449b-a146-8130809e3a99",
+       "type": "word",
+       "value": "жінок",
+       "textRange": [
+        61,
+        66
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4bead11-1576-45ad-b6df-862156555c3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30cb6fb5-7a2d-4ad2-a06a-a4ecefd33214",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        67,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5a09017-dc4c-44db-aa36-d8e877f859b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        68,
+        69
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa00843f-fd36-476a-9440-12b90712ef37",
+       "type": "word",
+       "value": "чемпіонат",
+       "textRange": [
+        69,
+        78
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ac4f2cf-a0ae-49db-8e3a-73bacd4df198",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        78,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1d46c645-9063-44cc-a4e3-fbba24c1b6c0",
+       "type": "word",
+       "value": "країни",
+       "textRange": [
+        79,
+        85
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6668421c-efeb-4279-9069-6b1ab34a2eca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        85,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24168463-6287-496b-8759-1c03b00197d8",
+       "type": "word",
+       "value": "серед",
+       "textRange": [
+        86,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f10ec34-70ee-43f3-b4b6-695630f7f611",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "145641e8-3b8c-4d66-9f57-c20124a3bf3d",
+       "type": "word",
+       "value": "молоді",
+       "textRange": [
+        92,
+        98
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У Чернівцях завершилися змагання Кубка України з боксу серед жінок і чемпіонат країни серед молоді",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4f9f32e4-bc53-4f7b-bd70-b872e94eb1f6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      98,
+      99
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У Чернівцях завершилися змагання Кубка України з боксу серед жінок і чемпіонат країни серед молоді",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a32efcd5-5dd5-4655-b4ca-b63aa9ae7846",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "39c32d99-166f-4490-8077-703c828b4ef3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "422590ee-02e1-414d-af4e-ceeb17c932cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        99,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82be41b6-6f50-4cc1-81b6-5ee947a89322",
+       "type": "word",
+       "value": "П’ятиденний",
+       "textRange": [
+        100,
+        111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4aa11f00-76e5-4bda-8677-ba849aaf79c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        111,
+        112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a74c014f-2053-4728-8975-7fcb9cec48a5",
+       "type": "word",
+       "value": "марафон",
+       "textRange": [
+        112,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7f6b34a-a753-4635-8d5c-c365da4302b6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1dc2592-68b2-4e9c-a039-0c567e3c406d",
+       "type": "word",
+       "value": "жіночого",
+       "textRange": [
+        120,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b532211-aabe-469c-a780-59ce434773c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        128,
+        129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f4220c5-34d4-4f94-ab26-205c16a2fa4d",
+       "type": "word",
+       "value": "боксу",
+       "textRange": [
+        129,
+        134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8b01634-6aeb-4221-9993-6eee4e6c29dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        134,
+        135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "903ac698-82bb-439f-80b3-f63567bd9749",
+       "type": "word",
+       "value": "зібрав",
+       "textRange": [
+        135,
+        141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18efecbc-c9da-4e00-96eb-35575ac3dfcf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        141,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6510ea59-ce02-42c5-a30b-0fa193eccb61",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        142,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8524d77f-a32e-4b55-bf9d-6763f0ecd826",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "d42e8285-a4e5-412e-855f-77c714e16253",
+         "type": "word",
+         "value": "ФОК",
+         "textRange": [
+          144,
+          147
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1e575908-545c-410c-998a-c479dc1a404e",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          147,
+          148
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b18ad256-b7e0-4374-8278-bb2617107de2",
+         "type": "whitespace",
+         "value": "«",
+         "textRange": [
+          148,
+          149
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "66b128bb-39bc-4110-91f5-428bcaf3cf36",
+         "type": "word",
+         "value": "Олімпія",
+         "textRange": [
+          149,
+          156
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1b3c8279-8b87-4f4b-ac34-fdb1fb81ffb8",
+         "type": "whitespace",
+         "value": "»",
+         "textRange": [
+          156,
+          157
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f3364b23-8bc6-4122-9cfc-81013bb2d4c7",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e4e66a5c-3d95-4fcd-a38e-9178c043edaa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        157,
+        158
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df163be7-89c8-4284-8576-28a29f9c22c0",
+       "type": "word",
+       "value": "двісті",
+       "textRange": [
+        158,
+        164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fed9ebb4-b814-45de-b937-5ef0639de7a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        164,
+        165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "195dc204-1a89-4b8d-bdeb-1cbc655d97b1",
+       "type": "word",
+       "value": "кращих",
+       "textRange": [
+        165,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7332e2cf-d8e9-4561-b79e-940027672ef9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        171,
+        172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64ace4d1-555e-4ef1-a754-2acb450cd56d",
+       "type": "word",
+       "value": "спортсменок",
+       "textRange": [
+        172,
+        183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "237cbb0c-1d88-45de-9c22-ee3f6d3731f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        183,
+        184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "02cd9f5e-64bf-4b6e-8b95-da2d6c3a6fb3",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          184,
+          191
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "87dd6fdc-6024-4737-84eb-b2d4ef5f77d5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "335cf09e-c36e-4273-b25c-7d7f261078ad",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09e5b0f5-8d9b-4452-93bc-b1fc3782a280",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        192,
+        193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a339e55-3849-4328-9eea-dcf8833c5f49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        193,
+        194
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "084aa946-967d-4f07-bade-4bd13a17acdb",
+       "type": "word",
+       "value": "трьох",
+       "textRange": [
+        194,
+        199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccadf8c7-de03-4d1f-a140-db0c3be0efab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        199,
+        200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3277b1be-6886-453d-aec4-ee962feda7ba",
+       "type": "word",
+       "value": "вікових",
+       "textRange": [
+        200,
+        207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5fbd0f78-77bd-4d41-b18f-17bf1c2a9d5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        207,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cee7b2c-da17-404f-8e3f-b2a52aa53a9f",
+       "type": "word",
+       "value": "категоріях",
+       "textRange": [
+        208,
+        218
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " П’ятиденний марафон жіночого боксу зібрав у ФОК «Олімпія» двісті кращих спортсменок України у трьох вікових категоріях",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a7c16f6c-02f3-4169-9be9-448d6ed59994",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      218,
+      219
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "69bcf533-f400-4946-88b2-c67616b96442",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4adc06d4-6b1e-4c8e-aeb8-fd65cc3d8b4a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        219,
+        220
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a84a624-6139-49cd-8d69-00be7130d242",
+       "type": "word",
+       "value": "юніорки",
+       "textRange": [
+        220,
+        227
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " юніорки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "48d2c3e0-013e-4cd4-9964-1baca2c979ec",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      227,
+      228
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "89f8a5e9-5f6a-4abe-b298-a5ceab1fb0ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "55b2d3d6-8a8a-4810-8b9b-32a13a28edbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        228,
+        229
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "385e688a-6c05-43be-9c20-1882b1434c72",
+       "type": "word",
+       "value": "молодь",
+       "textRange": [
+        229,
+        235
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4b1b993-b6a5-4161-b1a3-8279e7934f05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        235,
+        236
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "759b232f-8e7c-4e70-a024-672e5bcdd222",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        236,
+        238
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd4c37cf-dc51-4a25-9904-45930dd8993b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        238,
+        239
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3fb3c86-c910-4de6-a357-8849c3aa066d",
+       "type": "word",
+       "value": "дорослі",
+       "textRange": [
+        239,
+        246
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " молодь та дорослі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "be0d6696-bc9b-4f3b-bc09-7216df2f73f8",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      246,
+      247
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "189b7215-eabf-4b69-87cc-efe406af9181",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      247,
+      248
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " П’ятиденний марафон жіночого боксу зібрав у ФОК «Олімпія» двісті кращих спортсменок України у трьох вікових категоріях: юніорки, молодь та дорослі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У Чернівцях завершилися змагання Кубка України з боксу серед жінок і чемпіонат країни серед молоді П’ятиденний марафон жіночого боксу зібрав у ФОК «Олімпія» двісті кращих спортсменок України у трьох вікових категоріях: юніорки, молодь та дорослі.",
+ "concept": "SYNTAX"
+}

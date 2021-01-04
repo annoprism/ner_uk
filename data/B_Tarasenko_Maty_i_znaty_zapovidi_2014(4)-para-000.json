@@ -1,0 +1,601 @@
+{
+ "id": "c7f67e5b-4a8e-4b9d-a24c-7079e7a1c7cc",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b64f72ba-a555-4915-82da-589f695de1d1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bb42a420-8b54-426b-9856-91c7ef7004f6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1c7b7325-5662-4f96-b769-0bd37b4c7ba1",
+       "type": "word",
+       "value": "В",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4971a9d1-597a-40a6-852d-fbdd1bd242b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "490ed1c8-6b83-4417-bfbe-63e082726ab8",
+         "type": "word",
+         "value": "Євангелії",
+         "textRange": [
+          2,
+          11
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b7d9114a-0c00-4b28-a256-f916e990b38a",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          11,
+          12
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "78b43f93-c2fe-448b-ae15-6357c21c3cbf",
+         "type": "word",
+         "value": "від",
+         "textRange": [
+          12,
+          15
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d2bf19f8-dd1a-4ade-abfc-8fd6601a453c",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          15,
+          16
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b1f12343-ecf8-47ba-9266-a33114afcfd3",
+         "type": "word",
+         "value": "Луки",
+         "textRange": [
+          16,
+          20
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fee6f3bc-6580-4691-9728-857e5cf27d31",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e7aafe79-cceb-453e-9711-5b277f145eee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        20,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a8b3339-04d9-4e65-9f54-df5cd9840aa7",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fe78060-6f83-41ce-a50d-eb55d3c60aaa",
+       "type": "number",
+       "value": "10",
+       "textRange": [
+        22,
+        24
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "В Євангелії від Луки (10",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d1af4909-edfd-48fa-869d-aac487158cdc",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      24,
+      25
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8648259b-7d36-40ab-8833-377cd93de459",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "96649858-2d39-45cc-9863-ea1007a5e9dd",
+       "type": "number",
+       "value": "25",
+       "textRange": [
+        25,
+        27
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c3f20f8-fd81-4b33-b27b-30bc2a283d2b",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        27,
+        28
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac6b4ad2-3683-43f5-9fa4-ed8cade4d315",
+       "type": "number",
+       "value": "37",
+       "textRange": [
+        28,
+        30
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cadc2a2-c3b0-4de0-834e-5aa7812fac3e",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        30,
+        31
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afec6506-25e2-48b8-b71f-14182c38b564",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        31,
+        32
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "41d8f3c9-d4f7-4aa9-9278-b45127e2e2d5",
+         "type": "word",
+         "value": "Ісус",
+         "textRange": [
+          32,
+          36
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "282409c2-8a4e-435f-b740-d816c49e50d5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0286c0bc-d626-4cf6-a490-50feac8b2e7d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        36,
+        37
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "994c8397-cc2c-473a-8f55-d1488288ac12",
+       "type": "word",
+       "value": "нагадує",
+       "textRange": [
+        37,
+        44
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f72533b8-1fd3-4967-a9df-2ed9c4e73027",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        44,
+        45
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21862ba3-158d-4dda-9c6d-af9f4c4562ad",
+       "type": "word",
+       "value": "нам",
+       "textRange": [
+        45,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ab999fb-d9ce-4978-84e5-a8d4f378e350",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e82c341-b6bf-47d5-ac1c-b503b05f50c7",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        49,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59770446-1f26-4014-b6c3-d15f604b32ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        52,
+        53
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c084a69a-ce7f-4b8d-9447-e0e73d82efd9",
+       "type": "word",
+       "value": "любов",
+       "textRange": [
+        53,
+        58
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "251738b9-1e8c-4448-bde8-5330d7b65b9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3bf25af3-7c5a-4419-9a4d-e0a1ea77eb40",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        59,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c538af77-8f54-449e-bcea-0a71d8f2e5e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        61,
+        62
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "66ba5c14-924a-4a7e-b3aa-8d12f2e22adb",
+         "type": "word",
+         "value": "Бога",
+         "textRange": [
+          62,
+          66
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c0ae4fcf-2cac-49db-b60c-141cc2321cb1",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "07a653aa-a8ea-4bd4-af44-5ebefa8c8d70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        66,
+        67
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3796972a-1502-4bf5-9579-ce7edbfdc7ac",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        67,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7cb39f6e-39bf-4ed7-8392-a5b8ffcafe00",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        68,
+        69
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d3d248a-c052-4abe-bbfc-86a4127aa7be",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        69,
+        72
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "165cef43-d35f-4e1d-8d7b-9c4874522695",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        72,
+        73
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc9e5b42-1f2d-4e7a-b7c5-adab3c59f5a5",
+       "type": "word",
+       "value": "любов",
+       "textRange": [
+        73,
+        78
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a9390f9-ba4d-440e-826a-68e4ae3d7f1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        78,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d494d04d-e166-4bf9-bd3a-36c2616359fa",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        79,
+        81
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12922c61-4ded-4258-b613-115ea5b7c02e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        81,
+        82
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2de7d740-f9f6-4908-ab3d-970c11fa88a3",
+       "type": "word",
+       "value": "ближніх",
+       "textRange": [
+        82,
+        89
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "25-37) Ісус нагадує нам про любов до Бога і про любов до ближніх",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "20272dbd-76cc-44cf-961f-862145e2fdaa",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      89,
+      90
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "33a890cb-5710-45dc-b98d-1e6fda0ab0cb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9443a5ad-24ac-48cd-9002-bc0c24c1742e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f7015f1-94d5-4b71-811c-214234af2765",
+       "type": "word",
+       "value": "відповідаючи",
+       "textRange": [
+        91,
+        103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d3450d2-fc2c-44dc-989f-5a8b01cccce4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        103,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "990e2e83-e692-4a67-b4dd-6d0cb143975a",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        104,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "193dfa0c-4505-4886-a506-d48a29a1943b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        106,
+        107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "729e0414-df31-4adb-9eb7-b88b2f4022b3",
+       "type": "word",
+       "value": "запитання",
+       "textRange": [
+        107,
+        116
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a94e8ae4-d8c1-4b3b-9733-34136e111687",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        116,
+        117
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90764eb1-028c-4ea6-b130-89a1b9c06246",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        117,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f18b612-8337-401e-af7a-6f619498949e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        120,
+        121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c70bdada-a801-4b32-bf96-3a18d5859e5b",
+       "type": "word",
+       "value": "виконання",
+       "textRange": [
+        121,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b24cd17c-4108-4b89-8d46-d23b79e02f74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        130,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0053d2c7-a2bf-47a2-93e8-0023b4196b7b",
+       "type": "word",
+       "value": "заповідей",
+       "textRange": [
+        131,
+        140
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " відповідаючи на запитання про виконання заповідей",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "799582cb-78fb-4dda-a983-16a5f46ac012",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      140,
+      141
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "44312ed5-ec55-476b-9786-c4a977360d5f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      141,
+      142
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "В Євангелії від Луки (10:25-37) Ісус нагадує нам про любов до Бога і про любов до ближніх, відповідаючи на запитання про виконання заповідей.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "В Євангелії від Луки (10:25-37) Ісус нагадує нам про любов до Бога і про любов до ближніх, відповідаючи на запитання про виконання заповідей.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,588 @@
+{
+ "id": "2371758e-f10e-4b08-aad2-336a575e840d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9763004f-edf6-4471-978a-f785673d10b1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4fa44cdd-d961-4716-8015-ac626d7fe374",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c0a896c0-9f1b-47b8-a91c-44679fd6b1fe",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2793,
+        2794
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c64cc203-4ba4-43e0-826c-cbd53aab274c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2794,
+        2795
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1607100-6bf8-4586-8b3f-9419ea358996",
+       "type": "word",
+       "value": "Знаєш",
+       "textRange": [
+        2795,
+        2800
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "– Знаєш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1993765e-441b-4be4-a999-5413871e34d2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2800,
+      2801
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ab6bd2a-ecf3-4874-8db9-74810880d0a0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c73cd11c-f781-4243-9820-567aca25d381",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2801,
+        2802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3f4ed816-226e-47d6-8b8d-ca83607afa10",
+         "type": "word",
+         "value": "Янко",
+         "textRange": [
+          2802,
+          2806
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "95b3eb65-3164-4594-ab89-11100107f604",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Янко",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3dce5e8f-51db-4718-8e2f-0bf9a7e5d643",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2806,
+      2807
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "011baba5-8402-4e8f-a9a6-a61bd1f2edf6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8b194de0-2f0b-4f44-aa2f-879deb4bc127",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2807,
+        2808
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d35cb8c-a111-472c-a2df-fb82d2f71782",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2808,
+        2809
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b129b4ed-5591-42b7-8ff8-3585e5bb9e3e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2809,
+        2810
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "2550da3b-3299-4652-8c2d-cb0729537633",
+         "type": "word",
+         "value": "Славко",
+         "textRange": [
+          2810,
+          2816
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7842f972-8397-4ccd-9ec0-6249ee7e4466",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "fc851026-f962-4a4b-923f-82927d9c0cca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2816,
+        2817
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4b34af0-2421-444c-ba27-99a4385668e6",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        2817,
+        2819
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4726a6ca-5b5d-4367-8921-a54afc3acc48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2819,
+        2820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f13e85b-9ab9-4e90-b0d0-b6392799f595",
+       "type": "word",
+       "value": "насолодою",
+       "textRange": [
+        2820,
+        2829
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b30ec540-7ffc-44ba-99e8-2320d2457eed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2829,
+        2830
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7bcb266-aa04-4d96-91ac-a8c19c7db54c",
+       "type": "word",
+       "value": "смакував",
+       "textRange": [
+        2830,
+        2838
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85d5487c-8540-4bee-b283-88e09afe2274",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2838,
+        2839
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92045373-348f-4ba9-8f16-95b71869e3d0",
+       "type": "word",
+       "value": "картоплю",
+       "textRange": [
+        2839,
+        2847
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33376b45-609b-4104-8919-54fefbb75bee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2847,
+        2848
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88cd5f0b-1b5a-4e2a-879b-0729b35d0cdb",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        2848,
+        2849
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24791fc2-c386-4130-9f02-c8ff6d19918f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2849,
+        2850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6a30a33-cfc0-421b-a91b-91c19cb74bc0",
+       "type": "word",
+       "value": "котлетою",
+       "textRange": [
+        2850,
+        2858
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – Славко із насолодою смакував картоплю з котлетою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "17dd92f4-59da-4778-841a-ee45a09cb9ee",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2858,
+      2859
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ef887208-da80-4fac-8222-a4a9939c36de",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "db6603f7-9783-4bc1-937d-588842e88aa8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2859,
+        2860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8e18c2a-7289-44f0-b36c-44793383aab1",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2860,
+        2861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc420324-cb62-497e-96c3-f74899c60139",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2861,
+        2862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa7ccabc-f4f4-4de4-89ca-83138677db92",
+       "type": "word",
+       "value": "далі",
+       "textRange": [
+        2862,
+        2866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad0a315b-94f2-4e3f-86ae-d81d29b3c0e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2866,
+        2867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85a98f51-fb9e-4cc8-b8bb-01513156e855",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        2867,
+        2870
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68fda26f-0ced-4f9b-8b21-59628c87f818",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2870,
+        2871
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc071323-c9f1-4a37-8742-7eb46be7ef24",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        2871,
+        2875
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb7ab02a-88c3-4fc1-9f8d-7db88662dc3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2875,
+        2876
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13112bdb-8c1c-4a9a-81f5-3e1f4c927035",
+       "type": "word",
+       "value": "самі",
+       "textRange": [
+        2876,
+        2880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e4794c6-0713-4f6d-a733-046f172b3f57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2880,
+        2881
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a25859b-1b4d-4766-8810-1cbb51fba78d",
+       "type": "word",
+       "value": "впораються",
+       "textRange": [
+        2881,
+        2891
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – далі вже вони самі впораються",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4dc39e35-d976-47d2-a80e-901b92ab4cdd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2891,
+      2892
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "– Знаєш, Янко, – Славко із насолодою смакував картоплю з котлетою, – далі вже вони самі впораються",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c1f782c8-213e-42ee-a518-d9de57dc1df0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "157aa69f-c9e7-45df-86a2-0dd6df91ebab",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3ad444c9-4999-488d-bd25-0e8c548303d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2892,
+        2893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e53e1ba-447f-4fd1-91da-4a80d76afe4e",
+       "type": "word",
+       "value": "Головне",
+       "textRange": [
+        2893,
+        2900
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbd6c002-a5a7-4db5-8718-66e94ee88a62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2900,
+        2901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa5fc9f1-88dc-4d95-90a5-c9f27bdb4742",
+       "type": "word",
+       "value": "ми",
+       "textRange": [
+        2901,
+        2903
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f24e6302-0dec-438f-a2eb-0748da3e1781",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2903,
+        2904
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "789f7249-6b41-46b2-9e6a-6348ee2446a7",
+       "type": "word",
+       "value": "зробили",
+       "textRange": [
+        2904,
+        2911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "624a0747-5503-4e6f-9add-c51965f7e295",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2911,
+        2912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "952ddfb6-925e-489e-99f7-14e212906892",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2912,
+        2913
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4aa8cf8-0a76-420a-8836-ae9f3d71a4e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2913,
+        2914
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "116729e8-66de-4872-8014-1d7d660320f8",
+       "type": "word",
+       "value": "вигнали",
+       "textRange": [
+        2914,
+        2921
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed57a533-a473-4a9d-aa83-46ed4aea7d23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2921,
+        2922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84a2e58e-5b4f-49e9-abc9-c5775ed1015c",
+       "type": "word",
+       "value": "гадів",
+       "textRange": [
+        2922,
+        2927
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Головне ми зробили – вигнали гадів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "034f24c6-0692-4a49-a54b-5fa82ee18952",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2927,
+      2928
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "636098db-ee32-4208-a77f-f28819631315",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2928,
+      2929
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Головне ми зробили – вигнали гадів.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "– Знаєш, Янко, – Славко із насолодою смакував картоплю з котлетою, – далі вже вони самі впораються Головне ми зробили – вигнали гадів.",
+ "concept": "SYNTAX"
+}

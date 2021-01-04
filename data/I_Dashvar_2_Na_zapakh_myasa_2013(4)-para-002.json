@@ -1,0 +1,265 @@
+{
+ "id": "8cd8963b-202b-4110-afcd-e5b418028a6c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ad9bde93-123b-4f3a-b767-2bc7833c7431",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bd778f73-e93d-414b-a221-a833f775a7de",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "51dbdfd1-38da-447a-9cff-649e8ed9338a",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        474,
+        475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e8a9731-a3e6-4013-b83a-9b8e2814b553",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        475,
+        476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "060301d2-6f50-4bfa-bff2-f6d9288687da",
+       "type": "word",
+       "value": "Потім",
+       "textRange": [
+        476,
+        481
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Потім",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8839777-aed4-4d3d-8c38-c72fe295f474",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      481,
+      482
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e2723ea1-997c-445b-9c80-f013a9712d69",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1955c655-04e4-4753-8824-f8cf41850344",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        482,
+        483
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04974ce5-e8bb-4f74-b750-35015237b4f1",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        483,
+        484
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fd03663-d44a-4a64-95a3-b4c87f0ee9df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        484,
+        485
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44de754e-d5b7-4316-8e54-16fc62b4e227",
+       "type": "word",
+       "value": "прошепотіла",
+       "textRange": [
+        485,
+        496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47f25dcc-eb4a-422f-be00-26880d84e8a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        496,
+        497
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3e22da95-96d2-4d12-907e-29c796f4d936",
+         "type": "word",
+         "value": "Майка",
+         "textRange": [
+          497,
+          502
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "dd2c868b-8b81-4dd9-b1d3-741df5a233b0",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — прошепотіла Майка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1e44bd25-cb97-4243-8658-eccaece9d9c3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      502,
+      503
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Потім, — прошепотіла Майка",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0d3fdac8-8147-4a65-8a89-d72fde04d579",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "02bcad34-1476-4040-9e1d-12d216ac96b7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fc890d6b-e5e9-49c1-b40f-fd5110bfa6bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        503,
+        504
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ebfe1e88-2583-4087-8810-e5433c7a9820",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        504,
+        505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e158e3f-28b6-49b9-848a-b8c528a6968f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        505,
+        506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26e52320-e7a7-4fd9-a6bb-105d4e858f15",
+       "type": "word",
+       "value": "Спершу",
+       "textRange": [
+        506,
+        512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c78bc0d-9a3c-4772-ba67-cf9185177ff3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        512,
+        513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a267b548-ef1d-4213-812f-74d3bec0c519",
+       "type": "word",
+       "value": "оленя",
+       "textRange": [
+        513,
+        518
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f6ca546-3040-454a-9d58-f18a4697481c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        518,
+        519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc3d6c4c-dbff-4e01-9852-c3167fa90e3d",
+       "type": "word",
+       "value": "дочекаюся",
+       "textRange": [
+        519,
+        528
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a893c6e-2897-4538-b34c-77da405cbfa8",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        528,
+        529
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Спершу оленя дочекаюся…",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2a8835cf-9792-4c6a-9dba-d4be59b206a1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      529,
+      530
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Спершу оленя дочекаюся…",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Потім, — прошепотіла Майка — Спершу оленя дочекаюся…",
+ "concept": "SYNTAX"
+}

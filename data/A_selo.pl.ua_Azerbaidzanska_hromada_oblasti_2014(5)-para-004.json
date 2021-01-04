@@ -1,0 +1,545 @@
+{
+ "id": "3e0da82a-7986-41c0-8239-116a57399437",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "bf6c5251-8702-4b22-af04-ec7426ba562d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "44c5e7c1-3a84-4d9c-b538-fb36fe31c4e6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4479d040-dd71-4115-ac73-5f25047f7627",
+       "type": "word",
+       "value": "Гість",
+       "textRange": [
+        1273,
+        1278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ece01ba-e55f-4bb8-8b60-4a8833f1305d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1278,
+        1279
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a80a1e8-dbde-4ca4-960b-a9baa0c2646d",
+       "type": "word",
+       "value": "запевнив",
+       "textRange": [
+        1279,
+        1287
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Гість запевнив",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10f409c4-3cec-4547-9820-ac17103bed54",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1287,
+      1288
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dc331fa4-43aa-4d89-9ffa-61aea28ce56c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d2db63fb-825f-4722-a32c-37ee92d9a6d0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1288,
+        1289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5772caf8-85dd-42e5-a353-ed9b3059f6db",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1289,
+        1291
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55562629-9f22-4a55-a8c0-165fe4c49961",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1291,
+        1292
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6337cd5c-44d5-41a2-9a81-cf67ab7bcc6e",
+       "type": "word",
+       "value": "азербайджанська",
+       "textRange": [
+        1292,
+        1307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1528aa53-5156-43e8-b3b5-e7425f025cc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1307,
+        1308
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5057c60-e3c9-4086-bc96-8b9fd4ecf138",
+       "type": "word",
+       "value": "діаспора",
+       "textRange": [
+        1308,
+        1316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10f8a21f-c649-496c-9786-603cc18e332f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1316,
+        1317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c56d39d8-81ae-4a76-8013-1ea0805579f5",
+       "type": "word",
+       "value": "повністю",
+       "textRange": [
+        1317,
+        1325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2961e2dc-3dd5-4ee7-94d2-1b5428059f90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1325,
+        1326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e16fd45-4b95-455c-ab6c-54bf25e45be9",
+       "type": "word",
+       "value": "підтримує",
+       "textRange": [
+        1326,
+        1335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d21b57c-cabe-4a6a-99c0-a47f927a8987",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1335,
+        1336
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25d77279-be8c-4dbb-8925-61e205429704",
+       "type": "word",
+       "value": "єдність",
+       "textRange": [
+        1336,
+        1343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "031d7f27-d85c-44d8-a7e0-af02d9c25673",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1343,
+        1344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "099ae6ee-a5c6-4f02-865e-1dff145e31de",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          1344,
+          1351
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "64608d3a-fcdd-4284-b789-6d27c5c24efe",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що азербайджанська діаспора повністю підтримує єдність України",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e2a31950-1f40-4900-9079-b7295bb7d07d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1351,
+      1352
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Гість запевнив, що азербайджанська діаспора повністю підтримує єдність України",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "59c51ad4-72cb-465b-be4d-e2405c891ab0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c1de531c-06f8-44bc-b46b-09a63a5889d2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3f8bb668-f790-4adf-bdf7-be5dabfe8756",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1352,
+        1353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c961ad6e-6b19-44cd-bb18-dfc0b6b65229",
+       "type": "word",
+       "value": "Подібні",
+       "textRange": [
+        1353,
+        1360
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ce88b66-2df7-457f-8fea-1ac41a86516e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1360,
+        1361
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9060a141-90f2-47ae-ab67-5dd4f8f3e044",
+       "type": "word",
+       "value": "зустрічі",
+       "textRange": [
+        1361,
+        1369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37f9d9ea-6dfd-44eb-8e0a-1b0381aa634d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1369,
+        1370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd3d0094-84fc-489a-9f0c-59697b37dd76",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1370,
+        1371
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8aee5634-9507-4ab7-ad29-651b56169cdd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1371,
+        1372
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69bd4535-3593-46df-9de2-001cc2edfb09",
+       "type": "word",
+       "value": "національними",
+       "textRange": [
+        1372,
+        1385
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e05cce7c-15cc-42ac-a094-c23d0bc66a32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1385,
+        1386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc9e392e-9d57-4a8b-a888-cec9d5252d44",
+       "type": "word",
+       "value": "меншинами",
+       "textRange": [
+        1386,
+        1395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9739570-f6f1-48f3-8ff6-12660c7ec550",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1395,
+        1396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d97391a8-c5c4-4f5e-a915-c93fb2d3f692",
+       "type": "word",
+       "value": "будуть",
+       "textRange": [
+        1396,
+        1402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "313ca580-40c4-4a67-b6fe-20d6f0b31064",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1402,
+        1403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f208c84b-2192-4d1f-99e8-b5af5ec6b214",
+       "type": "word",
+       "value": "продовжуватись",
+       "textRange": [
+        1403,
+        1417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be115aae-1ae0-4a7b-9c12-70e699fe9255",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1417,
+        1418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecab2a6e-ac44-49d5-a148-9bba6695f1c0",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1418,
+        1419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "01d6a590-7d7f-434c-a936-552443c8348e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1419,
+        1420
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2617916d-8f27-47a8-bd1a-53320ea05877",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1420,
+        1421
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a211487b-1c68-4b78-b3a4-6f7a66e402dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1421,
+        1422
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3a8d762-9c5a-43bb-92be-62ac5cfbed46",
+       "type": "word",
+       "value": "майбутньому",
+       "textRange": [
+        1422,
+        1433
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f89115b1-9e5d-4791-ae86-5ec684a93036",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1433,
+        1434
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e4dce9c-d308-4d00-ba69-c71ab7bee0e7",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        1434,
+        1435
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92f077aa-6866-41a6-84a2-da4ad5bb21ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1435,
+        1436
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e84d5a3d-6522-40de-b265-92dde75c655a",
+       "type": "word",
+       "value": "метою",
+       "textRange": [
+        1436,
+        1441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "049f8f3e-dccb-474b-8636-e146d11f400e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1441,
+        1442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed55df67-bbb9-435d-b56e-8c6a9bd593fb",
+       "type": "word",
+       "value": "консолідації",
+       "textRange": [
+        1442,
+        1454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4aadbac6-7640-46cb-84d2-7b73548f121d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1454,
+        1455
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967ac368-ae72-463c-ad0a-d7afcb1e32a2",
+       "type": "word",
+       "value": "суспільства",
+       "textRange": [
+        1455,
+        1466
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Подібні зустрічі з національними меншинами будуть продовжуватись і в майбутньому з метою консолідації суспільства",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "adca33f6-00c0-45a5-8a49-1deca3b1642c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1466,
+      1467
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1486d6d8-44b5-4d0f-a6ad-d149607e71de",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1467,
+      1468
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Подібні зустрічі з національними меншинами будуть продовжуватись і в майбутньому з метою консолідації суспільства.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Гість запевнив, що азербайджанська діаспора повністю підтримує єдність України Подібні зустрічі з національними меншинами будуть продовжуватись і в майбутньому з метою консолідації суспільства.",
+ "concept": "SYNTAX"
+}

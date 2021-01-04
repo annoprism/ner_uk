@@ -1,0 +1,179 @@
+{
+ "id": "8d15111e-b2e5-4276-a65a-9018ce04954b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b4167e22-390a-4890-a775-385f79fe17ec",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f239cfe5-6ea1-40df-8523-937c591a4f6c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c9480890-b0d8-49bc-bbcc-eb58b8fba713",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        10581,
+        10582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47e5675e-3caf-4c82-a35a-356706042125",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10582,
+        10583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a357a01-0c00-4461-9056-85b7fd13d10d",
+       "type": "word",
+       "value": "правому",
+       "textRange": [
+        10583,
+        10590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8d665aa-7a03-4e3c-8cda-dc09c56532da",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10590,
+        10591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6b29ff1-f804-4d6f-a038-6b334fff8a77",
+       "type": "word",
+       "value": "вусі",
+       "textRange": [
+        10591,
+        10595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e6ee917-c5f5-49c5-87bc-e211a3452b34",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10595,
+        10596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88038844-6192-4a5f-92d0-a16c455899cb",
+       "type": "word",
+       "value": "зітхнув",
+       "textRange": [
+        10596,
+        10603
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "846f1886-bd48-4a4a-95aa-bb72e4e6ffd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10603,
+        10604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "f2bcf108-f698-4a76-8497-068c81bf7996",
+         "type": "word",
+         "value": "Горе",
+         "textRange": [
+          10604,
+          10608
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5381186e-cd35-4dab-80dc-ae4759cf7a25",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "У правому вусі зітхнув Горе",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "128a0bd4-fbea-4a92-b5d7-b1a665b86861",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10608,
+      10609
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b3f612a2-afe3-4f6a-a801-9a6a901dee47",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "05488866-00c7-405d-b5e8-e22e17a97903",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10609,
+        10610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae66540d-c00b-4cc5-a8b0-5636ade726a3",
+       "type": "word",
+       "value": "гукнув",
+       "textRange": [
+        10610,
+        10616
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " гукнув",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5c4b5c75-02b6-4908-a844-4e28ec3c6963",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      10616,
+      10617
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64070cd8-047b-448d-a94c-5e9fc8400df9",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      10617,
+      10618
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У правому вусі зітхнув Горе, гукнув:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У правому вусі зітхнув Горе, гукнув:",
+ "concept": "SYNTAX"
+}

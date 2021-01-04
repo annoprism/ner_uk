@@ -1,0 +1,895 @@
+{
+ "id": "47ff7c27-0bb3-4e69-a91b-8eeb4815ae20",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "dbfbaddc-dfbd-4523-bd8d-1af802d928e9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "daa7bc72-3796-44f8-8cc4-c3de5b641318",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "06734c18-82c7-409b-9b73-8dc541c1649e",
+       "type": "word",
+       "value": "Канцеляристу",
+       "textRange": [
+        1729,
+        1741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "68c4a416-2872-485c-bc38-ea7724476c52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1741,
+        1742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "dbf38ca4-2b06-49df-9a11-cfb3af2054aa",
+         "type": "word",
+         "value": "Теодора",
+         "textRange": [
+          1742,
+          1749
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "05394291-d759-483d-9b9c-cf9bc6d279bd",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "168043fc-db42-4f37-8d6c-05a5a0803658",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1749,
+        1750
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db814dd0-1b9c-49e4-b08d-555825867133",
+       "type": "word",
+       "value": "якось",
+       "textRange": [
+        1750,
+        1755
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b6f258e-8211-4848-b305-3443ad5fd79a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1755,
+        1756
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a25d076-aeba-4b2f-9d0d-86f877a7605c",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        1756,
+        1760
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70a58d28-c6bd-4ce9-a86a-d6189a701bbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1760,
+        1761
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "595bf3d2-44d6-4aab-8089-9b1392d96f98",
+       "type": "word",
+       "value": "послано",
+       "textRange": [
+        1761,
+        1768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0c7dae0a-eeb5-4503-a598-81a4835dfb05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1768,
+        1769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd0fde0f-8689-412a-a374-8d31d91e49b2",
+       "type": "word",
+       "value": "зі",
+       "textRange": [
+        1769,
+        1771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a24f75a-f48f-473b-93a2-350f0cf258df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1771,
+        1772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77e53187-a0d6-4cc9-bcf5-c842c2d45c49",
+       "type": "word",
+       "value": "службовою",
+       "textRange": [
+        1772,
+        1781
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7317965-4a4a-4777-b541-d5a0fdcafeac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1781,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d79fe9ab-e89a-41dd-9014-c8067883a6ac",
+       "type": "word",
+       "value": "оборудкою",
+       "textRange": [
+        1782,
+        1791
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Канцеляристу Теодора якось було послано зі службовою оборудкою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "59b1bf57-b466-4ac4-9e07-7e3488f56fbf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1791,
+      1792
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ea35fe60-00ed-4cb9-a85b-becd318a2f12",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "69e75cfd-d078-4c24-841f-92d5d183e824",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1792,
+        1793
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2343d8ca-c6bd-4316-add9-95c195f800f1",
+       "type": "word",
+       "value": "судовою",
+       "textRange": [
+        1793,
+        1800
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " судовою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "150d9bb5-e9cf-4cd0-851b-9dabd0146850",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1800,
+      1801
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a9d46cfa-380c-4565-9af3-06e5fb9e62a2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0aeef96f-18e8-477f-af17-0efc16a6c488",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1801,
+        1802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b8c203a-e6c8-4c83-8492-70f5515a5325",
+       "type": "word",
+       "value": "бо",
+       "textRange": [
+        1802,
+        1804
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25d2367e-c069-444e-b27e-106a8dfba9db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1804,
+        1805
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1788e96-7028-4d2b-8175-c2c276da1423",
+       "type": "word",
+       "value": "тоді",
+       "textRange": [
+        1805,
+        1809
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "903bc215-d9e3-4f01-a35a-7520976f4802",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1809,
+        1810
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb6cb70d-4c22-49ad-8ec2-bac7b16283ab",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1810,
+        1813
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cda937cb-cb80-463d-a195-8d4833e80880",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1813,
+        1814
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13199f79-b466-49dd-a2c0-452ae34a58a0",
+       "type": "word",
+       "value": "служив",
+       "textRange": [
+        1814,
+        1820
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "990c1dd1-63f0-4205-9c7f-50716e012458",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1820,
+        1821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "776b0ad4-464c-461c-9f0b-6541172f7e35",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1821,
+        1822
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae605f55-6e94-4538-9294-e438bca003ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1822,
+        1823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c631bc06-be59-479d-9b9c-23e24f0fe4ad",
+       "type": "word",
+       "value": "полковому",
+       "textRange": [
+        1823,
+        1832
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6003c5f6-0bc9-46de-96f8-38594fe3f316",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1832,
+        1833
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca103a17-a151-4f69-8dfb-c20d5069214a",
+       "type": "word",
+       "value": "суді",
+       "textRange": [
+        1833,
+        1837
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бо тоді він служив у полковому суді",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "99d05768-e243-4859-bcf5-192de1fbcf6c",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1837,
+      1838
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7c7d1d18-2785-4c0b-b2ac-058600cf8a6e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8e45cb4f-9cdc-4c01-95ce-5569de181607",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1838,
+        1839
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "139ce69b-0daa-4719-a045-55bea22c7311",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        1839,
+        1841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4836c9f5-ae29-405b-a308-db48e98e5772",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1841,
+        1842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf00b09a-2f56-4ff1-910c-977206755b63",
+       "type": "word",
+       "value": "речі",
+       "textRange": [
+        1842,
+        1846
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " до речі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "db870208-7715-4779-af7f-87d8888f9663",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1846,
+      1847
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "af3b4e28-d205-477f-a7b5-8befe28e5e92",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "debeab59-ef00-47a1-a61b-a69728f6fe02",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1847,
+        1848
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e527a732-7293-408d-a648-450010eb8107",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1848,
+        1850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e1ee6b6-f864-4b76-9258-8a55bc536cc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1850,
+        1851
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b1d47fd-ade2-426f-bfbb-5b09905c781d",
+       "type": "word",
+       "value": "здобуваючи",
+       "textRange": [
+        1851,
+        1861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "431e38a3-c8e1-4ddc-8c54-30bb831d1215",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1861,
+        1862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "849dbc07-7477-4aae-99a0-cb17f81e4bcc",
+       "type": "word",
+       "value": "вищих",
+       "textRange": [
+        1862,
+        1867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc5b11e2-8f38-4f03-8857-87d9a80e23a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1867,
+        1868
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c940c9c8-e9f7-4eb4-a6ef-00ce1956a2b9",
+       "type": "word",
+       "value": "посад",
+       "textRange": [
+        1868,
+        1873
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не здобуваючи вищих посад",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bdb3917d-843d-45b0-991a-4c87e78b336a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1873,
+      1874
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a20cb2e9-3a0f-4612-a08e-2120fb1b379f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7aeeabda-6315-463b-b95b-f4cd5a77d688",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1874,
+        1875
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e3b61fa-6781-49ab-aac7-a46a5a617112",
+       "type": "word",
+       "value": "хоча",
+       "textRange": [
+        1875,
+        1879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f928b340-ed74-4282-ac95-4d15b6704275",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1879,
+        1880
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b1847b63-80ac-4fdf-a367-ceb4170f3967",
+       "type": "word",
+       "value": "обов’язки",
+       "textRange": [
+        1880,
+        1889
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e3996d7e-1503-442e-a2d5-9557693a770c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1889,
+        1890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecfafc08-152c-43f3-8b01-6811a8df23cb",
+       "type": "word",
+       "value": "виконував",
+       "textRange": [
+        1890,
+        1899
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90ff3df1-c413-4a9b-88af-4b6223b7a839",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1899,
+        1900
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db76c734-b7f6-4e15-a9bb-bf98bfc57b0f",
+       "type": "word",
+       "value": "вельми",
+       "textRange": [
+        1900,
+        1906
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec3d7db7-8cbf-4f26-896c-57e3530c1372",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1906,
+        1907
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81992522-b537-4fb5-bb30-0b5e685f2d4b",
+       "type": "word",
+       "value": "старатливо",
+       "textRange": [
+        1907,
+        1917
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хоча обов’язки виконував вельми старатливо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cb124c50-22c7-4f1e-8bcb-879776233dcd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1917,
+      1918
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Канцеляристу Теодора якось було послано зі службовою оборудкою, судовою, бо тоді він служив у полковому суді, до речі, не здобуваючи вищих посад, хоча обов’язки виконував вельми старатливо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "cc444fa5-4a36-43e3-90b3-401cb334981c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a9957948-6108-466f-bded-1d871760369d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "94a40929-0509-43af-b1ed-a9afcc7722e0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1918,
+        1919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "642859f9-ba1e-4e5b-b935-40dff9d9ab9c",
+       "type": "word",
+       "value": "Поїхав",
+       "textRange": [
+        1919,
+        1925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10aba755-82f2-43ad-aef4-fe90c82669c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1925,
+        1926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "257aba91-fd2d-4cba-ac3b-1f4fa6e01bc7",
+       "type": "word",
+       "value": "бідкою",
+       "textRange": [
+        1926,
+        1932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41f1e970-a11c-4726-9349-95da96207a17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1932,
+        1933
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1ea5f82-7b36-4a82-8e94-973de8f07546",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1933,
+        1935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e361cd2-8606-405b-8888-f770505217f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1935,
+        1936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "280c14b6-e20f-4e95-85ab-40f9eb79fec1",
+       "type": "word",
+       "value": "два",
+       "textRange": [
+        1936,
+        1939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "80f28adc-9f86-4062-9827-3f98083c8aa3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1939,
+        1940
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53ee2da1-8ef8-4712-b049-a1388df1f42e",
+       "type": "word",
+       "value": "колеса",
+       "textRange": [
+        1940,
+        1946
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Поїхав бідкою на два колеса",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42f77f9c-c2a6-448d-8563-f079ef3e6040",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1946,
+      1947
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "512d1fa8-b97b-417c-bc0c-24ceb8747b3e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "23f14307-f578-4974-81a8-e2d37a78cffc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1947,
+        1948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d379188-9509-4e02-a521-c7a9d560fa9c",
+       "type": "word",
+       "value": "сам",
+       "textRange": [
+        1948,
+        1951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae540407-c7c7-403c-a283-73687e2a624d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1951,
+        1952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ed831be-0077-40a0-9fcd-1dd04c3bddd4",
+       "type": "word",
+       "value": "нею",
+       "textRange": [
+        1952,
+        1955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e2ef4c7-ede4-44ac-8f9e-3fd4e55deb2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1955,
+        1956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09fa672f-5975-4c40-a485-de0a7bcd9d65",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1956,
+        1957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ee67b3b-832b-4c40-91b3-843bc3f6c6fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1957,
+        1958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1c595ac-e5e7-4266-8c30-d65a41afa55e",
+       "type": "word",
+       "value": "управляв",
+       "textRange": [
+        1958,
+        1966
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сам нею й управляв",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ef65ca5-3bee-4348-9b49-0fdbbfac5096",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1966,
+      1967
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "edd5377d-553a-4438-8901-316e026c0e32",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1967,
+      1968
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Поїхав бідкою на два колеса, сам нею й управляв.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Канцеляристу Теодора якось було послано зі службовою оборудкою, судовою, бо тоді він служив у полковому суді, до речі, не здобуваючи вищих посад, хоча обов’язки виконував вельми старатливо Поїхав бідкою на два колеса, сам нею й управляв.",
+ "concept": "SYNTAX"
+}

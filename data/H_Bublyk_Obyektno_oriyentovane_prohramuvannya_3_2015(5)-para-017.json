@@ -1,0 +1,94 @@
+{
+ "id": "3dcf00ab-fff5-461b-94e5-2a9de6dd0275",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "36e2cfb5-1937-46ab-99ef-1b04fb3e1213",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "264884b4-4395-43ea-8ff5-1fe598ad7a4d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c2a1635a-ac4c-4bc5-905c-49a6e7b399f5",
+       "type": "word",
+       "value": "double",
+       "textRange": [
+        6319,
+        6325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d860cfdd-ab03-4cb0-8c3a-d59b05803082",
+       "type": "whitespace",
+       "value": "*",
+       "textRange": [
+        6325,
+        6326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5004c34-527d-4de8-9852-988c142300ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6326,
+        6327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bee16e33-2a7c-48e4-84ff-5506d0875be5",
+       "type": "word",
+       "value": "px",
+       "textRange": [
+        6327,
+        6329
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "double* px",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8f447b13-ed98-456f-8a35-fdc79c2bc8d4",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      6329,
+      6330
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a64d3181-45fd-40b3-acc3-5dd507a11a96",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6330,
+      6331
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "17131964-b00a-46ce-83ed-dc8e822a934c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6331,
+      6332
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "double* px;\n",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,377 @@
+{
+ "id": "eceb212e-c022-4ed8-8b0a-ea48c565f250",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "e3f30a8a-6526-4465-a3ad-06f3126decf2",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "05dda5bf-79c4-4280-b9fe-a87725d7233c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0b6c6923-2728-4824-887a-78076910c3b6",
+       "type": "word",
+       "value": "Й",
+       "textRange": [
+        4305,
+        4306
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a18f2f2-60b7-4ffc-97c4-78ccde4e38b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4306,
+        4307
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e7c00cc-73a4-440d-a104-6e96076d1dd6",
+       "type": "word",
+       "value": "заговорив",
+       "textRange": [
+        4307,
+        4316
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53dd3097-2126-470b-8f3f-deedb5fc816d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4316,
+        4317
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73c39f7f-ea9e-401e-9f7e-b2711fa1dfbb",
+       "type": "word",
+       "value": "пан",
+       "textRange": [
+        4317,
+        4320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c6fa0af-7575-48fc-a541-fa329e51b513",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4320,
+        4321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "eaca2a38-b879-4d7c-8939-8b96062ef6bf",
+         "type": "word",
+         "value": "Корнель",
+         "textRange": [
+          4321,
+          4328
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "454c1222-f486-4687-b370-391a75c9dbc0",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Й заговорив пан Корнель",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "827cc718-a2c4-4e35-9df5-70455ef7d0cf",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4328,
+      4329
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c7c1d5a7-7922-460b-9816-bd55cb399ddf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "92e5ca63-abeb-456c-9a70-3920e3dd6290",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4329,
+        4330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18e9a3be-eadf-4661-bcdb-d0885b0e6636",
+       "type": "word",
+       "value": "коли",
+       "textRange": [
+        4330,
+        4334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cddca72d-992b-455a-a715-84694133de66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4334,
+        4335
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1af37b9-5bda-4c6f-8353-2cd108d50fb4",
+       "type": "word",
+       "value": "мовчанка",
+       "textRange": [
+        4335,
+        4343
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "050ea60c-10de-45ef-b354-084124489c1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4343,
+        4344
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5261f64e-d8f5-4596-8712-ee5f7fcce011",
+       "type": "word",
+       "value": "затяжіла",
+       "textRange": [
+        4344,
+        4352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e54aa88-95f5-4052-9c01-347936fd315e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4352,
+        4353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd96ce03-8431-46b3-9ae5-f2fa0a11591a",
+       "type": "word",
+       "value": "над",
+       "textRange": [
+        4353,
+        4356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "daae0382-73ee-4ac8-9db3-0adeda149a30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4356,
+        4357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6d7e21d-e5cf-4c45-8656-f4b23a1e3520",
+       "type": "word",
+       "value": "ними",
+       "textRange": [
+        4357,
+        4361
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " коли мовчанка затяжіла над ними",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b629a263-65a9-4854-8d09-c2791ee5a33e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4361,
+      4362
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eb75e5ca-f6c3-49bd-bb43-10f5d241dec7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a3a94323-b5e8-4d08-80a6-7ff1d3aa5513",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4362,
+        4363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72236489-5ade-4c1a-adea-9f921dc51c4b",
+       "type": "word",
+       "value": "немов",
+       "textRange": [
+        4363,
+        4368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aab243fb-6a12-4ccc-9207-e22daa76b838",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4368,
+        4369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "810c7a3c-4668-419f-8c4e-69a10a113485",
+       "type": "word",
+       "value": "наготовлена",
+       "textRange": [
+        4369,
+        4380
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fda11295-81dd-4d40-9a19-baac152888e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4380,
+        4381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34243a36-0a34-4f08-920d-11f94d13dbee",
+       "type": "word",
+       "value": "розсипатися",
+       "textRange": [
+        4381,
+        4392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1ec0ae9-1e88-4591-a23d-860a89bcc3d1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4392,
+        4393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf8849ea-1e9a-4c9b-8f66-ac186848a2e8",
+       "type": "word",
+       "value": "льодом",
+       "textRange": [
+        4393,
+        4399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a16a5a33-3059-431c-88a9-05e441fb1c74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4399,
+        4400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c719d8e-b665-4d3b-916f-dc25736ee9d9",
+       "type": "word",
+       "value": "градова",
+       "textRange": [
+        4400,
+        4407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55a4b777-8789-471d-9ecd-64b840872e5b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4407,
+        4408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba160d98-9f96-462d-bd2c-844267f03284",
+       "type": "word",
+       "value": "хмара",
+       "textRange": [
+        4408,
+        4413
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " немов наготовлена розсипатися льодом градова хмара",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9dc40edc-8bdd-43c7-98ce-c35b7e598683",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      4413,
+      4414
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f14894bc-7c0d-4cd6-a761-c2507a2caec1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4414,
+      4415
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Й заговорив пан Корнель, коли мовчанка затяжіла над ними, немов наготовлена розсипатися льодом градова хмара:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Й заговорив пан Корнель, коли мовчанка затяжіла над ними, немов наготовлена розсипатися льодом градова хмара:",
+ "concept": "SYNTAX"
+}

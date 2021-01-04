@@ -1,0 +1,643 @@
+{
+ "id": "69dd8e65-f531-43c1-b20d-2aa592a107bf",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3b070f77-1b81-478e-80f1-ed1785c96aa4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "299ac7ff-a72a-4315-bcb5-32e57077db1d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "047f5110-345a-4da3-b7c5-ce340a65d544",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4435,
+        4436
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0bf9226-9b03-4ccd-8a31-9d0b1c86db9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4436,
+        4437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbf6aff9-c01b-449a-afdc-8b6e3cf3687e",
+       "type": "word",
+       "value": "Гарна",
+       "textRange": [
+        4437,
+        4442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f0bb197-0b15-4c58-961c-440dc827f0f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4442,
+        4443
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abf4d741-6e76-49c7-87dc-1837d5f3b09a",
+       "type": "word",
+       "value": "тая",
+       "textRange": [
+        4443,
+        4446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99cf20e5-dc52-4527-b54e-676d64381906",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4446,
+        4447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5412e555-6021-43de-a154-c9be5c6710ed",
+       "type": "word",
+       "value": "окарина",
+       "textRange": [
+        4447,
+        4454
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Гарна тая окарина",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d45973a0-f7ab-4dac-a42f-332b2e4dbe24",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4454,
+      4455
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64286e30-af01-4c65-a062-5218bf607b60",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "713022b0-f6ca-4dcc-a556-df318f43467f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4455,
+        4456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3350031d-0ed6-4469-a276-5ab60aaa6fdb",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4456,
+        4457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e7c67c7-4cd1-438a-974b-c7c2230b2a37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4457,
+        4458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e1353dd-59fa-4bf9-908b-bcd3ec58bc6c",
+       "type": "word",
+       "value": "промовила",
+       "textRange": [
+        4458,
+        4467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6985d19c-4194-4b1c-8535-e3c72901743a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4467,
+        4468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "081dc9c3-3de5-49c3-a872-ca2be636db95",
+         "type": "word",
+         "value": "Наталочка",
+         "textRange": [
+          4468,
+          4477
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b4d0b9ea-f448-4b8f-8ae2-2895e233aa54",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " - промовила Наталочка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8435305-23a7-47f3-8cdb-2a86d54efdfe",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4477,
+      4478
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Гарна тая окарина, - промовила Наталочка",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "f3da5aa9-8c5a-408c-a20a-07dafdb38bd1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7256bf81-e2b7-49b0-8bbd-f5e40d5bae49",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d551154a-5971-4bb3-8b52-b6dc6dec3181",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4478,
+        4479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b18fcf6-8ba9-470a-bcd0-9654190a44ba",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4479,
+        4480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "843e5db7-d619-4f09-a0ba-3d00e7ea19a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4480,
+        4481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71b477bc-5586-489d-bc29-b447a03f560f",
+       "type": "word",
+       "value": "Гуде",
+       "textRange": [
+        4481,
+        4485
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " - Гуде",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d784afff-e247-485b-a70d-c0bbf3e8c523",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4485,
+      4486
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9dff77a3-b9eb-4dc1-90e7-9d231bde4b1a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b6386788-4134-446d-9b99-f16818f4bd3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4486,
+        4487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "627f1353-1bf8-4edb-8799-8dbab8d21a85",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        4487,
+        4489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8554ade-4140-44ec-a9b6-a95f783d1ef1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4489,
+        4490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5874ee70-c607-4ca0-adcc-10f39ec8ca55",
+       "type": "word",
+       "value": "горличка",
+       "textRange": [
+        4490,
+        4498
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як горличка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a0395ca2-3efe-4bd8-9504-cf2a89e9de3d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4498,
+      4499
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "475839f4-266b-49bd-b653-6cc1d261372f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "17570b71-6c2c-42fa-ac86-0d2436542ed2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4499,
+        4500
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25500081-d23b-4785-835e-70d24e1248e6",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        4500,
+        4502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f6628a7-ccde-493d-9f27-381b581d5c64",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4502,
+        4503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12772a4d-32e2-47db-b000-70f68e65a306",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        4503,
+        4504
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ще й",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c564f941-71b9-4d25-bcbe-16d5211c08aa",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4504,
+      4505
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "57c32882-f30b-48ab-836e-a28339bf988d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f07d11de-f372-4351-9653-127efafd08e6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4505,
+        4506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26303c49-08e3-45f0-8e47-edb3bd0612fd",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        4506,
+        4508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1e0a25c-d667-467d-832d-e8fd71d2bb09",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4508,
+        4509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e92ab722-8ff1-4291-a544-3f5f5273eea0",
+       "type": "word",
+       "value": "горличка",
+       "textRange": [
+        4509,
+        4517
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " як горличка",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eb09294e-5723-457d-b3af-5b5c96f2b6e2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4517,
+      4518
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "39ae99ae-8681-45c5-aa17-6ab8c60d9da8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "78e7850c-b332-4948-90dd-56e9ccfa934e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4518,
+        4519
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b00d391a-12d5-4c05-9c24-db6bf75f1f5b",
+       "type": "word",
+       "value": "сива",
+       "textRange": [
+        4519,
+        4523
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сива",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "664e4c11-5b29-44fa-96f8-6312e0938098",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      4523,
+      4524
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " - Гуде, як горличка, ще й, як горличка, сива",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9d2ebd2d-90de-45e8-bb9d-ce10c48c1d9d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "df7e39d0-9296-4609-b78b-98ddf4e55144",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4ed1902c-a7a7-41a1-9aed-f8f1271a3426",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4524,
+        4525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e7d4440-1d24-4e9a-91f0-79cc1802e81a",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        4525,
+        4526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52d0e919-3520-4b00-8767-79159263031c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4526,
+        4527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bf11a25-04eb-4ba5-af1e-4773a8503ea5",
+       "type": "word",
+       "value": "все",
+       "textRange": [
+        4527,
+        4530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3f41716-d6bb-4473-b6aa-1d0c0c05c1f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4530,
+        4531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8838364b-3612-4cb1-911b-5835805adcd3",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        4531,
+        4532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab6b26f3-2498-4bf5-b1a6-5c67acabd6ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4532,
+        4533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44e3ceee-2e15-4b52-a2a6-6c1d8deb2780",
+       "type": "word",
+       "value": "вона",
+       "textRange": [
+        4533,
+        4537
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b69e788-bd71-4827-9822-e366b60ccacb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4537,
+        4538
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2008585f-4103-4b3c-af11-c81f2f0e0c93",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4538,
+        4539
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa913330-9944-41a5-a1eb-46067ae44968",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4539,
+        4540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98190037-031e-4c4a-9dc8-ef886cab23d6",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4540,
+        4542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c42c4def-65f6-449b-889f-f6682fcb763d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4542,
+        4543
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b3c4f89-f64e-484f-a14f-38d9f0d86880",
+       "type": "word",
+       "value": "дивовижа",
+       "textRange": [
+        4543,
+        4551
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " А все ж вона - не дивовижа",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bb0899d8-5780-4519-a434-ec2abf87ad5f",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      4551,
+      4552
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bcdaca9d-0742-4593-aae4-dc3d5968749e",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4552,
+      4553
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " А все ж вона - не дивовижа!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Гарна тая окарина, - промовила Наталочка - Гуде, як горличка, ще й, як горличка, сива А все ж вона - не дивовижа!",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,945 @@
+{
+ "id": "ee52c2f1-e86d-47fe-94c0-317acafe9f15",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "35b48c88-cb2d-41c7-950b-6ddfbd04d580",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8636494a-f18a-45d0-903e-cb8c51998908",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9161de9c-63ce-4adb-9781-2ee606d3e575",
+       "type": "word",
+       "value": "На",
+       "textRange": [
+        5823,
+        5825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1c6b40b-009d-41dd-bdb0-531c64ea9986",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5825,
+        5826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1665807-dfdc-4029-88ef-adc9526dee40",
+       "type": "word",
+       "value": "повороті",
+       "textRange": [
+        5826,
+        5834
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10987ab6-1324-4c84-ba2c-8cc8a5eb7494",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5834,
+        5835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d08607ee-20cf-40ae-aae5-529743a08fb7",
+       "type": "word",
+       "value": "жінка",
+       "textRange": [
+        5835,
+        5840
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "797e5e69-206b-4893-95f8-c6efb4b9ec70",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5840,
+        5841
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "edb4251b-6ea0-4e93-85e1-4442b72cd7f2",
+       "type": "word",
+       "value": "вийшла",
+       "textRange": [
+        5841,
+        5847
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "На повороті жінка вийшла",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "82d60a13-2d44-4cb6-9b8b-71c772fcd353",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5847,
+      5848
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1893192e-1683-4798-87a5-0a625aa4c668",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "657ef0fc-44a4-4895-9119-3276d8e9978a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5848,
+        5849
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "dce48de3-62c6-422e-869e-d83d1eeab4f8",
+         "type": "word",
+         "value": "Соня",
+         "textRange": [
+          5849,
+          5853
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3fa2296c-8669-46df-80cb-8adcbf7a2c8f",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "437b7582-c48a-43d6-945b-d45b70190124",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5853,
+        5854
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42eaac3a-7c1a-446d-b6aa-db15c97bf713",
+       "type": "word",
+       "value": "так",
+       "textRange": [
+        5854,
+        5857
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ac33af9-8a4c-4d2b-902d-f08b2860c866",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5857,
+        5858
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26c96b5b-3dfa-4802-ae40-346736e34cca",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5858,
+        5859
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfc99142-7073-4453-abd5-2e57cf66d639",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5859,
+        5860
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4e493b9-54f6-4cf2-93dd-27bc26d1c322",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5860,
+        5862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f1e2aed-8062-41dc-a962-dcf838d21742",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5862,
+        5863
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "947f91ce-da8d-4016-a535-be2007cfd07a",
+       "type": "word",
+       "value": "наважилася",
+       "textRange": [
+        5863,
+        5873
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eca63c0a-867f-471d-af0e-8826bfcf724b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5873,
+        5874
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af0fde7e-ff9c-4954-8afa-82bbe14375a3",
+       "type": "word",
+       "value": "спитати",
+       "textRange": [
+        5874,
+        5881
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Соня так і не наважилася спитати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bd542072-6127-4c28-8f2d-bb97e62e7216",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5881,
+      5882
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5448f9c8-2007-44d2-8ea6-f8cef706f05b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "93afc261-ebbb-45f4-914e-727a043cc8e9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5882,
+        5883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc679df6-c8a4-4dc2-8f31-f29403785f4b",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        5883,
+        5885
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2f97a3f-f85f-4366-9d40-2fcea6232b0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5885,
+        5886
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5eb4950e-1ab9-4df7-b1ce-c851d9e1f402",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        5886,
+        5887
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e59be7b2-18e2-4ee1-9b90-b43ade7753b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5887,
+        5888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3daca3e8-74ac-498f-b0c9-e7c1774585e3",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        5888,
+        5889
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e648c8cb-21f2-4600-8662-55dfcf81818c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5889,
+        5890
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b68edda-0dd9-4491-a50c-9028c9f2370d",
+       "type": "word",
+       "value": "неї",
+       "textRange": [
+        5890,
+        5893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8855289-674f-4329-a233-dbaabfb3138a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5893,
+        5894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c996f240-b6fd-4cad-9d06-459171497458",
+       "type": "word",
+       "value": "хоч",
+       "textRange": [
+        5894,
+        5897
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43d42ead-ff8a-44ff-aa92-c456752b3d6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5897,
+        5898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4533fa3d-0ac6-4dc5-8de5-e36090fc53de",
+       "type": "word",
+       "value": "хтось",
+       "textRange": [
+        5898,
+        5903
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи є в неї хоч хтось",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4b4c1061-35b6-466d-8435-2ce247b74430",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5903,
+      5904
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "85c6477b-4d78-4eb1-b62b-d64e2e535b51",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3756e650-2be2-4513-94c8-f2a5f82c2912",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5904,
+        5905
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96bbf14c-45a5-4319-a711-0c33f024d9b0",
+       "type": "word",
+       "value": "крім",
+       "textRange": [
+        5905,
+        5909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91c6404a-c645-4899-aa58-d6ba0458284b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5909,
+        5910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd6d3362-b4b5-4ffe-8990-a0c1e161862a",
+       "type": "word",
+       "value": "одної",
+       "textRange": [
+        5910,
+        5915
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a90afb70-7a36-44eb-b389-3ab4f9f70217",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5915,
+        5916
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcc1e86e-947c-401f-9e52-fc3aff8e685b",
+       "type": "word",
+       "value": "невістки",
+       "textRange": [
+        5916,
+        5924
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " крім одної невістки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "917acbb3-c743-4761-9b24-b581e577263b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5924,
+      5925
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "922468a6-f50f-4edd-9bf2-d37eff1ddb3a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f3eecfa5-20d6-4201-b99c-bd936727b975",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5925,
+        5926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c92f0fb-5b9b-4939-8e61-8e8a2bbdf374",
+       "type": "word",
+       "value": "хто",
+       "textRange": [
+        5926,
+        5929
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "945b504a-8df3-4690-8864-72b63c805cc4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5929,
+        5930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11bcd113-594a-4391-91c6-474eb7021d3f",
+       "type": "word",
+       "value": "поки",
+       "textRange": [
+        5930,
+        5934
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "335207d5-4537-4c23-9885-44c0b1fa0ec8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5934,
+        5935
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "358a52be-e9d8-46b8-bdd3-104d20443e3d",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5935,
+        5937
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f213836-8fdb-4744-b479-11ee78c1b1c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5937,
+        5938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "377fea18-c6b1-4578-967d-286ff594b1aa",
+       "type": "word",
+       "value": "лежить",
+       "textRange": [
+        5938,
+        5944
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " хто поки не лежить",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4998682b-586c-4850-8317-f448d1393315",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5944,
+      5945
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "На повороті жінка вийшла, Соня так і не наважилася спитати, чи є в неї хоч хтось, крім одної невістки, хто поки не лежить",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5b37cdd6-6e89-460f-898e-9d28d52f5c14",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f5e75bb9-5f6f-4a41-85af-215c591f11eb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e04abfdf-9b33-4df9-a2cd-1a2ef34bd4d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5945,
+        5946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfee3ab1-a98f-4005-9899-73b93b064ea0",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        5946,
+        5947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6dfd962f-480e-4242-bd68-5871e3dbb541",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5947,
+        5948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8d9100c0-b1d2-4b37-9ba2-4e45790b860a",
+       "type": "word",
+       "value": "самої",
+       "textRange": [
+        5948,
+        5953
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0afa6b1e-387b-449b-ad95-7e15d3737c25",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5953,
+        5954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b5dfd50-d43d-4686-a633-42cc600580b9",
+       "type": "word",
+       "value": "Соні",
+       "textRange": [
+        5954,
+        5958
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba5e2254-cf36-4b7f-ad21-fdf8afca2798",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5958,
+        5959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4db0ced9-4ba4-4dd3-af1b-efd1769b465f",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        5959,
+        5960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "897b1772-4429-45a9-8781-d4f2ad04d3a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5960,
+        5961
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17d909fa-6918-43a7-b2c0-155d505555a2",
+       "type": "word",
+       "value": "мертвих",
+       "textRange": [
+        5961,
+        5968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c41f543c-acfc-4a97-be59-9c515c245d8c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5968,
+        5969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ffda895-6fc9-4609-b8b9-b26883c304ba",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        5969,
+        5972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82caf251-7aab-4f6d-8181-5a8395f08ce1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5972,
+        5973
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16bceae9-72b8-4391-b14d-9378cf7ec25f",
+       "type": "word",
+       "value": "тільки",
+       "textRange": [
+        5973,
+        5979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2dbe1bf-e584-4ae8-839e-c707e218bc1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5979,
+        5980
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "205b70d4-40f7-4f6a-9f70-9cfeeaa2997a",
+       "type": "word",
+       "value": "дід",
+       "textRange": [
+        5980,
+        5983
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " У самої Соні з мертвих був тільки дід",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e2a9035d-78dd-41f8-844b-2756890075b9",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5983,
+      5984
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " У самої Соні з мертвих був тільки дід",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5553a18b-5c45-4fca-9973-503cde52ae2f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "68a6078d-8540-4420-9882-31257457776d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3dc4d4bb-b059-43d9-883a-57a5fe961d8e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5984,
+        5985
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5d7c2c9-d2fb-4e79-919c-89c4086f1120",
+       "type": "word",
+       "value": "Дід",
+       "textRange": [
+        5985,
+        5988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15393050-e21d-4bad-a309-fc58b8693b05",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5988,
+        5989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "599ee34d-98a8-494f-b9b9-0b1ae0bc03f6",
+       "type": "word",
+       "value": "заснув",
+       "textRange": [
+        5989,
+        5995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55af7470-11c4-44b7-9db5-bc4b25bbe247",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5995,
+        5996
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a10d4668-6f35-4f45-8233-ee5e010be260",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        5996,
+        5997
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e0574528-8a0f-4707-b143-be7326bc7996",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5997,
+        5998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cfa9abe-61d6-4ad4-a87c-2557b2a017e2",
+       "type": "word",
+       "value": "машині",
+       "textRange": [
+        5998,
+        6004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1b0417c-f1fe-4162-9a51-69fcb31f1dfa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6004,
+        6005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50415408-241a-4061-a152-82174a14655d",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        6005,
+        6006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a6b6a0c-7e8b-49e5-8115-6b1d67a681f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6006,
+        6007
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e621d524-a1f2-41bc-97bb-cbab3b58e3e2",
+       "type": "word",
+       "value": "вчадів",
+       "textRange": [
+        6007,
+        6013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "706a4de0-2248-4dd1-9cd8-0a33ef8ef222",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6013,
+        6014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7004df87-8d4f-4261-92b7-05559945321a",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        6014,
+        6016
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64294da2-6cdf-4c20-be3f-0baa8bdd7827",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6016,
+        6017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd4123d1-42fd-49d0-8b06-164df865c571",
+       "type": "word",
+       "value": "смерть",
+       "textRange": [
+        6017,
+        6023
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Дід заснув у машині й вчадів на смерть",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d396d13f-5f1d-4011-bf77-6b36f6c4829d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6023,
+      6024
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "959a3a45-611f-453c-b892-3f3113391441",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6024,
+      6025
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Дід заснув у машині й вчадів на смерть.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "На повороті жінка вийшла, Соня так і не наважилася спитати, чи є в неї хоч хтось, крім одної невістки, хто поки не лежить У самої Соні з мертвих був тільки дід Дід заснув у машині й вчадів на смерть.",
+ "concept": "SYNTAX"
+}

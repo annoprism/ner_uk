@@ -1,0 +1,735 @@
+{
+ "id": "845f5185-0d9f-40df-a7b5-49372e6d2d7f",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "f0ca0917-2c31-4439-ae96-80186c25a2e7",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "085fb480-a78a-44bf-b51f-884a6c6d0fa5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6243ee44-0c7d-4ac0-876e-d01b716f17b2",
+       "type": "word",
+       "value": "З",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b09a7fbc-9c44-4cd8-abc6-e7ff2a151a86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d012fff-c8d3-4f46-80f8-0160229b75a9",
+       "type": "word",
+       "value": "відходом",
+       "textRange": [
+        2,
+        10
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75f6f9a2-bd5b-43d0-8405-d4f11c05db8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10,
+        11
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "a4aa5eef-b560-4c72-98a0-ad4dfa324ba1",
+         "type": "word",
+         "value": "Михайлини",
+         "textRange": [
+          11,
+          20
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3339f4ee-1f49-4b2e-9c44-8445388ae0d9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5e6db141-2750-4a33-b7c5-8327d954589d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        20,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5e8955ed-36e8-4b7c-901e-b73c8fa6155a",
+       "type": "word",
+       "value": "обірвалась",
+       "textRange": [
+        21,
+        31
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6210bc37-484c-4c5b-b202-1500c3be89c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        31,
+        32
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dddc7340-4da9-474c-9682-4c36a6fdec0c",
+       "type": "word",
+       "value": "природна",
+       "textRange": [
+        32,
+        40
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba468c24-7c2c-4720-b9b7-31836e3073d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        40,
+        41
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2535f1b-113d-409e-943c-5df1079dc5b0",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        41,
+        42
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c30f2589-b2f2-4b53-af34-64deda712db7",
+       "type": "word",
+       "value": "сполучна",
+       "textRange": [
+        42,
+        50
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d48d0920-b982-4fad-82ad-35e71ee42945",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        50,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33a5d629-7f0e-4fd3-8bc1-9f4767ac2854",
+       "type": "word",
+       "value": "ланка",
+       "textRange": [
+        51,
+        56
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6a6bafa-d83c-4955-81e0-8cc62fe8dff0",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        56,
+        57
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "З відходом Михайлини обірвалась природна «сполучна ланка»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90ea441e-ab3d-4daf-81f0-10dccc05f68f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      57,
+      58
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "489ce364-d155-4680-b2a1-ded869e37e90",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ca855ec9-e4e3-4641-a6de-b712759b0eff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be58dfde-9381-4fc3-9eca-cd1ccc6ea116",
+       "type": "word",
+       "value": "якою",
+       "textRange": [
+        59,
+        63
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb83fc15-8d14-4d8a-978f-aa5c7b6885c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        63,
+        64
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2b129ca-fa91-4cc7-a53f-3c2ba404a3d3",
+       "type": "word",
+       "value": "доля",
+       "textRange": [
+        64,
+        68
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e111d758-f9fd-4cf5-a524-15ffff44ee65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        68,
+        69
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d3c073d-9fe1-4ac5-9736-7d1ccc1e11a0",
+       "type": "word",
+       "value": "з’єднувала",
+       "textRange": [
+        69,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c0410b1-43bf-46a5-8245-8b7e7cf9be89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        79,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75ef2775-243c-4a7c-8e78-c6ce27a6407c",
+       "type": "word",
+       "value": "світ",
+       "textRange": [
+        80,
+        84
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbd72f47-3441-421c-a5d4-574f00741d93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        84,
+        85
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbf0bdfb-3d18-4314-8ff4-34cd5c41bce8",
+       "type": "word",
+       "value": "отого",
+       "textRange": [
+        85,
+        90
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81770ab2-5f72-4bdc-b346-d83b50a93fe7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        90,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f44c63a2-ed6f-4cf6-b252-18c8207dd50c",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e57b6440-32d7-4e9f-a784-016b27e2c032",
+       "type": "word",
+       "value": "домашнього",
+       "textRange": [
+        92,
+        102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6ed128d-e31b-45a4-b404-389ef9b651d4",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        102,
+        103
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " якою доля з’єднувала світ отого «домашнього»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b6dc60d4-9a11-4d31-9643-3626ca92f77a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      103,
+      104
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "81339ed1-7b6d-4913-8683-15f54fc61137",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fa3b9686-0fac-41fb-9495-3cfc473a08d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        104,
+        105
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccbebbe2-4331-440a-85bc-1275a71e2f85",
+       "type": "word",
+       "value": "тобто",
+       "textRange": [
+        105,
+        110
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2d02dce-dde5-4bda-a684-fe9fb821f042",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        110,
+        111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "561ea08e-30d8-4121-834d-1723ddd4e80e",
+       "type": "word",
+       "value": "неідеологічного",
+       "textRange": [
+        111,
+        126
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " тобто неідеологічного",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3618f50d-7630-4366-9f3d-3d53290522fe",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      126,
+      127
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3d9c9329-199d-4d6e-a623-7869b0f9af17",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "916d5751-629c-4094-b29e-bac49d8428ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        127,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d6be25ab-a32a-496d-a762-b8caad8c11f4",
+         "type": "word",
+         "value": "Павла",
+         "textRange": [
+          128,
+          133
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0ad045aa-3b15-4dee-b4bd-6f710f659c3c",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          133,
+          134
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "023c0f4c-1a27-4942-9a32-9c2f3373d312",
+         "type": "word",
+         "value": "Тичини",
+         "textRange": [
+          134,
+          140
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4cbf5cb7-3a28-4dc7-ae64-c53ad38422a3",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d749adbd-a32f-4955-a894-9afe9083cc53",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        140,
+        141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c0caa0b-6de1-472a-9af7-a4ae8a806a81",
+       "type": "word",
+       "value": "зі",
+       "textRange": [
+        141,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aeeab64c-85f3-4634-8db0-14d94fe07032",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "43958b63-2939-4f3d-9dfd-ef2c3fbfe809",
+       "type": "word",
+       "value": "світом",
+       "textRange": [
+        144,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e6bc9bc1-7790-4fc8-bec3-fed48a7facd5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        150,
+        151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "28e1d75e-f083-429a-9c59-6c2e954e32b8",
+         "type": "word",
+         "value": "Василя",
+         "textRange": [
+          151,
+          157
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b898c832-31b6-4eb1-9aae-0e8947788f2a",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          157,
+          158
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "37e22748-d4e5-4d65-adb2-c0882250c0c1",
+         "type": "word",
+         "value": "Стуса",
+         "textRange": [
+          158,
+          163
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "95074fab-7929-4591-b0af-387eb0391b01",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Павла Тичини зі світом Василя Стуса",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "241326de-7fcf-42a2-98aa-5ce7e3439c8b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      163,
+      164
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "З відходом Михайлини обірвалась природна «сполучна ланка», якою доля з’єднувала світ отого «домашнього», тобто неідеологічного, Павла Тичини зі світом Василя Стуса",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b2c6f3e1-7e9f-4fae-83de-7587ba4201e3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9ab20f9b-1ba2-4d69-b4e4-efd44b89449a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "08956f99-47ad-4fdd-a84a-24938b1b34af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        164,
+        165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a8a7fee-489c-4c5e-be9b-80c27e598292",
+       "type": "word",
+       "value": "Відтепер",
+       "textRange": [
+        165,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "74b7b2a4-2456-4cc0-b29b-9e6ae613f8c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        173,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d80bd0fb-b429-4643-80b9-60acda13e999",
+       "type": "word",
+       "value": "ця",
+       "textRange": [
+        174,
+        176
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc17427f-e802-4c82-9a14-fc4f79f38910",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        176,
+        177
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1fb9307d-73c2-417e-84f8-80d33a5c27d3",
+       "type": "word",
+       "value": "ланка",
+       "textRange": [
+        177,
+        182
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fa65838-91df-4ee6-b455-ee8fb35091eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        182,
+        183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2a4627ba-834b-4096-b8b7-856077446d9d",
+       "type": "word",
+       "value": "назавжди",
+       "textRange": [
+        183,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "451c914a-e4d8-44e2-bdf7-ff2147a0e011",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f752ce7d-8941-4c4d-b659-ae5807d43be0",
+       "type": "word",
+       "value": "стане",
+       "textRange": [
+        192,
+        197
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78b8031a-e8c9-4386-a2a0-2951d568eb03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        197,
+        198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93288ad3-95a9-4b1b-a689-aabd1b28b1f8",
+       "type": "word",
+       "value": "дослідницько",
+       "textRange": [
+        198,
+        210
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d8920fd-978f-4131-ba9e-326ac1666f64",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        210,
+        211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47e9e828-3abb-4880-907f-0717d3587f44",
+       "type": "word",
+       "value": "віртуальною",
+       "textRange": [
+        211,
+        222
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Відтепер ця ланка назавжди стане дослідницько-віртуальною",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6ace587-9152-434b-a31e-1f1f4a41f035",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      222,
+      223
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a9082f00-4887-4f1b-9aa1-937c4b5dd62b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      223,
+      224
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Відтепер ця ланка назавжди стане дослідницько-віртуальною.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "З відходом Михайлини обірвалась природна «сполучна ланка», якою доля з’єднувала світ отого «домашнього», тобто неідеологічного, Павла Тичини зі світом Василя Стуса Відтепер ця ланка назавжди стане дослідницько-віртуальною.",
+ "concept": "SYNTAX"
+}

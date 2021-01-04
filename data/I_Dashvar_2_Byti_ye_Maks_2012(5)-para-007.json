@@ -1,0 +1,205 @@
+{
+ "id": "d34ae51c-5c52-4c27-bda1-f7f13227b916",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "365da188-3536-4875-bf26-48099f80bca5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7428cf77-0d36-45af-9ee4-7c98fb6c8b52",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "805b3385-f0b2-42f5-9861-9c0a4faa5c79",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        560,
+        561
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f9566e4-ef38-47a8-834d-a7fad47c3585",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        561,
+        562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d97dade-3559-4678-8380-c93439b9bf0d",
+       "type": "word",
+       "value": "Терпи",
+       "textRange": [
+        562,
+        567
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Терпи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "83930ead-1a8a-4f60-9393-f54ec5d6842f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      567,
+      568
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d8c49150-60d8-4e2a-abb6-7a585b016217",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4cd73066-1f6b-4379-a11f-3b02f7c1599f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        568,
+        569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "162e9bcf-39d5-41b5-ac69-6ae4821a84fe",
+         "type": "word",
+         "value": "Доро",
+         "textRange": [
+          569,
+          573
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "434d2008-f4f1-42a9-b15d-5f69f841f6ff",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Доро",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9abb6bfd-4b3a-4316-8407-6951587b8a13",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      573,
+      574
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Терпи, Доро",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a294e0b2-7d46-40f2-850c-dcdce4329128",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "47707c1f-5ce6-4082-a642-f2de5757a343",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "18bb0c88-a6a5-4701-8083-d202350f3977",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        574,
+        575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21ea6da1-dd3a-473b-8c65-db45bf4e92a0",
+       "type": "word",
+       "value": "Я",
+       "textRange": [
+        575,
+        576
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9846bee9-70ad-4597-a673-08b1560e98eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        576,
+        577
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3dd7e6d7-9326-4dcb-9644-146141d759b4",
+       "type": "word",
+       "value": "ж",
+       "textRange": [
+        577,
+        578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "492c1993-2b1c-4a6c-bdf7-95cb88d408ff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        578,
+        579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d57ee024-eb73-49d5-b9a4-5edf97305778",
+       "type": "word",
+       "value": "терплю",
+       "textRange": [
+        579,
+        585
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Я ж терплю",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bfe6b0e3-8d2b-4ad1-9780-5bbc0ab9c7eb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      585,
+      586
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3a306e49-adf6-4b11-b376-e4320396e777",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      586,
+      587
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Я ж терплю.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Терпи, Доро Я ж терплю.",
+ "concept": "SYNTAX"
+}

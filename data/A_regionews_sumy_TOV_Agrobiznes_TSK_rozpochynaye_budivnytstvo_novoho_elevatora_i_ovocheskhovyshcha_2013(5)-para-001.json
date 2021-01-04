@@ -1,0 +1,644 @@
+{
+ "id": "609639ad-9ce6-44d2-804c-9bc8f4868fab",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "779010e0-9ab3-4e76-bf3c-fa6945291df9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1fdfae70-12f5-4c1c-84ab-5e54fa4fa3ba",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c6adf94f-e0aa-48b7-ab0c-ad09ae0c6371",
+       "type": "word",
+       "value": "За",
+       "textRange": [
+        379,
+        381
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ffb34b0-7b5b-4962-a74c-ad58188ed830",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        381,
+        382
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e811200-7653-4dbd-80f8-6cf2dca9d368",
+       "type": "word",
+       "value": "словами",
+       "textRange": [
+        382,
+        389
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3023a62c-6f9d-4157-94a3-570053c5ac2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        389,
+        390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40ae29be-814a-4056-b8dd-aa2662ed95d6",
+       "type": "word",
+       "value": "керівника",
+       "textRange": [
+        390,
+        399
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35298861-e205-42f4-b331-32dacc58e2c5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        399,
+        400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "7f10c06b-f3f9-4b92-a422-796a0ff02bc4",
+         "type": "word",
+         "value": "ТОВ",
+         "textRange": [
+          400,
+          403
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "a0f39ee8-601d-4e0a-838e-407d9e16dc93",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          403,
+          404
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8d7510f0-c52c-4b5e-842c-5ab6fed99c9f",
+         "type": "whitespace",
+         "value": "«",
+         "textRange": [
+          404,
+          405
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "bef90453-eb3e-42b8-8710-f89888a68143",
+         "type": "word",
+         "value": "Агробізнес",
+         "textRange": [
+          405,
+          415
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5fa1581e-3d0a-4b2f-bea0-b3064a3fe4b3",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          415,
+          416
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "93992b52-a0c5-4ebf-9e07-70de77786c07",
+         "type": "word",
+         "value": "ТСК",
+         "textRange": [
+          416,
+          419
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "f205d509-86f4-4f0a-94e3-c334d9f19f55",
+         "type": "whitespace",
+         "value": "»",
+         "textRange": [
+          419,
+          420
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c29623d8-195b-41b2-a2db-d93fc668a013",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "88ff4845-9702-41b4-93e6-9a3ef56f4c86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        420,
+        421
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cf166d40-fdce-421c-b7ea-98dbed9f3a1d",
+         "type": "word",
+         "value": "Геннадія",
+         "textRange": [
+          421,
+          429
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "44cd79bf-0b0c-4de6-a844-ab5798882e49",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          429,
+          430
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "aaf159c0-4245-4f9b-96c5-21fd968ceb46",
+         "type": "word",
+         "value": "СВІРСЬКОГО",
+         "textRange": [
+          430,
+          440
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "fa3b6ad6-cb93-4824-846b-b9e73656e66d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "За словами керівника ТОВ «Агробізнес ТСК» Геннадія СВІРСЬКОГО",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bec9f38e-ae36-44f5-b4dc-aba6ed0b7b1f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      440,
+      441
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b2748f35-e6b5-49d9-bb0e-71f52d2d906c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "194bd04e-0a91-413c-bb1e-c6680ef0f070",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        441,
+        442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "508ec34f-77f0-43f5-b6f5-47ac2a0ad5b7",
+       "type": "word",
+       "value": "потреба",
+       "textRange": [
+        442,
+        449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51e6caeb-26db-4c84-becc-f165f9d527aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        449,
+        450
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "abc8a7db-3fa9-4165-98e5-791e751c026d",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        450,
+        451
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9154770f-b9db-4635-a30d-5fc76975e923",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        451,
+        452
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26ccef4b-4254-448f-9533-1370c5c0c294",
+       "type": "word",
+       "value": "новому",
+       "textRange": [
+        452,
+        458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27fd5ef5-0d8b-4b04-a136-f4ccc21b7cb6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        458,
+        459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12edf6e0-9719-4600-9e82-7d3875be39f0",
+       "type": "word",
+       "value": "овочесховищі",
+       "textRange": [
+        459,
+        471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e99462b-dd46-448f-aa6f-9c6b42b020e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        471,
+        472
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bd36961-41b4-42eb-8048-707c52aaaeca",
+       "type": "word",
+       "value": "виникла",
+       "textRange": [
+        472,
+        479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "317bbb94-8ee2-4bad-b1e0-853b84b42dd2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        479,
+        480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d58c29bb-81e8-4950-9870-42b19a41ebdf",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        480,
+        481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b02e4f52-b533-465e-b526-78024098d938",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        481,
+        482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c76ad1e-fe2b-4fb5-8394-5d3c17ae8e49",
+       "type": "word",
+       "value": "зв’язку",
+       "textRange": [
+        482,
+        489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39103ab8-e7b1-4e11-af10-c35b5aeb38aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        489,
+        490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "be0d52a2-7110-40f8-97f5-3f240d4fe72c",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        490,
+        492
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bcdee1b-1bfe-44e4-adb3-4fd43d9a9818",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        492,
+        493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8d97efa-fd8a-4a62-8cf9-d4fa3e9b75c0",
+       "type": "word",
+       "value": "тим",
+       "textRange": [
+        493,
+        496
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " потреба у новому овочесховищі виникла у зв’язку із тим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8c3c33dd-ee88-4cc2-98f5-f1b55837a090",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      496,
+      497
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "19085cd1-ff1a-4c45-8e86-ebbd466fdd17",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "925bf2a7-be90-45cf-b292-d26c97fbcc90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        497,
+        498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e6cb364-d053-43e6-a1ba-2371d3107fa7",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        498,
+        500
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "896d5998-fe01-437c-84ed-67621644b95c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        500,
+        501
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7d722d4-744f-4d63-b6c6-8abd1c75b4d0",
+       "type": "word",
+       "value": "цього",
+       "textRange": [
+        501,
+        506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea84daa7-7cdb-4726-b37c-ae625e2f3209",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        506,
+        507
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c41627a-4c6b-430e-a1ac-850e72a87b49",
+       "type": "word",
+       "value": "року",
+       "textRange": [
+        507,
+        511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3ddbae4-4f08-4c25-81e3-cfd816d8dfff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        511,
+        512
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff4804a9-0191-44ef-8138-8082eb68d28a",
+       "type": "word",
+       "value": "підприємство",
+       "textRange": [
+        512,
+        524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "736d6750-7dd1-44e4-805b-598533f58f39",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        524,
+        525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0afd1a27-2985-48c0-baf9-9001f825d52d",
+       "type": "word",
+       "value": "планує",
+       "textRange": [
+        525,
+        531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bb0b51b1-9376-4ecc-92c5-681da2e75357",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        531,
+        532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c5b67a19-bc37-4d09-ba5d-abe42f9b4814",
+       "type": "word",
+       "value": "збільшити",
+       "textRange": [
+        532,
+        541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f460ed41-4544-47be-a777-6c16a533a50e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        541,
+        542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "061c1e7f-3fee-4aba-a211-98170df87959",
+       "type": "word",
+       "value": "врожайність",
+       "textRange": [
+        542,
+        553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3dc44e72-53d7-4dea-89a3-fed66eb82af7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        553,
+        554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12dd7bd3-aeaf-4dbd-a990-05f95523e8c9",
+       "type": "word",
+       "value": "овочевих",
+       "textRange": [
+        554,
+        562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dd7634d-95f0-4834-b444-d7418db52c14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        562,
+        563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e4f93ce-4eb2-45d6-b961-d82739ca9939",
+       "type": "word",
+       "value": "культур",
+       "textRange": [
+        563,
+        570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c98ed3b0-14b5-42b7-8a29-82807113da74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        570,
+        571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51a77530-cf2f-478a-b368-dd0729d0921b",
+       "type": "word",
+       "value": "втричі",
+       "textRange": [
+        571,
+        577
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що цього року підприємство планує збільшити врожайність овочевих культур втричі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "87430d82-2565-4c06-b4a0-a11c953ab6cb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      577,
+      578
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f520842f-8cee-4d17-9a81-6978f48d5ab4",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      578,
+      579
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "За словами керівника ТОВ «Агробізнес ТСК» Геннадія СВІРСЬКОГО, потреба у новому овочесховищі виникла у зв’язку із тим, що цього року підприємство планує збільшити врожайність овочевих культур втричі.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "За словами керівника ТОВ «Агробізнес ТСК» Геннадія СВІРСЬКОГО, потреба у новому овочесховищі виникла у зв’язку із тим, що цього року підприємство планує збільшити врожайність овочевих культур втричі.",
+ "concept": "SYNTAX"
+}

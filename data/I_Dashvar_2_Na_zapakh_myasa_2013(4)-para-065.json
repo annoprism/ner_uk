@@ -1,0 +1,154 @@
+{
+ "id": "6d4b98e0-eaa1-4972-b3af-d9332753855c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "1d2bb8de-85a8-4967-9bc7-79eff5cf205a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "cc74c29c-e61b-435f-a2fc-da31b56da8be",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0c45c382-9623-4cd7-b413-05497ed3ecf5",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        8288,
+        8289
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c18535ea-67a6-4c11-ac8d-0d34868c7c71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8289,
+        8290
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d779b1c-ba93-4ebb-b62d-42fcc8110a89",
+       "type": "word",
+       "value": "Важко",
+       "textRange": [
+        8290,
+        8295
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18014680-2101-43ba-948d-e833e50f7bd9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8295,
+        8296
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8939a925-1ec3-426b-9d98-d8d0a04a4ec8",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        8296,
+        8299
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72e2d968-5da8-485f-bfd3-b18b226ac36d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8299,
+        8300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "eba5f29a-3134-40f4-a593-dcc3bf304b38",
+         "type": "word",
+         "value": "Толі",
+         "textRange": [
+          8300,
+          8304
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7fd71b94-e47f-4e5f-93f7-3836be45aff1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "— Важко без Толі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4b8f6c34-0277-4149-a8ef-a5bd30f53faa",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      8304,
+      8305
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Важко без Толі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "b4302e26-a6e9-4b12-acbd-d8895bacd3b9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b4e8f627-489d-47d7-94ba-309c1891ec26",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      8305,
+      8306
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "c872399b-73d9-4f5f-ba9d-447f36b0fd2c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a38da387-c067-450f-a5cc-03cee86386ff",
+     "type": "subSentence",
+     "childs": [],
+     "value": "",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "67f4b97a-9cc0-48c9-aa1d-c4cdeaae6887",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      8307,
+      8308
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Важко без Толі",
+ "concept": "SYNTAX"
+}

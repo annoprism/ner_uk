@@ -1,0 +1,101 @@
+{
+ "id": "a2f11a69-a565-4f5d-b6ef-ccb27dd62dcb",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "801e656a-6d3f-44ec-815b-a5210afe8495",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "200e683e-ab7a-4a27-b6e4-7efbc63853bb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "836b09f2-baa4-4a9c-b26c-2c92e4d08e32",
+       "type": "word",
+       "value": "Дорогі",
+       "textRange": [
+        0,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fcc38c17-4503-42fa-9e04-b8d4de2d94b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f699ffb-702d-4511-9fd8-9607109f4aa0",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        7,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ee726ac-221f-4f15-9356-67616d6cf1a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8,
+        9
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "eb2fdd97-f49c-436e-819e-3b3932da09e4",
+         "type": "word",
+         "value": "Христі",
+         "textRange": [
+          9,
+          15
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4f4312ba-2328-4e14-8d1b-3e459c4d5667",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Дорогі у Христі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "368f1823-b39a-4b5e-acd6-581a8f806003",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      15,
+      16
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2b57787a-fa86-466f-8aa1-2d227fca5da7",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      16,
+      17
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Дорогі у Христі!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Дорогі у Христі!",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "026805fd-5b0c-4683-9322-a02d2182d2fe",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a89aec03-5d3b-427f-a631-63f84eefecda",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "dacc80c1-678c-4fc7-80f1-c15eb1c08734",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4d5d2a29-0044-461c-a94f-39962a748ed2",
+       "type": "word",
+       "value": "Най",
+       "textRange": [
+        0,
+        3
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8350c3d-7a3d-4574-a86f-f64d847e7d89",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        3,
+        4
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dbaef4ca-a579-4425-b190-b803a6642f32",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        4,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6eb624a0-c984-4414-9ff2-6142f4567386",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        6,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7ad0dd9-8bee-4acd-9cb2-6f875ae471dc",
+       "type": "word",
+       "value": "очікуваніші",
+       "textRange": [
+        7,
+        18
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Най(не)очікуваніші",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c697d2ce-5b41-45db-8b48-33b7352394bf",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      18,
+      19
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Най(не)очікуваніші",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Най(не)очікуваніші",
+ "concept": "SYNTAX"
+}

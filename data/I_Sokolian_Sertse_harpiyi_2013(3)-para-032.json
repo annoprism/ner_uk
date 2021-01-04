@@ -1,0 +1,976 @@
+{
+ "id": "c54c04e5-b2ab-4f77-8138-c37338327c95",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "96887fc8-1eb6-4bc3-b6b7-2205369fa562",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ef06b655-a52f-485f-8814-cd6b68e65283",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "811f4a03-f287-47fd-a2de-b17d735376b1",
+       "type": "word",
+       "value": "То",
+       "textRange": [
+        9398,
+        9400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0debc36-fdf9-4e08-ba69-f355d37f0ce6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9400,
+        9401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b0c4ec1-c971-48d0-ac3a-39578629aa95",
+       "type": "word",
+       "value": "от",
+       "textRange": [
+        9401,
+        9403
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "То от",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "60c020f5-31d0-43e1-9624-154717cf9f2a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9403,
+      9404
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "693eb269-555b-440a-aacc-e5c580ba217b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e6aedca9-c70f-40db-bcb9-9b94ab4b4d9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9404,
+        9405
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5920a733-6304-44cb-a3d8-cbed95270622",
+       "type": "word",
+       "value": "виявляється",
+       "textRange": [
+        9405,
+        9416
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " виявляється",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc430e0b-25b8-422a-9a88-b41800277a3e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9416,
+      9417
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2edf106-b6a5-48c7-9064-678b37f8c63b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a2e7d9bb-9c59-44b5-8b4f-9688d9dde8df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9417,
+        9418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0c6f309-324a-4f3b-9c69-364acf2b7688",
+       "type": "word",
+       "value": "які",
+       "textRange": [
+        9418,
+        9421
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66a478bf-149f-48b0-b1a1-075323d31fc8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9421,
+        9422
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3f42ed4-de8b-4b17-bea9-795d49a1556f",
+       "type": "word",
+       "value": "оборудки",
+       "textRange": [
+        9422,
+        9430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca5ef8c0-4307-4c80-afc0-c3ea3e9e91c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9430,
+        9431
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8523322d-d98a-4215-a05c-c0e7ae94ff90",
+       "type": "word",
+       "value": "провертав",
+       "textRange": [
+        9431,
+        9440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86091753-e91b-4e5a-a55b-e1de75f2744e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9440,
+        9441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f16146e-30c9-4279-9848-d3f6dc5c429e",
+       "type": "word",
+       "value": "зниклий",
+       "textRange": [
+        9441,
+        9448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7800ccd5-bfe1-4af9-a298-dbf5bcd12896",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9448,
+        9449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c87b0728-806a-458c-b2d2-3b07ccb6c787",
+         "type": "word",
+         "value": "Приймак",
+         "textRange": [
+          9449,
+          9456
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "578027c2-9c5c-41e9-9639-be3819a89f44",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " які оборудки провертав зниклий Приймак",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "30c6bafe-8417-41d7-b6f7-09bbe104677a",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      9456,
+      9457
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "То от, виявляється, які оборудки провертав зниклий Приймак",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "6c0e2c2c-d3af-4388-8301-37100b67e830",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "63ceffe8-ee67-46ff-97fc-a245c74f0710",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "62a4a04c-60da-4524-b448-72fa0e212992",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9457,
+        9458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5ca0fa9-dcc8-43dd-84ba-59f73a6c937a",
+       "type": "word",
+       "value": "Щось",
+       "textRange": [
+        9458,
+        9462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "793ba49d-694a-42fe-baf7-753c9e2a0327",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9462,
+        9463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8754120-e81e-44b6-bde8-95aa6fe9637e",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        9463,
+        9467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "693215a1-8327-4e6b-802e-b99af5e8734e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9467,
+        9468
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dfd1a671-545d-4e22-8e48-2dcc5e443142",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        9468,
+        9470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18d2c19e-e0d7-4a99-b849-502323039f88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9470,
+        9471
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8708112-ca63-4d0b-aaee-b725ace08729",
+       "type": "word",
+       "value": "молодшим",
+       "textRange": [
+        9471,
+        9479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d446959-7ad8-4364-b1da-ceed229df801",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9479,
+        9480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3207401-d975-4140-9a0e-ce8f03548bbf",
+       "type": "word",
+       "value": "братом",
+       "textRange": [
+        9480,
+        9486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3de59ad0-5e96-4fa3-99f1-fc9e1df93c1f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9486,
+        9487
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63ea126b-8c89-417a-8ca0-ad5f8952b370",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        9487,
+        9489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8b02e10-9be5-4084-a7dd-9440ad9ec6af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9489,
+        9490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d40f4b6a-2a10-42f5-b4fa-e2755966a482",
+       "type": "word",
+       "value": "поділили",
+       "textRange": [
+        9490,
+        9498
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3840038-ff2b-48af-8f29-81b4fcde7c50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9498,
+        9499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6fcb9944-1362-4b8e-9de3-51fa797626f4",
+       "type": "word",
+       "value": "абощо",
+       "textRange": [
+        9499,
+        9504
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Щось вони із молодшим братом не поділили абощо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1ca4593c-8e5b-4056-9e3a-3bdb0c1817d9",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      9504,
+      9505
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Щось вони із молодшим братом не поділили абощо",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5fcd8af1-915d-4776-bbae-d0554b62cdd3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d5516828-c7fc-4b1b-a9c8-aaca6c0367b0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "965ad283-5007-45d5-be2d-f841e8e664c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9505,
+        9506
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c630deb-c60d-4f28-9e6a-5bc7afe07713",
+       "type": "word",
+       "value": "Один",
+       "textRange": [
+        9506,
+        9510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91236ad8-5c91-4e7b-a64d-5d7049847469",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9510,
+        9511
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e25f5e5-6ba1-48f8-b8c2-6ecb9e2983e6",
+       "type": "word",
+       "value": "підступний",
+       "textRange": [
+        9511,
+        9521
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Один підступний",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dd75483e-49de-4b42-9d15-7fff0814cd4b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9521,
+      9522
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e1b2fce9-51ba-4f4e-8494-269a0c45bb9b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8e65ac1f-91c9-4909-b597-293bac1730d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9522,
+        9523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2cb64f8b-2d72-446a-8545-a33a875ca3d6",
+       "type": "word",
+       "value": "другий",
+       "textRange": [
+        9523,
+        9529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77f59a07-66b8-4c29-a73b-d98d30ec4bf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9529,
+        9530
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42c918e6-1052-4a72-8cf5-095aeefb2019",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        9530,
+        9531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb4e113a-384b-4ee7-a342-49268e600d89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9531,
+        9532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecceaef7-bf55-45f1-911a-fd0731d691b8",
+       "type": "word",
+       "value": "просто",
+       "textRange": [
+        9532,
+        9538
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a922dcca-e4aa-4efe-aab4-d716099e3407",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9538,
+        9539
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25f0f5ac-3e63-4312-9b1d-e422530216b8",
+       "type": "word",
+       "value": "злий",
+       "textRange": [
+        9539,
+        9543
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " другий — просто злий",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "72bb375c-3b4d-462b-8193-1a01f95efc59",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9543,
+      9544
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a8eda480-dcf6-4c4b-8478-3121279983b0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ab28ffad-13dc-4b08-8d11-3e4ac3e67234",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9544,
+        9545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e189de7-8f3b-494c-a33c-5577a088bfd2",
+       "type": "word",
+       "value": "казала",
+       "textRange": [
+        9545,
+        9551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95fd4e3c-0e79-4527-b1cc-27d42359527d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9551,
+        9552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "fab0ea7f-3294-4fa8-9ebc-ef9d940b5e09",
+         "type": "word",
+         "value": "Галя",
+         "textRange": [
+          9552,
+          9556
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "60dac274-06f3-4614-a09e-8fb470fede40",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " казала Галя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a170af98-4b28-4823-b05d-704f678a65bd",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      9556,
+      9557
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Один підступний, другий — просто злий, казала Галя",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "7d71b117-95da-4e06-8e16-77bb42fc8358",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0684e19b-acd0-4177-b24c-f7e907fd8f06",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6b8f0533-0a58-4401-8a2d-559eb06ae0ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9557,
+        9558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb42934c-c1a8-4931-a9dc-fb3f76fb3e5e",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        9558,
+        9559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b055ae97-6294-4143-98ef-1165fab57fbe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9559,
+        9560
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1dcb850-5f28-4592-8aea-7fd702f22eab",
+       "type": "word",
+       "value": "отже",
+       "textRange": [
+        9560,
+        9564
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " А отже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90f82eef-8192-416d-a094-bd0984263250",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      9564,
+      9565
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3a0e2144-5616-41ed-8cac-4514717912ed",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d3ad4c2f-6526-4b62-b45b-0114cd2c6fff",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9565,
+        9566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a06f5c14-3d45-4652-b76c-6ac22a3f9b69",
+       "type": "word",
+       "value": "зло",
+       "textRange": [
+        9566,
+        9569
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4db2cdf5-56ab-4b36-8889-451997a29e52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9569,
+        9570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3bc2eedc-3196-4019-b973-507e9e9dc8e9",
+       "type": "word",
+       "value": "подужало",
+       "textRange": [
+        9570,
+        9578
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e1fcd91-26b7-4943-b4d8-3fd9fba75a07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9578,
+        9579
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06c4259a-3ef2-4eda-ad1e-a507e08eeebc",
+       "type": "word",
+       "value": "підступність",
+       "textRange": [
+        9579,
+        9591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88a71463-4e52-48d9-bb5c-f1677c2afbc4",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        9591,
+        9594
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0f6489b-34eb-47c9-baa9-8d9bf1c54e57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9594,
+        9595
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "603ce4bf-d81e-45b0-a11c-94bbdcbcecdf",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        9595,
+        9596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c5456a3-4bad-4e27-8d0f-ae04fe7753fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9596,
+        9597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69e89437-c6a9-4630-9375-e14dcbad87df",
+       "type": "word",
+       "value": "хіба",
+       "textRange": [
+        9597,
+        9601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54b93911-36ed-40ff-aa3c-ca530859580c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9601,
+        9602
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f75c4d73-2552-4c07-b17f-044af0f0282b",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        9602,
+        9604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "420adabe-3218-4e6a-827e-8a1fc3101d60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9604,
+        9605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b10e90e-8ad6-4045-b7db-ea9099857860",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        9605,
+        9606
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62f1753c-5edc-4408-aebe-ab29abe96d32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9606,
+        9607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e6d74c6-e42e-431c-9b4c-def3d64d38fd",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        9607,
+        9609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab7fb026-ebcc-4db9-93e7-cd4b2a7a211d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9609,
+        9610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8bb737a6-aec6-4204-8321-d2956e88fc05",
+       "type": "word",
+       "value": "підстава",
+       "textRange": [
+        9610,
+        9618
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b82165c-d1d3-4468-82fa-a5b475545d27",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9618,
+        9619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e7211ce-ca24-48f3-b244-4fc1acca4269",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        9619,
+        9622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c29cca71-89db-4d23-97f7-c2e9d7a2f3ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9622,
+        9623
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9559a42-fe4c-4566-96c0-80e3c5743b51",
+       "type": "word",
+       "value": "оптимізму",
+       "textRange": [
+        9623,
+        9632
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " зло подужало підступність... І хіба це — не підстава для оптимізму",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4a9b6ef1-3185-499f-8be1-9873a76c54b5",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      9632,
+      9633
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ce79497a-7908-4c20-b19c-9fed8b9038bd",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      9633,
+      9634
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0affb496-cadf-4829-a869-6d50d03cc249",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      9634,
+      9635
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " А отже, зло подужало підступність... І хіба це — не підстава для оптимізму?\n",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "То от, виявляється, які оборудки провертав зниклий Приймак Щось вони із молодшим братом не поділили абощо Один підступний, другий — просто злий, казала Галя",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,805 @@
+{
+ "id": "945b1587-dbdf-4c1e-a2c5-9dca9946615b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "9018c0ff-ea30-4011-a23a-e222222075cc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7683e1c8-4b23-44ec-b9d4-5eb2fddd5241",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f21bef0e-daa6-4f8a-ab22-076d4743037d",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        1044,
+        1045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f85d5ce-e3d0-4e53-901d-1f2806c0f0f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1045,
+        1046
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82e9059f-8862-47db-8b46-82268161472f",
+       "type": "word",
+       "value": "капітан",
+       "textRange": [
+        1046,
+        1053
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "95c0f8c1-90b0-4901-8b89-c96bc71a33c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1053,
+        1054
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "9fde1782-6527-4096-bb4d-ae5ba4152c2c",
+         "type": "word",
+         "value": "Копєйкін",
+         "textRange": [
+          1054,
+          1062
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e2605a2b-213e-4a4f-8c29-d9b714b1010d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "52f04ea9-b405-4e04-b138-36bac9358470",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1062,
+        1063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e33f121b-ef2a-4347-bcf2-d620bf785dc7",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1063,
+        1065
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fdd047fa-b860-4c51-9c38-636e5ab30c09",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1065,
+        1066
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7eb5729c-88ac-4532-b08a-eccc34a79ce0",
+       "type": "word",
+       "value": "виходить",
+       "textRange": [
+        1066,
+        1074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c69cdef7-59ea-4075-a28b-85761a4ed643",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1074,
+        1075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c966b484-2f34-4806-a60b-037a038c25e0",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1075,
+        1077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30665926-e768-4720-bda6-1162229a308a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1077,
+        1078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d36668a1-d69a-4286-9478-379f8291c1bf",
+       "type": "word",
+       "value": "сцену",
+       "textRange": [
+        1078,
+        1083
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А капітан Копєйкін не виходить на сцену",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "df8ca193-94c0-47e8-b077-1aa315cd7179",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1083,
+      1084
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "056289e4-05c3-4e2e-a18a-aefb062d63ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bbcc06fe-f8b4-4319-8cdc-bcff62399ba3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1084,
+        1085
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9462747c-d094-4568-969f-dc8552071644",
+       "type": "word",
+       "value": "але",
+       "textRange": [
+        1085,
+        1088
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1f5a50f-e99c-4830-8370-404cba813629",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1088,
+        1089
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04b87a81-4976-4742-a2cc-13b293d3c149",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1089,
+        1090
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967104c0-fb07-4266-aa39-ca40fca2060e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1090,
+        1091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1de94bd1-3b85-4fec-84b3-5f0d0ba220e0",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        1091,
+        1093
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a6d8fe2-e42e-416d-b85a-575736a8e3bf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1093,
+        1094
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d9943c0-0e7c-4d59-8c9e-b402a7f920de",
+       "type": "word",
+       "value": "зникає",
+       "textRange": [
+        1094,
+        1100
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " але й не зникає",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "735be066-9bbe-440e-896d-fbb63ee16704",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1100,
+      1101
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А капітан Копєйкін не виходить на сцену, але й не зникає",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "e8997529-caba-4998-a775-807582b3b211",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0a260e17-36ce-4036-b1e3-2ea48d5a54b5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ab60e91c-b842-4711-bfcb-e85a01483a5f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1101,
+        1102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "839625bd-9a44-46db-9562-fbb191c1c738",
+       "type": "word",
+       "value": "Хтось",
+       "textRange": [
+        1102,
+        1107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "308531eb-6541-4cf9-8743-48255cfd66cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1107,
+        1108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16486537-95ca-4c0b-91ec-9eca7a24ee59",
+       "type": "word",
+       "value": "пожартував",
+       "textRange": [
+        1108,
+        1118
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хтось пожартував",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "44419a05-4108-451f-80b6-d6358e982ca4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1118,
+      1119
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "07891953-6a43-4a8a-bf95-f98b5e8b9f55",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7e77e4dc-b334-4b4b-b2b3-9e878100acf0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1119,
+        1120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59c4088e-81e4-472a-b79c-291429f44239",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1120,
+        1122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e559c6f9-ca39-4cf9-b785-38239fdf101a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1122,
+        1123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "572a0f62-0f0c-4a3f-b122-fc2c0a9ccbe6",
+       "type": "word",
+       "value": "то",
+       "textRange": [
+        1123,
+        1125
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3dae00f7-6210-4a40-82a5-df9de494ccb2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1125,
+        1126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ba076a9-310a-4f4d-a96e-23b020fdf9ae",
+       "type": "word",
+       "value": "саме",
+       "textRange": [
+        1126,
+        1130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c2863f6-ee5c-4447-84f4-bc9727946b7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1130,
+        1131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d3b03df-65be-4e62-977d-390b74bb8d07",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        1131,
+        1134
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "87e009d1-ba17-4351-a0d1-161521a0f2e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1134,
+        1135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3c0f5c84-18a8-4ba8-abab-991b0ff00822",
+       "type": "word",
+       "value": "стріляв",
+       "textRange": [
+        1135,
+        1142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e12abc82-b20e-4283-ad1e-34ca8e8b6c1d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1142,
+        1143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a90d4e06-aa1a-4072-9d90-5d5e20127187",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1143,
+        1144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18f411a0-469e-4636-9c40-3b5039305a17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1144,
+        1145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dc50792-30bb-49c5-ba52-3317589f65e0",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1145,
+        1146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cc45ecc-1d33-4a18-9242-94d5729223b8",
+       "type": "word",
+       "value": "товариша",
+       "textRange": [
+        1146,
+        1154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "73c7aa3b-8c30-4de1-89c8-57108edb81b2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1154,
+        1155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "93c2de7f-e0de-40ed-8536-df52e04ab4ed",
+         "type": "word",
+         "value": "Брєжнєва",
+         "textRange": [
+          1155,
+          1163
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f8f9e5e9-c340-4da6-8018-170c2ebfe94e",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "7a3eca11-8c6e-4fd7-bd04-38f1c84a0fd8",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1163,
+        1164
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6878b23f-fc44-43ef-a77a-1c0cd2225c03",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        1164,
+        1167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c476a0d1-a0fa-4bc7-a5ad-b79156ca2cc1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1167,
+        1168
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a400d7f-9659-4d4e-99ff-a1782455fb27",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        1168,
+        1169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9cb01519-d935-4d53-9d1d-812bf02345c0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1169,
+        1170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "37be4b12-b96d-4aea-ae26-9c0b21f7f5c5",
+         "type": "word",
+         "value": "Ноздрьов",
+         "textRange": [
+          1170,
+          1178
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "70533fd2-1bfd-4d4e-9f5d-167194a8b095",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f1a52e1e-0007-4ac7-9eae-536bc77bf7b7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1178,
+        1179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbec7261-0b5a-4458-8f01-2aa928a4077a",
+       "type": "word",
+       "value": "був",
+       "textRange": [
+        1179,
+        1182
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a273c249-8b4b-4487-a57b-0e095996671e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1182,
+        1183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51c3457a-2324-4ba4-8545-c2bca773a889",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1183,
+        1184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10115cf5-59bc-4be6-838a-858b696aaf16",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1184,
+        1185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eab7264c-329e-4603-85a1-df4c314549f4",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        1185,
+        1186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9cf9766-ba2f-4abe-a37d-82c517a0d4aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1186,
+        1187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f2a5233-e918-4ca7-9e51-e33b5f38c99c",
+       "type": "word",
+       "value": "всюдисущий",
+       "textRange": [
+        1187,
+        1197
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що то саме він стріляв у «товариша Брєжнєва»... А Ноздрьов був і є всюдисущий",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06e8d48e-c314-4b4a-81e0-b1398b49d152",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1197,
+      1198
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3fce1899-a82e-4888-abc1-caa3d4313dd0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8ce7358b-43b3-4baf-bb6a-a7d5b89d2f60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1198,
+        1199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "800621c4-0d7f-458c-987c-c9a083a22ed2",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1199,
+        1200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "610dbf92-3a41-46d4-8377-deac09a677cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1200,
+        1201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "575f3c59-8d05-4126-b13f-2bd0276a48a7",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1201,
+        1202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b52626f1-6950-45ea-91e1-091ed7a64cbf",
+       "type": "word",
+       "value": "ім’я",
+       "textRange": [
+        1202,
+        1206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2afc78a-c663-451b-ad9c-bda2c8591df3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1206,
+        1207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "759f48a9-f417-476f-a5a5-4ae378f08754",
+       "type": "word",
+       "value": "йому",
+       "textRange": [
+        1207,
+        1211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55537652-0198-4361-904f-58cc50af60bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1211,
+        1212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92e38f92-9738-4785-bb43-2a4ee4ee7788",
+       "type": "word",
+       "value": "легіон",
+       "textRange": [
+        1212,
+        1218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ea6452a-cd25-47f1-b680-b7711f1d11dd",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1218,
+        1219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b2ce034-038d-4550-b814-b7125ac3f693",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        1219,
+        1222
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і «ім’я йому легіон»...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f549a935-a378-4eb2-870b-87fc3c61484c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1222,
+      1223
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хтось пожартував, що то саме він стріляв у «товариша Брєжнєва»... А Ноздрьов був і є всюдисущий, і «ім’я йому легіон»...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А капітан Копєйкін не виходить на сцену, але й не зникає Хтось пожартував, що то саме він стріляв у «товариша Брєжнєва»... А Ноздрьов був і є всюдисущий, і «ім’я йому легіон»...",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,219 @@
+{
+ "id": "0c4ff599-adc3-452c-a5b0-43e00dd8c539",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ce4989c4-1a2d-41ea-a867-b5130edd2a3f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "da4e10ce-4ab0-473d-9b1f-03eced9cad42",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b8ae2758-c82b-4973-8255-bf783b377a56",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4603,
+        4604
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e413e11-d048-4546-86b5-a66e33ff4046",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4604,
+        4605
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f07b980-8c19-4c93-8adc-36963feb0a14",
+       "type": "word",
+       "value": "Бачу",
+       "textRange": [
+        4605,
+        4609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e18c9607-42b7-479d-bbff-f5b3c747bdb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4609,
+        4610
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a849f7f-676d-47ae-89bd-0cb89c8aea45",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4610,
+        4611
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "888c09f3-8bff-49d1-8b9f-87f120158f3c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4611,
+        4612
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ce38fd7-a64a-4f46-b4fc-e17a42460b92",
+       "type": "word",
+       "value": "любий",
+       "textRange": [
+        4612,
+        4617
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Бачу — любий",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4381efd9-0cb1-4753-8cd7-822f3d82d2f9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4617,
+      4618
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "66f0d290-4fe4-468a-8499-f8952d5dfaa8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2fea8bda-9352-452e-925d-5219f5a22a86",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4618,
+        4619
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59004860-4ea5-4593-bc3f-7fd4c3fd8a46",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4619,
+        4620
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3907fefd-4d0a-4ecb-90fe-f6f756b7ddca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4620,
+        4621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "300184f3-423c-42bf-915f-4418dd05d9a3",
+       "type": "word",
+       "value": "гірко",
+       "textRange": [
+        4621,
+        4626
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c08eea3c-bf25-40ca-88ae-a462d424ca41",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4626,
+        4627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf369f06-65bc-4b51-a99a-75162d56ae18",
+       "type": "word",
+       "value": "посміхнулася",
+       "textRange": [
+        4627,
+        4639
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c5a89f0-b712-4416-a3b7-5ba3620761a3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4639,
+        4640
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1e5f79f2-3710-41ef-bcec-aeddc1bec877",
+         "type": "word",
+         "value": "Голуба",
+         "textRange": [
+          4640,
+          4646
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ec9640e2-39c8-46fd-bc93-a8d87490f0f1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — гірко посміхнулася Голуба",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "924f45b0-a0b8-424a-bb0c-9b2fe04b92f0",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4646,
+      4647
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5f904402-8089-4440-9cc0-8f4cb42eae4c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4647,
+      4648
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Бачу — любий, — гірко посміхнулася Голуба.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Бачу — любий, — гірко посміхнулася Голуба.",
+ "concept": "SYNTAX"
+}

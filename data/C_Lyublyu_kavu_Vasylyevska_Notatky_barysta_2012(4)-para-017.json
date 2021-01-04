@@ -1,0 +1,142 @@
+{
+ "id": "8eb2772c-00b8-479c-b586-e24b00cb157b",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "b1ab83c2-6d18-43e7-9ecc-63613bd67e9e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7de8bdbd-4df1-4465-954c-aa949ca0084f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4d39e451-56ff-402a-8909-152a350fa553",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2738,
+        2739
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f6b6415-8160-4224-aaaa-890f308b0deb",
+       "type": "word",
+       "value": "ШОКОЛАДНЕ",
+       "textRange": [
+        2739,
+        2748
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f883cd1-d829-4ac6-8ab9-d48e3a5022ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2748,
+        2749
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fc363c7b-2734-433f-a84b-c434505036ea",
+       "type": "word",
+       "value": "КАПУЧИНО",
+       "textRange": [
+        2749,
+        2757
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "«ШОКОЛАДНЕ КАПУЧИНО",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f4a6fce2-7cdc-4815-b56b-bffc0b81fdf7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2757,
+      2758
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6c88bee3-a9e2-4460-95d2-7690679d95b7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "04440f30-337f-4a35-b37b-976f5d9199f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2758,
+        2759
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5590f4ae-222b-4076-b663-70d98668bb65",
+       "type": "word",
+       "value": "БУДЬ",
+       "textRange": [
+        2759,
+        2763
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66ed2a44-a3b8-40f5-98f4-842ce248acde",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2763,
+        2764
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c87e39c7-37d9-4fa2-83e2-ca2805c522e5",
+       "type": "word",
+       "value": "ЛАСКА",
+       "textRange": [
+        2764,
+        2769
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e64934a-2bc3-4a5e-8770-fe56fb4edf06",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2769,
+        2770
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " БУДЬ ЛАСКА»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "26432a2c-6cf2-48d7-b77b-43499c10029f",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2770,
+      2771
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "«ШОКОЛАДНЕ КАПУЧИНО, БУДЬ ЛАСКА»",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "«ШОКОЛАДНЕ КАПУЧИНО, БУДЬ ЛАСКА»",
+ "concept": "SYNTAX"
+}

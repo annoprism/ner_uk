@@ -1,0 +1,121 @@
+{
+ "id": "1c9ae2b6-da1f-4047-b805-4ff2e45b646a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "49a1ddb1-725f-49a0-88fd-db42e2a16cd9",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4194df1e-e305-485d-a988-1f2f7ca4ac01",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "8f6a509c-cd15-4c30-acb1-c401aa1ae3b0",
+         "type": "word",
+         "value": "Наталя",
+         "textRange": [
+          1116,
+          1122
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "c6428db2-61d3-4812-98fc-dd01516b82e8",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "62ef36a6-4985-4e51-996d-72a00f33142b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1122,
+        1123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "762a0971-b7c6-4ef6-88f2-571af98c59b5",
+       "type": "word",
+       "value": "трималася",
+       "textRange": [
+        1123,
+        1132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd7048b0-f981-43c4-a6ef-65597fed93d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1132,
+        1133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b7f94c9-6066-48f1-bc0b-43acb805ed5e",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1133,
+        1135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "52802343-0f6d-4910-b774-909389c8f75f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1135,
+        1136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "209466aa-c284-4bf4-8c87-7739a60adddb",
+       "type": "word",
+       "value": "голову",
+       "textRange": [
+        1136,
+        1142
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Наталя трималася за голову",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "033c5b25-0f2e-4704-9427-bd0b8e2d0e23",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1142,
+      1143
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "35d7d678-a75c-433b-b520-dea9a8e761ad",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1143,
+      1144
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Наталя трималася за голову:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Наталя трималася за голову:",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,908 @@
+{
+ "id": "b973fee4-9a10-4267-b402-b4a9ee427304",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0eb94f14-8943-4379-9dde-3b4bbfc6a9af",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e4b0c71d-662e-4ef2-8587-73b369ee58a6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "69e58694-886b-44c2-af80-4de13e0b9a59",
+       "type": "number",
+       "value": "4",
+       "textRange": [
+        7224,
+        7225
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "4",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "221ea2ab-0c46-4229-8c9a-a83b54063d25",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7225,
+      7226
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "4",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5851548d-bf46-4c53-b932-993d0bd19b32",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "95a94c7b-faad-456a-beca-11658aa553d6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f28680b3-5135-486b-89f0-61e6088d2308",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7226,
+        7227
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "6372beb7-27e7-4ef3-98db-dcf3934c8131",
+         "type": "word",
+         "value": "Рада",
+         "textRange": [
+          7227,
+          7231
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cda55470-f73d-47ef-82a7-7814edc3df22",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7231,
+          7232
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "bcb6d450-67bf-4479-8c7b-d836d11c54fa",
+         "type": "word",
+         "value": "міністрів",
+         "textRange": [
+          7232,
+          7241
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "2b94e609-1c56-4a48-a19a-b3afd14a07fd",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7241,
+          7242
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6e1d9fd8-d73b-4701-8e49-a32c55117b0a",
+         "type": "word",
+         "value": "Автономної",
+         "textRange": [
+          7242,
+          7252
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "08a390a5-4faa-4a66-8e85-8aa4562a672f",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7252,
+          7253
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "57217058-059e-420c-b023-2483f67830ed",
+         "type": "word",
+         "value": "Республіки",
+         "textRange": [
+          7253,
+          7263
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "323cb64c-4ba2-4c7a-9c0f-ba51041105f6",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7263,
+          7264
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3015fe6f-7097-4c4c-be2c-389053eff1aa",
+         "type": "word",
+         "value": "Крим",
+         "textRange": [
+          7264,
+          7268
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "53e9b3a1-973d-4685-90fd-fe6d8a0774f8",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Рада міністрів Автономної Республіки Крим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "56fd5723-ee3d-44ea-95b3-302da58a5bf6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7268,
+      7269
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b08d25af-d565-4d29-8637-93976143fe4e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d430d722-bfc6-42b3-b47a-d9bcc37a6647",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7269,
+        7270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b64ae8f-3f16-4e24-9eb7-c1f4ee043e1c",
+       "type": "word",
+       "value": "обласна",
+       "textRange": [
+        7270,
+        7277
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c02c1ec-453b-4421-824e-45b9761d938c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7277,
+        7278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f84c7e8d-faa4-441f-a0b9-c94f145da323",
+       "type": "word",
+       "value": "державна",
+       "textRange": [
+        7278,
+        7286
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "927c5dee-a72a-4a5e-8363-188ca7273f9f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7286,
+        7287
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5924ba0-5b99-4f19-946a-875a2457488b",
+       "type": "word",
+       "value": "адміністрація",
+       "textRange": [
+        7287,
+        7300
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e6ff726-8d0f-40be-a539-04a93f98f5fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7300,
+        7301
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cb8ae5a-e080-4658-8751-616a67b12fda",
+       "type": "word",
+       "value": "протягом",
+       "textRange": [
+        7301,
+        7309
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53ada623-6639-47f2-8bb4-42aec782f2ec",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7309,
+        7310
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50efb769-fdbb-4ff7-a94f-a9f787106ae2",
+       "type": "number",
+       "value": "10",
+       "textRange": [
+        7310,
+        7312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ccd2e9df-bd80-429a-aa84-8b9bea110cdb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7312,
+        7313
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b836ba3a-ea04-478b-84ca-08e1035678fb",
+       "type": "word",
+       "value": "робочих",
+       "textRange": [
+        7313,
+        7320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aff26ab0-1531-4eaf-8406-8a95ef45931f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7320,
+        7321
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "876f4100-6639-46d6-bb98-b6df4c759500",
+       "type": "word",
+       "value": "днів",
+       "textRange": [
+        7321,
+        7325
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a0871a3-f9d2-4687-819a-cc89162d9053",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7325,
+        7326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41ac0d45-975a-4013-a658-4b1a1ef32da9",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        7326,
+        7327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf7b9635-3122-4ff1-804c-52c2145f1c1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7327,
+        7328
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e91b965-5902-436f-be4b-8dee67fbf019",
+       "type": "word",
+       "value": "дня",
+       "textRange": [
+        7328,
+        7331
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afdef05e-e04a-4149-9bc7-4e44e3597cbb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7331,
+        7332
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff703c2a-b326-4729-bb54-00458efb6a21",
+       "type": "word",
+       "value": "отримання",
+       "textRange": [
+        7332,
+        7341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4847aaaf-ab1c-4fa8-9516-abce8234f081",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7341,
+        7342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2dfebfc-6341-4b18-8197-9c449eb95638",
+       "type": "word",
+       "value": "проекту",
+       "textRange": [
+        7342,
+        7349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "341828dc-54cb-4b82-b495-7483e3a9cf1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7349,
+        7350
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6385ec82-4cf7-495d-9ae1-7615e418fa09",
+       "type": "word",
+       "value": "рішення",
+       "textRange": [
+        7350,
+        7357
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20896e03-21c6-41c9-90e9-8a691055f8b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7357,
+        7358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91b8c4b6-fd35-4bcc-beaf-fe44822a492c",
+       "type": "word",
+       "value": "щодо",
+       "textRange": [
+        7358,
+        7362
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fabffce6-613c-4152-a12e-a153772d21a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7362,
+        7363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b168c0fb-6f7e-4908-b40c-06845a057b8a",
+       "type": "word",
+       "value": "добровільного",
+       "textRange": [
+        7363,
+        7376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9edc20a6-5cd5-48ab-8833-3c999a6b18b7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7376,
+        7377
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e98786fa-cc50-4dbd-a5a0-016ad42c36bf",
+       "type": "word",
+       "value": "об’єднання",
+       "textRange": [
+        7377,
+        7387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbecddf0-a23f-48a5-be84-754dd00f3080",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7387,
+        7388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d852149a-19d7-4820-821c-c88ca1cab528",
+       "type": "word",
+       "value": "територіальних",
+       "textRange": [
+        7388,
+        7402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d27cec6-7487-4992-81dd-f9cd2bf7fb1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7402,
+        7403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7432dec7-4fae-4c0a-ba9e-d35f7f1aee8f",
+       "type": "word",
+       "value": "громад",
+       "textRange": [
+        7403,
+        7409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d89fac1-491b-43a6-9e85-dea522318617",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7409,
+        7410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "250033c8-32b6-42e7-955d-abce8d3e25b1",
+       "type": "word",
+       "value": "готує",
+       "textRange": [
+        7410,
+        7415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "957166d2-b1b2-4fe4-be74-6318130d3c77",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7415,
+        7416
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec19e612-39b2-4149-b892-1905e2b1d5eb",
+       "type": "word",
+       "value": "відповідний",
+       "textRange": [
+        7416,
+        7427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6695a3c2-c55e-485f-8a60-92eac0d45a6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7427,
+        7428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "faf1ddb4-0659-46b2-ab52-67996fb95aa5",
+       "type": "word",
+       "value": "висновок",
+       "textRange": [
+        7428,
+        7436
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " обласна державна адміністрація протягом 10 робочих днів з дня отримання проекту рішення щодо добровільного об’єднання територіальних громад готує відповідний висновок",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "86c095eb-9e33-4c92-b740-50548881b8fa",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7436,
+      7437
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "edf682eb-912e-43db-bc3b-42b47fdfe872",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "bc59ee87-b0ed-4aa2-93c3-0515f38bdb50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7437,
+        7438
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04760cca-8eb0-4f32-af18-1469660c41ec",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        7438,
+        7440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35784907-a0fd-49ca-989b-5a9bcdcc965f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7440,
+        7441
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e1608ba-ead2-4ae9-8dab-cdb7af927abc",
+       "type": "word",
+       "value": "затверджується",
+       "textRange": [
+        7441,
+        7455
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca2d1b1b-0cb0-4d67-a267-4e58ce0cf2f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7455,
+        7456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d10d840a-34f2-4500-88bd-36add64a2568",
+       "type": "word",
+       "value": "постановою",
+       "textRange": [
+        7456,
+        7466
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9561018d-3e1f-4e67-a529-2c4382b61323",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7466,
+        7467
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "c4372798-cd02-42e5-82bb-42f06449b4fa",
+         "type": "word",
+         "value": "Ради",
+         "textRange": [
+          7467,
+          7471
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "6fd08e77-1757-4eb6-9bf7-892fabdfd7e4",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7471,
+          7472
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "eff30c3b-5e2f-43b6-bc17-69f6b558b0c0",
+         "type": "word",
+         "value": "міністрів",
+         "textRange": [
+          7472,
+          7481
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "09b49b6c-564d-4942-b1f5-e40b25026375",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7481,
+          7482
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1f166beb-c256-486a-827f-ba16b4baf24e",
+         "type": "word",
+         "value": "Автономної",
+         "textRange": [
+          7482,
+          7492
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c2a02aa8-2e5a-4e16-9986-3247f2d4fa77",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7492,
+          7493
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "4b95c4ec-e023-419f-816d-482cf19b69d7",
+         "type": "word",
+         "value": "Республіки",
+         "textRange": [
+          7493,
+          7503
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "12052dac-49cc-4d7b-b284-f8dc50713819",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          7503,
+          7504
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3ab38833-70f3-4af4-83c6-0cdd68ba0a8b",
+         "type": "word",
+         "value": "Крим",
+         "textRange": [
+          7504,
+          7508
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "d0356708-c47b-4bd8-9487-c0bf089b980c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що затверджується постановою Ради міністрів Автономної Республіки Крим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3bed064f-d40d-48d2-b004-1743c620eb8f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      7508,
+      7509
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d39a04be-9078-4c24-b177-391115eb08dc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "81ffe34f-9136-4acb-987e-c6e5dfd41264",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7509,
+        7510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c67942e5-a6a9-4361-9fef-a895c7f4c069",
+       "type": "word",
+       "value": "розпорядженням",
+       "textRange": [
+        7510,
+        7524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6cff98ca-60d6-4bd9-bb0e-893c870a8765",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7524,
+        7525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2af9eee5-d663-4287-81fa-b8d6062413f5",
+       "type": "word",
+       "value": "голови",
+       "textRange": [
+        7525,
+        7531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24ec14ad-6c49-4f36-b958-43657c83fc20",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7531,
+        7532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ab87e74-bd7c-4457-b070-bd8a10c91988",
+       "type": "word",
+       "value": "обласної",
+       "textRange": [
+        7532,
+        7540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d018eec5-915e-4e36-a061-f6e7cf3e540c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7540,
+        7541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffeb1a05-a3eb-4608-82bd-005f1fd646af",
+       "type": "word",
+       "value": "державної",
+       "textRange": [
+        7541,
+        7550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37de5e6d-b687-4eb5-a348-1583f56eeee0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7550,
+        7551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c96fbdc7-bc01-42bd-aef0-818466347acc",
+       "type": "word",
+       "value": "адміністрації",
+       "textRange": [
+        7551,
+        7564
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розпорядженням голови обласної державної адміністрації",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "00942102-cd14-482a-9c22-bb067e1f457d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      7564,
+      7565
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dde2900d-f546-460a-9e9d-02c38e7e121c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      7565,
+      7566
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Рада міністрів Автономної Республіки Крим, обласна державна адміністрація протягом 10 робочих днів з дня отримання проекту рішення щодо добровільного об’єднання територіальних громад готує відповідний висновок, що затверджується постановою Ради міністрів Автономної Республіки Крим, розпорядженням голови обласної державної адміністрації.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "4 Рада міністрів Автономної Республіки Крим, обласна державна адміністрація протягом 10 робочих днів з дня отримання проекту рішення щодо добровільного об’єднання територіальних громад готує відповідний висновок, що затверджується постановою Ради міністрів Автономної Республіки Крим, розпорядженням голови обласної державної адміністрації.",
+ "concept": "SYNTAX"
+}

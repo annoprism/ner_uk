@@ -1,0 +1,735 @@
+{
+ "id": "db97452e-e732-4dcf-8f9c-49418e52455c",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "68c5d96d-c154-41fc-b909-d51b6899ea1d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "396d6409-5775-4766-a2d9-09c52f00f2eb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "8fd3d227-eab0-4d76-8270-86536a84d241",
+       "type": "word",
+       "value": "Свого",
+       "textRange": [
+        2029,
+        2034
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "189ebccb-d487-4559-b776-dbdef3fd248b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2034,
+        2035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58e73bcc-dcb4-488c-8c92-fa231b34fca1",
+       "type": "word",
+       "value": "часу",
+       "textRange": [
+        2035,
+        2039
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Свого часу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b14a23f9-6d7c-41ba-9a7a-97646e62701b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2039,
+      2040
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cc1867cd-10c8-4dc2-a8d6-7a97119724d8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "217e4ed2-6ad2-455d-a2f7-db8e8a819272",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2040,
+        2041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2566ce9-9768-43c3-97aa-48ecf9f1c8a6",
+       "type": "word",
+       "value": "ще",
+       "textRange": [
+        2041,
+        2043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfe0032c-52aa-4ba5-9267-c46f78a33247",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2043,
+        2044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e6dadda-3efb-40a8-a47c-123d33a4a6e4",
+       "type": "word",
+       "value": "малим",
+       "textRange": [
+        2044,
+        2049
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " ще малим",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0109a717-6bb7-4b5a-aa7b-1c1057ba55b8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2049,
+      2050
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6a5b0305-3f87-4908-8691-17b5aa1e17c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e038bda0-f7b5-4633-8b2f-9b812c882a60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2050,
+        2051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b31c733c-6dca-4e3d-9a85-7ec2333dc95f",
+       "type": "word",
+       "value": "побував",
+       "textRange": [
+        2051,
+        2058
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3beca608-9008-47e5-b64e-c51e6409988e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2058,
+        2059
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "15d4eb6e-d2a5-4468-9e1e-be71f1717815",
+         "type": "word",
+         "value": "Кобзар",
+         "textRange": [
+          2059,
+          2065
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "70b3c382-34c9-4a25-a1cc-548946a730bc",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "269c8b48-d601-4b14-8c5d-ee667cd9e387",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2065,
+        2066
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e64d7b50-b11f-468b-b8cc-c8e5ea319b09",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        2066,
+        2067
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d23570c8-04a1-4e1b-860b-0d1391dad8ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2067,
+        2068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6669f1ff-ee43-43d4-9a2c-b62e944184f6",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2068,
+        2070
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a4714e6e-fd32-4c05-8905-cbf5cfd7a6c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2070,
+        2071
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "d3a0ada9-4ecb-413e-834c-32a379284408",
+         "type": "word",
+         "value": "Кіровоградщині",
+         "textRange": [
+          2071,
+          2085
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4390de3f-54c2-48f9-b478-49c897653eb1",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " побував Кобзар і на Кіровоградщині",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "521b2e65-3f70-4b51-ad09-ea40986afaab",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2085,
+      2086
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Свого часу, ще малим, побував Кобзар і на Кіровоградщині",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "1b704b7d-26f2-4a26-ae76-f9792aefb763",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e78fe0b7-dd6f-4516-8812-a041f8d92ebe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "854406d9-4761-4e70-8c1b-dbfa7cd0ee62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2086,
+        2087
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb3512eb-e208-4ba4-91ab-746620d75f7b",
+       "type": "word",
+       "value": "Подорожуючи",
+       "textRange": [
+        2087,
+        2098
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82a8d7b1-88d2-4c0c-b774-d27312760b03",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2098,
+        2099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1601c949-b0f7-4c37-87db-dc9f834f79e9",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        2099,
+        2100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6041725d-98c6-4bd9-9419-5feaf82bf5be",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2100,
+        2101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85223832-db8e-4374-a19c-a0f81e66987b",
+       "type": "word",
+       "value": "батьком",
+       "textRange": [
+        2101,
+        2108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85e37142-afcd-4cfd-9946-d042d5c2bc54",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        2108,
+        2109
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ad33c7c-1ea9-4792-8d9b-9c1735b00b03",
+       "type": "word",
+       "value": "чумаком",
+       "textRange": [
+        2109,
+        2116
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Подорожуючи з батьком-чумаком",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cc1d42a7-c05b-4ef8-965c-bc14d5860fe1",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2116,
+      2117
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9dc0bd6b-5106-4a8f-b946-64c2f1a21a6a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "816526b9-e7cd-4a70-8b70-4314282bf4ca",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2117,
+        2118
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e8fa065-43f4-4015-908d-d440cc8d35b1",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        2118,
+        2121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "996caf62-1df7-4776-aaa4-f7302a1614f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2121,
+        2122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a54a65ef-6be3-47bf-be2f-1680f5f3f843",
+       "type": "word",
+       "value": "завітав",
+       "textRange": [
+        2122,
+        2129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03f63f93-922c-4820-94f6-cf914c7abc69",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2129,
+        2130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f54898c-cfa1-49b2-98b9-bc6df159e2df",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        2130,
+        2132
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17cead11-8ae4-4836-a6b7-fcb5ef3cebba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2132,
+        2133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "ea2ab78b-e603-4ae5-b73a-5bafc3aa1ffe",
+         "type": "word",
+         "value": "Єлисаветграду",
+         "textRange": [
+          2133,
+          2146
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0f367ee4-43f9-402b-bff2-945e72781279",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " він завітав до Єлисаветграду",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d04f9c87-eb89-4744-a87c-fc77afd93337",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2146,
+      2147
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Подорожуючи з батьком-чумаком, він завітав до Єлисаветграду",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "7d699758-047c-46b5-83df-f388b3e23e6f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "4d1d7d4d-6451-47b2-b2bb-f190e319509f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "40190371-0365-4940-92ec-ba57cdb51dc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2147,
+        2148
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "786ae018-4c68-4200-a1f4-37e300dd8e01",
+       "type": "word",
+       "value": "Пізніше",
+       "textRange": [
+        2148,
+        2155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03458ce4-f844-4dbe-a954-2fc94ca4534f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2155,
+        2156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e713195c-6182-48b4-a68a-c46b027577bc",
+       "type": "word",
+       "value": "свої",
+       "textRange": [
+        2156,
+        2160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "611793c9-f43b-486d-bba5-56455757d939",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2160,
+        2161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90beb3bf-d360-4163-bd9f-1160b8b720df",
+       "type": "word",
+       "value": "спогади",
+       "textRange": [
+        2161,
+        2168
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd2de95f-2e06-4cc7-aa8b-a3d4a5ef2766",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2168,
+        2169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04c4c51a-48a9-4876-87ef-8d76e9606aa5",
+       "type": "word",
+       "value": "про",
+       "textRange": [
+        2169,
+        2172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ce6a828-d337-4047-a546-527359d000b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2172,
+        2173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bed57164-5733-4495-a90a-72bd5c18e108",
+       "type": "word",
+       "value": "це",
+       "textRange": [
+        2173,
+        2175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa8e2daf-1215-45c6-876f-b534b56e880b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2175,
+        2176
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6d2560a5-d44f-4756-a51e-e2dd6659e7df",
+         "type": "word",
+         "value": "Шевченко",
+         "textRange": [
+          2176,
+          2184
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7e33caf9-4582-41c2-b33b-ce0843f2a98c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "1e5bd96c-4546-447f-9735-d58f520f323f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2184,
+        2185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da8e612a-2df6-469f-a2ed-89027f138bbe",
+       "type": "word",
+       "value": "опише",
+       "textRange": [
+        2185,
+        2190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dab8191c-e499-4c2a-92ae-6cece7f9002c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2190,
+        2191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b35d1f3f-0f70-45bf-9594-d3eaa926accd",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2191,
+        2192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "85c9c4dc-7586-448c-a2a5-c2c352a39aac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2192,
+        2193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "de252925-cecb-491a-9ed3-00529fd5fe78",
+       "type": "word",
+       "value": "поемі",
+       "textRange": [
+        2193,
+        2198
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65522164-eaad-4a47-932a-e92d2f45c10b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2198,
+        2199
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e5f1c58-be09-46b1-8653-825228a187f9",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2199,
+        2200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "a610f1cd-fa0e-45ab-8e25-fe6b52a316c0",
+         "type": "word",
+         "value": "Наймичка",
+         "textRange": [
+          2200,
+          2208
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1aed1de7-ad3e-41df-a619-56b578a6437d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "e6336270-bee9-46b7-b4b9-ab40bbc3dd83",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2208,
+        2209
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Пізніше свої спогади про це Шевченко опише в поемі «Наймичка»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ed1fdb7a-49a3-45c3-b845-6850ba4d822f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2209,
+      2210
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "295de95e-157d-41e9-bcd2-85c9fe2aa0b4",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2210,
+      2211
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Пізніше свої спогади про це Шевченко опише в поемі «Наймичка».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Свого часу, ще малим, побував Кобзар і на Кіровоградщині Подорожуючи з батьком-чумаком, він завітав до Єлисаветграду Пізніше свої спогади про це Шевченко опише в поемі «Наймичка».",
+ "concept": "SYNTAX"
+}

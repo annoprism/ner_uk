@@ -1,0 +1,91 @@
+{
+ "id": "649e01e8-c443-48a2-8312-da1fb3dacbca",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2a110fad-65cf-4faa-a806-a3d352c851b0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "147390bd-6e44-4be7-85cc-df252808f6c7",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "21f23802-2403-411e-bc79-d7af760976bf",
+         "type": "word",
+         "value": "Нью",
+         "textRange": [
+          0,
+          3
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "090bc60b-130f-4b47-bb56-0aca9dae3381",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          3,
+          4
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3207fdc6-7b58-48bf-84ab-7798f7f9ef5e",
+         "type": "word",
+         "value": "йоркська",
+         "textRange": [
+          4,
+          12
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7e6710f5-fb92-4d55-9a58-d5a4430af857",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "31a60ee7-7c6a-4e09-bed0-2f3495fbabe0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        12,
+        13
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0cf8b8dc-4087-42ff-ac1b-60f52132d8e8",
+       "type": "word",
+       "value": "осінь",
+       "textRange": [
+        13,
+        18
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Нью-йоркська осінь",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c0b87781-0a21-4993-b183-8ec39a88adf9",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      18,
+      19
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Нью-йоркська осінь",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Нью-йоркська осінь",
+ "concept": "SYNTAX"
+}

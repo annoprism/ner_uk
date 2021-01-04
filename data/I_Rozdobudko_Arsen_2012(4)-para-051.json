@@ -1,0 +1,353 @@
+{
+ "id": "de58282a-4a01-4eb7-8c3a-6e10c8810ee7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6d1de931-0e5e-4e2d-9bf7-0108c42d3063",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b3ed9a9f-13ec-4ca9-83b7-2e9698af7f8b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "27b19549-4061-41c5-af69-f24a4add3489",
+       "type": "word",
+       "value": "Ох",
+       "textRange": [
+        10482,
+        10484
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Ох",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e6681b93-7df7-4de7-bd86-fd083ad89aab",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      10484,
+      10485
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Ох",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "da4b6a03-2607-48ed-bb46-cbc20633b704",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8c14df01-09e9-4f4d-9b34-76f2a81cfec2",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "fed95f6c-db33-4dd2-8399-2dcb8a6c910a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10485,
+        10486
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5807dd8c-fee9-4649-8372-9fb4a52588bf",
+       "type": "word",
+       "value": "Цей",
+       "textRange": [
+        10486,
+        10489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2083fcfe-07f2-41cb-a879-95e35489fd55",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10489,
+        10490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7dc38102-cc85-4431-924c-82f511206848",
+       "type": "word",
+       "value": "вигук",
+       "textRange": [
+        10490,
+        10495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b7a09e7-7867-478e-9ee2-83b66c70bb90",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10495,
+        10496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e6e95bf-6e91-420f-9094-cc37c96635f4",
+       "type": "word",
+       "value": "бабусі",
+       "textRange": [
+        10496,
+        10502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ac82797-1386-4581-a630-32e866d6ab89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10502,
+        10503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c09a8c80-dcf9-4e4b-8e14-fced9825172c",
+         "type": "word",
+         "value": "Ліди",
+         "textRange": [
+          10503,
+          10507
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "42f3f978-33a9-46e4-8393-b3626f0daeb4",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "eafaec77-d98d-4dd4-8738-696f4715917a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10507,
+        10508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "51b08a70-f3d0-4453-b78f-b7547a7cb770",
+       "type": "word",
+       "value": "повернув",
+       "textRange": [
+        10508,
+        10516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62087aea-e6c3-4cb1-b4e2-327d50d8ca60",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10516,
+        10517
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27efd894-8b9a-4f42-be3f-f81eb0cd4cb2",
+       "type": "word",
+       "value": "мене",
+       "textRange": [
+        10517,
+        10521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0e1af7e-67d6-4cc4-856d-6a444f50e690",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10521,
+        10522
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa5b006b-dbab-4b99-8ced-c06958eb0c81",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        10522,
+        10524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9dbca1fa-aab9-4110-8032-ae7f6173286a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10524,
+        10525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00460c23-acaa-4d18-8e2a-63da9ea2d057",
+       "type": "word",
+       "value": "землю",
+       "textRange": [
+        10525,
+        10530
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Цей вигук бабусі Ліди повернув мене на землю",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "54eed145-2271-4752-967a-2b345e0a3ff9",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10530,
+      10531
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Цей вигук бабусі Ліди повернув мене на землю",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "444533a5-1cbd-423a-8172-55a26398f94e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fb9e48b8-e01f-4f7f-a7ac-4ff8b7ae7d5c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "79201da5-fcf1-46e2-94bf-efe790464299",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10531,
+        10532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08e13b64-371a-4dd7-ab37-6de524ae5403",
+       "type": "word",
+       "value": "Дід",
+       "textRange": [
+        10532,
+        10535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6222aba6-7eac-4798-9be4-4f9ad683a8ba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10535,
+        10536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "813b0469-3b05-4e4a-831d-8300042f963c",
+       "type": "word",
+       "value": "Олег",
+       "textRange": [
+        10536,
+        10540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f5744be-ac02-417b-8b28-42083ae61dcb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10540,
+        10541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dd9c7748-aaac-4b23-9e17-ba38333b4a04",
+       "type": "word",
+       "value": "винувато",
+       "textRange": [
+        10541,
+        10549
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b9a8879-68d9-4f8f-b4b0-65aa5f8f75ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10549,
+        10550
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cc1efe76-72af-4776-a643-a17493debdf4",
+       "type": "word",
+       "value": "замовк",
+       "textRange": [
+        10550,
+        10556
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Дід Олег винувато замовк",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a6acaf14-02cc-42ee-9846-d9f1cf417561",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10556,
+      10557
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a816bb23-edb5-463f-9274-0eedf4eb0073",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      10557,
+      10558
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Дід Олег винувато замовк.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Ох Цей вигук бабусі Ліди повернув мене на землю Дід Олег винувато замовк.",
+ "concept": "SYNTAX"
+}

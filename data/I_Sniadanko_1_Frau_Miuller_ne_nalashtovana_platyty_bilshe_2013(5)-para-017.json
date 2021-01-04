@@ -1,0 +1,239 @@
+{
+ "id": "c6aedc52-c1a7-43b6-8b6d-6cb7f00fd352",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "33aa20b0-4e60-4ad5-a887-a9e9e83a0a18",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "ec4168c9-84b0-4dd2-bd2a-f6147e3a9e3b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6a113537-4c7c-44ec-b1f7-8557f10d1d59",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        6788,
+        6789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da2a414d-e7a4-4727-83ed-d7f4d685134f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6789,
+        6790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db350fbd-9e52-4874-b407-d9408c3c85e4",
+       "type": "word",
+       "value": "Подивися",
+       "textRange": [
+        6790,
+        6798
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Подивися",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a667c9b3-12ed-4eff-83ca-5b2cd997276d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6798,
+      6799
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "83908bfe-3983-4464-9e6e-34184fcfcb15",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5eff932b-3a42-4b55-8370-7221ff6de7d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6799,
+        6800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "408c7f2d-aef8-49ba-8b7a-a6699bf1405f",
+       "type": "word",
+       "value": "он",
+       "textRange": [
+        6800,
+        6802
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b073f806-c7d7-45e9-8b76-703815323c16",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6802,
+        6803
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "aae001f6-9a0a-4a62-a288-1695b196ae39",
+         "type": "word",
+         "value": "Марійка",
+         "textRange": [
+          6803,
+          6810
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7952df36-db50-47a3-83bb-9c10e22dacac",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "9ed15626-f248-4791-99f8-256068cb6eeb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6810,
+        6811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b381cd36-0bbf-4bc5-a7ee-9336068abfed",
+       "type": "word",
+       "value": "теж",
+       "textRange": [
+        6811,
+        6814
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45aac31f-8095-4510-a6be-c3c5dade2661",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6814,
+        6815
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b470c43-0be5-4198-81a1-aceee2dd0301",
+       "type": "word",
+       "value": "ходить",
+       "textRange": [
+        6815,
+        6821
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7caea3e2-d0e6-4659-8f6e-882521753143",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6821,
+        6822
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba2b2a3e-7199-447b-9533-03476db52a56",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        6822,
+        6823
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d1457e8-49cd-4a6a-b752-95cf05129dd0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6823,
+        6824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e30a0ca3-6a57-46a2-9eb7-b2f7ea80d568",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        6824,
+        6826
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b0231d9f-42b7-4ebf-bbea-238cfdff4c7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6826,
+        6827
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d01d6e32-0a4b-46c8-91fc-2e70c67ab836",
+       "type": "word",
+       "value": "плаче",
+       "textRange": [
+        6827,
+        6832
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " он Марійка теж ходить і не плаче",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7bc32118-6ce2-47bc-b095-c2aa3dbc7456",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6832,
+      6833
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6df082f3-005a-4bef-930d-9954fe0ad31c",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6833,
+      6834
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Подивися, он Марійка теж ходить і не плаче.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Подивися, он Марійка теж ходить і не плаче.",
+ "concept": "SYNTAX"
+}

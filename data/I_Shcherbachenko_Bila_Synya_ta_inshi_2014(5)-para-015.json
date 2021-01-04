@@ -1,0 +1,530 @@
+{
+ "id": "a8745503-3cd5-45b1-b513-b723784751f9",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "69bd06dc-6335-4774-8096-6c89a9881723",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a97ea16e-46d1-4e37-8027-5fad4b381b67",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d4215ac6-3401-4c17-a90c-087952aa886a",
+       "type": "word",
+       "value": "Може",
+       "textRange": [
+        1685,
+        1689
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Може",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d4012b94-2838-490b-9278-2843aed59bf6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1689,
+      1690
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4b0dd8bb-5063-4481-8808-40297fe93cbb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4e137afe-41c5-4b8f-99ad-4c9c87bad1cf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1690,
+        1691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cd9ba0f9-41a9-4376-a450-4fdcfb8e5e7e",
+         "type": "word",
+         "value": "Синє",
+         "textRange": [
+          1691,
+          1695
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "fcb6511d-9776-488e-9bf6-4cb879cc3231",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1695,
+          1696
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "05e5a1cd-53f9-4078-9849-ca4573aa11aa",
+         "type": "word",
+         "value": "Кошенятко",
+         "textRange": [
+          1696,
+          1705
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f8195413-7e1e-4a4f-b268-6c14f94e3540",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "54747ead-3f51-4238-a44e-6996b01e8f22",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1705,
+        1706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31a4e142-13de-4f73-9438-9307cb7615d6",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        1706,
+        1707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1954fc74-d53b-456f-946a-0cb1fb179a9d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1707,
+        1708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36ea12fc-9166-408f-95c7-93c4e97edf5f",
+       "type": "word",
+       "value": "відповіло",
+       "textRange": [
+        1708,
+        1717
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f5deb1f-084d-4717-b320-bf98f23586e8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1717,
+        1718
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b75f1de3-aff7-43d9-8508-7e32285d6356",
+       "type": "word",
+       "value": "б",
+       "textRange": [
+        1718,
+        1719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a759ea28-177a-422e-8294-6ff4827d682b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1719,
+        1720
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "3d63e924-64fc-43b0-b85e-f05183100bd7",
+         "type": "word",
+         "value": "Орлу",
+         "textRange": [
+          1720,
+          1724
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "5d31750a-c06e-42ff-8ae1-d73df5bd6db5",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Синє Кошенятко й відповіло б Орлу",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a034959b-5c05-4d34-bd17-aeceacccef3a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1724,
+      1725
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9d402ff-9fa6-4a26-80af-75d6b18855f1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6b15b3b8-aae2-4df1-abee-cb96730f8615",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1725,
+        1726
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "863b9209-f5a8-46c4-a2ec-bef91ca00785",
+       "type": "word",
+       "value": "однак",
+       "textRange": [
+        1726,
+        1731
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "761428bb-cd16-4024-9881-e2fcb7af8e62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1731,
+        1732
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f214d75-0f11-4e9b-812f-61676ec05d28",
+       "type": "word",
+       "value": "воно",
+       "textRange": [
+        1732,
+        1736
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "353744df-5857-43a3-9ac9-cc9cc02120bd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1736,
+        1737
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "921cdd4d-459c-4da5-9625-cebcbd5da2e6",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        1737,
+        1741
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "356c19ca-489e-41a9-92bb-77ac5632316d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1741,
+        1742
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92060b1c-8d89-4172-8f9b-67544522f578",
+       "type": "word",
+       "value": "майже",
+       "textRange": [
+        1742,
+        1747
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72cfcf42-bbbc-429c-9659-5be8089b3efe",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1747,
+        1748
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab7e3cd0-3ecd-4822-b4a0-91acbadbf459",
+       "type": "word",
+       "value": "біля",
+       "textRange": [
+        1748,
+        1752
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77e54a33-7079-4880-8b0c-ddce07cceb3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1752,
+        1753
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c2b3cad-e7d6-4e91-8947-bb661930a46e",
+       "type": "word",
+       "value": "дому",
+       "textRange": [
+        1753,
+        1757
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " однак воно було майже біля дому",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7474d814-67fa-4b73-bac1-221a8ba91b1e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1757,
+      1758
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Може, Синє Кошенятко й відповіло б Орлу, однак воно було майже біля дому",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "d4218a48-11d3-4ed2-aedc-a042a3bab934",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b11a489c-a0ac-4bd6-82f6-07d744db57a4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1596cd5a-4b31-43bb-aefe-a3bbcc53f765",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1758,
+        1759
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19656fad-1afb-4e0b-8c50-92d792df3252",
+       "type": "word",
+       "value": "Звірятко",
+       "textRange": [
+        1759,
+        1767
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b74989ff-f3c1-4b79-87b9-c8cbc7897154",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1767,
+        1768
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b83094d-59bd-48be-b3ef-7ee5bbad5f6f",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        1768,
+        1771
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9633db3c-3d58-4cde-9736-2e2d2662a0ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1771,
+        1772
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d1d529b0-7235-4a04-8893-8b61d6bbe67d",
+       "type": "word",
+       "value": "скучило",
+       "textRange": [
+        1772,
+        1779
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09aa7306-d611-45ce-9e84-856b30448f66",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1779,
+        1780
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e97d6d83-0e8c-4dec-bfe9-a72d0ebf02d1",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        1780,
+        1782
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a3907f5-7060-4067-b763-c5e23fa53d37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1782,
+        1783
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fb95ff9d-685b-47d5-bdb5-cd536f8b2f6c",
+       "type": "word",
+       "value": "своєю",
+       "textRange": [
+        1783,
+        1788
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bae18b85-fe63-487a-bd0e-e0ebf2c3a825",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1788,
+        1789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "61c70210-a7a3-4139-8481-98973aefd55b",
+       "type": "word",
+       "value": "мнявкенькою",
+       "textRange": [
+        1789,
+        1800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b4c112c-47e5-4b95-a8a0-000c7388097d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1800,
+        1801
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c357fd4-2329-4b0b-a5cd-d77838ca16d3",
+       "type": "word",
+       "value": "ніжною",
+       "textRange": [
+        1801,
+        1807
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9778457f-b244-45b3-944b-9a1cfb499d1b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1807,
+        1808
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "18d44ffb-51ec-48fd-bdf3-0a675553c3e8",
+       "type": "word",
+       "value": "мамою",
+       "textRange": [
+        1808,
+        1813
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Звірятко вже скучило за своєю мнявкенькою ніжною мамою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f6e35bcc-b0df-45aa-a41e-894477297cf3",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1813,
+      1814
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "59bf479f-e4c9-41c1-aafb-a3765cc818a3",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1814,
+      1815
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Звірятко вже скучило за своєю мнявкенькою ніжною мамою.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Може, Синє Кошенятко й відповіло б Орлу, однак воно було майже біля дому Звірятко вже скучило за своєю мнявкенькою ніжною мамою.",
+ "concept": "SYNTAX"
+}

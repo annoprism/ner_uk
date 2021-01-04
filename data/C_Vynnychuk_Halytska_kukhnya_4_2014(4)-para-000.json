@@ -1,0 +1,955 @@
+{
+ "id": "919d4a22-cfdf-4255-846b-3e29728b5223",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fe029a52-2721-4349-97d8-2eb2d4a6ac4c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "77bc0fb8-84a2-4ed4-8adc-ea18a0440507",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2d68c099-e261-485b-a91d-6611045a2f75",
+       "type": "word",
+       "value": "Пирогами",
+       "textRange": [
+        0,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "57708fca-a277-4e54-892a-d87b272837a1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8,
+        9
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f747db59-16a5-4887-af78-567a679fbe34",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        9,
+        10
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dabd0828-6951-4118-8803-244bcfd897a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10,
+        11
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "d6054cca-6b61-455a-8fd0-32621baabf75",
+         "type": "word",
+         "value": "Галичині",
+         "textRange": [
+          11,
+          19
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "077d46e2-e220-4d35-868b-2e244d970689",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "5b882658-dadb-49d9-ab56-6b5812ae4955",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        19,
+        20
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0741c3e6-a8e0-4b4f-8fcb-949a254d108b",
+       "type": "word",
+       "value": "зазвичай",
+       "textRange": [
+        20,
+        28
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ed93c008-98f9-41e5-a11e-ddcdadac1f3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        28,
+        29
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2679f21a-37a5-4fc4-8bce-7fea3babf6d4",
+       "type": "word",
+       "value": "називають",
+       "textRange": [
+        29,
+        38
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "083bbf2c-8086-41c5-9ffc-efbbd3d9ebd5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        38,
+        39
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0e7e7f7-921c-4439-b240-edf18975800a",
+       "type": "word",
+       "value": "вареники",
+       "textRange": [
+        39,
+        47
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Пирогами в Галичині зазвичай називають вареники",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dc6a1f29-4641-4ea3-8e9c-0858f75f677e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      47,
+      48
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Пирогами в Галичині зазвичай називають вареники",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "524f422e-fefd-4d55-bb31-4dd19a6635f8",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f1a7ea8c-648d-418e-857e-f5d9b056133f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "42f2ff7a-f616-4304-99d2-c9dc3547b263",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        48,
+        49
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf6b06ff-e376-44e7-800c-68f894b860ba",
+       "type": "word",
+       "value": "Це",
+       "textRange": [
+        49,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a007adb9-24b5-452e-be5e-d50ecd63fe52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        51,
+        52
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f1784df-ddad-46fb-98bc-31cc6e37f739",
+       "type": "word",
+       "value": "була",
+       "textRange": [
+        52,
+        56
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "108a7557-6408-44b2-b4b2-cd8673a3a0ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        56,
+        57
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1391680-86a2-4b97-921a-4c69fea096dd",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        57,
+        58
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66e6ee2e-30f7-41be-ac19-b5e5f01bf3a2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        58,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d17308bb-d111-47b5-9af0-06fe4199e39f",
+       "type": "word",
+       "value": "є",
+       "textRange": [
+        59,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31e64d7f-1f9e-417d-86ac-a660792d5cba",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        60,
+        61
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8dfb60b6-de4c-4f68-9eb2-9b461501eb6f",
+       "type": "word",
+       "value": "найулюбленіша",
+       "textRange": [
+        61,
+        74
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5514106a-8c08-4854-9721-fd8927f72121",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        74,
+        75
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8743f8bc-af84-4955-8b09-871d11ac483e",
+       "type": "word",
+       "value": "страва",
+       "textRange": [
+        75,
+        81
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Це була і є найулюбленіша страва",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a29820e9-eb8c-447c-ae36-61ec0222f3b7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      81,
+      82
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "28c55387-5f23-477c-b565-3a5796e06219",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "aa0e458c-2aa6-4508-823b-131883515dd4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        82,
+        83
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b379844-7e2e-4dc5-887e-463a32599451",
+       "type": "word",
+       "value": "без",
+       "textRange": [
+        83,
+        86
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba327c92-7320-4151-a67f-3a22891fe430",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        86,
+        87
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60bc57b4-be76-49e6-b0cb-4bc26c883ef1",
+       "type": "word",
+       "value": "якої",
+       "textRange": [
+        87,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05a059cf-0156-48f7-afc3-a35e71bbec0d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc1c6cbb-b3dc-404c-af72-eaaad060af1c",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        92,
+        93
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45298002-9d4d-40a8-8e59-fa7d07078766",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        93,
+        94
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65a310da-1f86-438a-ad1d-a85aa7d2fc42",
+       "type": "word",
+       "value": "неділя",
+       "textRange": [
+        94,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53756d9d-1166-4c24-8dd6-8d1d3e9f029e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        100,
+        101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b782c80f-68b5-4c5f-a545-e538c4f798fb",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        101,
+        103
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8909f88d-a01b-4da1-baba-e90205551d83",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        103,
+        104
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e6248e5-8c2c-4771-bca5-7bd83cf3126b",
+       "type": "word",
+       "value": "неділя",
+       "textRange": [
+        104,
+        110
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " без якої і неділя не неділя",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b3ad0ebe-ca58-417d-bc9a-bb9804f72e1c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      110,
+      111
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Це була і є найулюбленіша страва, без якої і неділя не неділя",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "3bc858ea-62a3-4046-82db-4c4e89245079",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "dfa59fca-eda7-4551-a968-fd18a3c423fc",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d76f5828-cacd-4aed-99ce-98a5c692711c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        111,
+        112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bfd5c86e-b99e-43a2-ae73-854d94d1788c",
+       "type": "word",
+       "value": "Бо",
+       "textRange": [
+        112,
+        114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5bf92171-3e7c-44ca-bd1a-09aa6f215c87",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        114,
+        115
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e16e54c-715c-41d9-b01e-e9dd98e6c60c",
+       "type": "word",
+       "value": "саме",
+       "textRange": [
+        115,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0df2e19-25ce-4310-8167-4db078d163c2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e4e42271-f6b9-4497-bf69-8059390da9d6",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        120,
+        121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13b01f14-b43a-408b-a6ed-1b90bba30e38",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        121,
+        122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1bbb2fc7-eb55-415d-ad68-6dd6f236edee",
+       "type": "word",
+       "value": "неділю",
+       "textRange": [
+        122,
+        128
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "721ac0b3-833f-4b24-9265-d1ea8df8934a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        128,
+        129
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5cc8c37b-75d4-4265-8285-701c641f2f0a",
+       "type": "word",
+       "value": "галичани",
+       "textRange": [
+        129,
+        137
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bdc0e057-1f08-4b41-87e6-9e1bf6a748b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        137,
+        138
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7eeafb5e-54a0-48df-880f-3aca8bb62a34",
+       "type": "word",
+       "value": "після",
+       "textRange": [
+        138,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2578b2b0-7ab5-4614-833c-d5ab460a5436",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b645971f-4aa9-49be-8c3c-b306ea25c64e",
+       "type": "word",
+       "value": "церкви",
+       "textRange": [
+        144,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7e4a37a3-d7e8-4da1-9121-cc46252644bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        150,
+        151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b51c6b34-f6d0-4db4-812a-c5d7abcd1483",
+       "type": "word",
+       "value": "йдуть",
+       "textRange": [
+        151,
+        156
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1db561d6-8713-4b0c-a83e-5bb60b8e8aed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        156,
+        157
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0a8ca969-81da-48ab-98ad-d03c4a7a255f",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        157,
+        159
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aefc1d29-357a-49ce-aaf0-21d8001a4ed7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        159,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "919ea171-4409-4697-b667-8409f41005a8",
+       "type": "word",
+       "value": "пироги",
+       "textRange": [
+        160,
+        166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd30b680-e138-4377-91d7-f093a84dcb89",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        166,
+        167
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e31fb7c9-0e65-431b-87fd-0088409647d0",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        167,
+        168
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3d564cfd-3ed3-417e-8819-8488ee46069e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        168,
+        169
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d3efc79-3ce5-4232-b4ed-8b49a9a6eea0",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        169,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "febef83c-e81c-43ff-8846-a14478ca54a5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        171,
+        172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "978c7eed-633a-44bd-b138-4f8cb149bc72",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        172,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a6d5c02-b41e-44ba-a034-1d7e5081b757",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        174,
+        175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0476b13-b690-4a37-92e2-33b94ab710e1",
+       "type": "word",
+       "value": "себе",
+       "textRange": [
+        175,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22f4f455-6c02-4401-989c-68e9d3ed2c8d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        179,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6a51777-e296-4553-8895-6e46a17e6b39",
+       "type": "word",
+       "value": "додому",
+       "textRange": [
+        180,
+        186
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Бо саме в неділю галичани після церкви йдуть на пироги — чи до себе додому",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d49c2d89-142c-4891-b8c7-12d1cd082b1d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      186,
+      187
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b4d116d7-7f61-46ad-9215-992b40edf0d9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "82bbe9b0-f2bf-472f-9018-dd156103a7ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        187,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd180876-287b-4d53-8d6a-40c53dfbd72c",
+       "type": "word",
+       "value": "чи",
+       "textRange": [
+        188,
+        190
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45a746d4-dc8d-4198-b946-cefa1f9ba21f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        190,
+        191
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "831aae43-d6bd-4a30-8c55-be172b3991c2",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        191,
+        192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "864aa0f7-ac39-4689-a2bd-91d249a440ab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        192,
+        193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ad5234f-6cf9-45af-9818-417ecc700da6",
+       "type": "word",
+       "value": "гості",
+       "textRange": [
+        193,
+        198
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " чи в гості",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1ec4be70-a496-427a-986e-5bb273888053",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      198,
+      199
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Бо саме в неділю галичани після церкви йдуть на пироги — чи до себе додому, чи в гості",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "80de664e-f9d1-43c5-bbd9-90da1efd15ec",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "04f27e0c-4e36-4f0b-83a3-e89baeb74b41",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "afeee28c-cbdd-40de-a520-b63f35fe5c31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        199,
+        200
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41b42e9c-101d-419e-b130-1fec94bc0c20",
+       "type": "word",
+       "value": "Видів",
+       "textRange": [
+        200,
+        205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bba18862-cef8-4aec-bb23-823b55dc24aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        205,
+        206
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "23743b20-c72e-4285-9bb1-5bb80b801b8c",
+       "type": "word",
+       "value": "пирогів",
+       "textRange": [
+        206,
+        213
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a7d6003-826c-4739-b046-0e5c1e8824f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        213,
+        214
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f18c7849-34eb-40cd-985a-0c2f510cc238",
+       "type": "word",
+       "value": "дуже",
+       "textRange": [
+        214,
+        218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ef6ef73-1acc-44f1-8591-a9d7090dcb48",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        218,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4137cbfa-4d61-4dda-915d-054e2bbe60c8",
+       "type": "word",
+       "value": "багато",
+       "textRange": [
+        219,
+        225
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Видів пирогів дуже багато",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cb58c620-328a-4d1d-8b48-e8dddedcba6c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      225,
+      226
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b68af327-768c-4c4e-ad1b-3ca463f4719b",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      226,
+      227
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Видів пирогів дуже багато.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Пирогами в Галичині зазвичай називають вареники Це була і є найулюбленіша страва, без якої і неділя не неділя Бо саме в неділю галичани після церкви йдуть на пироги — чи до себе додому, чи в гості Видів пирогів дуже багато.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,365 @@
+{
+ "id": "6367a75d-9b98-4847-845f-74cee95fc6c7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "04cd6c91-6026-4ac4-92c4-cf5ccacf45e5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b1fe02d1-7770-4030-b19f-9549b0252452",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "e6f1af9f-3ca5-48db-8b9a-3e01a7d5962b",
+         "type": "word",
+         "value": "Оппенгеймер",
+         "textRange": [
+          2927,
+          2938
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b9fd6283-103a-4562-aea4-192560dbf4fc",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "26028531-24cd-4a9f-b127-78c569213a14",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2938,
+        2939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96224e02-95fd-475c-8418-0d80b088a7e9",
+       "type": "word",
+       "value": "мовчав",
+       "textRange": [
+        2939,
+        2945
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Оппенгеймер мовчав",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "271a89ba-9338-40a4-a4e3-3c9ae2b52a4b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2945,
+      2946
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c077c454-714e-4d00-927d-72b4bdb18543",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "61724f6d-27c2-4c8b-86e9-21bccd29ba94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2946,
+        2947
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5c985c7-155c-4652-a02c-5742d31959eb",
+       "type": "word",
+       "value": "мовчали",
+       "textRange": [
+        2947,
+        2954
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4852d89c-5da5-4130-ad5b-53053550037e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2954,
+        2955
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb39520e-ccc8-434b-92fd-615001259f2f",
+       "type": "word",
+       "value": "інші",
+       "textRange": [
+        2955,
+        2959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36d2f853-0316-4eae-a098-e635764dc6eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2959,
+        2960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "067e5ab3-b3e2-4eed-83e9-4b99b84bcb10",
+       "type": "word",
+       "value": "присутні",
+       "textRange": [
+        2960,
+        2968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0af7347d-49d2-4506-81af-633f2bfd6986",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2968,
+        2969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd0d346b-a6ca-4b8f-bc11-c932757c1e35",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2969,
+        2970
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2203fac6-19da-4944-9f96-b8fca218594e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2970,
+        2971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "75cee30c-3019-4f53-9708-4dbdba3b1890",
+       "type": "word",
+       "value": "командному",
+       "textRange": [
+        2971,
+        2981
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d32ff2ba-aa56-4829-b1d7-6a7ec9d54c88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2981,
+        2982
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3268fa0-3b14-4422-9699-49423c5ca1c1",
+       "type": "word",
+       "value": "центрі",
+       "textRange": [
+        2982,
+        2988
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " мовчали інші присутні в командному центрі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e51c561b-298b-4beb-9b1e-cb6edf49c491",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2988,
+      2989
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Оппенгеймер мовчав, мовчали інші присутні в командному центрі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5d40e524-b2bd-4bb7-86c3-3c3cb6294514",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "09fa88f8-2c8d-4921-803b-a3cbdd2f8b97",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7d76dadc-71ef-451b-91ed-55d7b3237e65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2989,
+        2990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f1ef16d-5bfe-4901-b72b-f7aa983d7ab3",
+       "type": "word",
+       "value": "Він",
+       "textRange": [
+        2990,
+        2993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecbc6b01-8663-4b4f-a0a5-e5fc4da6ff63",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2993,
+        2994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4dd52fc-c503-47d8-a209-8ed270145043",
+       "type": "word",
+       "value": "напружено",
+       "textRange": [
+        2994,
+        3003
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "020cbb2f-3143-454b-9f3c-a76022ae6378",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3003,
+        3004
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e00822b9-0f55-42f7-8a0b-a31ee1943d00",
+       "type": "word",
+       "value": "дивився",
+       "textRange": [
+        3004,
+        3011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9058b8ca-1248-4097-b4f5-460affbcc39f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3011,
+        3012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77df4af4-503a-4f33-80c8-9654a228b5f2",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        3012,
+        3013
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b3f44c0c-2809-4ed9-9d4e-0d1055222890",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3013,
+        3014
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "732ba03f-f18c-4a04-b2c0-ac2c003b4024",
+       "type": "word",
+       "value": "бік",
+       "textRange": [
+        3014,
+        3017
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3da37bf9-9564-4cf3-97b4-1e7072ebd35c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3017,
+        3018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae331d23-d3e7-43e0-bc83-c7391c8900a2",
+       "type": "word",
+       "value": "пристрою",
+       "textRange": [
+        3018,
+        3026
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Він напружено дивився в бік пристрою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "45c17643-017b-42f2-a896-691b7af1af6c",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3026,
+      3027
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e1ff2800-cc55-4276-b480-308af57168ba",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3027,
+      3028
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Він напружено дивився в бік пристрою.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Оппенгеймер мовчав, мовчали інші присутні в командному центрі Він напружено дивився в бік пристрою.",
+ "concept": "SYNTAX"
+}

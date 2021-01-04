@@ -1,0 +1,758 @@
+{
+ "id": "652f4569-d97b-44f6-9421-af38935e10e4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "82265ba7-6b7b-42d4-82d1-6fafe49798e5",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "080a8f5a-b160-4c02-9c76-f8020930f437",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e09ceba8-00e6-43a6-a0ac-a37d5821cac7",
+       "type": "number",
+       "value": "3",
+       "textRange": [
+        0,
+        1
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dda08a3a-0762-410f-93c0-a2afb2a01f60",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        1,
+        2
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3049cc70-6e67-4ba0-9950-432f38443d35",
+       "type": "word",
+       "value": "річна",
+       "textRange": [
+        2,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b53802df-c11f-4362-a222-66bda0072a81",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        7,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d88045af-f05e-40ed-aa69-5aaed0e5bfee",
+       "type": "word",
+       "value": "Софійка",
+       "textRange": [
+        8,
+        15
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "486762f3-f1a4-4aca-8bc2-ad9501fe84fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        15,
+        16
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db920c9f-41a0-482c-aad2-bf6cce3f98a0",
+       "type": "word",
+       "value": "Кіселюк",
+       "textRange": [
+        16,
+        23
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d5489573-00ef-4dbb-b260-8c0fb5a2717e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        23,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55943282-5c7b-4309-a71c-d138d9e48f59",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        24,
+        26
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2051e907-09e6-410b-b3ad-58bfbad1a2f8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        26,
+        27
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "698b77cd-c53b-40fd-963e-29766bdf9e91",
+       "type": "word",
+       "value": "Надвірнянського",
+       "textRange": [
+        27,
+        42
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8899e0dc-96bf-4a70-b1d7-30ac95eae8a8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        42,
+        43
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0994773b-9119-4220-a1dc-dd01632bafa0",
+       "type": "word",
+       "value": "району",
+       "textRange": [
+        43,
+        49
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "3-річна Софійка Кіселюк із Надвірнянського району",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "14fb610f-8870-4ef6-ba99-af35d3c636c4",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      49,
+      50
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "150eac48-e281-4aa0-a6d0-daa8fa6725bb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "dbbbc418-4e1b-4acf-a207-3156f91eb7cc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        50,
+        51
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24193e86-38b1-4ace-9731-19108a3d21f9",
+       "type": "word",
+       "value": "яка",
+       "textRange": [
+        51,
+        54
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7e39e1f-d671-40f9-b116-2ed234b6d9d5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        54,
+        55
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78794581-c172-4d96-8d5e-c8d41c889f0c",
+       "type": "word",
+       "value": "потребує",
+       "textRange": [
+        55,
+        63
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11d3aab2-16d7-4511-9441-020975913f7b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        63,
+        64
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26a6654f-0195-4324-82d6-9580cc683512",
+       "type": "word",
+       "value": "допомоги",
+       "textRange": [
+        64,
+        72
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " яка потребує допомоги",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0bec0450-b186-49ab-8c0f-8c9a9ec4d280",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      72,
+      73
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1aab8182-198f-49af-82fe-6cc334a133e5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c875dedf-44ed-42b3-8227-d427e0af8a69",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        73,
+        74
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c48cbf9-bc95-454f-83cf-d23fe380ccf1",
+       "type": "word",
+       "value": "вчора",
+       "textRange": [
+        74,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "987cd4df-3c00-4029-a66e-1a913d82d969",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        79,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49b40e70-25db-4fd6-a707-69ec4fc11416",
+       "type": "word",
+       "value": "повернулася",
+       "textRange": [
+        80,
+        91
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ea5f919b-ed4c-4055-a6fc-b755e1f6bd52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        91,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c07e324-0ddd-4a00-b2e2-50da6ee42b5b",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        92,
+        93
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c381740d-a96d-40cf-94f0-acf1e6218cf5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        93,
+        94
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb252476-057b-4f60-9c7b-d0df1ac2e446",
+       "type": "word",
+       "value": "татом",
+       "textRange": [
+        94,
+        99
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "aa5d7d54-8c4c-4302-8829-aece3f2814c1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        99,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6f056a4-07ab-4a3f-8530-f47d993447ca",
+       "type": "word",
+       "value": "додому",
+       "textRange": [
+        100,
+        106
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вчора повернулася з татом додому",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "080047d6-b57b-4952-bb03-9a8797f8b46a",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      106,
+      107
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "3-річна Софійка Кіселюк із Надвірнянського району, яка потребує допомоги, вчора повернулася з татом додому",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "ccde64c6-42df-4f09-b4c0-bb8330888f0d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d1434f76-7bb5-4ebc-b729-f562fbbe0afe",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "99195fba-7211-4d14-bd43-8b3dd71aaf12",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        107,
+        108
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e32a227-33c7-4f9d-a1d2-c367cf676a54",
+       "type": "word",
+       "value": "Вони",
+       "textRange": [
+        108,
+        112
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e5e04e4a-5a05-48eb-98ac-dac330e17dab",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        112,
+        113
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3ccc980a-7cde-4183-93bd-c4395a6ad107",
+       "type": "word",
+       "value": "їздили",
+       "textRange": [
+        113,
+        119
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "66f3dc0e-1867-45be-a24b-b4f7924292bb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        119,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b5d81bd-a82d-4c73-bb68-013913a572c1",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        120,
+        122
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "efd30662-7503-403f-97fc-c876a0dec107",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        122,
+        123
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dffeb510-da81-4ca6-a26e-08248d95170e",
+       "type": "word",
+       "value": "чергове",
+       "textRange": [
+        123,
+        130
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "27decd92-5439-4da4-be83-0841d9c3c6b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        130,
+        131
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9ac0060-c4e7-4aa2-890e-d9b4eaeda366",
+       "type": "word",
+       "value": "обстеження",
+       "textRange": [
+        131,
+        141
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcdb6ac6-d779-41c9-bf1e-de3fea04d183",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        141,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ceb7520b-8c19-4c44-b90f-9684dd61e53e",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        142,
+        143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "29a64b79-d2d3-4b0d-9766-9479656f93e7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        143,
+        144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "20e8b1b5-97de-492b-b2b1-4c81900cd9b5",
+       "type": "word",
+       "value": "Київ",
+       "textRange": [
+        144,
+        148
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вони їздили на чергове обстеження у Київ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "43b603da-356b-4895-be44-61fe0814fc1e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      148,
+      149
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Вони їздили на чергове обстеження у Київ",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "910239bd-0efd-450e-8026-47453f6c5d61",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0842e41e-6911-40a7-ac98-bc037e334479",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c1d4eadf-6122-4b33-8830-ce06d48023f6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        149,
+        150
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "203aa51f-ed6b-4a42-9e11-3da9aa2ee8a9",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        150,
+        151
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " І",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "833ffce9-74da-407b-949f-ad9fb3307d0b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      151,
+      152
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "76aab2d9-841c-48c1-94a8-8d74d469da91",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ba8bb56a-fec4-45d1-9b96-0057a95dec69",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        152,
+        153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5caa1644-4d75-46c2-9b48-7f4341577ce4",
+       "type": "word",
+       "value": "схоже",
+       "textRange": [
+        153,
+        158
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " схоже",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a807ae4f-dee8-4689-be99-a75cdd162df2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      158,
+      159
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c08cf4a0-8ecd-471c-b3fe-ad07ae07e9bb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5f6960f2-f6e4-493f-8f45-704a50cd4493",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        159,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef6fc6c0-9058-457a-89f0-ee80fd445eec",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        160,
+        161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef7c78ac-00b4-4229-ac3d-1f98de97d51e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        161,
+        162
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b652eb0-a189-465b-80e8-46119c927873",
+       "type": "word",
+       "value": "них",
+       "textRange": [
+        162,
+        165
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c1fe1df9-e00e-4b0d-9e31-a491b1f6f559",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        165,
+        166
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "71ecd4a2-6ae8-48fa-9655-07e3af2c66cc",
+       "type": "word",
+       "value": "з'явилася",
+       "textRange": [
+        166,
+        175
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56c7dde8-5d92-4e0a-98d8-8ec52585f408",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        175,
+        176
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4233802-97d6-4f22-88b1-94a57d966751",
+       "type": "word",
+       "value": "хоч",
+       "textRange": [
+        176,
+        179
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "beec4ed9-195d-43e4-b9b3-cf45260f57a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        179,
+        180
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ff32c455-8327-46f8-933f-752520d4ec34",
+       "type": "word",
+       "value": "якась",
+       "textRange": [
+        180,
+        185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a9e092fa-4ba2-4175-b36b-5b3f898b89f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        185,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "615ea66d-d8b6-4930-ad09-0247690623f6",
+       "type": "word",
+       "value": "надія",
+       "textRange": [
+        186,
+        191
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " у них з'явилася хоч якась надія",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9e7fd9ba-349a-4ed3-a1b7-2f1cb87a713e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      191,
+      192
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bd1b5f8d-35a9-47ed-981d-4f8ad421091d",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      192,
+      193
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " І, схоже, у них з'явилася хоч якась надія.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "3-річна Софійка Кіселюк із Надвірнянського району, яка потребує допомоги, вчора повернулася з татом додому Вони їздили на чергове обстеження у Київ І, схоже, у них з'явилася хоч якась надія.",
+ "concept": "SYNTAX"
+}

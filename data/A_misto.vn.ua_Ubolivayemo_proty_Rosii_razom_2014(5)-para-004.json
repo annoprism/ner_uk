@@ -1,0 +1,242 @@
+{
+ "id": "b6ba88df-f343-4c0a-9b88-3e3913e5d097",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "43ef7c5e-20ee-4499-9a21-01b650cd8246",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fe709f42-4297-4ae9-ab83-8462ed76e6d1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9e5af54f-2948-4c78-988b-cea76e99835f",
+       "type": "word",
+       "value": "Група",
+       "textRange": [
+        616,
+        621
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f46248b0-71cc-4487-968c-7728e72b55d3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        621,
+        622
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0437532b-5810-45ea-bdee-4988939ee378",
+       "type": "word",
+       "value": "H",
+       "textRange": [
+        622,
+        623
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Група H",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a95e197b-0e72-4e31-8eca-5e7d4575f722",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      623,
+      624
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Група H",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "96bc17d9-4e57-421b-9373-162844f57422",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6cd80107-7873-44b2-98bc-9f3a71cc048d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "69da5cd3-b49e-4e6a-a0af-234f2548f107",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        624,
+        625
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "fa2b19e1-acd5-4a98-a012-89bc992d7daa",
+         "type": "word",
+         "value": "Бельгія",
+         "textRange": [
+          625,
+          632
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9e1c3f4b-0810-4f90-8ade-8ad354488bfc",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "24cae932-814a-446a-bd04-a15823a8ee2f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        632,
+        633
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ef93d0fd-2195-4c82-ba48-9cf06d079de7",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        633,
+        634
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8b66abb-50f6-41f5-9a49-438f562124f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        634,
+        635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "6db89480-6a76-41bd-a2c5-6311691f51fa",
+         "type": "word",
+         "value": "Росія",
+         "textRange": [
+          635,
+          640
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "09c7cd91-7c16-4e19-a391-aae3d07b2bd6",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "4c3b55dd-3894-47aa-931e-205a923803d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        640,
+        641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967ca884-c4be-4156-8f61-bbe034c42552",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        641,
+        642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96785873-4658-4117-98f4-9645375ed05c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        642,
+        643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f26d7985-f018-4537-a896-ac4336aca31d",
+       "type": "number",
+       "value": "1",
+       "textRange": [
+        643,
+        644
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Бельгія - Росія - 1",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "20135984-eb61-4ccc-be30-86fc09a69fc5",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      644,
+      645
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4a55960a-e4c2-4523-bd90-5276e0551de4",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d1e889f5-fd97-4d63-9032-dbfe036c91b7",
+       "type": "number",
+       "value": "0",
+       "textRange": [
+        645,
+        646
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "0",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e9d0d8e0-1a45-4068-bac0-cc54554bf658",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      646,
+      647
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "19c8a31f-6971-4fd0-bac4-2a6bee7edab1",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      647,
+      648
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Бельгія - Росія - 1:0.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Група H Бельгія - Росія - 1:0.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "8f9b4ab3-0443-4b91-9ac2-7602824d9133",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "2d062ff6-1b15-41bc-a313-de01caaa571d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bd733cdc-cbaa-4e01-a8ce-e00d701c3fe9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4e086085-1121-4601-992a-251ea1551736",
+       "type": "word",
+       "value": "Дорогі",
+       "textRange": [
+        0,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1585130-d181-4eb8-a69d-b36676846a32",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fe7e3be2-cf23-4f9d-a84a-5b8783237e15",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        7,
+        8
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54c1692a-1128-49a6-ab9b-12eb86e85b2c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        8,
+        9
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6bdefc31-1126-492c-bf5b-f5f32f6c8c91",
+         "type": "word",
+         "value": "Христі",
+         "textRange": [
+          9,
+          15
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6feb1954-9b81-42e7-b310-efe5a7bd04f7",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2f364a01-7dd7-4721-b54b-c207ebcf66d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        15,
+        16
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f1e44e4-6b17-4d11-8901-01a59263f765",
+       "type": "word",
+       "value": "брати",
+       "textRange": [
+        16,
+        21
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "53e19d71-b707-4244-8a63-ede647f3338e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        21,
+        22
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cd2b0714-f0e9-4170-92a2-57adfde4378a",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        22,
+        23
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "967f88bd-5493-44cc-a0f6-78f4dc7cd15f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        23,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09296d5f-f18a-49ca-85ed-3fac24a0928a",
+       "type": "word",
+       "value": "сестри",
+       "textRange": [
+        24,
+        30
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Дорогі у Христі брати і сестри",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "63cd9c7c-2812-4627-8d14-3978feeabd38",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      30,
+      31
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "905c5593-08c9-4271-ad3b-b2da2372302a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      31,
+      32
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Дорогі у Христі брати і сестри!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Дорогі у Христі брати і сестри!",
+ "concept": "SYNTAX"
+}

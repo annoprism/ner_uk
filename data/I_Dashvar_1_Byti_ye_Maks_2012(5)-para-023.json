@@ -1,0 +1,147 @@
+{
+ "id": "163a285a-6e78-41d9-9dfc-974e3203dd97",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "0f8565b6-db47-44a8-9e9f-157606cf741a",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "1116e142-a86d-4821-b6d6-b0e5e9ba9c4b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "30244ad5-ab56-4966-920c-fb8a493884e4",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4194,
+        4195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f56be54c-8765-44c8-bc72-8a70e27c4ebc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4195,
+        4196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "1156acce-b018-4b0e-8be9-2367a0e11b6b",
+         "type": "word",
+         "value": "Дане",
+         "textRange": [
+          4196,
+          4200
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0fde4fd6-de61-452d-8769-2ce36ab0a813",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "- Дане",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8b392dba-5dba-4c48-8c9e-c3ad1f989393",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      4200,
+      4201
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Дане",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "6a2ec707-fb4d-41db-a836-46663bfe01d4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "eb1fc2a2-989e-43c6-9752-c6a1a679b952",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7823f855-122d-49b4-a977-4cfe0dee6b65",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4201,
+        4202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dc15b204-2135-4354-90ee-c28ef735631c",
+       "type": "word",
+       "value": "Ми",
+       "textRange": [
+        4202,
+        4204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d13274e-5bd2-4bd2-9b8c-056930d677a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4204,
+        4205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8b8946c3-cf92-4f62-a2ba-797af1f6dbce",
+       "type": "word",
+       "value": "пішли",
+       "textRange": [
+        4205,
+        4210
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Ми пішли",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0b688975-8868-401b-9a5c-b5c501a5efcc",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      4210,
+      4211
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3cf59856-6059-4dd3-8ddb-c746338cb190",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4211,
+      4212
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Ми пішли!",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Дане Ми пішли!",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "eb187516-6508-4c58-9b24-04a1bc8c3152",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "a7fe74b0-9032-4973-b0a8-8ef6b6827d63",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "8d44a28c-f0d8-4270-99ed-3ba2a4a2ef4b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e6c8ea89-0aa7-40b3-ae78-fe2c904ce47e",
+       "type": "word",
+       "value": "Зупинився",
+       "textRange": [
+        3872,
+        3881
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Зупинився",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ccf07f16-1590-4112-8fbe-c7f87dc483b3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3881,
+      3882
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "65df8574-3106-4415-b0da-644a4ebf7baf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "28844707-4c35-493b-9c35-850b41528c11",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3882,
+        3883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f91f6d00-18cb-489f-8e66-2b70b2331c19",
+       "type": "word",
+       "value": "пішов",
+       "textRange": [
+        3883,
+        3888
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0e01d238-2311-4554-9808-59458bb744ea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3888,
+        3889
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e0b1fe1-d810-4edb-bb54-2806fb693dba",
+       "type": "word",
+       "value": "до",
+       "textRange": [
+        3889,
+        3891
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "191c07d8-e695-4922-8f3a-b55b96765d47",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3891,
+        3892
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cbf601aa-14e8-4950-a9e0-fc8e3078010e",
+         "type": "word",
+         "value": "Дори",
+         "textRange": [
+          3892,
+          3896
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "56633b90-3660-46f1-a7d9-368bf6a24af5",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " пішов до Дори",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "57703aa7-fd78-4525-abc7-abcf6b3f784e",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3896,
+      3897
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "afff306f-1b8d-4a62-9431-47398adde55a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3897,
+      3898
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Зупинився, пішов до Дори.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Зупинився, пішов до Дори.",
+ "concept": "SYNTAX"
+}

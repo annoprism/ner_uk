@@ -1,0 +1,868 @@
+{
+ "id": "561511fd-b4be-4b3e-86b4-628942fb76b6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3ca61470-f301-454b-b05a-a44a75fcf655",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b0c4426e-5cc2-4b80-9fee-bba7b1f12d83",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4ae2fe91-275f-4376-88d8-b27f4e4dcd85",
+       "type": "word",
+       "value": "Коли",
+       "textRange": [
+        1785,
+        1789
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "99f36d7c-d4ea-4eff-afd2-4388782a472d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1789,
+        1790
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cdaf4e60-f016-4e97-9341-357701ca774c",
+       "type": "word",
+       "value": "з’явилася",
+       "textRange": [
+        1790,
+        1799
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5145a9fb-6297-4a57-9084-72ac01e5b813",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1799,
+        1800
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b084613d-e11b-40d9-a470-008746298888",
+       "type": "word",
+       "value": "публікація",
+       "textRange": [
+        1800,
+        1810
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b205ed5f-d590-4251-a719-e9c008122812",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1810,
+        1811
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47625516-9ad5-45ab-a987-71d2d533a747",
+       "type": "word",
+       "value": "п’єси",
+       "textRange": [
+        1811,
+        1816
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4ff108ac-b573-4eb0-8eae-0c3d30c70ce0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1816,
+        1817
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "4f468d3f-a750-4cc7-a7d8-09a8860ef4af",
+         "type": "word",
+         "value": "Гоголя",
+         "textRange": [
+          1817,
+          1823
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "36eba73c-749b-4d57-8648-0e6fc72b9b93",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "84f12ac3-14cc-4898-8209-d069def05a26",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1823,
+        1824
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "30e21d28-2898-44f4-88a2-39510619a61f",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1824,
+        1825
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "aa7ea6eb-8770-4476-8caa-e8af35f596f9",
+         "type": "word",
+         "value": "Ревізор",
+         "textRange": [
+          1825,
+          1832
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0eba6123-6187-4dc0-ab26-69b3b5d4bb62",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "7c096890-4178-4b5f-bb4e-0d370351df6a",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1832,
+        1833
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Коли з’явилася публікація п’єси Гоголя «Ревізор»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ed7fbad-5dd3-4cb6-ae93-fd1abb2ec8d9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1833,
+      1834
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6bccb52d-468c-4ba6-a372-d476d09671b8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ea81e706-7210-4c83-90bf-5394b4133f2e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1834,
+        1835
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "6bf20079-25ad-462e-ac2f-63fe6407e1cb",
+         "type": "word",
+         "value": "Квітка",
+         "textRange": [
+          1835,
+          1841
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7922d96e-45e9-47d2-beac-7a4e171d4e43",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "59b55183-fb0c-4383-abc1-3fdd8276e6f5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1841,
+        1842
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c9da1c3-4ad6-4a67-9b7e-c4c98f936dbc",
+       "type": "word",
+       "value": "скликав",
+       "textRange": [
+        1842,
+        1849
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ca8fc006-bfb4-46bc-a46b-0720eedda9a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1849,
+        1850
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ad4a83c5-18da-49f3-abef-1417ca445ae4",
+       "type": "word",
+       "value": "своїх",
+       "textRange": [
+        1850,
+        1855
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a063a320-929f-4c18-a62e-bca98f27e71b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1855,
+        1856
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae5e35de-1de5-4395-af0b-45d8f2438a31",
+       "type": "word",
+       "value": "приятелів",
+       "textRange": [
+        1856,
+        1865
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8d3a896-69a7-4ea3-b2df-7c1765f51b88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1865,
+        1866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e68d13cd-1a9d-42ca-beec-7d8f1f937fca",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        1866,
+        1867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "320769d3-ca00-4005-b07f-7c8ed773c5f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1867,
+        1868
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "580e837e-4e74-4bbd-8721-6e57f4e8843f",
+         "type": "word",
+         "value": "Харкові",
+         "textRange": [
+          1868,
+          1875
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "43a32788-3d4a-4c88-804c-66271af85200",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Квітка скликав своїх приятелів у Харкові",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fcb9fb6c-43fe-42cd-99ec-6c74e9291b1e",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1875,
+      1876
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fe2cd7b8-a089-4bb5-8712-2c2a52a28b55",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c12b2a61-19eb-4d49-8fa7-c3a7666eea28",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1876,
+        1877
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b3b49bd-e6d1-496a-bed7-eedc29446b22",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        1877,
+        1878
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0bb5cd6e-31f1-4256-8a6f-b298e8cd02af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1878,
+        1879
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "79f0b1b6-4792-4e4f-939c-47f922ff5c21",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        1879,
+        1883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2e7de8d-ce2e-4803-8934-052598889e49",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1883,
+        1884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d94911c-d924-49b8-89ea-d7347f6367a2",
+       "type": "word",
+       "value": "прочитали",
+       "textRange": [
+        1884,
+        1893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3abb95d4-8e2b-407f-9041-496ba6a99397",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1893,
+        1894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d09f2993-5699-4840-8fdd-b0bcf39bc287",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1894,
+        1895
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "8453d4af-ff5a-4d25-b134-58603e1a949f",
+         "type": "word",
+         "value": "Приезжего",
+         "textRange": [
+          1895,
+          1904
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e386457a-2a31-43cc-88a5-ef6739265099",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1904,
+          1905
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "ef0deeaf-e9c9-4e11-af29-cdab2f90db04",
+         "type": "word",
+         "value": "из",
+         "textRange": [
+          1905,
+          1907
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1f026737-0639-425b-bbd1-0b48e73d7dc4",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          1907,
+          1908
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "db408e8b-09ad-43fd-b6cf-3c8f3f2595fe",
+         "type": "word",
+         "value": "столицы",
+         "textRange": [
+          1908,
+          1915
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9278a4ff-d600-471d-a66a-537c7bf66ea9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "87d42c86-d736-42f6-b3d3-b41882a8735a",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1915,
+        1916
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " і вони прочитали «Приезжего из столицы»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "caf7b249-802e-45c4-858c-5cc7e570d92f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1916,
+      1917
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ef13ce0-56e4-47a4-bff7-e4b454f5f2de",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4f71dfeb-e85e-4e53-8cea-44c1d15b09a7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1917,
+        1918
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36652e7c-b488-4462-bec8-3b66e8738217",
+       "type": "word",
+       "value": "потім",
+       "textRange": [
+        1918,
+        1923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8635a6c-c835-41e7-a87e-1ecb1b7b251b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1923,
+        1924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df2a65ac-8cce-413a-8131-eb7485ae5ef4",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        1924,
+        1925
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5ecbce5-ce58-424a-a9cb-1ffe82a2d171",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1925,
+        1926
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1cf94fb8-29e9-4c92-8a14-e0f0ad04a8d0",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        1926,
+        1927
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "59b9254f-1687-4199-8ec9-ff5fed9a9bd7",
+         "type": "word",
+         "value": "Ревізора",
+         "textRange": [
+          1927,
+          1935
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "962fb309-ca24-480e-a3ea-330a13538359",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ec57f94f-52d6-4ac6-87c5-349c256c0a95",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        1935,
+        1936
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " потім – «Ревізора»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d71f8eaa-65a3-4153-a5f9-85d1cd418f8d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1936,
+      1937
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Коли з’явилася публікація п’єси Гоголя «Ревізор», Квітка скликав своїх приятелів у Харкові, і вони прочитали «Приезжего из столицы», потім – «Ревізора»",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a364fd97-ef06-4d3a-a1a8-cd14b79cd7ec",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "754c06f8-d592-45b1-b9d3-f057025c3eb0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "58754432-9274-4a7f-832c-ad99086b9bb7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1937,
+        1938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c848e636-f4e7-408f-b967-5f43a9a0862a",
+       "type": "word",
+       "value": "Гості",
+       "textRange": [
+        1938,
+        1943
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fd3c958c-cd70-43cc-9ba8-6ad1b909aec6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1943,
+        1944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72713cc6-a974-486d-b671-b3678e36e291",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1944,
+        1945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a440abb9-455e-4cdb-a771-8baebb93b672",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1945,
+        1946
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9bc6c9cc-2bab-426f-8756-5b3639a1d8f7",
+       "type": "word",
+       "value": "один",
+       "textRange": [
+        1946,
+        1950
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17a419fd-4da9-4683-a391-353cdcbdab6b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1950,
+        1951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0b0bb209-5b9a-4907-aace-b2dd327d0889",
+       "type": "word",
+       "value": "голос",
+       "textRange": [
+        1951,
+        1956
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a81ee844-365d-4319-813f-7a5c8cbc8675",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1956,
+        1957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09ae6e44-71db-4a5c-bb79-797be2e783bd",
+       "type": "word",
+       "value": "заговорили",
+       "textRange": [
+        1957,
+        1967
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Гості в один голос заговорили",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc8bd9cd-9617-478c-9cb7-2cba1c93713d",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1967,
+      1968
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "716cf30b-2123-4e05-995b-78e3684b354e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ab912836-b593-4e38-98d0-e54b504df021",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1968,
+        1969
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a24ca70a-c1e7-4ba3-af97-41f57af27c58",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        1969,
+        1971
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "93f70934-a6a9-4559-b016-470deff39358",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1971,
+        1972
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "91dc1e0c-b582-45e5-aa13-0de813c60336",
+         "type": "word",
+         "value": "Гоголь",
+         "textRange": [
+          1972,
+          1978
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "6518bc32-e54a-4291-893a-f39601a80c94",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "c116e771-6465-4796-8cb3-482e01fdb64b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1978,
+        1979
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fae7c882-37c5-4b48-81bb-d83fefb43486",
+       "type": "word",
+       "value": "скористався",
+       "textRange": [
+        1979,
+        1990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "81f65b81-233a-48b7-b377-9107628d5247",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1990,
+        1991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b90802b-197e-4efe-a0b5-1064acdf435f",
+       "type": "word",
+       "value": "сюжетом",
+       "textRange": [
+        1991,
+        1998
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83cd5002-4ccd-4a5b-85b0-96365b0b4f6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1998,
+        1999
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c2843f67-79ab-401f-99ca-40a277d0b60b",
+         "type": "word",
+         "value": "Квітки",
+         "textRange": [
+          1999,
+          2005
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "af86485f-c944-4644-8697-c69a8bdc6195",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " що Гоголь скористався сюжетом Квітки",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "414a6624-c344-44ad-9300-03e46e24bc15",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2005,
+      2006
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "51a59bd3-a168-49d2-91c2-169e01349fb6",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2006,
+      2007
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Гості в один голос заговорили, що Гоголь скористався сюжетом Квітки.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Коли з’явилася публікація п’єси Гоголя «Ревізор», Квітка скликав своїх приятелів у Харкові, і вони прочитали «Приезжего из столицы», потім – «Ревізора» Гості в один голос заговорили, що Гоголь скористався сюжетом Квітки.",
+ "concept": "SYNTAX"
+}

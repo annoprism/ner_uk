@@ -1,0 +1,138 @@
+{
+ "id": "b8ee2a6a-ed97-4ac6-9a61-3fb2a977deb6",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fa8ad490-c378-4040-a2f2-2ff8ee57c8a1",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7e56c29d-a59e-4e53-86e7-63a4d01cbcea",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ddefc287-4ff9-4d19-929e-a9f91f478ff8",
+       "type": "word",
+       "value": "Злякався",
+       "textRange": [
+        6089,
+        6097
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Злякався",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "02712ff2-7101-468a-b05d-664fa601ff9d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      6097,
+      6098
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Злякався",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "24d48370-68a9-420e-b210-c09635becbc0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c4c0e737-b49b-490d-8fd2-6541ec843dad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f2928359-2a86-45e2-83a6-721919f4efc7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6098,
+        6099
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47c76c40-a4c4-4f59-bc69-7b3b5aa7171e",
+       "type": "word",
+       "value": "Закляк",
+       "textRange": [
+        6099,
+        6105
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Закляк",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ff8d4680-b196-4bea-a2b7-f5ef76172726",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6105,
+      6106
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c0d124cd-32cb-47f5-ac75-bc71efca9157",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "284db254-b489-4614-b03e-7bb5a6cb4ecf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6106,
+        6107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d640bf71-20b8-40d3-81c6-87d736f062ed",
+       "type": "word",
+       "value": "гукнув",
+       "textRange": [
+        6107,
+        6113
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " гукнув",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f105bbbd-177d-4ff9-905f-eb2e9ca34ccc",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      6113,
+      6114
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "49198175-2a11-42fd-af20-edf6f3617df3",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6114,
+      6115
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Закляк, гукнув:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Злякався Закляк, гукнув:",
+ "concept": "SYNTAX"
+}

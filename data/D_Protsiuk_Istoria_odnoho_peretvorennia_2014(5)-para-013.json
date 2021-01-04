@@ -1,0 +1,622 @@
+{
+ "id": "6d7c6345-8ce8-4e8b-8bbc-31406078a69a",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ee1d3616-3199-45b2-9533-152b96f51d40",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "23c0d310-d885-46a7-bfe6-b7e5aa6e2ebb",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "650bdde6-02b9-4bdf-99cf-fbc2a60f16d6",
+       "type": "word",
+       "value": "Уверх",
+       "textRange": [
+        2935,
+        2940
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Уверх",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "68195c22-fd57-4776-9c99-e5bbd4eaa503",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      2940,
+      2941
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Уверх",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "802c4c46-e826-4a63-b0a0-d52c79f075b4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2b21ee5d-a0d0-4851-82dc-f6e9a0632b6c",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6ab728c7-3cf6-4bd0-9fd1-71d320b6845a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2941,
+        2942
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d296d74c-8c1b-4a5e-bbc5-0f0adbac78b3",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        2942,
+        2944
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b5b18244-31fc-4285-b043-81389c843ec7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2944,
+        2945
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcaa10a7-959f-4e7f-a5b6-5139cc32de71",
+       "type": "word",
+       "value": "бабусі",
+       "textRange": [
+        2945,
+        2951
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4d9f688-7ec9-4f73-8d9b-259eb26b3400",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2951,
+        2952
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "8d670d92-5039-445e-b74f-41fe9952559a",
+         "type": "word",
+         "value": "Олі",
+         "textRange": [
+          2952,
+          2955
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "e8170a2b-a5b2-4af3-89fb-2f0e3090e95e",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " До бабусі Олі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "af12db6e-6855-4e64-9157-89bb659b6b80",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      2955,
+      2956
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " До бабусі Олі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9ab07882-d585-447c-9afc-879124fd88d3",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "96c2d9ed-d4a4-4f2d-a6b9-10669a8bbeed",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f4ad8761-1f8f-4219-be7e-e29d742ea5f9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2956,
+        2957
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3dff827-152b-4b5b-a9ef-04fa85900350",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        2957,
+        2959
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba266ba8-b29a-47e9-88e2-c5759f0be0aa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2959,
+        2960
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2addf353-7954-4b42-9c76-aaff410dc082",
+       "type": "word",
+       "value": "княгині",
+       "textRange": [
+        2960,
+        2967
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "125127ef-103f-4b16-bc9f-22cb89b46ccd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2967,
+        2968
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fca37222-2190-4b42-bc39-39fbee8649eb",
+       "type": "word",
+       "value": "Ольги",
+       "textRange": [
+        2968,
+        2973
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " До княгині Ольги",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4f308248-e28f-462d-a3e5-9cc6f2e114f1",
+     "type": "punctuation",
+     "value": "!",
+     "textRange": [
+      2973,
+      2974
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " До княгині Ольги",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "fce6e5d1-0643-4ef9-8810-38bc8a8fae87",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a6aca170-25cd-453a-b232-992fb17491cf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "01838874-d995-41dd-91bb-31a989fbafaf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2974,
+        2975
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b03d713-ca11-494f-8a7a-f0758d8e84eb",
+       "type": "word",
+       "value": "До",
+       "textRange": [
+        2975,
+        2977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "187fbdd1-2ed0-4890-be3e-7763a7743ca1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2977,
+        2978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3860d91a-5987-487d-8322-4498d7bd6b23",
+       "type": "word",
+       "value": "відламку",
+       "textRange": [
+        2978,
+        2986
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69c6b112-44a9-4977-a198-3f9a8b76de45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2986,
+        2987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d1b07ba8-d5e2-4e97-9717-10d6433136e4",
+         "type": "word",
+         "value": "Великої",
+         "textRange": [
+          2987,
+          2994
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "cb84589e-8315-4019-8334-b450e5369b86",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2994,
+          2995
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "c0a0a8ac-dfe3-4d0d-9f86-71e883b730f6",
+         "type": "word",
+         "value": "Матері",
+         "textRange": [
+          2995,
+          3001
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "bb400764-285c-468c-8075-7f91b2f37962",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          3001,
+          3002
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "75850dff-0bf1-4865-b33b-d3b58911682e",
+         "type": "word",
+         "value": "Ольги",
+         "textRange": [
+          3002,
+          3007
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b9b603d2-e299-4d5b-b354-d553b772c2be",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          3007,
+          3008
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "3816ff84-d8f1-4cfc-a212-78a17e324ab9",
+         "type": "word",
+         "value": "Дучимінської",
+         "textRange": [
+          3008,
+          3020
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "7ba86abe-1e4b-45d5-b291-49608866a0ab",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " До відламку Великої Матері Ольги Дучимінської",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "61aa0b64-159d-478c-9d09-b0e637a5ca35",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3020,
+      3021
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37fbbcca-8239-424b-a8ae-5a5c5c051f99",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f7505bde-45cb-46ed-b522-315553d92c6e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3021,
+        3022
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "21693fe5-8af6-45a6-93be-ea540a2c4401",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        3022,
+        3024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8c3d940f-06d6-4ab2-b5e7-9c9824c29a74",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3024,
+        3025
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "373b1f0c-87e0-4af9-a88c-9c0616dfec62",
+       "type": "word",
+       "value": "знай",
+       "textRange": [
+        3025,
+        3029
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2962a0bc-5a9a-4c78-ab2a-b2838665b0d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3029,
+        3030
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb118dd3-f374-434e-abdd-3ec855b9679b",
+       "type": "word",
+       "value": "ширяє",
+       "textRange": [
+        3030,
+        3035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3a2f832c-b0df-44d9-9ecb-da1f760b7675",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3035,
+        3036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "22586f9d-6504-4189-a100-e33b776f5dae",
+       "type": "word",
+       "value": "собі",
+       "textRange": [
+        3036,
+        3040
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47e400ff-c276-4d42-bd80-64f79db1d917",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3040,
+        3041
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a59a128-1573-49ec-9fe0-3b29a2bf51bc",
+       "type": "word",
+       "value": "над",
+       "textRange": [
+        3041,
+        3044
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bf0a8544-b273-42cd-8a8d-2fcbab8cb3db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3044,
+        3045
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2d81cf8a-26ce-4917-8fa0-ac4a97e34c76",
+       "type": "word",
+       "value": "вільними",
+       "textRange": [
+        3045,
+        3053
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що знай ширяє собі над вільними",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "425e92da-dc2f-4530-a9f6-97d37f81a057",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3053,
+      3054
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a663040f-a739-49e6-b664-db9659bb683b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1f37a94f-abcf-41cb-a530-8e3b11dfb338",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3054,
+        3055
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7b59824-d2c8-4cce-a046-c4d0db544a64",
+       "type": "word",
+       "value": "нерадянськими",
+       "textRange": [
+        3055,
+        3068
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a709ed1b-c214-4ea8-950b-e86562f2b62d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3068,
+        3069
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ce6b758f-7806-46fd-a123-d3a24aecba85",
+       "type": "word",
+       "value": "небесами",
+       "textRange": [
+        3069,
+        3077
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "536e9ff7-6dd8-459e-964d-c5bca46c1d59",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3077,
+        3078
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a7df4ef2-567c-4f5d-af2c-88977ed83f1d",
+       "type": "word",
+       "value": "рідного",
+       "textRange": [
+        3078,
+        3085
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d5bb68f-7d16-4ef0-a02b-00d36b3e648c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3085,
+        3086
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6096046d-95be-4340-8f8e-f5f484e53b4b",
+       "type": "word",
+       "value": "міста",
+       "textRange": [
+        3086,
+        3091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d803593-1189-402d-9218-6cdb7342f011",
+       "type": "whitespace",
+       "value": "...",
+       "textRange": [
+        3091,
+        3094
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " нерадянськими небесами рідного міста...",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "26d999fe-30d0-4da9-b978-2d6314d4f439",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3094,
+      3095
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " До відламку Великої Матері Ольги Дучимінської, що знай ширяє собі над вільними, нерадянськими небесами рідного міста...",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Уверх До бабусі Олі До княгині Ольги До відламку Великої Матері Ольги Дучимінської, що знай ширяє собі над вільними, нерадянськими небесами рідного міста...",
+ "concept": "SYNTAX"
+}

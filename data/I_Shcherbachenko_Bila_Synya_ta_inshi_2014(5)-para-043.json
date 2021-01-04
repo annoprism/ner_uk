@@ -1,0 +1,219 @@
+{
+ "id": "6820a7bb-6674-4e78-a45a-8e9ed20f03f7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fe088105-ed3c-481c-b99e-749bde2c37ae",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2218ffe3-bfc1-4841-a802-6856b16eca07",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3fa15b8b-3379-455c-aa3e-6f18bbc8677c",
+       "type": "word",
+       "value": "А",
+       "textRange": [
+        4986,
+        4987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36cbf07c-a058-4b19-a7ab-1144faacda52",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4987,
+        4988
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c797329-a33d-460f-bd52-4040a59cfc9b",
+       "type": "word",
+       "value": "ти",
+       "textRange": [
+        4988,
+        4990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6b325ef3-725a-4658-b1b7-29158a4b7ce1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4990,
+        4991
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40124377-4f80-4fc5-8f04-d0cc17aed91d",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        4991,
+        4994
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c2b9252-3d3a-4a17-b120-4ea980e41608",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4994,
+        4995
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c10f9734-b5f6-4e44-baca-137db9b104ea",
+       "type": "word",
+       "value": "знаєш",
+       "textRange": [
+        4995,
+        5000
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "А ти вже знаєш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8fa9440e-6158-4e2a-a6d4-f2205ea1daff",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5000,
+      5001
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a11c1f5d-bd94-4890-a10b-4653e0fe187f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "273fd54e-266a-40da-9010-0dfffd7c0bf9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5001,
+        5002
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5a1f7551-f3a0-440f-8a65-048827325bf9",
+       "type": "word",
+       "value": "хто",
+       "textRange": [
+        5002,
+        5005
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d4369a81-5ff0-4d28-9563-e8c090f85a8e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5005,
+        5006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "761eeb70-efa9-430e-bd64-c0af5ea3776b",
+       "type": "word",
+       "value": "він",
+       "textRange": [
+        5006,
+        5009
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8f109ae-4d73-469e-8c38-82751d0762d7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5009,
+        5010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98ed408c-d68d-4bf0-8d23-5997c91280b8",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        5010,
+        5011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3b435c8-eb44-47f4-8a61-fc806e7d5072",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5011,
+        5012
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "373b7f94-2c8b-426a-b8a5-60aebbce849f",
+         "type": "word",
+         "value": "Смугастик",
+         "textRange": [
+          5012,
+          5021
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "aa73a3f6-41a9-44a4-ac78-494a54960a91",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " хто він — Смугастик",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a70b0f25-dc91-4e18-8de1-b353a685f9ed",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      5021,
+      5022
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6252a2fb-5034-43dc-a819-e368dec7cc24",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5022,
+      5023
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "А ти вже знаєш, хто він — Смугастик?",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "А ти вже знаєш, хто він — Смугастик?",
+ "concept": "SYNTAX"
+}

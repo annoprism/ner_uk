@@ -1,0 +1,667 @@
+{
+ "id": "23ee3cf0-448c-46de-8659-fbda23b8bf2d",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "fed09903-1f3e-4052-826b-2fdfd8c37876",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "38e33372-2c01-4af5-9b9b-4d016e35db36",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "439677a1-2c65-47c2-830d-16111ba60a07",
+       "type": "word",
+       "value": "Переможні",
+       "textRange": [
+        0,
+        9
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "33f91713-30e8-4b18-925c-cbe0280f7755",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9,
+        10
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4939a386-895a-417a-9bd2-964f614d3ae1",
+       "type": "word",
+       "value": "битви",
+       "textRange": [
+        10,
+        15
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b217740f-7a96-453f-a9a4-fa3d01a4b2cb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        15,
+        16
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab02e587-3c5d-44c7-ada9-d541bc3f9599",
+       "type": "word",
+       "value": "війська",
+       "textRange": [
+        16,
+        23
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "288c4718-068d-40f0-aeae-0cbad5e4a6f4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        23,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "cb28b512-bf92-4c59-84e7-09ea640a7afe",
+         "type": "word",
+         "value": "Богдана",
+         "textRange": [
+          24,
+          31
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "7c6bf937-322e-4a9e-97c6-30f83c72b8e5",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          31,
+          32
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "38c35095-35c5-4f22-a4e1-901b913d7a80",
+         "type": "word",
+         "value": "Хмельницького",
+         "textRange": [
+          32,
+          45
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "aeb8e4c2-b73b-486b-94d0-dceaf760dcff",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "abaf3731-2e75-446b-9f58-1f2a3c6f5b63",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        45,
+        46
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4a4adaa-e96f-49c1-a353-cd1124cf5587",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        46,
+        47
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "62c7a169-3711-496e-b1f4-b04ff964e49a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        47,
+        48
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1fc8f41-e3c8-4942-a78b-d037d707fc21",
+       "type": "word",
+       "value": "національно",
+       "textRange": [
+        48,
+        59
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06c5fc46-edf5-4bdd-a2f9-e3d11c89c5c1",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        59,
+        60
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f544233d-a3c6-4b7e-8c43-0adcbf6d9ab6",
+       "type": "word",
+       "value": "визвольній",
+       "textRange": [
+        60,
+        70
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7d3594f-cb0e-4721-8cf3-430284b0c88c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        70,
+        71
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5aa61f62-cce2-4649-9397-9484999d9130",
+       "type": "word",
+       "value": "боротьбі",
+       "textRange": [
+        71,
+        79
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f5dda27e-9d81-40dc-ab32-b06f58d41e4d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        79,
+        80
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c465256d-36ef-4b98-8794-56067359b0f4",
+       "type": "word",
+       "value": "українського",
+       "textRange": [
+        80,
+        92
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2dcd0481-5589-47de-a689-816def1486dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        92,
+        93
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da2ed2b7-9282-408d-b33d-42ae0269b7b3",
+       "type": "word",
+       "value": "народу",
+       "textRange": [
+        93,
+        99
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ffa01718-ce07-44b3-b95c-27dadc8c7d6f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        99,
+        100
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "716ea990-746a-43b2-923a-9b6204db3965",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        100,
+        101
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cb4b94b9-ac15-4289-90d7-7bc8051d70d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        101,
+        102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "41d100a5-a073-415a-882f-02cc011f308c",
+       "type": "word",
+       "value": "XVII",
+       "textRange": [
+        102,
+        106
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da67aa0d-0e70-4e7a-a038-cf1afb9f2538",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        106,
+        107
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9a9dcd88-2785-4d77-aaa9-b3b786c8e3df",
+       "type": "word",
+       "value": "ст",
+       "textRange": [
+        107,
+        109
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Переможні битви війська Богдана Хмельницького у національно-визвольній боротьбі українського народу в XVII ст",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "19d27d00-d5d1-4211-83a0-8ba4238e5eae",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      109,
+      110
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Переможні битви війська Богдана Хмельницького у національно-визвольній боротьбі українського народу в XVII ст",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "9d4b846a-cad1-4aa7-9791-c8d4e9ebf809",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "0c2849d7-d028-4378-97ba-1e6d3f0b972e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3d56e4dd-b54d-460b-99e5-7763bf7333b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        110,
+        111
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a4ef92d-4a4f-47d9-a241-66a31d326720",
+       "type": "word",
+       "value": "Визвольну",
+       "textRange": [
+        111,
+        120
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9886c078-73f5-43df-a329-664b68f8fd78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        120,
+        121
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45ac326c-bae0-48c2-ab05-81b7b4a94ba4",
+       "type": "word",
+       "value": "війну",
+       "textRange": [
+        121,
+        126
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05783071-c06d-4de8-93d3-fe52c65b093b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        126,
+        127
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fbaa900b-accf-4dc3-acfb-55f4f2aa1261",
+       "type": "word",
+       "value": "українського",
+       "textRange": [
+        127,
+        139
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e391e37e-e699-489e-8b0f-67d10e60e90f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        139,
+        140
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67f7dd73-ac73-44c8-8ba0-a64e3d465a8e",
+       "type": "word",
+       "value": "народу",
+       "textRange": [
+        140,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fec74cb6-9a6e-448c-a705-188bae043a62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        146,
+        147
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1a46cc11-1767-4c22-a10b-f7b14650b434",
+       "type": "word",
+       "value": "проти",
+       "textRange": [
+        147,
+        152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91405811-5eeb-4af4-a453-c343c61ca77f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        152,
+        153
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6617b129-645b-426d-bf44-834719d6582f",
+       "type": "word",
+       "value": "панування",
+       "textRange": [
+        153,
+        162
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "65839e1d-c0bc-4472-8fca-33429dc39190",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        162,
+        163
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "ef97b526-fed4-4403-b18f-4334d66be3a4",
+         "type": "word",
+         "value": "Польщі",
+         "textRange": [
+          163,
+          169
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ffb0fd1e-cf69-4a26-8b90-bbb6f84a3376",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "fd543a22-e2cd-40d2-af48-4d15efa0b3d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        169,
+        170
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82a50e8a-0930-4e63-821e-a9b53a353808",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        170,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d9a6cad4-9b0d-4082-8727-167e5cd9bc2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        171,
+        172
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5ec242f-a396-4c88-8b56-cc50465fba08",
+       "type": "word",
+       "value": "XVII",
+       "textRange": [
+        172,
+        176
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10237f6c-5272-4a08-92bb-6c492782e8c3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        176,
+        177
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2ffe04f-bf58-47c4-8821-89ab5383d39c",
+       "type": "word",
+       "value": "ст",
+       "textRange": [
+        177,
+        179
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Визвольну війну українського народу проти панування Польщі в XVII ст",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "604877d9-cafc-48a2-b715-d7f4e539e38d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      179,
+      180
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Визвольну війну українського народу проти панування Польщі в XVII ст",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "60c8a46e-7d64-4d4d-970a-4cd0de3ee373",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "fc76a6a9-8b29-4933-9a27-96b1924d1481",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6e077a86-be98-4443-ab4f-8a22de37e580",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        180,
+        181
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfea79ad-d5e1-42d3-bfa5-e8405f785d43",
+       "type": "word",
+       "value": "очолив",
+       "textRange": [
+        181,
+        187
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa5a527c-fbd4-47fd-9a42-1fc1de8817f7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        187,
+        188
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a50dc43a-9d34-4ccf-b9dd-827eb03d415e",
+       "type": "word",
+       "value": "гетьман",
+       "textRange": [
+        188,
+        195
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f95ba59-b8db-4bff-bf02-f48591d072ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        195,
+        196
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "acbb0d98-002d-441a-8b1e-2f5f15f1b32f",
+         "type": "word",
+         "value": "Богдан",
+         "textRange": [
+          196,
+          202
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1e41f531-d83a-4739-b36d-1af550ddcdc2",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          202,
+          203
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "0f89cb7d-cc42-4176-8aa5-1aafdc9f7c0e",
+         "type": "word",
+         "value": "Хмельницький",
+         "textRange": [
+          203,
+          215
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "ea033654-bbd4-40c5-a7bb-d0f9561b3746",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " очолив гетьман Богдан Хмельницький",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7fb5443d-e390-41e4-bf98-f99c06dea16f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      215,
+      216
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "29d82d5d-c18e-4f49-9eae-8a356257c4ad",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      216,
+      217
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " очолив гетьман Богдан Хмельницький.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Переможні битви війська Богдана Хмельницького у національно-визвольній боротьбі українського народу в XVII ст Визвольну війну українського народу проти панування Польщі в XVII ст очолив гетьман Богдан Хмельницький.",
+ "concept": "SYNTAX"
+}

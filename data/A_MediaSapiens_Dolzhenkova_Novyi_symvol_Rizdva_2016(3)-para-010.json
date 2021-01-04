@@ -1,0 +1,1397 @@
+{
+ "id": "ff305179-9107-474a-ae2a-9b9b4fc62aa7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "cf0ab073-fb93-4400-a78e-2a20f0c50534",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "7a6fe787-b488-4907-b748-a1c1153cc3ba",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e67788f9-4fe9-4cd6-ae13-918753239402",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2232,
+        2233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "edfca50f-2bf2-46b8-b750-c1f3c4730c6c",
+         "type": "word",
+         "value": "Щедрик",
+         "textRange": [
+          2233,
+          2239
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "2a6699fe-3c2c-405c-a2c1-a7d17effb537",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "f66942cf-01de-4630-ac5b-cc4c0598fc90",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2239,
+        2240
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7c08bb3-eb4b-43ac-a493-0340af8196a0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2240,
+        2241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2aab240c-e4d9-47f2-a298-80803e3e97a8",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2241,
+        2242
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "31d65e62-cb60-47f8-8bc7-aea3d187675f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2242,
+        2243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "4170dc4f-d119-47ac-ac10-fca620949385",
+         "type": "word",
+         "value": "Софійському",
+         "textRange": [
+          2243,
+          2254
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "82cd51da-2ba8-43d6-b0b9-4667857a23f4",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2254,
+          2255
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5f598a63-6790-4855-b4ae-43436a8ac3b5",
+         "type": "word",
+         "value": "соборі",
+         "textRange": [
+          2255,
+          2261
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "00f99add-83bc-47c3-9413-4779e3d815e9",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "«Щедрик» у Софійському соборі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f40f5f6e-d97b-4247-9af0-9802a0d37bcd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2261,
+      2262
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f16f0009-5930-4510-9eb6-b91bcccc35f9",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a79dae3c-1bd6-4790-a82f-b860225881eb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2262,
+        2263
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0f23af3-7afd-4bff-be5e-1eec623f7738",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        2263,
+        2265
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c0d713-6584-4529-9b46-9662b482fa45",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2265,
+        2266
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6c00dc7-ff84-441f-9b52-5202ca82d4ba",
+       "type": "word",
+       "value": "тлі",
+       "textRange": [
+        2266,
+        2269
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72849c5c-e924-450e-b4d0-f9effcbce82c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2269,
+        2270
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e10ebef4-7fa6-4de1-a7ec-e2b207e0378a",
+       "type": "word",
+       "value": "грізної",
+       "textRange": [
+        2270,
+        2277
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "00878e09-5556-4e5f-9e1e-7143daf53e31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2277,
+        2278
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "c17da6b1-08b9-402d-9660-dcc00f552e83",
+         "type": "word",
+         "value": "Оранти",
+         "textRange": [
+          2278,
+          2284
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "d7e6d6bb-4205-4c44-aab7-7b8d356519df",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          2284,
+          2285
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "91883fc4-92b0-466f-8f39-befcd2f63f9e",
+         "type": "word",
+         "value": "захисниці",
+         "textRange": [
+          2285,
+          2294
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1020c97b-9855-47f7-bce5-35d52de06606",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " на тлі грізної Оранти-захисниці",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1c1212e2-bbb5-402b-a86e-4d78ed5911b3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2294,
+      2295
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fdef4e88-acde-4ef5-8f06-8d97a2490952",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "736496ea-78f7-4155-ba30-9c58c1ce15b4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2295,
+        2296
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c72b3c0-e411-4937-904f-1c2fa1b42635",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2296,
+        2297
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1118041-6ec9-49f5-a331-5383c9e86505",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2297,
+        2298
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ec2332df-001e-476f-8866-3124815c1cf0",
+       "type": "word",
+       "value": "просто",
+       "textRange": [
+        2298,
+        2304
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7f5836c9-a9e0-4a40-9f03-0ea78bf0f702",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2304,
+        2305
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "56f5d720-fc26-46ea-84bd-ca913aac7d84",
+       "type": "word",
+       "value": "шедевр",
+       "textRange": [
+        2305,
+        2311
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0327c5b6-fbf2-479e-8507-9e3672353257",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2311,
+        2312
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "016ca186-e25d-45a3-ab6e-14a18898a876",
+       "type": "word",
+       "value": "із",
+       "textRange": [
+        2312,
+        2314
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d239008f-7144-40e2-b91e-52926ab2da07",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2314,
+        2315
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "05c63ab5-45b5-438d-af81-df743a283240",
+       "type": "word",
+       "value": "усіх",
+       "textRange": [
+        2315,
+        2319
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f22a46f-8259-497f-8540-7613d4d5847b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2319,
+        2320
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f330d3f-00f5-4050-af47-0956532c1226",
+       "type": "word",
+       "value": "поглядів",
+       "textRange": [
+        2320,
+        2328
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " – просто шедевр із усіх поглядів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "951c3a68-16f4-4a71-ae74-fd68822d8129",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2328,
+      2329
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "«Щедрик» у Софійському соборі, на тлі грізної Оранти-захисниці, – просто шедевр із усіх поглядів",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8a716cba-803e-45b4-a74c-4e27217c2b41",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "53c538fe-7ac3-4a02-b92d-7f31d392cb09",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7334e880-b67c-4c29-9571-43c20b7c0dbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2329,
+        2330
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7fbeb266-e04a-4cd6-b8c2-91aee488ca89",
+       "type": "word",
+       "value": "Музичного",
+       "textRange": [
+        2330,
+        2339
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Музичного",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aacc4885-7726-44c5-8bc5-6b2891726cf3",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2339,
+      2340
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "64219aa5-c940-4645-b519-640b54c03b85",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d20882eb-a2f2-493e-bf3e-294114968910",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2340,
+        2341
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c20216d5-9a47-4311-9a7e-b93347b6a9dd",
+       "type": "word",
+       "value": "виконавського",
+       "textRange": [
+        2341,
+        2354
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " виконавського",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "abfe3a31-88e2-4dcb-bab0-0a2e4b88dc7b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2354,
+      2355
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fc9fcd51-22a5-4807-969a-5f102e28049d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "38c544f9-a268-4881-a81f-f43f9046384e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2355,
+        2356
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e2502aa6-523f-49d2-9d70-45c53f0f4337",
+       "type": "word",
+       "value": "сценічного",
+       "textRange": [
+        2356,
+        2366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a157bd25-9919-4f72-9b47-de8cae1e18bb",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        2366,
+        2367
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "59dc6344-c2d9-4bc0-81b3-2d167211f4e3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2367,
+        2368
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e8284ef-bdd0-4a65-868d-cff25cf022f8",
+       "type": "word",
+       "value": "Джазове",
+       "textRange": [
+        2368,
+        2375
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "83a4ac93-bc5f-47e0-be96-1bc4a8c61dc6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2375,
+        2376
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2fa038d-673c-4aff-a904-a61c6805a943",
+       "type": "word",
+       "value": "аранжування",
+       "textRange": [
+        2376,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96f66401-eb7c-4c3f-a8e8-3f5a35b81a55",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2387,
+        2388
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d24d116-9bae-4cc3-89f0-1bd03506b6e4",
+       "type": "word",
+       "value": "найвідомішої",
+       "textRange": [
+        2388,
+        2400
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbc3d674-8ae7-4f9f-bd8f-17dd7aeb8051",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2400,
+        2401
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d87dd1c1-0fcc-4402-a4b3-43d479dec499",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2401,
+        2402
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0f939bf8-2eac-4df4-acc9-7242d455291d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2402,
+        2403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ec4020e-6cad-4cf5-b651-b0177cb7c3ce",
+       "type": "word",
+       "value": "світі",
+       "textRange": [
+        2403,
+        2408
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1faaaa1d-c253-494b-8af6-08cccb773952",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2408,
+        2409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd4cdcff-4049-4536-b2a9-d9906b948c2c",
+       "type": "word",
+       "value": "колядки",
+       "textRange": [
+        2409,
+        2416
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38b186f9-a982-4ab2-9d1b-a3127617bd0e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2416,
+        2417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60a54b1a-90fe-40c4-a075-d09cb1a59610",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2417,
+        2418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "217b02f3-547c-4a89-996b-2a693f1b9345",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2418,
+        2419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "567dc161-b2db-49ff-aba3-a181f66c3a20",
+       "type": "word",
+       "value": "обробці",
+       "textRange": [
+        2419,
+        2426
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "70d2b12c-8dab-4b87-a85e-46624032f78f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2426,
+        2427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "b31588d9-67d1-4922-b997-d83b7466f5ca",
+         "type": "word",
+         "value": "Миколи",
+         "textRange": [
+          2427,
+          2433
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "96116015-1234-47ae-9428-f141a973e039",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2433,
+          2434
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "b3625ac7-a23c-4cee-8aa9-7740473205a1",
+         "type": "word",
+         "value": "Леонтовича",
+         "textRange": [
+          2434,
+          2444
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "16e82d3a-d04f-4d06-a6ce-e3974f712e51",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "d0b3a281-0ac8-468c-aed1-a9ddc103092d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2444,
+        2445
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4aac385-90a1-4ee9-94ad-71bf24dddde3",
+       "type": "word",
+       "value": "продемонструвало",
+       "textRange": [
+        2445,
+        2461
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ab62014-8488-45e4-bdee-2a61e6f7e3c4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2461,
+        2462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0b0d0f2-91c2-43be-b45a-b34b4615ee87",
+       "type": "word",
+       "value": "невичерпність",
+       "textRange": [
+        2462,
+        2475
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26f024bf-5e36-4bf9-8513-4a437dd64231",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2475,
+        2476
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "237c842d-7a15-42db-97d2-c0d9e3c3cf02",
+       "type": "word",
+       "value": "цієї",
+       "textRange": [
+        2476,
+        2480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fac3654b-e41a-4e0c-9cec-d3cba8e39965",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2480,
+        2481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d20ad18e-b5ef-4a23-9db6-da6c44f6e2db",
+       "type": "word",
+       "value": "мелодії",
+       "textRange": [
+        2481,
+        2488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9600d5f3-54ac-4ac6-923e-be2b6471c2fa",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2488,
+        2489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "309fb038-2749-4e93-93bf-187f57770209",
+       "type": "word",
+       "value": "для",
+       "textRange": [
+        2489,
+        2492
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a21c100e-a6c7-4fd1-9abb-ccb11987a5ed",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2492,
+        2493
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2e597c18-3051-4aa7-bf77-0701034c5c75",
+       "type": "word",
+       "value": "інтерпретацій",
+       "textRange": [
+        2493,
+        2506
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " сценічного… Джазове аранжування найвідомішої в світі колядки в обробці Миколи Леонтовича продемонструвало невичерпність цієї мелодії для інтерпретацій",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e4e9d678-4141-473d-ba5c-20058addfe96",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2506,
+      2507
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Музичного, виконавського, сценічного… Джазове аранжування найвідомішої в світі колядки в обробці Миколи Леонтовича продемонструвало невичерпність цієї мелодії для інтерпретацій",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2100d0e4-bf3c-4a04-85cc-fa2489cd7100",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a89f9ea3-6751-4d8b-b43c-3fa919ef1e04",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f2590b64-1abb-443d-a66c-b6ae1657fc88",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2507,
+        2508
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e271aaaf-314f-48d6-ab8f-168b4a754beb",
+       "type": "word",
+       "value": "І",
+       "textRange": [
+        2508,
+        2509
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab6d7f12-6ef2-4a92-8431-c4ef1a5a554a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2509,
+        2510
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "abfb7834-72c0-4247-97c5-b0f55e0734c2",
+         "type": "word",
+         "value": "Тіна",
+         "textRange": [
+          2510,
+          2514
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "e61af94e-1c63-4f35-a5fd-093020e0295d",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2514,
+          2515
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8eca520e-0ac3-4ad4-95bb-f8851817b50b",
+         "type": "word",
+         "value": "Кароль",
+         "textRange": [
+          2515,
+          2521
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "cb5beb17-89e2-4a02-888c-1e09981ef10a",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "36627676-3816-40f1-a014-10c4f0f751db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2521,
+        2522
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d15c1504-d029-4fb5-a1eb-78d1e0695b10",
+       "type": "word",
+       "value": "своїм",
+       "textRange": [
+        2522,
+        2527
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " І Тіна Кароль своїм",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "09222a58-be3c-4bf2-aeef-85d74e05cc68",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2527,
+      2528
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2dcc833-5613-4014-9257-3e42a66c0ecd",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "9e4ef62f-bc4b-467f-b30f-cb1fcffd5d09",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2528,
+        2529
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f78fa541-79e0-4426-9834-930865800a66",
+       "type": "word",
+       "value": "повторюся",
+       "textRange": [
+        2529,
+        2538
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " повторюся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d03783e7-746c-4a4e-a003-233a61a4b22f",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2538,
+      2539
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d4e8ca17-7081-43b3-970c-a54e3f77c003",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f75a8ef9-5809-4158-9913-5c5331e646b9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2539,
+        2540
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2fa9078-9003-4f59-a5d7-c58b9375d3c9",
+       "type": "word",
+       "value": "бездоганним",
+       "textRange": [
+        2540,
+        2551
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "113c8d9b-2fe6-45d7-a40d-c193af943241",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2551,
+        2552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b8158b4-5975-43fe-b672-df0bb4d05afb",
+       "type": "word",
+       "value": "виконанням",
+       "textRange": [
+        2552,
+        2562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44e4075d-c28c-48fc-8c40-d872ecc3855c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2562,
+        2563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a061a22-7eb1-48d3-b47a-7568feb91217",
+       "type": "word",
+       "value": "її",
+       "textRange": [
+        2563,
+        2565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4382884f-89e8-4017-b836-07da85f00980",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2565,
+        2566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a1b8abb-63e1-4f19-91f3-16799a5f9263",
+       "type": "word",
+       "value": "лише",
+       "textRange": [
+        2566,
+        2570
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7767506a-feae-431a-a899-f4318a756a54",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2570,
+        2571
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bc35d3ec-3b61-41d2-a307-48401a8d9a82",
+       "type": "word",
+       "value": "підтвердила",
+       "textRange": [
+        2571,
+        2582
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c4ad595a-2cff-4b76-b913-7fd3580d761d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2582,
+        2583
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e025f4ed-2a64-4aa5-9708-13249e2a050e",
+       "type": "word",
+       "value": "те",
+       "textRange": [
+        2583,
+        2585
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " бездоганним виконанням її лише підтвердила те",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "41b933f9-86ca-4b06-aeca-8f3062034c10",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2585,
+      2586
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b70878c3-9ca5-4ecb-ae65-b92d37a2d637",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b5b97931-eb43-4044-b2bd-af66813d010b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2586,
+        2587
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f0cdbea2-d38c-41d9-873d-7caa6fe99661",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2587,
+        2589
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "614ff2ef-1b43-46f7-8d77-159ba5fae34d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2589,
+        2590
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b81c7b4-81d7-4c4f-87b6-187f2057d8b5",
+       "type": "word",
+       "value": "вперто",
+       "textRange": [
+        2590,
+        2596
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "38d8d3a4-4034-4d4e-9e31-5f9ced962192",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2596,
+        2597
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2be1c0e2-12c2-4120-a601-262c14fd269d",
+       "type": "word",
+       "value": "намагаються",
+       "textRange": [
+        2597,
+        2608
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8ec98a3-2273-4ad2-b207-09c611779cbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2608,
+        2609
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae785332-e72f-496d-8ead-6b4e69901eb8",
+       "type": "word",
+       "value": "довести",
+       "textRange": [
+        2609,
+        2616
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "112cc327-d5d1-499c-88b6-0fb26bf86c30",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2616,
+        2617
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "688070f0-5ae9-44c8-8574-265540dfbdb4",
+       "type": "word",
+       "value": "шанувальники",
+       "textRange": [
+        2617,
+        2629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e218a6f-e320-4603-95a5-7eec640d3bb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2629,
+        2630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "af7db996-afcb-40a2-aebc-b81d4f9e31a8",
+       "type": "word",
+       "value": "української",
+       "textRange": [
+        2630,
+        2641
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7b72903-e96f-4478-b409-76f07a6dacae",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2641,
+        2642
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7cdd129e-b739-4713-bbe7-e1362bc5674a",
+       "type": "word",
+       "value": "пісні",
+       "textRange": [
+        2642,
+        2647
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e92ec29-8bc6-4f04-803c-4a8806b18fbd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2647,
+        2648
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "103f97fc-b5ea-48fd-99a4-f81ab1217844",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        2648,
+        2649
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4af44fd2-a54b-43bc-a14a-5fa86a9fa21a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2649,
+        2650
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b886df5-27a6-44bc-849d-f3a0ec408724",
+       "type": "word",
+       "value": "вона",
+       "textRange": [
+        2650,
+        2654
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34da4a67-bd61-4d89-a72c-19ca69a2da2b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2654,
+        2655
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df01e4c3-9c26-476e-824a-e499586b4db9",
+       "type": "word",
+       "value": "просто",
+       "textRange": [
+        2655,
+        2661
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6559bcc6-5be9-4793-8cc1-478d645fb50f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2661,
+        2662
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3baf9e61-05da-4ac2-a838-f6aaa1ba93a1",
+       "type": "word",
+       "value": "незглибима",
+       "textRange": [
+        2662,
+        2672
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що вперто намагаються довести шанувальники української пісні – вона просто незглибима",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "37087a5f-9812-4cc9-b1e8-096cfca75932",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2672,
+      2673
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f376f78d-22dd-4d4a-9bc8-a8f2cfb2b4e0",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2673,
+      2674
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " І Тіна Кароль своїм, повторюся, бездоганним виконанням її лише підтвердила те, що вперто намагаються довести шанувальники української пісні – вона просто незглибима.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "«Щедрик» у Софійському соборі, на тлі грізної Оранти-захисниці, – просто шедевр із усіх поглядів Музичного, виконавського, сценічного… Джазове аранжування найвідомішої в світі колядки в обробці Миколи Леонтовича продемонструвало невичерпність цієї мелодії для інтерпретацій І Тіна Кароль своїм, повторюся, бездоганним виконанням її лише підтвердила те, що вперто намагаються довести шанувальники української пісні – вона просто незглибима.",
+ "concept": "SYNTAX"
+}

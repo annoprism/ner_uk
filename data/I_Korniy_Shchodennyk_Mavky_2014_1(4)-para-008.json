@@ -1,0 +1,178 @@
+{
+ "id": "794ed7ff-538a-4ae2-856b-a5e859506fa7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "620f0aec-ce7c-4020-ae0c-b1156f069e16",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f53bc7a3-f981-457d-bd74-4c1b103b2ed6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6558545a-9f9c-4808-956f-a981cbe227fd",
+       "type": "word",
+       "value": "Хіба",
+       "textRange": [
+        3534,
+        3538
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e0dd614-133c-4ede-aebf-d5ad168d7af7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3538,
+        3539
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2f71e8fe-ebb4-46a5-a534-1255ff2b06fe",
+       "type": "word",
+       "value": "об’їдеш",
+       "textRange": [
+        3539,
+        3546
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Хіба об’їдеш",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "16159486-90e2-4b35-913c-1a9563c70f38",
+     "type": "punctuation",
+     "value": "?",
+     "textRange": [
+      3546,
+      3547
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Хіба об’їдеш",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "adbd717a-ae4b-4622-8ac6-e23dfa905586",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "b843d11e-d811-4507-b1fa-a0fabb3834d6",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "df0fd2b4-0531-4ce9-8b98-4dbe07af9b2a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3547,
+        3548
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf3ae1ac-8b67-4e34-9cf3-40f9089c6e50",
+       "type": "word",
+       "value": "Хоча",
+       "textRange": [
+        3548,
+        3552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d19db9c-e5ff-415f-829c-a655207ca367",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3552,
+        3553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6f2a5152-3d36-4c97-86f7-40077ae4f214",
+       "type": "word",
+       "value": "можна",
+       "textRange": [
+        3553,
+        3558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db92e171-1ada-4454-a365-1406efc0e5db",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3558,
+        3559
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cebbc92a-2182-41bb-b509-c13954d63dfe",
+       "type": "word",
+       "value": "спробувати",
+       "textRange": [
+        3559,
+        3569
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хоча можна спробувати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c7a7a33-252a-4d25-be5d-0bf13738cb40",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3569,
+      3570
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хоча можна спробувати",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "eeed8033-232a-45de-ba25-82c7cc8324bf",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "d5e8fa06-2697-4093-9435-50d160ddd3f8",
+     "type": "whitespace",
+     "value": " ",
+     "textRange": [
+      3570,
+      3571
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8ebf0f2f-b6f4-4b1a-9e08-a9b4c2670950",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3571,
+      3572
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " ",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Хіба об’їдеш Хоча можна спробувати ",
+ "concept": "SYNTAX"
+}

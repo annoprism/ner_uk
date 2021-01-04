@@ -1,0 +1,850 @@
+{
+ "id": "2c3bd6ba-702a-4146-9ee1-463240ac90e3",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "d5f83d10-d82f-48f6-8857-67a9fcb96778",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e07972b5-c2a3-4a38-8acf-91269a9609b5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c8110bbe-03b0-4119-a4d7-1296ad4d996b",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        5346,
+        5348
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "beafcdd9-b884-4fd5-a502-6aa0f30e64de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5348,
+        5349
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7d55e90-881d-40bb-bc8b-623479c8b603",
+       "type": "word",
+       "value": "той",
+       "textRange": [
+        5349,
+        5352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bbe0a0c2-f2d0-4ddc-94ed-8833cde9544f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5352,
+        5353
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39a86b8b-856d-48c3-8444-1faf823ba28d",
+       "type": "word",
+       "value": "тепер",
+       "textRange": [
+        5353,
+        5358
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "42c54cf4-4748-44c8-a615-1ed8dc426d17",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5358,
+        5359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "44595409-2180-4692-8f5c-0fcae469b984",
+         "type": "word",
+         "value": "Луцьк",
+         "textRange": [
+          5359,
+          5364
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "bf808d18-e7c0-44dd-96b9-337c09a50b2d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Не той тепер Луцьк",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3628ba99-bccb-4588-9837-439cf69da025",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      5364,
+      5365
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4c46f757-e500-4a20-b075-b6bcd64d9f45",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "53e57387-b33e-4e07-9233-d95a350b8394",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5365,
+        5366
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "74bd8575-91ca-488f-aa02-f4383ad2fb4e",
+         "type": "word",
+         "value": "Сапалаївка",
+         "textRange": [
+          5366,
+          5376
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "1664d92a-b08f-430c-b98d-2f957e505eeb",
+         "type": "word",
+         "value": "-",
+         "textRange": [
+          5376,
+          5377
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "bb2f8c44-3d6c-443f-91de-9084fc8c044a",
+         "type": "word",
+         "value": "річка",
+         "textRange": [
+          5377,
+          5382
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1d905d07-93c5-48ae-a9f6-10c306d17fe8",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "2d0e461c-896f-419b-8ab5-1a959a2266d8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5382,
+        5383
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ea81063-3a5a-47d7-a15b-3406b058992a",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5383,
+        5385
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07c1bb1f-3d98-4272-ac75-decee150122d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5385,
+        5386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a27546c3-ad06-474e-8046-ecd4af4bdd76",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        5386,
+        5388
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Сапалаївка-річка не та",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ee95fb8b-3fca-4a67-944d-a8656af07d25",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5388,
+      5389
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Не той тепер Луцьк, Сапалаївка-річка не та",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "cba896ca-c9d1-4847-a390-c8fa066b540b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e4064d60-f363-426b-b728-5851b43fca61",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a5315c44-ead9-48a5-b7d3-3ef52b66bbea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5389,
+        5390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9f1db4d5-088a-4952-8d4a-0612899145e5",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        5390,
+        5392
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8239baa-7f93-4636-83b7-b5405c621286",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5392,
+        5393
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "deec6115-d502-4097-bd46-9d7e77dbf4c9",
+       "type": "word",
+       "value": "проголосує",
+       "textRange": [
+        5393,
+        5403
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6060a750-33af-451c-9c00-80aafc077071",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5403,
+        5404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8f4e2f0d-146b-4499-8c20-e076cb000214",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        5404,
+        5406
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "11b5112b-7939-4881-8446-2437dbc66ebd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5406,
+        5407
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1dd32e51-02dc-40bd-bc65-655fc2020583",
+       "type": "word",
+       "value": "кандидатуру",
+       "textRange": [
+        5407,
+        5418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f38b841e-ad3a-4d85-b358-77ec96c67f3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5418,
+        5419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "a293e87c-3332-4238-98f2-74fc24310191",
+         "type": "word",
+         "value": "Пирожика",
+         "textRange": [
+          5419,
+          5427
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "df5ff03c-8e24-4ed7-85fe-25eb10bab418",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8de2c3f1-db2c-4bc6-9140-ec2c23f79639",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5427,
+        5428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "91d1a1c2-5396-4dd1-ba8e-81ea80052293",
+       "type": "number",
+       "value": "41",
+       "textRange": [
+        5428,
+        5430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "24b5f8a3-0385-4023-8095-8a0780c8e9fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5430,
+        5431
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8a0b0a63-08d9-4adf-84cb-1d8d3c956eab",
+       "type": "word",
+       "value": "депутат",
+       "textRange": [
+        5431,
+        5438
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Не проголосує за кандидатуру Пирожика 41 депутат",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "7ee9692f-d62a-4291-aa11-ab0a66cbd318",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5438,
+      5439
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Не проголосує за кандидатуру Пирожика 41 депутат",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "6ca5d1f5-d0ce-48fd-b5ca-d31edcb895c6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "f76f7d85-4183-46bc-9c46-a21bac23c60b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a5556d87-b53f-4b19-b299-1cc1f3ec918e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5439,
+        5440
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "781fb2c6-e131-45a4-9f77-96363a38fed7",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        5440,
+        5442
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ed9759a-ddc2-4f57-bd6d-712c9e429002",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5442,
+        5443
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f3854755-70b1-42bd-8b17-98512ada9eac",
+       "type": "word",
+       "value": "буде",
+       "textRange": [
+        5443,
+        5447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b28fd82-21a2-4ec0-ad65-9847a9b1810f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5447,
+        5448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0216e548-c507-48ad-87c7-47471b5227f9",
+       "type": "word",
+       "value": "тепер",
+       "textRange": [
+        5448,
+        5453
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "750ff4ed-b7bf-47f3-a345-5039090d4e23",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5453,
+        5454
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d2cee81a-f3dc-4bbf-9b98-f56983f69d89",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        5454,
+        5456
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7c1b7f2-38b7-4178-ab89-d26308b98278",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5456,
+        5457
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55c7d6fe-9903-4d74-b3bb-8e1abb1c2b04",
+       "type": "word",
+       "value": "вході",
+       "textRange": [
+        5457,
+        5462
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b26c4c5f-2712-4205-81ad-9d567e73c88c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5462,
+        5463
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a25273c0-91d5-43c4-85a3-e050610a2319",
+       "type": "word",
+       "value": "стояти",
+       "textRange": [
+        5463,
+        5469
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9aa43ca1-d08e-4b55-acf4-44f315158b1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5469,
+        5470
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "185e375c-34b4-42d1-b92a-89e3ca3d591d",
+         "type": "word",
+         "value": "Данильчук",
+         "textRange": [
+          5470,
+          5479
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "4f6e49d6-6f67-4f24-bbde-dd2f803b86d2",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "0779b464-e356-467d-a7e9-b0379ff195f3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5479,
+        5480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "422b71d9-a3a0-42d0-b0d6-d5b8acd12305",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        5480,
+        5481
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4213436f-b782-4179-8faf-98fd87540eea",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5481,
+        5482
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d31e608-55a3-43fc-a6b4-bda46da98f12",
+       "type": "word",
+       "value": "палкою",
+       "textRange": [
+        5482,
+        5488
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "55d2e0ec-7022-41b1-9395-a239fe849630",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5488,
+        5489
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d60983e-659e-40df-b6a7-207e96341a17",
+       "type": "word",
+       "value": "і",
+       "textRange": [
+        5489,
+        5490
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ebab8c7-5eb2-4f6c-8fb5-b7243c755f31",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5490,
+        5491
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40efa7a0-1650-4533-b918-5c03e8759ec6",
+       "type": "word",
+       "value": "казати",
+       "textRange": [
+        5491,
+        5497
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Не буде тепер на вході стояти Данильчук з палкою і казати",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8eb04d92-7dfe-4a55-a90b-436008ba9b9b",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      5497,
+      5498
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0ade2eeb-b5c4-4335-be57-bab0fa8fe68e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5b00bc3d-cbb0-4560-aa29-b1ad5b5228e6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5498,
+        5499
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "097a4630-1374-4f46-8cf2-869bab15d9a7",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        5499,
+        5500
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4c265866-9837-4843-b3d0-17ec93b7053c",
+       "type": "word",
+       "value": "Не",
+       "textRange": [
+        5500,
+        5502
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8563b8d-828e-4d08-88f3-8077e7ab4b28",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5502,
+        5503
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "520ec509-51c4-4ba2-81d3-b79d1a90d40c",
+       "type": "word",
+       "value": "проголосуєте",
+       "textRange": [
+        5503,
+        5515
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2396fc1-b8bb-47d0-ad9e-8103b4219444",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5515,
+        5516
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cbf00183-c2e4-4fa2-86c8-3c14133c7a5d",
+       "type": "whitespace",
+       "value": "–",
+       "textRange": [
+        5516,
+        5517
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "63dac1af-f430-4944-b53e-bde7bfb5f699",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5517,
+        5518
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "25e592a8-c7bb-4b06-94eb-ddfdaeb90a7d",
+       "type": "word",
+       "value": "ми",
+       "textRange": [
+        5518,
+        5520
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8bbd152-56ba-4567-9d4e-f40de8d3c66c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5520,
+        5521
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a1c631c8-dab4-4ffc-a553-8b4188e99518",
+       "type": "word",
+       "value": "вас",
+       "textRange": [
+        5521,
+        5524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e525faad-7ff3-4915-aa36-7ff03f55c5a4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5524,
+        5525
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d4ea137-90b5-40d7-8eb8-940307bcad63",
+       "type": "word",
+       "value": "звідси",
+       "textRange": [
+        5525,
+        5531
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f2e5ec4f-b104-43b2-81d3-a5386c21dba6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5531,
+        5532
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f26fbf13-505f-4134-a46f-207ee068d89d",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        5532,
+        5534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60b8d8b1-8b3d-49d9-91e3-04edbc734250",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        5534,
+        5535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58ebf3f5-1e04-4ebf-88f0-c40ab87abfbc",
+       "type": "word",
+       "value": "випустимо",
+       "textRange": [
+        5535,
+        5544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c80c3891-8d55-4a27-a8d8-f176f4d72493",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        5544,
+        5545
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " «Не проголосуєте – ми вас звідси не випустимо»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9b85bfde-948d-4ff6-b3f5-02d587c4c861",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      5545,
+      5546
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2d05688c-be9d-4d61-9f03-9b21ee7ce7ff",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      5546,
+      5547
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Не буде тепер на вході стояти Данильчук з палкою і казати: «Не проголосуєте – ми вас звідси не випустимо».",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Не той тепер Луцьк, Сапалаївка-річка не та Не проголосує за кандидатуру Пирожика 41 депутат Не буде тепер на вході стояти Данильчук з палкою і казати: «Не проголосуєте – ми вас звідси не випустимо».",
+ "concept": "SYNTAX"
+}

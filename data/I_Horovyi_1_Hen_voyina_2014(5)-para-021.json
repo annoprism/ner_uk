@@ -1,0 +1,219 @@
+{
+ "id": "1715542d-c8b0-4918-bf02-b23ac99b1e57",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "43abff96-0b7d-406a-a30e-6b2748415d91",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "800fc443-3736-4ccb-969a-c8bd0789f972",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d02afd4b-6f33-4968-b0d3-a33dd0d6a710",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4533,
+        4534
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b6159000-5b17-4965-afa6-7d2cd00ae03b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4534,
+        4535
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "86ceebf5-bb2e-4013-a64e-a83188e34d70",
+       "type": "word",
+       "value": "Кордон",
+       "textRange": [
+        4535,
+        4541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "72e2acd7-ae43-46db-b60b-757d6f51659e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4541,
+        4542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cfed8719-79bc-42e8-9772-f2d545b46a63",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        4542,
+        4544
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "452b081e-dd4b-4d08-9bbf-3f8c48c96ccc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4544,
+        4545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "736d7b75-e155-44a9-b7a7-c9df81d15754",
+       "type": "word",
+       "value": "надійному",
+       "textRange": [
+        4545,
+        4554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d155d2d-0b6f-41d8-a4d6-2bde3dbfdac3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4554,
+        4555
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4f1dd1a3-a7db-4723-8c9e-c4ea549e0b29",
+       "type": "word",
+       "value": "замку",
+       "textRange": [
+        4555,
+        4560
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Кордон на надійному замку",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "34e3fabd-0d42-4f5f-8834-5c707ff80d1b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4560,
+      4561
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bdd54107-8d32-4c53-bd96-3c9f64433c63",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "68c3a29d-01fc-4ef2-9bf0-81f981663e06",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4561,
+        4562
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2cc328e-1582-4a7b-98ef-6ac73eeca994",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        4562,
+        4563
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8ba750c4-f39f-4419-9bc8-20f7e47c9f9c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4563,
+        4564
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e36b7dee-4cf0-4281-8f91-9af07e212078",
+       "type": "word",
+       "value": "реготнув",
+       "textRange": [
+        4564,
+        4572
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f1eca67c-6640-4e00-83e9-c20a2eeccea7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4572,
+        4573
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "d2ad132f-0453-4a67-99f4-5d53d423fbd3",
+         "type": "word",
+         "value": "Михайлов",
+         "textRange": [
+          4573,
+          4581
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "0f9e5626-e409-41db-8565-e1d32ee9a75d",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — реготнув Михайлов",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8fce4db-0041-49af-aaee-44b87e02a76d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4581,
+      4582
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "06c603d2-b845-4037-8a62-92a71d8591e3",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4582,
+      4583
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Кордон на надійному замку, — реготнув Михайлов.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Кордон на надійному замку, — реготнув Михайлов.",
+ "concept": "SYNTAX"
+}

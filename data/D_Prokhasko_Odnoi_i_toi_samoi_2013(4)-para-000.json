@@ -1,0 +1,160 @@
+{
+ "id": "5e66be26-2d5e-455a-906b-74e53bb20293",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "8a922afb-226f-42c3-912e-b3766e94b705",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "441321fe-33bc-4129-9961-d937d3c77d06",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "528b44e1-0a88-4925-9678-4c5b6988a6f0",
+       "type": "word",
+       "value": "Багато",
+       "textRange": [
+        0,
+        6
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "154578df-7b8d-4fd6-bf0d-05d60cdc5db3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6,
+        7
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "92ab2171-563d-48ff-b3d5-77cf77223ead",
+       "type": "word",
+       "value": "всякого",
+       "textRange": [
+        7,
+        14
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f72d0f0-0fa5-445c-a918-caaa6e485dbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        14,
+        15
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e590883-c01a-4031-9085-b736db1ffd84",
+       "type": "word",
+       "value": "різного",
+       "textRange": [
+        15,
+        22
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Багато всякого різного",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "10872cee-e5ec-4a60-bec8-72aabb35789f",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      22,
+      23
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Багато всякого різного",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "8c32d07d-1744-4d96-9bf5-a684d2018f2b",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "04605d52-ba57-42e8-92ea-c063233d6a15",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "df34bc8e-f873-4a9a-a401-1726d97ef45f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        23,
+        24
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "998d74ab-4f90-4f74-b4af-817e85bbdf32",
+       "type": "word",
+       "value": "Бесаги",
+       "textRange": [
+        24,
+        30
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8bda68a1-93ae-44fb-a157-56d42340cf1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        30,
+        31
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c3807c1-32be-4a41-a894-4d2ed3beba63",
+       "type": "word",
+       "value": "переобтяжені",
+       "textRange": [
+        31,
+        43
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Бесаги переобтяжені",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d86b6ad9-ec68-4549-a785-9b5e246d48bf",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      43,
+      44
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "71ff3ebb-1844-4a5e-8cce-53711407f861",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      44,
+      45
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Бесаги переобтяжені.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Багато всякого різного Бесаги переобтяжені.",
+ "concept": "SYNTAX"
+}

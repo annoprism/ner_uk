@@ -1,0 +1,303 @@
+{
+ "id": "17a829fc-55ae-4c44-8acd-b4a7a175c23f",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "68a467e0-e42e-4ed5-afeb-89c9cb1590a6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "514438d2-d447-4909-9e5e-dfcece0a65ea",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "c9243bb4-793c-4705-987e-c232ccb993a0",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        10892,
+        10893
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f4f5b974-b89a-41d4-a17f-c668d6401142",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10893,
+        10894
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e9b2ee83-789b-4c44-9337-a75190670f02",
+       "type": "word",
+       "value": "Ні",
+       "textRange": [
+        10894,
+        10896
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "— Ні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1ee2c911-978c-40ca-9bac-4dbe307012af",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10896,
+      10897
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2c28a544-f7b7-4515-b16a-c00fdf551156",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a768cabb-955a-4cc5-88ea-fd477259743f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10897,
+        10898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b20575fa-3b76-4f4c-9b4e-7e935ef285d6",
+       "type": "word",
+       "value": "вже",
+       "textRange": [
+        10898,
+        10901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a60ee0ad-e206-4952-b3fd-245d9f9ca661",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10901,
+        10902
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "048b9919-2ddb-4c4d-ac26-16b976f7eda3",
+       "type": "word",
+       "value": "пізно",
+       "textRange": [
+        10902,
+        10907
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вже пізно",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dc9d6ade-41ce-4108-80ba-42ad93c91cd2",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      10907,
+      10908
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dd464cb7-f913-4f62-8cba-aac034ee2163",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "a9b6db73-68ab-4f8b-9e66-fab6a3ab998f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10908,
+        10909
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3e4158ea-20ad-486c-bb0e-69bda45e4511",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        10909,
+        10910
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98b9df38-dbac-4c52-8bd5-997df16895b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10910,
+        10911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7bb8577b-10f2-484e-9a4e-d4a94cde8b93",
+       "type": "word",
+       "value": "відказав",
+       "textRange": [
+        10911,
+        10919
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0d7d49cd-6e0f-4d0d-8cbd-468052baa95b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10919,
+        10920
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0cacc77-7f99-42f8-8b58-612d7ce49d05",
+       "type": "word",
+       "value": "дід",
+       "textRange": [
+        10920,
+        10923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "847a6934-1953-42e5-89c2-6706074aa894",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10923,
+        10924
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "0f9871d9-83f4-430f-a7e6-751ac3fd30db",
+         "type": "word",
+         "value": "Олег",
+         "textRange": [
+          10924,
+          10928
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "988543be-762d-43ab-bc2b-f100170958b3",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " — відказав дід Олег",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0d9444e8-9f70-4a20-a8fb-9451cb3cf99b",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10928,
+      10929
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "— Ні, вже пізно, — відказав дід Олег",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "a6047338-c2db-4d36-9d1e-c118a8f23ecc",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "a35e9824-bb5e-4cb1-8c5d-14e3b0e0119a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e9377d52-1a8d-46fa-ac8e-cdf1c0a9dd5f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10929,
+        10930
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12cfb3cc-7507-4f87-a378-c058965b96d2",
+       "type": "whitespace",
+       "value": "—",
+       "textRange": [
+        10930,
+        10931
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6c872c57-d1b4-4f82-9785-05ccb04d7300",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        10931,
+        10932
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d8cf68e3-8a29-4038-847f-4683c602ca1d",
+       "type": "word",
+       "value": "Лягаймо",
+       "textRange": [
+        10932,
+        10939
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " — Лягаймо",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d8516396-cfaf-4c82-a2e9-25634db94321",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      10939,
+      10940
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9bcc91b9-ccf5-48f5-a23d-4056ccbb5b53",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      10940,
+      10941
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " — Лягаймо.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "— Ні, вже пізно, — відказав дід Олег — Лягаймо.",
+ "concept": "SYNTAX"
+}

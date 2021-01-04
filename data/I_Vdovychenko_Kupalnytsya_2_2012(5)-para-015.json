@@ -1,0 +1,651 @@
+{
+ "id": "e893d4de-4d90-4620-8d15-27f3342b0876",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "c9c62bef-487d-4cee-b874-e6b13db9659e",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "5d6e3bc8-6204-40b9-913a-c1493c66614a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "8dafa0cd-a1e1-4d97-9b40-58bb06984a28",
+         "type": "word",
+         "value": "Кароліна",
+         "textRange": [
+          3524,
+          3532
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "f02cf10d-ea89-43cc-9b07-b9f5528e24e5",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "ed687b5f-c4ba-4c08-8087-66be6b3ce7fd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3532,
+        3533
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "012f949f-5295-4ad9-98c0-92877f625fa9",
+       "type": "word",
+       "value": "розгорне",
+       "textRange": [
+        3533,
+        3541
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c440d36a-4a89-4eaf-850f-757b4e6c6550",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3541,
+        3542
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "df2b12b0-ab64-458f-970c-e85cb2ffd130",
+       "type": "word",
+       "value": "скріплений",
+       "textRange": [
+        3542,
+        3552
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d93279bf-b1e0-494d-809a-65bb903ce3c6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3552,
+        3553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "49b12053-e28e-4426-a492-db43d52fbe02",
+       "type": "word",
+       "value": "стос",
+       "textRange": [
+        3553,
+        3557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6db83feb-63aa-41c8-89e2-5aca62be2c7f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3557,
+        3558
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bfa279ba-05f6-4edb-96cc-c11eed697aee",
+       "type": "word",
+       "value": "паперів",
+       "textRange": [
+        3558,
+        3565
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Кароліна розгорне скріплений стос паперів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "1a1ae7e5-ab4d-476d-a6d0-ea3664a7fde8",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      3565,
+      3566
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c18c12dd-0f25-411d-b6f6-9ff0b55d7fcf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "189e6d3a-aa28-4bd8-b638-d921c2d1d10c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3566,
+        3567
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "90362bd4-9c91-4621-8b58-34aaab5ad4b6",
+       "type": "word",
+       "value": "прочитає",
+       "textRange": [
+        3567,
+        3575
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5071109-e0ec-403e-9798-ad146549da71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3575,
+        3576
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "54f6c78f-673b-49bc-ab9b-ac8283f31998",
+       "type": "word",
+       "value": "навмання",
+       "textRange": [
+        3576,
+        3584
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6e14c235-0114-417a-8800-e060810927a6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3584,
+        3585
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "15fadc7d-ad20-4961-b0bd-5d734267b2b7",
+       "type": "word",
+       "value": "кілька",
+       "textRange": [
+        3585,
+        3591
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d4ce6b8-8f69-4ba0-b296-f12d4d0965d4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3591,
+        3592
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7b20b5a1-fd7c-4663-91e6-03e41653b6ba",
+       "type": "word",
+       "value": "абзаців",
+       "textRange": [
+        3592,
+        3599
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " прочитає навмання кілька абзаців",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e62ed7f6-c86f-4a98-9a24-11be2141f1fb",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3599,
+      3600
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Кароліна розгорне скріплений стос паперів, прочитає навмання кілька абзаців",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "88d4a340-d281-47f1-a23c-8be3d1f7a1b4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "25207286-4d47-4be7-ab68-d9bc0b7bb5ca",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "d70ba284-4106-4013-848a-7ea32a3842b5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3600,
+        3601
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "35df8264-24b0-461e-84fb-e11ca4ed9370",
+       "type": "word",
+       "value": "Звичка",
+       "textRange": [
+        3601,
+        3607
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "377aa305-b535-4a11-af9f-0d471608fd8f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3607,
+        3608
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "34598927-af65-41b0-927d-a450856c6d76",
+       "type": "word",
+       "value": "починати",
+       "textRange": [
+        3608,
+        3616
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "202a8a7a-66f7-45ad-b9e9-99283abe5d71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3616,
+        3617
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eb840fa8-06d2-4af0-80dc-2aebad312a8c",
+       "type": "word",
+       "value": "знайомство",
+       "textRange": [
+        3617,
+        3627
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b7e3547-dc0f-4209-a5d0-84911f7e1dbb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3627,
+        3628
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77f632fb-209c-41a5-8b0d-50a7fd4cac30",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3628,
+        3629
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "64cfd0e0-c741-4a2b-97f8-468619b56d22",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3629,
+        3630
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "781132e2-32e5-4e38-80d0-d79bf13539a5",
+       "type": "word",
+       "value": "новим",
+       "textRange": [
+        3630,
+        3635
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d7a46a8-d866-46a2-a8de-1ea98beb92de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3635,
+        3636
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "da4ae5c9-38d5-4006-9a63-38b1414bbf4a",
+       "type": "word",
+       "value": "текстом",
+       "textRange": [
+        3636,
+        3643
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "06171606-1628-409e-a784-1286e455746c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3643,
+        3644
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7ac4b70f-2c9a-4353-b8b5-7e2faefacfc7",
+       "type": "word",
+       "value": "з",
+       "textRange": [
+        3644,
+        3645
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4b6d11d0-72fb-4e4b-bfbd-94b62648b4a9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3645,
+        3646
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c9b4d66-5f4f-4730-9fbe-ff67c4408517",
+       "type": "word",
+       "value": "випадкового",
+       "textRange": [
+        3646,
+        3657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1c8cb804-4fb7-43dd-b079-da087b64fe92",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3657,
+        3658
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "290822d8-b8eb-4c76-b0f2-88f8b5654243",
+       "type": "word",
+       "value": "уривка",
+       "textRange": [
+        3658,
+        3664
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ab8f410c-6d91-4d9f-9991-bdf7a25651ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3664,
+        3665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2455334-3039-4254-848a-cb2fc26c12de",
+       "type": "word",
+       "value": "залишиться",
+       "textRange": [
+        3665,
+        3675
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58512492-8928-4432-ac9f-974cd85892b8",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3675,
+        3676
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "28870c59-1b92-4d5b-b9b7-71833930f5b1",
+       "type": "word",
+       "value": "незмінною",
+       "textRange": [
+        3676,
+        3685
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Звичка починати знайомство з новим текстом з випадкового уривка залишиться незмінною",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e95e39ba-8f02-403e-8e29-3680abdd6da6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3685,
+      3686
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Звичка починати знайомство з новим текстом з випадкового уривка залишиться незмінною",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "bfc3ede3-7729-45bd-8cca-94237cad0937",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "16c7248b-9099-40fb-b865-3cfe32456c8b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cf8cbb00-c1aa-42d9-995f-373590f2f45e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3686,
+        3687
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f170c36-c3fd-4daf-a443-38d599d3c21c",
+       "type": "word",
+       "value": "Тоді",
+       "textRange": [
+        3687,
+        3691
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "17dbf3fb-bf8e-4c5b-9caa-e036d67f39ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3691,
+        3692
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e002e289-f256-44de-ad65-237e3e6a5f8f",
+       "type": "word",
+       "value": "почне",
+       "textRange": [
+        3692,
+        3697
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4e64003f-d13f-4fd3-b1ab-42e427a07e50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3697,
+        3698
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b2099b23-2898-46d8-8538-325fd48be570",
+       "type": "word",
+       "value": "спочатку",
+       "textRange": [
+        3698,
+        3706
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e3a2386-64b6-446e-b24e-3a3ab0064c1e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3706,
+        3707
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "735a3e15-f7a3-4a45-a0cc-b3915974b812",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        3707,
+        3708
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f449a86a-d5f1-4ec7-9f26-e45b5fbb7991",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3708,
+        3709
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dacd5137-e761-4951-b395-26c2b2f1ae4b",
+       "type": "word",
+       "value": "зануриться",
+       "textRange": [
+        3709,
+        3719
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "08fcb38a-98b3-4b1a-a8ff-dab430b72a5a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3719,
+        3720
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "69d6eff3-1c72-4e56-9de1-40944aa9122b",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        3720,
+        3721
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "962db99a-fe01-40e1-be5f-a781115b3383",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        3721,
+        3722
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f3256a3-370b-436f-b78f-5c78cbcd7f84",
+       "type": "word",
+       "value": "читання",
+       "textRange": [
+        3722,
+        3729
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Тоді почне спочатку й зануриться у читання",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a087ba80-6a64-4385-8bc2-2ae219d0e2fe",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      3729,
+      3730
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2b99ec80-6d5e-4a83-8153-623ec2969344",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      3730,
+      3731
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Тоді почне спочатку й зануриться у читання.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Кароліна розгорне скріплений стос паперів, прочитає навмання кілька абзаців Звичка починати знайомство з новим текстом з випадкового уривка залишиться незмінною Тоді почне спочатку й зануриться у читання.",
+ "concept": "SYNTAX"
+}

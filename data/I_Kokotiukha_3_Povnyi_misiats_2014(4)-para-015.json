@@ -1,0 +1,159 @@
+{
+ "id": "31aa9f24-7597-4c5f-a0b3-909cc03d9ab4",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "7fd19a6c-fba2-46a9-a50a-3b3138789354",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "2c1d06ed-c986-4166-8e31-3c4bb9dd7d9d",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "622e8d72-b3c7-48de-860c-ef0dbf02ff8e",
+       "type": "word",
+       "value": "Хтозна",
+       "textRange": [
+        2351,
+        2357
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Хтозна",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "47ab6468-70b1-44f9-9384-ac1491d375b9",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2357,
+      2358
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c283082b-1b33-48b6-9b3d-c28f09a2c4ad",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "3c5f0bae-8b64-436e-9f5b-ecd196240db2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2358,
+        2359
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58a99ef5-5056-4af0-925c-bc2791ff7e51",
+       "type": "word",
+       "value": "може",
+       "textRange": [
+        2359,
+        2363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c0590ef2-f102-43a9-9713-b6d50d706dd9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2363,
+        2364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "7f9305ba-cf46-42ce-ba77-6db3ffaf6906",
+         "type": "word",
+         "value": "Люба",
+         "textRange": [
+          2364,
+          2368
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "89ccfc43-699c-4451-9c5b-3060edec116c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "232f926d-d96a-489f-b816-ef9786624214",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2368,
+        2369
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3379d99b-f036-464f-be8f-01595cd8815b",
+       "type": "word",
+       "value": "й",
+       "textRange": [
+        2369,
+        2370
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e28886dc-8037-4ab6-85d3-5b4b91744a71",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2370,
+        2371
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "98c6f5aa-9e1f-4893-8953-cd6f2df2dfad",
+       "type": "word",
+       "value": "кричала",
+       "textRange": [
+        2371,
+        2378
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " може Люба й кричала",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "0e6451b8-40ee-4341-93b5-7d84c8e31512",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2378,
+      2379
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "177db076-154f-4734-984b-704cc8ba5bbf",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2379,
+      2380
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Хтозна, може Люба й кричала.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Хтозна, може Люба й кричала.",
+ "concept": "SYNTAX"
+}

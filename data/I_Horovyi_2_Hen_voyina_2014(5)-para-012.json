@@ -1,0 +1,217 @@
+{
+ "id": "2ee91f49-4881-4065-9f0e-80792415a3b2",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "36ad9d81-be6e-45aa-95bb-7b5d162b27a4",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "c294bf6b-0f26-4980-abae-9e0a000866ff",
+     "type": "subSentence",
+     "childs": [
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "7f2dbff3-7825-45dd-8da2-6469c963f022",
+         "type": "word",
+         "value": "Марічка",
+         "textRange": [
+          2379,
+          2386
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "3a33b882-eb70-436c-8ddf-bc122ef2971d",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "04e11919-ebab-47c8-b072-180b6ed38eb5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2386,
+        2387
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c94ac07-7075-4143-833a-676883720bc7",
+       "type": "word",
+       "value": "хитнула",
+       "textRange": [
+        2387,
+        2394
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f674e6db-318d-4b6e-99db-ff1d1d7a2539",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2394,
+        2395
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "26ba6d3c-8b2e-45ed-8443-1f01414e10e7",
+       "type": "word",
+       "value": "головою",
+       "textRange": [
+        2395,
+        2402
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Марічка хитнула головою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e1b19c3c-79c3-48f7-bee5-dfcc63fc92ae",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2402,
+      2403
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d42ec677-541b-4180-8b63-24a22b246dee",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "5fa022ba-1a53-47c7-a340-fe92e43028c9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2403,
+        2404
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0ee8a1cd-6814-4a45-a3eb-a99e34cb1aba",
+       "type": "word",
+       "value": "показуючи",
+       "textRange": [
+        2404,
+        2413
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " показуючи",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a95bf287-0e81-40cb-a46d-589742a6a110",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2413,
+      2414
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cdceb4b3-6406-411c-abe5-72645726679a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "96c5a24d-306c-43bf-aaa0-88c615eda1dc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2414,
+        2415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ff1de7a-13e4-4803-8f19-ee2b74fa67fc",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        2415,
+        2417
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9ca4756c-823a-4014-a652-2f660acb29e2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2417,
+        2418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e3d12b5-5b55-45ff-8c0f-292c4f67825a",
+       "type": "word",
+       "value": "нікого",
+       "textRange": [
+        2418,
+        2424
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "76c9a6a3-3e88-44c3-af01-b9deac27b391",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2424,
+        2425
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa0eecf4-bdf4-45e1-8d0d-66994ba9e071",
+       "type": "word",
+       "value": "немає",
+       "textRange": [
+        2425,
+        2430
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що нікого немає",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ecd17de0-4227-4928-b6b3-474b372084a2",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2430,
+      2431
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c1921c24-03fb-4795-ac69-7d657c717a98",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2431,
+      2432
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Марічка хитнула головою, показуючи, що нікого немає.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Марічка хитнула головою, показуючи, що нікого немає.",
+ "concept": "SYNTAX"
+}

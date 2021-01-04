@@ -1,0 +1,121 @@
+{
+ "id": "b17db35e-73b2-4699-b3fe-5cd751f88f85",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "1a4ab0de-9733-4677-920f-84fff896d0cb",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e2cc4151-5cbb-47b1-ba62-c7f33d2fb9b3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "efd9e860-ef49-412a-82b2-d310b979767e",
+       "type": "word",
+       "value": "Адреса",
+       "textRange": [
+        2129,
+        2135
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6ab209fe-bbc3-4eee-a37d-2572d0c6e87c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2135,
+        2136
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "225d1e89-aaf4-4cbd-bf68-97c2af49c669",
+       "type": "word",
+       "value": "книгарні",
+       "textRange": [
+        2136,
+        2144
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "dcc12c1b-ecc2-41e6-99c4-7fafa51a6fbc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2144,
+        2145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b7fbf6d1-d374-4fc1-8a76-bd312f6ff311",
+       "type": "whitespace",
+       "value": "«",
+       "textRange": [
+        2145,
+        2146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "6e5d3c9d-13ef-464c-9ac4-617ce524a695",
+         "type": "word",
+         "value": "Є",
+         "textRange": [
+          2146,
+          2147
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b568c1d7-b1e1-4522-8504-ecdf229e8947",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "79485c93-24ad-40de-906c-8af1bfdf498d",
+       "type": "whitespace",
+       "value": "»",
+       "textRange": [
+        2147,
+        2148
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Адреса книгарні «Є»",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9a85671e-20b2-47e1-b493-4caf9d628ec9",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      2148,
+      2149
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d513a50-92fc-4704-8820-2b8d7ea52f8d",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2149,
+      2150
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Адреса книгарні «Є»:",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Адреса книгарні «Є»:",
+ "concept": "SYNTAX"
+}

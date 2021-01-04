@@ -1,0 +1,180 @@
+{
+ "id": "d63820b5-dd20-4999-b3c3-64605815fb49",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3d8ab39a-bff3-42a3-b421-4de459a66c8d",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "9c4a5123-c37b-4239-a0d0-23d58c86a9c3",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "98126aac-d880-4d8b-8753-7a2c1d8c3d20",
+       "type": "word",
+       "value": "Пес",
+       "textRange": [
+        9653,
+        9656
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ded99caa-a1b6-4e6d-b61a-b7b8b6c0a8af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9656,
+        9657
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "8e4fbd49-10f2-4c53-9c2d-76e9758ab514",
+       "type": "word",
+       "value": "загарчав",
+       "textRange": [
+        9657,
+        9665
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0eb0096e-4cbe-49bd-9608-cfd800f6037f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9665,
+        9666
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "047f9b79-a817-4e3d-af54-4699f252c612",
+       "type": "word",
+       "value": "голосніше",
+       "textRange": [
+        9666,
+        9675
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "Пес загарчав голосніше",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6237b171-e3a7-448e-9607-2873986846b6",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      9675,
+      9676
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Пес загарчав голосніше",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "1a9d88f3-ab37-4f85-9b78-cfc97dd62434",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e642da85-92de-4d96-9172-e5c9e8dda0c0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4b83c223-8c59-46d5-bd55-ea81f3936609",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9676,
+        9677
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a76a7605-53a7-4e57-a719-23d1014d68ba",
+       "type": "word",
+       "value": "Хлопець",
+       "textRange": [
+        9677,
+        9684
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6bde3307-bbb2-4796-8a16-37a4aa3a4148",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9684,
+        9685
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ecccbb9f-11bb-4a79-bdf5-acef0eb8e253",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        9685,
+        9687
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4225108e-896e-4e6f-beb9-ebafe93869bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        9687,
+        9688
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "39af5329-2073-49fe-839e-f04f4acec157",
+       "type": "word",
+       "value": "ворухнувся",
+       "textRange": [
+        9688,
+        9698
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Хлопець не ворухнувся",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f73779d0-9c63-41f8-8260-58ffbabcbda4",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      9698,
+      9699
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "96fe7b97-05da-400a-82ae-ccf64b872613",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      9699,
+      9700
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Хлопець не ворухнувся.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Пес загарчав голосніше Хлопець не ворухнувся.",
+ "concept": "SYNTAX"
+}

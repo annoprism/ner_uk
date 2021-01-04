@@ -1,0 +1,441 @@
+{
+ "id": "a4b71b41-2cec-4a1b-bb31-0add64cca3e1",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "41333f49-98e2-4d1d-b962-9b3aa5114f59",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "e80ae7b9-2f28-4e37-9ee8-ef6f3045b2d0",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "749962c9-6b70-4417-b4ac-a85a39f48613",
+       "type": "number",
+       "value": "1",
+       "textRange": [
+        139,
+        140
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "1",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "aa18dcec-35e7-419f-adaf-ad749f586d79",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      140,
+      141
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "1",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "2af2c864-6add-4df1-9e07-9c3041fcd17c",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "bb1cef00-8029-4a11-b3f4-0900b0a0214e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b7f255b6-d788-4135-b7c3-ed67fd127b13",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        141,
+        142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fae49315-f10d-4c1f-8f60-9551f389e5c8",
+       "type": "word",
+       "value": "Цей",
+       "textRange": [
+        142,
+        145
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3504ca0-86ed-4a33-adab-21850d10aab1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        145,
+        146
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "0ab798b7-5450-428c-9241-177de33e0e2b",
+         "type": "word",
+         "value": "Закон",
+         "textRange": [
+          146,
+          151
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1b5c4636-5a87-407d-bc20-94143c3938e0",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "8e02ce91-13b0-438f-96d1-0aa906d5acd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        151,
+        152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "deafc785-a0f5-4517-b140-5c20cfd95b48",
+       "type": "word",
+       "value": "регулює",
+       "textRange": [
+        152,
+        159
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "396e42c1-61cb-47f5-84b4-bb35ed46e503",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        159,
+        160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7618efd6-ec10-4f58-87b9-7a84cce19dd2",
+       "type": "word",
+       "value": "відносини",
+       "textRange": [
+        160,
+        169
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Цей Закон регулює відносини",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "881f8529-18a0-448c-a92e-167aa0cb6f2a",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      169,
+      170
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5ad848dd-d280-4414-aad5-d14cf7b522ef",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "ea0551bc-c0b1-4e7b-9cf4-30c551ade50d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        170,
+        171
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b8ceae93-b8d4-4813-9dc1-02f93a1dd559",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        171,
+        173
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4fb371d6-d79e-413f-abc9-21d452692242",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        173,
+        174
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12bc0f77-35ef-4376-8b40-562cbce24a4b",
+       "type": "word",
+       "value": "виникають",
+       "textRange": [
+        174,
+        183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "412735de-753b-4425-8311-775149f21a4d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        183,
+        184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c17adf-eead-46ed-ac9e-d386b12bf67b",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        184,
+        185
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a6f97290-634e-4afd-9bfc-1ed1ff70cd9e",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        185,
+        186
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4d2600ef-6134-4853-a32d-0392ef201cd6",
+       "type": "word",
+       "value": "процесі",
+       "textRange": [
+        186,
+        193
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "029834cb-3626-45c8-aafa-2dc68a3e6adc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        193,
+        194
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "44585c19-338a-4c0d-86d7-89975254c054",
+       "type": "word",
+       "value": "добровільного",
+       "textRange": [
+        194,
+        207
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "fa296fa4-edaf-43d2-aedb-467a83630c76",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        207,
+        208
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14f1c91d-8ae8-44b9-be20-5a23521d2987",
+       "type": "word",
+       "value": "об’єднання",
+       "textRange": [
+        208,
+        218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afbd0680-c2e7-4e3a-9e0a-aeabf01842b3",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        218,
+        219
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84de6640-2289-487a-b8cd-5180435f06f7",
+       "type": "word",
+       "value": "територіальних",
+       "textRange": [
+        219,
+        233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "07f93eae-6446-4b1c-a6af-52c9a7bc6233",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        233,
+        234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "acb5acb8-da08-494d-b2ca-bef546070124",
+       "type": "word",
+       "value": "громад",
+       "textRange": [
+        234,
+        240
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "37160e90-e69a-43a2-a6df-7d531f80588d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        240,
+        241
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6725cbc-5bf4-4402-9552-5b40fd8dd361",
+       "type": "word",
+       "value": "сіл",
+       "textRange": [
+        241,
+        244
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що виникають у процесі добровільного об’єднання територіальних громад сіл",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f0a5c645-aeb3-400f-b988-7e7f3a1d5931",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      244,
+      245
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "92824920-6e4a-41c8-819d-bef143619b7e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1c4d04ff-cd24-40c7-a0b3-62dcdc821fe5",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        245,
+        246
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c92e2976-3c73-4fdd-9e7f-51b7b6396aa9",
+       "type": "word",
+       "value": "селищ",
+       "textRange": [
+        246,
+        251
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " селищ",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9fd868a3-6cc7-4fcc-a945-fab6e01dd42b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      251,
+      252
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "cccabec0-b0f6-4c44-8ab2-b6cffa41737e",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4971b931-1092-4ecb-9e2d-7f3c06fc32ef",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        252,
+        253
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9c1441a0-4487-4d86-aed6-85e4e9b3ecca",
+       "type": "word",
+       "value": "міст",
+       "textRange": [
+        253,
+        257
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " міст",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "587a1422-261d-4d1e-ae0a-85858da6cc7d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      257,
+      258
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "c83ffc00-e18a-458c-89c0-c3229d718494",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      258,
+      259
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Цей Закон регулює відносини, що виникають у процесі добровільного об’єднання територіальних громад сіл, селищ, міст.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "1 Цей Закон регулює відносини, що виникають у процесі добровільного об’єднання територіальних громад сіл, селищ, міст.",
+ "concept": "SYNTAX"
+}

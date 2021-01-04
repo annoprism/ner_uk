@@ -1,0 +1,882 @@
+{
+ "id": "550975d6-8668-4e98-a920-08c790dbb805",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "3fded567-0887-4a03-8e96-657c22d4839f",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "573b4e22-0158-43e2-a7a7-0ac4c4874085",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "b840646a-e28d-48f9-8f81-cc3f0d008d4b",
+       "type": "word",
+       "value": "У",
+       "textRange": [
+        2325,
+        2326
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "13b9da65-0243-4006-9cd7-8c35334d174b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2326,
+        2327
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "60293ddd-d972-43a7-9754-6f8aa9b556ba",
+       "type": "word",
+       "value": "деяких",
+       "textRange": [
+        2327,
+        2333
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c58908f2-9272-488c-a3cb-8852bfbae1f0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2333,
+        2334
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "0077b8b3-8194-4075-8ec5-414cbde9c061",
+       "type": "word",
+       "value": "грибів",
+       "textRange": [
+        2334,
+        2340
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "У деяких грибів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "81fef267-176e-4630-96f3-2f5011d662be",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2340,
+      2341
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "100b5e87-193b-4ca5-aa60-ef67607fd06a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6eef58f9-7bd0-4816-a0c3-2f18cb406058",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2341,
+        2342
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2c015e1b-0365-44b7-9798-d9caf78c0cab",
+       "type": "word",
+       "value": "наприклад",
+       "textRange": [
+        2342,
+        2351
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7ba6aa1-36c1-49be-b848-f5f9a5f163de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2351,
+        2352
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "540395dc-c74e-43b9-890c-d2c6bea7a109",
+       "type": "word",
+       "value": "печіночниці",
+       "textRange": [
+        2352,
+        2363
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9b6abea3-c995-46b8-a394-18f302ef4b99",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2363,
+        2364
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "04c30277-1eae-4a01-8627-861f7b53e512",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        2364,
+        2365
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "7ead455a-a368-4a2b-850e-a208cddaa78e",
+         "type": "word",
+         "value": "Fistulina",
+         "textRange": [
+          2365,
+          2374
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "8bb7bdfa-346f-46b3-897d-5b27bdc29535",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2374,
+          2375
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "953810d6-d9ef-4455-8258-87d45bfd6a34",
+         "type": "word",
+         "value": "hepatica",
+         "textRange": [
+          2375,
+          2383
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b26bffaf-5d94-4d7a-8301-6aeba8d4fa12",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "686f6841-1492-4bb2-9607-b89521b8059a",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        2383,
+        2384
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наприклад печіночниці (Fistulina hepatica)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "d0fbf10f-4ada-4432-8812-8928a469b878",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2384,
+      2385
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "72828631-fd53-432a-bdb2-2dacd40b7aae",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e7f8b8ce-ea12-4833-886f-2b10727ae357",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2385,
+        2386
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c3275e56-ccc3-48ee-8c62-704d073d5d9e",
+       "type": "word",
+       "value": "вони",
+       "textRange": [
+        2386,
+        2390
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f8d4e093-e2d1-4bb3-8d7b-d0afb66310ce",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2390,
+        2391
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12b92e89-63bc-448b-8ad2-fdfa5d6f0e58",
+       "type": "word",
+       "value": "легко",
+       "textRange": [
+        2391,
+        2396
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db5563c3-d406-4e36-b879-5c1332604cb1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2396,
+        2397
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7aa8b4e8-6c49-401f-b5eb-ce176ee75896",
+       "type": "word",
+       "value": "відділяються",
+       "textRange": [
+        2397,
+        2409
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b758bc7d-98cf-44f6-a5a0-c31e150b1898",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2409,
+        2410
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "228e0042-26b5-4d54-a61f-aa5234d1038b",
+       "type": "word",
+       "value": "одна",
+       "textRange": [
+        2410,
+        2414
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8285b63-a391-4b9e-889c-f736fdc2e351",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2414,
+        2415
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1e95bda4-b485-4b98-abbf-34836d0d6369",
+       "type": "word",
+       "value": "від",
+       "textRange": [
+        2415,
+        2418
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8705abb-e3bf-420f-99d4-862e1a412da7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2418,
+        2419
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1f6ac107-8447-4f07-b787-9c66bcc4a00f",
+       "type": "word",
+       "value": "одної",
+       "textRange": [
+        2419,
+        2424
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " вони легко відділяються одна від одної",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b166e702-b2b1-4db9-aaec-c7594b513691",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2424,
+      2425
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "5d21152f-d5e5-4f0f-8448-3e39e34594a1",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "cb39f11d-ebd5-4123-bc3b-39b285882ea6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2425,
+        2426
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "67175a5b-afe0-47a5-93b0-27bdeb72b745",
+       "type": "word",
+       "value": "а",
+       "textRange": [
+        2426,
+        2427
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "09c7f4fb-85a7-4303-bb67-49141c09d4ee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2427,
+        2428
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5b617955-5ae1-4dab-86b9-1a6c2b8484e1",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        2428,
+        2429
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4a671b9a-79d9-4d4d-8041-7d9d7a73551d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2429,
+        2430
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eef997e9-0447-45d9-8531-9c3b5c5e8626",
+       "type": "word",
+       "value": "інших",
+       "textRange": [
+        2430,
+        2435
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " а в інших",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "4072de0c-f5a7-4730-a1c9-d3ddb7940697",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2435,
+      2436
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "28cde578-d3da-482f-a9fa-1a71b78bf9c5",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "87479e55-980f-46bd-8526-4eaf10f9ca50",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2436,
+        2437
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "448e03b0-78ad-43fa-a2df-2d56b67875a8",
+       "type": "word",
+       "value": "наприклад",
+       "textRange": [
+        2437,
+        2446
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "652000e1-5a15-4e48-9a59-a54cacb93c3d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2446,
+        2447
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "192370fb-4475-44a4-bf78-7cf49b146af0",
+       "type": "word",
+       "value": "у",
+       "textRange": [
+        2447,
+        2448
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "928bd1ba-52a4-4c90-9d61-ae357e774ce4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2448,
+        2449
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6657b5b2-06ef-4294-af3c-401f37f4d07c",
+       "type": "word",
+       "value": "боровиків",
+       "textRange": [
+        2449,
+        2458
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c7ed3a3b-3bc5-446e-8edd-7cf6ba37c447",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2458,
+        2459
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "363b8114-8e0c-402e-b213-66be94b976ac",
+       "type": "whitespace",
+       "value": "(",
+       "textRange": [
+        2459,
+        2460
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "MISC",
+       "childs": [
+        {
+         "id": "17253009-774e-46ae-8a99-45a5eb0d5bf4",
+         "type": "word",
+         "value": "Boletus",
+         "textRange": [
+          2460,
+          2467
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "65753f42-14e1-4271-ae3e-65afbbd79167",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          2467,
+          2468
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "91ed0372-60ef-4f01-8f04-93273a6c35b5",
+         "type": "word",
+         "value": "edulis",
+         "textRange": [
+          2468,
+          2474
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "131c2005-3c20-496e-a7ac-9a507048500c",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "13145e69-87e5-4ff2-8f9a-7aa6c96421a8",
+       "type": "whitespace",
+       "value": ")",
+       "textRange": [
+        2474,
+        2475
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " наприклад у боровиків (Boletus edulis)",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f77a1959-7146-42e1-8f39-72b6869534c7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2475,
+      2476
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "8ec9b9eb-202b-450e-9aff-628ab0515b21",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4b6faed1-e83a-47dd-9563-1c25c3b8425b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2476,
+        2477
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e1a52d91-79d0-43f0-98fb-a515e15c3d65",
+       "type": "word",
+       "value": "не",
+       "textRange": [
+        2477,
+        2479
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "02518d7d-2edf-4871-9922-da8cc3c91394",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2479,
+        2480
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6a0ba5c8-2a44-434a-809b-bd7b4bd9708c",
+       "type": "word",
+       "value": "відокремлюються",
+       "textRange": [
+        2480,
+        2495
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b4af2ec4-94e0-444e-932d-80dd60dc8148",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2495,
+        2496
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47d2fc31-8a86-4d37-a426-13e62658890e",
+       "type": "word",
+       "value": "взагалі",
+       "textRange": [
+        2496,
+        2503
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " не відокремлюються взагалі",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "52d95a1f-20cb-446f-bc1d-f6f4ac1c9b26",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2503,
+      2504
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "У деяких грибів, наприклад печіночниці (Fistulina hepatica), вони легко відділяються одна від одної, а в інших, наприклад у боровиків (Boletus edulis), не відокремлюються взагалі",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "5333b08c-3231-493a-88a4-1c51072a5405",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "661ff74f-d3d7-480a-b751-c7f4859cd399",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "2b99c19f-cef4-418d-9232-e7e36482c4dd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2504,
+        2505
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5ee41c1e-10e2-4760-832d-7df33b25cae0",
+       "type": "word",
+       "value": "Трубочки",
+       "textRange": [
+        2505,
+        2513
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d3b33ee9-a51b-491e-a5b0-f944cb0625e4",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2513,
+        2514
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "cf268bbc-95c4-49de-a18e-66b492e2d551",
+       "type": "word",
+       "value": "різняться",
+       "textRange": [
+        2514,
+        2523
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "476a4ef3-dfd8-4014-a638-71faf9b0a100",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2523,
+        2524
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58d8a4e2-f623-4efa-b59b-a7e8996346fc",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        2524,
+        2526
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "eea0f7bd-8483-4b69-86ab-08dddba172de",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2526,
+        2527
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f78af01a-2278-44a7-bc1a-3a0f1b595e28",
+       "type": "word",
+       "value": "висотою",
+       "textRange": [
+        2527,
+        2534
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Трубочки різняться за висотою",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "3fe3383a-34d9-497f-9a4e-aa53e9aae806",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      2534,
+      2535
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9326f966-5185-4528-9496-41a8c86d7235",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "e62ab51f-425e-42e9-9837-ad93682bd6af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2535,
+        2536
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9abcea63-a644-4be9-a8f4-ea94bda47b3f",
+       "type": "word",
+       "value": "розмірами",
+       "textRange": [
+        2536,
+        2545
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "12ad22e3-80b1-4931-8b62-9129e34c2967",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2545,
+        2546
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "16ce9f1a-b0c8-4c57-ae46-124ded6ef159",
+       "type": "word",
+       "value": "отворів",
+       "textRange": [
+        2546,
+        2553
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae2087a2-3ea1-48e0-ab73-87cd14e7d9f2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2553,
+        2554
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f794a50e-b1cd-4134-b324-c8d766e1758e",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        2554,
+        2556
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d164af9-453a-434d-a690-a7c75c713ce7",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2556,
+        2557
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d6be0874-3c91-4d30-86e9-b6c365ab1821",
+       "type": "word",
+       "value": "товщиною",
+       "textRange": [
+        2557,
+        2565
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "03f54741-8f08-4ae3-a7df-19e949208d7a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        2565,
+        2566
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "84a85fcf-8ac0-40f8-bc49-10b57002e416",
+       "type": "word",
+       "value": "стінок",
+       "textRange": [
+        2566,
+        2572
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " розмірами отворів та товщиною стінок",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "fb067955-d600-4a3f-a5b2-e3e582c9f09d",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      2572,
+      2573
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "71e6ef37-8651-4025-b71b-6e2c80a0b574",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      2573,
+      2574
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Трубочки різняться за висотою, розмірами отворів та товщиною стінок.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "У деяких грибів, наприклад печіночниці (Fistulina hepatica), вони легко відділяються одна від одної, а в інших, наприклад у боровиків (Boletus edulis), не відокремлюються взагалі Трубочки різняться за висотою, розмірами отворів та товщиною стінок.",
+ "concept": "SYNTAX"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "66724ba8-8c86-4844-befe-a88fc1a80eb5",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "6f18cd0c-92cb-48e9-a631-9d7e4bea71f6",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "41de43fb-3023-4151-b026-0bf67c67f0e8",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "eb187e7a-2cd0-4e7c-8135-9ae999fc81f0",
+       "type": "word",
+       "value": "-",
+       "textRange": [
+        4071,
+        4072
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2b4d60f4-f400-4e57-bfda-f8108c3b3067",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4072,
+        4073
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a5bdadda-6f95-41ca-a342-bb246b6e9b19",
+       "type": "word",
+       "value": "Це",
+       "textRange": [
+        4073,
+        4075
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94a70af9-a378-4e58-96eb-a8ed3a67465a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4075,
+        4076
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "4cca55a0-15e7-489d-8942-a913723bd5c6",
+       "type": "word",
+       "value": "тобі",
+       "textRange": [
+        4076,
+        4080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "78ec32af-1cd4-4cdc-a189-b4fee4dd2dcc",
+       "type": "whitespace",
+       "value": "…",
+       "textRange": [
+        4080,
+        4081
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d393f53d-521e-4982-bdf3-578de80a45bc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4081,
+        4082
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5d32587f-6330-4c31-8d70-f6c6637adc32",
+       "type": "word",
+       "value": "Зі",
+       "textRange": [
+        4082,
+        4084
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3f2dabc2-7cbb-474c-863c-0060577d34df",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4084,
+        4085
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c95ce7f1-e8a7-4034-8201-04bf73e67fb8",
+       "type": "word",
+       "value": "святом",
+       "textRange": [
+        4085,
+        4091
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "- Це тобі… Зі святом",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "94d49449-81a0-4d67-b501-6020d9a893a7",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      4091,
+      4092
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "6d18e971-324d-4bfe-98fa-c292f863bb5b",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "1bc42b97-c64a-498c-adca-b8e4c8e0869d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        4092,
+        4093
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "PERS",
+       "childs": [
+        {
+         "id": "247315e1-17d6-46d9-9fd2-7d1f999cfc54",
+         "type": "word",
+         "value": "Доро",
+         "textRange": [
+          4093,
+          4097
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b43f2ee1-4f11-4bb4-b27d-927fbb7cf2ca",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Доро",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2554fe5c-ed59-46fa-8a12-eddc76d89041",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      4097,
+      4098
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "f2ce1a93-7858-4697-8a65-44fbe7a333db",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      4098,
+      4099
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "- Це тобі… Зі святом, Доро.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "- Це тобі… Зі святом, Доро.",
+ "concept": "SYNTAX"
+}

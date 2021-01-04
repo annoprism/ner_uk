@@ -1,0 +1,953 @@
+{
+ "id": "3f799100-a493-4ef3-b1a0-e8b52a4de231",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "ac8e1e89-fea6-433d-93be-b03625551aa0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "10b3bab5-77c8-4101-bd84-73f289e1751a",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6daceedf-8d8d-4232-9f2c-f4ef732a3cbc",
+       "type": "word",
+       "value": "Персональні",
+       "textRange": [
+        850,
+        861
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "88580d8c-1c4d-45f9-8794-c9ec5792086f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        861,
+        862
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7cfa3c9-656f-4ed3-8404-4dd1109a5ccf",
+       "type": "word",
+       "value": "дані",
+       "textRange": [
+        862,
+        866
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9151751-e25d-4786-8ae3-c6042fc89b62",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        866,
+        867
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a8dd2412-cf29-4d38-b54d-088529bb9ce9",
+       "type": "word",
+       "value": "пацієнтів",
+       "textRange": [
+        867,
+        876
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5f388048-3227-4ee3-aa15-ee99ef0e4688",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        876,
+        877
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b41b184-9490-4ed9-aafb-683401c6f17a",
+       "type": "word",
+       "value": "будуть",
+       "textRange": [
+        877,
+        883
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f7318355-d690-4d1a-bca1-ecdd18207b78",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        883,
+        884
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "958eb6f5-4ef4-4184-80d0-95318dcf6733",
+       "type": "word",
+       "value": "розміщуватися",
+       "textRange": [
+        884,
+        897
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba5a7d0d-d9e7-4cf1-8c72-26e5dc8b1807",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        897,
+        898
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2ff87fda-9870-4e19-9c67-dbed3532fcbc",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        898,
+        900
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "19b4e5bb-d5ba-4a88-8af6-84e63af98a3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        900,
+        901
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a3580533-5291-42df-9ac4-f3debbb161b5",
+       "type": "word",
+       "value": "серверному",
+       "textRange": [
+        901,
+        911
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d7a38bd8-bee0-45c2-bb85-1d9923e74d57",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        911,
+        912
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "96d9cd30-33d6-45ad-9abe-46cae90aaff4",
+       "type": "word",
+       "value": "обладнанні",
+       "textRange": [
+        912,
+        922
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "36e0ad6c-911d-4968-a11e-70f6fa815c96",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        922,
+        923
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "fdcc9587-7fcb-400d-b4b6-528961dbc221",
+         "type": "word",
+         "value": "МОЗ",
+         "textRange": [
+          923,
+          926
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "9b5290e1-d9da-4861-95d1-e636216edee9",
+         "type": "whitespace",
+         "value": " ",
+         "textRange": [
+          926,
+          927
+         ],
+         "concept": "SYNTAX"
+        },
+        {
+         "id": "5e55048a-4000-4ccb-a9b6-f9cf07d245ea",
+         "type": "word",
+         "value": "України",
+         "textRange": [
+          927,
+          934
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "b75cb410-d629-4ff2-87d2-4a441dd26cc3",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": "Персональні дані пацієнтів будуть розміщуватися на серверному обладнанні МОЗ України",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "74eee9eb-bfb5-4556-9bef-dfd47d776616",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      934,
+      935
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "9a35e838-f879-47fe-bb30-66429b2321bf",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6825b6e8-864d-4b63-906b-0108ec8abbfb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        935,
+        936
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ba1a0f1e-2809-4220-956a-df41071edc94",
+       "type": "word",
+       "value": "що",
+       "textRange": [
+        936,
+        938
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "db2c5938-a6c8-47d1-bffc-06f98d919dd6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        938,
+        939
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a2d9a697-f500-4acf-b15b-fdc6d89b0653",
+       "type": "word",
+       "value": "дозволить",
+       "textRange": [
+        939,
+        948
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ae21f019-b2dd-4dab-b314-961132063fd1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        948,
+        949
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9865392a-7297-476a-b9cc-26e9fed7c504",
+       "type": "word",
+       "value": "централізовано",
+       "textRange": [
+        949,
+        963
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a911cd6e-1c23-4e4e-830a-fcc79452e372",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        963,
+        964
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "45a6b41c-1f59-44f0-a779-49ee93971d33",
+       "type": "word",
+       "value": "забезпечувати",
+       "textRange": [
+        964,
+        977
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9e8f6750-3ddf-4d04-8d97-2f212731fb37",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        977,
+        978
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "258e639f-000f-49a3-b4c8-6fd9fea65307",
+       "type": "word",
+       "value": "контроль",
+       "textRange": [
+        978,
+        986
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c2115c85-1f98-4611-a63b-0f4addb3d9b1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        986,
+        987
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c99a277c-afc4-4dbf-bcb3-2100d18b3cf0",
+       "type": "word",
+       "value": "за",
+       "textRange": [
+        987,
+        989
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d664731c-2a2b-41f4-a932-a77a4de705e1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        989,
+        990
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "959628c6-854b-4747-bc73-41c44b11b5ce",
+       "type": "word",
+       "value": "їх",
+       "textRange": [
+        990,
+        992
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "47e09f9c-12ef-406b-bec7-b7c8a81377d6",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        992,
+        993
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "1b9efaff-d6f4-4aae-82c1-c57f037445f4",
+       "type": "word",
+       "value": "збереженням",
+       "textRange": [
+        993,
+        1004
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " що дозволить централізовано забезпечувати контроль за їх збереженням",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "90528860-9083-40f4-b768-c46fef60d520",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1004,
+      1005
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "Персональні дані пацієнтів будуть розміщуватися на серверному обладнанні МОЗ України, що дозволить централізовано забезпечувати контроль за їх збереженням",
+   "concept": "SYNTAX"
+  },
+  {
+   "id": "0da19cbe-bd96-472b-a712-8170fc9a0980",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "33cf6c74-699f-4fa3-97b4-f98abace2225",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "4f92dc4d-54e2-447d-a46a-4241be36a716",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1005,
+        1006
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3b7fa37a-fbc9-4c03-8849-2beb5a1c4b5e",
+       "type": "word",
+       "value": "Таке",
+       "textRange": [
+        1006,
+        1010
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7d9d52eb-ca97-48d5-bb24-eb4f53f34ca0",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1010,
+        1011
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d04f1245-66ef-42e7-95a4-bdb3c7341379",
+       "type": "word",
+       "value": "рішення",
+       "textRange": [
+        1011,
+        1018
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "40dbb367-603e-41ce-90b3-7e361fa15353",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1018,
+        1019
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "82447e51-f2db-471c-b822-1913e8ac679a",
+       "type": "word",
+       "value": "було",
+       "textRange": [
+        1019,
+        1023
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7c5b7a0e-27f6-435d-8bfc-4bcf19a1e7f1",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1023,
+        1024
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c6648636-5278-4c2d-abbf-9d69bd7defa6",
+       "type": "word",
+       "value": "ухвалено",
+       "textRange": [
+        1024,
+        1032
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b9fa5945-45ec-481e-b683-10437f418fbf",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1032,
+        1033
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "50869516-7198-4df1-ba1e-54b327390f59",
+       "type": "word",
+       "value": "на",
+       "textRange": [
+        1033,
+        1035
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "14825b88-8bc0-4994-8938-b97bd5482591",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1035,
+        1036
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "5c100962-7247-418f-80fc-440a7279b4cc",
+       "type": "word",
+       "value": "основі",
+       "textRange": [
+        1036,
+        1042
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "ac611a8b-0e3f-46d8-abdb-5a5bcfd54047",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1042,
+        1043
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a569c0a0-5a99-45ca-b1dd-26505da00bc5",
+       "type": "word",
+       "value": "аналізу",
+       "textRange": [
+        1043,
+        1050
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "58e0714e-db4e-43db-8735-6e52589fe896",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1050,
+        1051
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "94c6f578-efa0-494b-b417-ca7433ff3dee",
+       "type": "word",
+       "value": "роботи",
+       "textRange": [
+        1051,
+        1057
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b896ffc1-1a37-4003-95fe-8a6408850126",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1057,
+        1058
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "ORG",
+       "childs": [
+        {
+         "id": "555b5aac-0fac-484d-8d54-e4511c241b5d",
+         "type": "word",
+         "value": "ЕРП",
+         "textRange": [
+          1058,
+          1061
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "be085f86-b1ce-4e37-a794-b861d851b1d9",
+       "concept": "SEMANTIC"
+      },
+      {
+       "id": "349dda20-eb2a-4178-914e-61a185364aee",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1061,
+        1062
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "6428235a-d754-4986-8754-69fa06773cc3",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1062,
+        1063
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d48e7a04-53be-43c7-b5f1-ed5896d7eca9",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1063,
+        1064
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d35675a0-75c7-41f0-b9b2-00e7ae4c09c7",
+       "type": "word",
+       "value": "тестовому",
+       "textRange": [
+        1064,
+        1073
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e87e86b3-bfef-4225-96d2-b04cf41c80fc",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1073,
+        1074
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3fbf7b4e-169b-4e25-adfa-e38bd62969a8",
+       "type": "word",
+       "value": "режимі",
+       "textRange": [
+        1074,
+        1080
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c9bf8d2a-c196-4d83-8100-67608ea5fb94",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1080,
+        1081
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e7211e18-0593-4e52-a65a-4a9493de58b3",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        1081,
+        1082
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e01161e4-6412-4972-b733-24ad345d7d9b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1082,
+        1083
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3001f605-ca9d-4ab1-bfc2-9b44605c0bbd",
+       "type": "word",
+       "value": "пілотних",
+       "textRange": [
+        1083,
+        1091
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a16e8f6d-56dc-48c0-9723-cb4633185d93",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1091,
+        1092
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "2240fae9-1e24-4ff5-98ed-91853d540b35",
+       "type": "word",
+       "value": "регіонах",
+       "textRange": [
+        1092,
+        1100
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Таке рішення було ухвалено на основі аналізу роботи ЕРП в тестовому режимі в пілотних регіонах",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "eb4603af-f86a-4ec2-98f9-6b82e4088239",
+     "type": "punctuation",
+     "value": ":",
+     "textRange": [
+      1100,
+      1101
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "13b596a6-7445-42bb-b6fa-a7d23fdc5014",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "f6db2db6-c910-491a-869f-df6e6c829209",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1101,
+        1102
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "3900fb83-f7ce-4652-b8d6-f4d1561e7107",
+       "type": "word",
+       "value": "Вінницькій",
+       "textRange": [
+        1102,
+        1112
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Вінницькій",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "de307215-da89-44e3-aea7-d49310a0a1dd",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1112,
+      1113
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "913b8f97-b0f2-4002-9fd9-243898524653",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "244f1449-c4e6-4f79-98e5-b378701af1af",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1113,
+        1114
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "985ba234-fc15-492e-8c7a-9bc8648f79ae",
+       "type": "word",
+       "value": "Дніпропетровській",
+       "textRange": [
+        1114,
+        1131
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " Дніпропетровській",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "ec9950f3-8ad0-48f5-a952-22d7f80e2b86",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      1131,
+      1132
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "42d7eba4-6cf6-40ac-b540-4626b547500f",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "7be11f28-51b9-4193-93cc-6c45f734839b",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1132,
+        1133
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "075ba904-e305-4283-bffc-b8be250618bc",
+       "type": "word",
+       "value": "Донецькій",
+       "textRange": [
+        1133,
+        1142
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b88898e3-f351-4894-9618-635dea3af083",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1142,
+        1143
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "77dda44d-4cfb-475e-ab40-f068812667bc",
+       "type": "word",
+       "value": "областях",
+       "textRange": [
+        1143,
+        1151
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f6ecfb68-3c15-40f3-ae26-c0b82e4f3873",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1151,
+        1152
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "582b92bf-b8fe-4457-9a56-ab6dfd281acc",
+       "type": "word",
+       "value": "та",
+       "textRange": [
+        1152,
+        1154
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "e8c64f02-e593-456a-a9db-59aa34d6703d",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1154,
+        1155
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "824687ae-e866-4bc7-8aa2-abaabbe5c874",
+       "type": "word",
+       "value": "місті",
+       "textRange": [
+        1155,
+        1160
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "f18b7cd4-879a-45ed-b63f-ba9a6ff0db3f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        1160,
+        1161
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "5ea0b1ce-e17d-44f3-9740-fa47b3850ac6",
+         "type": "word",
+         "value": "Києві",
+         "textRange": [
+          1161,
+          1166
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "1daf24a5-5504-49fa-a057-26827a12765c",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " Донецькій областях та місті Києві",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "bca819df-f5c4-42eb-ac30-74165f5edaba",
+     "type": "punctuation",
+     "value": ".",
+     "textRange": [
+      1166,
+      1167
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "69861a2f-b22f-48c9-b251-70aa8e57f12a",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      1167,
+      1168
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": " Таке рішення було ухвалено на основі аналізу роботи ЕРП в тестовому режимі в пілотних регіонах: Вінницькій, Дніпропетровській, Донецькій областях та місті Києві.",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "Персональні дані пацієнтів будуть розміщуватися на серверному обладнанні МОЗ України, що дозволить централізовано забезпечувати контроль за їх збереженням Таке рішення було ухвалено на основі аналізу роботи ЕРП в тестовому режимі в пілотних регіонах: Вінницькій, Дніпропетровській, Донецькій областях та місті Києві.",
+ "concept": "SYNTAX"
+}

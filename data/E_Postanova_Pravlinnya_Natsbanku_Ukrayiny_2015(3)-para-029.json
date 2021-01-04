@@ -1,0 +1,315 @@
+{
+ "id": "7535a714-95dd-431e-bef6-4a50967959f7",
+ "type": "paragraph",
+ "childs": [
+  {
+   "id": "cc225ec7-447a-431a-acc2-77bc75bc0ad0",
+   "type": "sentence",
+   "childs": [
+    {
+     "id": "6a279f0b-047b-458c-ab6e-1f8fab69f541",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "0c4b45c9-a7d2-438f-9e19-c49ebe7a32d6",
+       "type": "word",
+       "value": "перекази",
+       "textRange": [
+        6175,
+        6183
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "9d4267b1-bf29-4653-b401-b53ffd61c0cd",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6183,
+        6184
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "727da1df-8de4-4c38-8be1-5f4f407bf2b6",
+       "type": "word",
+       "value": "коштів",
+       "textRange": [
+        6184,
+        6190
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": "перекази коштів",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "e69c229b-69fa-4414-84a4-8261fd55afc6",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6190,
+      6191
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "b8affc1c-ecd8-4d69-b6a5-9ad55202c121",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6567ea5c-5a60-47f0-b9fc-11a9cd4b3f0f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6191,
+        6192
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "7a3f8ffe-55c9-4c54-b16c-09c6459a854a",
+       "type": "word",
+       "value": "отриманих",
+       "textRange": [
+        6192,
+        6201
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a511c935-5514-445e-81d8-e817516fa093",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6201,
+        6202
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "501c8ea4-41d7-4c9c-858d-7dd960798f4c",
+       "type": "word",
+       "value": "як",
+       "textRange": [
+        6202,
+        6204
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d15d8e62-8adf-45e0-a211-98cc014177fb",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6204,
+        6205
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "d0363e08-3e92-49d7-b58e-c0855d3b1315",
+       "type": "word",
+       "value": "оплата",
+       "textRange": [
+        6205,
+        6211
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "254d21fa-9719-4a42-b7c7-930c89ef2959",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6211,
+        6212
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "bd0ce49f-89f4-47de-8da1-9c679dc5d732",
+       "type": "word",
+       "value": "праці",
+       "textRange": [
+        6212,
+        6217
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "10dfe462-4147-43c8-a15d-ae65c0025b1a",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6217,
+        6218
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "a46d5c6e-b2a9-448d-be6c-19aa0c3f4b8f",
+       "type": "word",
+       "value": "нерезидентами",
+       "textRange": [
+        6218,
+        6231
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97ed7869-c59b-433b-889b-9015f66ffde2",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6231,
+        6232
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "97a1b6f8-d9f1-4cdf-95bb-07d0f7818bed",
+       "type": "word",
+       "value": "в",
+       "textRange": [
+        6232,
+        6233
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "c8187476-1f04-4c5c-bb0f-bb26a5b5d3ac",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6233,
+        6234
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "type": "LOC",
+       "childs": [
+        {
+         "id": "95551f55-1085-4d0d-a830-bd0c9bd945cd",
+         "type": "word",
+         "value": "Україні",
+         "textRange": [
+          6234,
+          6241
+         ],
+         "concept": "SYNTAX"
+        }
+       ],
+       "id": "9badd926-0f78-433f-8628-fa7c4c9ce682",
+       "concept": "SEMANTIC"
+      }
+     ],
+     "value": " отриманих як оплата праці нерезидентами в Україні",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dffcc4dd-4fd4-4701-a6ed-93d91880e50b",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6241,
+      6242
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "a76313a3-d317-4c5b-bd7b-bcf7871fc703",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "6e549063-0102-4def-aa60-3e8f330c5f4c",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6242,
+        6243
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "afcdf3b8-fede-4c20-bd5c-e0c020e765e2",
+       "type": "word",
+       "value": "пенсії",
+       "textRange": [
+        6243,
+        6249
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " пенсії",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "2007f093-9b7a-4155-a133-20496f113747",
+     "type": "punctuation",
+     "value": ",",
+     "textRange": [
+      6249,
+      6250
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "dfbc404c-c2d1-4901-93ad-3a3d58d07c20",
+     "type": "subSentence",
+     "childs": [
+      {
+       "id": "193b2e4d-67b4-40d9-9a1a-17da2d5d960f",
+       "type": "whitespace",
+       "value": " ",
+       "textRange": [
+        6250,
+        6251
+       ],
+       "concept": "SYNTAX"
+      },
+      {
+       "id": "b871a16f-b7b3-4cdb-99ab-87bc0e30f421",
+       "type": "word",
+       "value": "аліменти",
+       "textRange": [
+        6251,
+        6259
+       ],
+       "concept": "SYNTAX"
+      }
+     ],
+     "value": " аліменти",
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "53c41f34-d640-4390-af6e-6d0df318cfdc",
+     "type": "punctuation",
+     "value": ";",
+     "textRange": [
+      6259,
+      6260
+     ],
+     "concept": "SYNTAX"
+    },
+    {
+     "id": "742edfa7-f6f6-46a9-9db7-1af4df91243d",
+     "type": "punctuation",
+     "value": "\n",
+     "textRange": [
+      6260,
+      6261
+     ],
+     "concept": "SYNTAX"
+    }
+   ],
+   "value": "перекази коштів, отриманих як оплата праці нерезидентами в Україні, пенсії, аліменти;",
+   "concept": "SYNTAX"
+  }
+ ],
+ "value": "перекази коштів, отриманих як оплата праці нерезидентами в Україні, пенсії, аліменти;",
+ "concept": "SYNTAX"
+}
